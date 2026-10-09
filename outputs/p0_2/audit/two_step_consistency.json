@@ -1,0 +1,2454 @@
+[
+  {
+    "source": "z137_control_F02_r00",
+    "via": "z138_control_F02_r00",
+    "target": "z139_control_F02_r00",
+    "track": "T0076",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture",
+      "score"
+    ]
+  },
+  {
+    "source": "z137_control_F02_r01",
+    "via": "z138_control_F02_r02",
+    "target": "z139_control_F02_r03",
+    "track": "T0077",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z137_control_F03_r00",
+    "via": "z138_control_F03_r00",
+    "target": "z139_control_F03_r02",
+    "track": "T0079",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z137_control_F05_r01",
+    "via": "z138_control_F05_r02",
+    "target": "z139_control_F05_r02",
+    "track": "T0087",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z137_control_F05_r03",
+    "via": "z138_control_F05_r03",
+    "target": "z139_control_F05_r03",
+    "track": "T0089",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture"
+    ]
+  },
+  {
+    "source": "z137_F01_start_r01",
+    "via": "z138_F01_start_r00",
+    "target": "z139_F01_start_r01",
+    "track": "T0005",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z137_F02_end_r00",
+    "via": "z138_F02_end_r00",
+    "target": "z139_F02_end_r06",
+    "track": "T0011",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z137_F03_start_r00",
+    "via": "z138_F03_start_r00",
+    "target": "z139_F03_start_r00",
+    "track": "T0029",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "competitor_margin"
+    ]
+  },
+  {
+    "source": "z137_F03_end_r04",
+    "via": "z138_F03_end_r03",
+    "target": "z139_F03_end_r01",
+    "track": "T0027",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z137_F04_start_r02",
+    "via": "z138_F04_start_r04",
+    "target": "z139_F04_start_r04",
+    "track": "T0041",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z137_F04_end_r00",
+    "via": "z138_F04_end_r01",
+    "target": "z139_F04_end_r00",
+    "track": "T0034",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z137_F04_end_r01",
+    "via": "z138_F04_end_r00",
+    "target": "z139_F04_end_r01",
+    "track": "T0035",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z137_F05_end_r00",
+    "via": "z138_F05_end_r00",
+    "target": "z139_F05_end_r00",
+    "track": "T0045",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z137_F06_start_r06",
+    "via": "z138_F06_start_r05",
+    "target": "z139_F06_start_r04",
+    "track": "T0065",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z137_F07_end_r00",
+    "via": "z138_F07_end_r00",
+    "target": "z139_F07_end_r00",
+    "track": "T0066",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z137_F07_end_r03",
+    "via": "z138_F07_end_r04",
+    "target": "z139_F07_end_r04",
+    "track": "T0069",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture",
+      "orientation",
+      "score"
+    ]
+  },
+  {
+    "source": "z138_control_F02_r00",
+    "via": "z139_control_F02_r00",
+    "target": "z140_control_F02_r00",
+    "track": "T0076",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z138_control_F02_r02",
+    "via": "z139_control_F02_r03",
+    "target": "z140_control_F02_r04",
+    "track": "T0077",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z138_control_F02_r03",
+    "via": "z139_control_F02_r04",
+    "target": "z140_control_F02_r03",
+    "track": "T0138",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z138_control_F05_r01",
+    "via": "z139_control_F05_r00",
+    "target": "z140_control_F05_r00",
+    "track": "T0143",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z138_F01_start_r01",
+    "via": "z139_F01_start_r00",
+    "target": "z140_F01_start_r03",
+    "track": "T0097",
+    "shortcut_status": "NOT_ENUMERATED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "not_enumerated"
+    ]
+  },
+  {
+    "source": "z138_F01_end_r00",
+    "via": "z139_F01_end_r01",
+    "target": "z140_F01_end_r01",
+    "track": "T0094",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture"
+    ]
+  },
+  {
+    "source": "z138_F02_start_r02",
+    "via": "z139_F02_start_r02",
+    "target": "z140_F02_start_r02",
+    "track": "T0102",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z138_F02_start_r03",
+    "via": "z139_F02_start_r04",
+    "target": "z140_F02_start_r00",
+    "track": "T0103",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture"
+    ]
+  },
+  {
+    "source": "z138_F02_end_r03",
+    "via": "z139_F02_end_r03",
+    "target": "z140_F02_end_r03",
+    "track": "T0099",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture",
+      "score",
+      "competitor_margin"
+    ]
+  },
+  {
+    "source": "z138_F03_start_r00",
+    "via": "z139_F03_start_r00",
+    "target": "z140_F03_start_r01",
+    "track": "T0029",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z138_F03_end_r01",
+    "via": "z139_F03_end_r00",
+    "target": "z140_F03_end_r01",
+    "track": "T0104",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture"
+    ]
+  },
+  {
+    "source": "z138_F03_end_r03",
+    "via": "z139_F03_end_r01",
+    "target": "z140_F03_end_r05",
+    "track": "T0027",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture"
+    ]
+  },
+  {
+    "source": "z138_F03_end_r08",
+    "via": "z139_F03_end_r02",
+    "target": "z140_F03_end_r00",
+    "track": "T0109",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture",
+      "orientation",
+      "score",
+      "competitor_margin"
+    ]
+  },
+  {
+    "source": "z138_F05_end_r00",
+    "via": "z139_F05_end_r00",
+    "target": "z140_F05_end_r00",
+    "track": "T0045",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "orientation"
+    ]
+  },
+  {
+    "source": "z138_F07_start_r01",
+    "via": "z139_F07_start_r01",
+    "target": "z140_F07_start_r00",
+    "track": "T0134",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z138_F07_end_r00",
+    "via": "z139_F07_end_r00",
+    "target": "z140_F07_end_r02",
+    "track": "T0066",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z139_control_F02_r02",
+    "via": "z140_control_F02_r02",
+    "target": "z141_control_F02_r02",
+    "track": "T0191",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z139_control_F02_r03",
+    "via": "z140_control_F02_r04",
+    "target": "z141_control_F02_r01",
+    "track": "T0077",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z139_F01_start_r00",
+    "via": "z140_F01_start_r03",
+    "target": "z141_F01_start_r02",
+    "track": "T0097",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z139_F02_start_r02",
+    "via": "z140_F02_start_r02",
+    "target": "z141_F02_start_r04",
+    "track": "T0102",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z139_F02_end_r00",
+    "via": "z140_F02_end_r00",
+    "target": "z141_F02_end_r02",
+    "track": "T0155",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture"
+    ]
+  },
+  {
+    "source": "z139_F02_end_r01",
+    "via": "z140_F02_end_r01",
+    "target": "z141_F02_end_r00",
+    "track": "T0156",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z139_F02_end_r02",
+    "via": "z140_F02_end_r02",
+    "target": "z141_F02_end_r01",
+    "track": "T0157",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "distance"
+    ]
+  },
+  {
+    "source": "z139_F02_end_r03",
+    "via": "z140_F02_end_r03",
+    "target": "z141_F02_end_r04",
+    "track": "T0099",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture",
+      "orientation",
+      "score"
+    ]
+  },
+  {
+    "source": "z139_F02_end_r05",
+    "via": "z140_F02_end_r04",
+    "target": "z141_F02_end_r05",
+    "track": "T0159",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z139_F03_start_r03",
+    "via": "z140_F03_start_r03",
+    "target": "z141_F03_start_r03",
+    "track": "T0165",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "distance",
+      "texture",
+      "orientation",
+      "score"
+    ]
+  },
+  {
+    "source": "z139_F03_start_r04",
+    "via": "z140_F03_start_r00",
+    "target": "z141_F03_start_r00",
+    "track": "T0166",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture",
+      "overlap",
+      "score"
+    ]
+  },
+  {
+    "source": "z139_F03_start_r05",
+    "via": "z140_F03_start_r04",
+    "target": "z141_F03_start_r04",
+    "track": "T0167",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z139_F03_end_r02",
+    "via": "z140_F03_end_r00",
+    "target": "z141_F03_end_r00",
+    "track": "T0109",
+    "shortcut_status": "NOT_ENUMERATED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "not_enumerated"
+    ]
+  },
+  {
+    "source": "z139_F04_start_r03",
+    "via": "z140_F04_start_r01",
+    "target": "z141_F04_start_r04",
+    "track": "T0172",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture"
+    ]
+  },
+  {
+    "source": "z139_F05_start_r00",
+    "via": "z140_F05_start_r00",
+    "target": "z141_F05_start_r00",
+    "track": "T0176",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "orientation"
+    ]
+  },
+  {
+    "source": "z139_F05_end_r03",
+    "via": "z140_F05_end_r04",
+    "target": "z141_F05_end_r01",
+    "track": "T0175",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z139_F06_start_r01",
+    "via": "z140_F06_start_r07",
+    "target": "z141_F06_start_r02",
+    "track": "T0181",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z139_F06_start_r03",
+    "via": "z140_F06_start_r02",
+    "target": "z141_F06_start_r00",
+    "track": "T0183",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z139_F07_end_r02",
+    "via": "z140_F07_end_r04",
+    "target": "z141_F07_end_r04",
+    "track": "T0185",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "short_common_support",
+      "texture",
+      "overlap",
+      "score"
+    ]
+  },
+  {
+    "source": "z140_control_F02_r04",
+    "via": "z141_control_F02_r01",
+    "target": "z142_control_F02_r02",
+    "track": "T0077",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z140_control_F03_r01",
+    "via": "z141_control_F03_r03",
+    "target": "z142_control_F03_r03",
+    "track": "T0243",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z140_F02_end_r00",
+    "via": "z141_F02_end_r02",
+    "target": "z142_F02_end_r03",
+    "track": "T0155",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z140_F02_end_r01",
+    "via": "z141_F02_end_r00",
+    "target": "z142_F02_end_r00",
+    "track": "T0156",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z140_F02_end_r02",
+    "via": "z141_F02_end_r01",
+    "target": "z142_F02_end_r01",
+    "track": "T0157",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z140_F03_start_r00",
+    "via": "z141_F03_start_r00",
+    "target": "z142_F03_start_r00",
+    "track": "T0166",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z140_F03_start_r03",
+    "via": "z141_F03_start_r03",
+    "target": "z142_F03_start_r02",
+    "track": "T0165",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z140_F03_start_r04",
+    "via": "z141_F03_start_r04",
+    "target": "z142_F03_start_r03",
+    "track": "T0167",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "distance"
+    ]
+  },
+  {
+    "source": "z140_F05_start_r00",
+    "via": "z141_F05_start_r00",
+    "target": "z142_F05_start_r00",
+    "track": "T0176",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z140_F05_start_r02",
+    "via": "z141_F05_start_r01",
+    "target": "z142_F05_start_r01",
+    "track": "T0227",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z140_F05_end_r04",
+    "via": "z141_F05_end_r01",
+    "target": "z142_F05_end_r03",
+    "track": "T0175",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z140_F06_start_r02",
+    "via": "z141_F06_start_r00",
+    "target": "z142_F06_start_r00",
+    "track": "T0183",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z140_F07_end_r01",
+    "via": "z141_F07_end_r01",
+    "target": "z142_F07_end_r00",
+    "track": "T0239",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z141_control_F02_r00",
+    "via": "z142_control_F02_r00",
+    "target": "z143_control_F02_r00",
+    "track": "T0300",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z141_control_F02_r01",
+    "via": "z142_control_F02_r02",
+    "target": "z143_control_F02_r01",
+    "track": "T0077",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z141_control_F03_r01",
+    "via": "z142_control_F03_r00",
+    "target": "z143_control_F03_r01",
+    "track": "T0303",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z141_control_F03_r03",
+    "via": "z142_control_F03_r03",
+    "target": "z143_control_F03_r02",
+    "track": "T0243",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture",
+      "score"
+    ]
+  },
+  {
+    "source": "z141_control_F04_r02",
+    "via": "z142_control_F04_r02",
+    "target": "z143_control_F04_r01",
+    "track": "T0307",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "distance",
+      "score",
+      "layer_order_risk",
+      "not_mutual_best",
+      "competitor_margin"
+    ]
+  },
+  {
+    "source": "z141_control_F04_r03",
+    "via": "z142_control_F04_r00",
+    "target": "z143_control_F04_r02",
+    "track": "T0308",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z141_F02_end_r00",
+    "via": "z142_F02_end_r00",
+    "target": "z143_F02_end_r00",
+    "track": "T0156",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "competitor_margin"
+    ]
+  },
+  {
+    "source": "z141_F02_end_r01",
+    "via": "z142_F02_end_r01",
+    "target": "z143_F02_end_r01",
+    "track": "T0157",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z141_F02_end_r02",
+    "via": "z142_F02_end_r03",
+    "target": "z143_F02_end_r04",
+    "track": "T0155",
+    "shortcut_status": "NOT_ENUMERATED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "not_enumerated"
+    ]
+  },
+  {
+    "source": "z141_F02_end_r03",
+    "via": "z142_F02_end_r02",
+    "target": "z143_F02_end_r02",
+    "track": "T0259",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z141_F02_end_r06",
+    "via": "z142_F02_end_r04",
+    "target": "z143_F02_end_r05",
+    "track": "T0260",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z141_F03_start_r03",
+    "via": "z142_F03_start_r02",
+    "target": "z143_F03_start_r01",
+    "track": "T0165",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z141_F03_start_r04",
+    "via": "z142_F03_start_r03",
+    "target": "z143_F03_start_r02",
+    "track": "T0167",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "orientation"
+    ]
+  },
+  {
+    "source": "z141_F03_end_r04",
+    "via": "z142_F03_end_r05",
+    "target": "z143_F03_end_r06",
+    "track": "T0269",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture",
+      "score"
+    ]
+  },
+  {
+    "source": "z141_F03_end_r05",
+    "via": "z142_F03_end_r06",
+    "target": "z143_F03_end_r07",
+    "track": "T0270",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "distance",
+      "orientation",
+      "score",
+      "not_mutual_best",
+      "competitor_margin"
+    ]
+  },
+  {
+    "source": "z141_F04_end_r00",
+    "via": "z142_F04_end_r00",
+    "target": "z143_F04_end_r06",
+    "track": "T0273",
+    "shortcut_status": "NOT_ENUMERATED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "not_enumerated"
+    ]
+  },
+  {
+    "source": "z141_F05_start_r00",
+    "via": "z142_F05_start_r00",
+    "target": "z143_F05_start_r00",
+    "track": "T0176",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "orientation"
+    ]
+  },
+  {
+    "source": "z141_F05_start_r01",
+    "via": "z142_F05_start_r01",
+    "target": "z143_F05_start_r01",
+    "track": "T0227",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z141_F07_end_r01",
+    "via": "z142_F07_end_r00",
+    "target": "z143_F07_end_r01",
+    "track": "T0239",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "distance",
+      "orientation",
+      "score",
+      "competitor_margin"
+    ]
+  },
+  {
+    "source": "z142_control_F02_r00",
+    "via": "z143_control_F02_r00",
+    "target": "z144_control_F02_r00",
+    "track": "T0300",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z142_control_F02_r01",
+    "via": "z143_control_F02_r02",
+    "target": "z144_control_F02_r01",
+    "track": "T0076",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "orientation",
+      "score"
+    ]
+  },
+  {
+    "source": "z142_control_F02_r02",
+    "via": "z143_control_F02_r01",
+    "target": "z144_control_F02_r02",
+    "track": "T0077",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z142_control_F03_r00",
+    "via": "z143_control_F03_r01",
+    "target": "z144_control_F03_r02",
+    "track": "T0303",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture"
+    ]
+  },
+  {
+    "source": "z142_control_F03_r03",
+    "via": "z143_control_F03_r02",
+    "target": "z144_control_F03_r01",
+    "track": "T0243",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture",
+      "orientation"
+    ]
+  },
+  {
+    "source": "z142_control_F05_r00",
+    "via": "z143_control_F05_r01",
+    "target": "z144_control_F05_r02",
+    "track": "T0364",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "orientation"
+    ]
+  },
+  {
+    "source": "z142_control_F06_r02",
+    "via": "z143_control_F06_r02",
+    "target": "z144_control_F06_r03",
+    "track": "T0369",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "score"
+    ]
+  },
+  {
+    "source": "z142_F01_start_r01",
+    "via": "z143_F01_start_r02",
+    "target": "z144_F01_start_r01",
+    "track": "T0319",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "competitor_margin"
+    ]
+  },
+  {
+    "source": "z142_F01_end_r02",
+    "via": "z143_F01_end_r03",
+    "target": "z144_F01_end_r02",
+    "track": "T0315",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "score",
+      "not_mutual_best",
+      "competitor_margin"
+    ]
+  },
+  {
+    "source": "z142_F02_start_r05",
+    "via": "z143_F02_start_r05",
+    "target": "z144_F02_start_r03",
+    "track": "T0328",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "score"
+    ]
+  },
+  {
+    "source": "z142_F02_end_r00",
+    "via": "z143_F02_end_r00",
+    "target": "z144_F02_end_r00",
+    "track": "T0156",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "orientation"
+    ]
+  },
+  {
+    "source": "z142_F03_start_r02",
+    "via": "z143_F03_start_r01",
+    "target": "z144_F03_start_r02",
+    "track": "T0165",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z142_F03_start_r03",
+    "via": "z143_F03_start_r02",
+    "target": "z144_F03_start_r03",
+    "track": "T0167",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "distance"
+    ]
+  },
+  {
+    "source": "z142_F03_end_r06",
+    "via": "z143_F03_end_r07",
+    "target": "z144_F03_end_r02",
+    "track": "T0270",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "competitor_margin"
+    ]
+  },
+  {
+    "source": "z142_F04_end_r00",
+    "via": "z143_F04_end_r06",
+    "target": "z144_F04_end_r07",
+    "track": "T0273",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z142_F04_end_r02",
+    "via": "z143_F04_end_r01",
+    "target": "z144_F04_end_r04",
+    "track": "T0333",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z142_F04_end_r03",
+    "via": "z143_F04_end_r04",
+    "target": "z144_F04_end_r06",
+    "track": "T0334",
+    "shortcut_status": "NOT_ENUMERATED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "not_enumerated"
+    ]
+  },
+  {
+    "source": "z142_F05_start_r01",
+    "via": "z143_F05_start_r01",
+    "target": "z144_F05_start_r02",
+    "track": "T0227",
+    "shortcut_status": "REJECTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture"
+    ]
+  },
+  {
+    "source": "z142_F06_start_r02",
+    "via": "z143_F06_start_r01",
+    "target": "z144_F06_start_r03",
+    "track": "T0350",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "short_common_support",
+      "texture",
+      "orientation",
+      "overlap",
+      "score",
+      "not_mutual_best",
+      "competitor_margin"
+    ]
+  },
+  {
+    "source": "z142_F07_start_r02",
+    "via": "z143_F07_start_r00",
+    "target": "z144_F07_start_r01",
+    "track": "T0358",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "short_common_support",
+      "overlap"
+    ]
+  },
+  {
+    "source": "z143_control_F02_r00",
+    "via": "z144_control_F02_r00",
+    "target": "z145_control_F02_r00",
+    "track": "T0300",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z143_control_F02_r01",
+    "via": "z144_control_F02_r02",
+    "target": "z145_control_F02_r01",
+    "track": "T0077",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z143_control_F03_r00",
+    "via": "z144_control_F03_r00",
+    "target": "z145_control_F03_r00",
+    "track": "T0422",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture",
+      "orientation",
+      "score"
+    ]
+  },
+  {
+    "source": "z143_control_F03_r02",
+    "via": "z144_control_F03_r01",
+    "target": "z145_control_F03_r01",
+    "track": "T0243",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z143_control_F04_r00",
+    "via": "z144_control_F04_r01",
+    "target": "z145_control_F04_r02",
+    "track": "T0423",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z143_control_F05_r01",
+    "via": "z144_control_F05_r02",
+    "target": "z145_control_F05_r01",
+    "track": "T0364",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "orientation"
+    ]
+  },
+  {
+    "source": "z143_F01_start_r02",
+    "via": "z144_F01_start_r01",
+    "target": "z145_F01_start_r01",
+    "track": "T0319",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z143_F01_end_r03",
+    "via": "z144_F01_end_r02",
+    "target": "z145_F01_end_r04",
+    "track": "T0315",
+    "shortcut_status": "NOT_ENUMERATED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "not_enumerated"
+    ]
+  },
+  {
+    "source": "z143_F02_end_r00",
+    "via": "z144_F02_end_r00",
+    "target": "z145_F02_end_r03",
+    "track": "T0156",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "short_common_support",
+      "overlap"
+    ]
+  },
+  {
+    "source": "z143_F03_start_r00",
+    "via": "z144_F03_start_r01",
+    "target": "z145_F03_start_r00",
+    "track": "T0386",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z143_F03_end_r07",
+    "via": "z144_F03_end_r02",
+    "target": "z145_F03_end_r05",
+    "track": "T0270",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z143_F04_start_r00",
+    "via": "z144_F04_start_r00",
+    "target": "z145_F04_start_r00",
+    "track": "T0392",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture",
+      "score"
+    ]
+  },
+  {
+    "source": "z143_F04_start_r01",
+    "via": "z144_F04_start_r01",
+    "target": "z145_F04_start_r02",
+    "track": "T0393",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture"
+    ]
+  },
+  {
+    "source": "z143_F04_end_r02",
+    "via": "z144_F04_end_r03",
+    "target": "z145_F04_end_r00",
+    "track": "T0389",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "distance",
+      "score"
+    ]
+  },
+  {
+    "source": "z143_F04_end_r04",
+    "via": "z144_F04_end_r06",
+    "target": "z145_F04_end_r01",
+    "track": "T0334",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "distance"
+    ]
+  },
+  {
+    "source": "z143_F05_start_r01",
+    "via": "z144_F05_start_r02",
+    "target": "z145_F05_start_r02",
+    "track": "T0227",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z143_F06_end_r04",
+    "via": "z144_F06_end_r04",
+    "target": "z145_F06_end_r04",
+    "track": "T0409",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z143_F07_start_r01",
+    "via": "z144_F07_start_r00",
+    "target": "z145_F07_start_r01",
+    "track": "T0418",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "short_common_support",
+      "texture",
+      "orientation",
+      "overlap",
+      "score"
+    ]
+  },
+  {
+    "source": "z143_F07_end_r04",
+    "via": "z144_F07_end_r02",
+    "target": "z145_F07_end_r03",
+    "track": "T0417",
+    "shortcut_status": "NOT_ENUMERATED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "not_enumerated"
+    ]
+  },
+  {
+    "source": "z144_control_F02_r02",
+    "via": "z145_control_F02_r01",
+    "target": "z146_control_F02_r01",
+    "track": "T0077",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "distance",
+      "score",
+      "competitor_margin"
+    ]
+  },
+  {
+    "source": "z144_control_F03_r00",
+    "via": "z145_control_F03_r00",
+    "target": "z146_control_F03_r00",
+    "track": "T0422",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z144_F01_start_r01",
+    "via": "z145_F01_start_r01",
+    "target": "z146_F01_start_r00",
+    "track": "T0319",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "orientation"
+    ]
+  },
+  {
+    "source": "z144_F02_end_r02",
+    "via": "z145_F02_end_r04",
+    "target": "z146_F02_end_r04",
+    "track": "T0435",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture"
+    ]
+  },
+  {
+    "source": "z144_F03_start_r01",
+    "via": "z145_F03_start_r00",
+    "target": "z146_F03_start_r00",
+    "track": "T0386",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z144_F03_end_r01",
+    "via": "z145_F03_end_r03",
+    "target": "z146_F03_end_r03",
+    "track": "T0440",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z144_F04_start_r00",
+    "via": "z145_F04_start_r00",
+    "target": "z146_F04_start_r00",
+    "track": "T0392",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture"
+    ]
+  },
+  {
+    "source": "z144_F04_start_r01",
+    "via": "z145_F04_start_r02",
+    "target": "z146_F04_start_r02",
+    "track": "T0393",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z144_F04_start_r03",
+    "via": "z145_F04_start_r01",
+    "target": "z146_F04_start_r01",
+    "track": "T0447",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture"
+    ]
+  },
+  {
+    "source": "z144_F04_end_r03",
+    "via": "z145_F04_end_r00",
+    "target": "z146_F04_end_r03",
+    "track": "T0389",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture",
+      "score"
+    ]
+  },
+  {
+    "source": "z144_F04_end_r06",
+    "via": "z145_F04_end_r01",
+    "target": "z146_F04_end_r06",
+    "track": "T0334",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z144_F06_start_r02",
+    "via": "z145_F06_start_r00",
+    "target": "z146_F06_start_r00",
+    "track": "T0459",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": "z146_F06_start_r04",
+    "shortcut_failures": [
+      "texture",
+      "not_mutual_best",
+      "competitor_margin"
+    ]
+  },
+  {
+    "source": "z144_F06_end_r00",
+    "via": "z145_F06_end_r01",
+    "target": "z146_F06_end_r00",
+    "track": "T0455",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z144_F07_end_r02",
+    "via": "z145_F07_end_r03",
+    "target": "z146_F07_end_r02",
+    "track": "T0417",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z145_control_F02_r01",
+    "via": "z146_control_F02_r01",
+    "target": "z147_control_F02_r00",
+    "track": "T0077",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "distance"
+    ]
+  },
+  {
+    "source": "z145_control_F04_r01",
+    "via": "z146_control_F04_r02",
+    "target": "z147_control_F04_r03",
+    "track": "T0530",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture",
+      "orientation",
+      "competitor_margin"
+    ]
+  },
+  {
+    "source": "z145_control_F05_r02",
+    "via": "z146_control_F05_r00",
+    "target": "z147_control_F05_r01",
+    "track": "T0533",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture"
+    ]
+  },
+  {
+    "source": "z145_F01_end_r03",
+    "via": "z146_F01_end_r04",
+    "target": "z147_F01_end_r03",
+    "track": "T0478",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z145_F02_start_r00",
+    "via": "z146_F02_start_r00",
+    "target": "z147_F02_start_r01",
+    "track": "T0487",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "distance",
+      "texture",
+      "score",
+      "not_mutual_best",
+      "competitor_margin"
+    ]
+  },
+  {
+    "source": "z145_F02_end_r00",
+    "via": "z146_F02_end_r03",
+    "target": "z147_F02_end_r03",
+    "track": "T0484",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "not_mutual_best",
+      "competitor_margin"
+    ]
+  },
+  {
+    "source": "z145_F02_end_r04",
+    "via": "z146_F02_end_r04",
+    "target": "z147_F02_end_r04",
+    "track": "T0435",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z145_F03_start_r00",
+    "via": "z146_F03_start_r00",
+    "target": "z147_F03_start_r00",
+    "track": "T0386",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z145_F03_start_r02",
+    "via": "z146_F03_start_r02",
+    "target": "z147_F03_start_r02",
+    "track": "T0387",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z145_F03_end_r03",
+    "via": "z146_F03_end_r03",
+    "target": "z147_F03_end_r02",
+    "track": "T0440",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "distance",
+      "texture",
+      "score"
+    ]
+  },
+  {
+    "source": "z145_F03_end_r06",
+    "via": "z146_F03_end_r00",
+    "target": "z147_F03_end_r00",
+    "track": "T0495",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z145_F04_start_r01",
+    "via": "z146_F04_start_r01",
+    "target": "z147_F04_start_r00",
+    "track": "T0447",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture"
+    ]
+  },
+  {
+    "source": "z145_F05_start_r04",
+    "via": "z146_F05_start_r02",
+    "target": "z147_F05_start_r02",
+    "track": "T0512",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z145_F05_end_r03",
+    "via": "z146_F05_end_r03",
+    "target": "z147_F05_end_r04",
+    "track": "T0509",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z145_F06_start_r02",
+    "via": "z146_F06_start_r01",
+    "target": "z147_F06_start_r03",
+    "track": "T0517",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "short_common_support",
+      "overlap"
+    ]
+  },
+  {
+    "source": "z145_F06_end_r01",
+    "via": "z146_F06_end_r00",
+    "target": "z147_F06_end_r04",
+    "track": "T0455",
+    "shortcut_status": "NOT_ENUMERATED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "not_enumerated"
+    ]
+  },
+  {
+    "source": "z145_F07_start_r04",
+    "via": "z146_F07_start_r03",
+    "target": "z147_F07_start_r03",
+    "track": "T0525",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z146_control_F02_r01",
+    "via": "z147_control_F02_r00",
+    "target": "z148_control_F02_r00",
+    "track": "T0077",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "distance",
+      "score"
+    ]
+  },
+  {
+    "source": "z146_control_F03_r02",
+    "via": "z147_control_F03_r00",
+    "target": "z148_control_F03_r00",
+    "track": "T0577",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z146_control_F06_r02",
+    "via": "z147_control_F06_r01",
+    "target": "z148_control_F06_r02",
+    "track": "T0584",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z146_control_F06_r03",
+    "via": "z147_control_F06_r00",
+    "target": "z148_control_F06_r00",
+    "track": "T0585",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture",
+      "orientation"
+    ]
+  },
+  {
+    "source": "z146_F01_end_r00",
+    "via": "z147_F01_end_r01",
+    "target": "z148_F01_end_r01",
+    "track": "T0536",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z146_F01_end_r04",
+    "via": "z147_F01_end_r03",
+    "target": "z148_F01_end_r03",
+    "track": "T0478",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture"
+    ]
+  },
+  {
+    "source": "z146_F02_start_r00",
+    "via": "z147_F02_start_r01",
+    "target": "z148_F02_start_r00",
+    "track": "T0487",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "distance"
+    ]
+  },
+  {
+    "source": "z146_F02_end_r02",
+    "via": "z147_F02_end_r00",
+    "target": "z148_F02_end_r02",
+    "track": "T0545",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z146_F03_start_r00",
+    "via": "z147_F03_start_r00",
+    "target": "z148_F03_start_r01",
+    "track": "T0386",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "distance",
+      "score"
+    ]
+  },
+  {
+    "source": "z146_F03_start_r01",
+    "via": "z147_F03_start_r01",
+    "target": "z148_F03_start_r02",
+    "track": "T0551",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z146_F03_start_r03",
+    "via": "z147_F03_start_r03",
+    "target": "z148_F03_start_r04",
+    "track": "T0552",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture",
+      "score"
+    ]
+  },
+  {
+    "source": "z146_F03_end_r00",
+    "via": "z147_F03_end_r00",
+    "target": "z148_F03_end_r04",
+    "track": "T0495",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture",
+      "competitor_margin"
+    ]
+  },
+  {
+    "source": "z146_F04_start_r01",
+    "via": "z147_F04_start_r00",
+    "target": "z148_F04_start_r02",
+    "track": "T0447",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z146_F05_end_r04",
+    "via": "z147_F05_end_r01",
+    "target": "z148_F05_end_r03",
+    "track": "T0562",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z146_F06_start_r04",
+    "via": "z147_F06_start_r02",
+    "target": "z148_F06_start_r00",
+    "track": "T0566",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "orientation",
+      "competitor_margin"
+    ]
+  },
+  {
+    "source": "z146_F06_end_r00",
+    "via": "z147_F06_end_r04",
+    "target": "z148_F06_end_r04",
+    "track": "T0455",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "score",
+      "competitor_margin"
+    ]
+  },
+  {
+    "source": "z146_F07_start_r04",
+    "via": "z147_F07_start_r02",
+    "target": "z148_F07_start_r03",
+    "track": "T0572",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "orientation",
+      "score"
+    ]
+  },
+  {
+    "source": "z146_F07_start_r05",
+    "via": "z147_F07_start_r01",
+    "target": "z148_F07_start_r00",
+    "track": "T0573",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z147_control_F02_r00",
+    "via": "z148_control_F02_r00",
+    "target": "z149_control_F02_r03",
+    "track": "T0077",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z147_control_F06_r00",
+    "via": "z148_control_F06_r00",
+    "target": "z149_control_F06_r01",
+    "track": "T0585",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z147_F01_start_r01",
+    "via": "z148_F01_start_r00",
+    "target": "z149_F01_start_r01",
+    "track": "T0590",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z147_F01_start_r02",
+    "via": "z148_F01_start_r01",
+    "target": "z149_F01_start_r02",
+    "track": "T0591",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "orientation"
+    ]
+  },
+  {
+    "source": "z147_F01_end_r01",
+    "via": "z148_F01_end_r01",
+    "target": "z149_F01_end_r00",
+    "track": "T0536",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z147_F02_end_r00",
+    "via": "z148_F02_end_r02",
+    "target": "z149_F02_end_r01",
+    "track": "T0545",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z147_F02_end_r05",
+    "via": "z148_F02_end_r06",
+    "target": "z149_F02_end_r03",
+    "track": "T0595",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z147_F02_end_r06",
+    "via": "z148_F02_end_r05",
+    "target": "z149_F02_end_r05",
+    "track": "T0596",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z147_F03_start_r00",
+    "via": "z148_F03_start_r01",
+    "target": "z149_F03_start_r01",
+    "track": "T0386",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z147_F03_start_r01",
+    "via": "z148_F03_start_r02",
+    "target": "z149_F03_start_r02",
+    "track": "T0551",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z147_F03_start_r03",
+    "via": "z148_F03_start_r04",
+    "target": "z149_F03_start_r06",
+    "track": "T0552",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture",
+      "score",
+      "competitor_margin"
+    ]
+  },
+  {
+    "source": "z147_F03_end_r03",
+    "via": "z148_F03_end_r05",
+    "target": "z149_F03_end_r02",
+    "track": "T0494",
+    "shortcut_status": "NOT_ENUMERATED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "not_enumerated"
+    ]
+  },
+  {
+    "source": "z147_F04_start_r00",
+    "via": "z148_F04_start_r02",
+    "target": "z149_F04_start_r08",
+    "track": "T0447",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture",
+      "orientation"
+    ]
+  },
+  {
+    "source": "z147_F05_start_r01",
+    "via": "z148_F05_start_r03",
+    "target": "z149_F05_start_r04",
+    "track": "T0617",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z147_F05_end_r00",
+    "via": "z148_F05_end_r00",
+    "target": "z149_F05_end_r01",
+    "track": "T0613",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture",
+      "orientation",
+      "competitor_margin"
+    ]
+  },
+  {
+    "source": "z147_F05_end_r01",
+    "via": "z148_F05_end_r03",
+    "target": "z149_F05_end_r06",
+    "track": "T0562",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "not_mutual_best",
+      "competitor_margin"
+    ]
+  },
+  {
+    "source": "z147_F05_end_r02",
+    "via": "z148_F05_end_r01",
+    "target": "z149_F05_end_r02",
+    "track": "T0614",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z147_F06_start_r02",
+    "via": "z148_F06_start_r00",
+    "target": "z149_F06_start_r00",
+    "track": "T0566",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture",
+      "orientation",
+      "competitor_margin"
+    ]
+  },
+  {
+    "source": "z147_F06_end_r00",
+    "via": "z148_F06_end_r00",
+    "target": "z149_F06_end_r00",
+    "track": "T0618",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "distance",
+      "texture",
+      "score"
+    ]
+  },
+  {
+    "source": "z147_F06_end_r03",
+    "via": "z148_F06_end_r02",
+    "target": "z149_F06_end_r04",
+    "track": "T0621",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z147_F06_end_r04",
+    "via": "z148_F06_end_r04",
+    "target": "z149_F06_end_r03",
+    "track": "T0455",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z147_F07_start_r01",
+    "via": "z148_F07_start_r00",
+    "target": "z149_F07_start_r01",
+    "track": "T0573",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z147_F07_start_r02",
+    "via": "z148_F07_start_r03",
+    "target": "z149_F07_start_r03",
+    "track": "T0572",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z148_control_F02_r00",
+    "via": "z149_control_F02_r03",
+    "target": "z150_control_F02_r03",
+    "track": "T0077",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z148_control_F02_r01",
+    "via": "z149_control_F02_r02",
+    "target": "z150_control_F02_r01",
+    "track": "T0527",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture"
+    ]
+  },
+  {
+    "source": "z148_control_F02_r02",
+    "via": "z149_control_F02_r01",
+    "target": "z150_control_F02_r02",
+    "track": "T0688",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z148_control_F03_r02",
+    "via": "z149_control_F03_r00",
+    "target": "z150_control_F03_r00",
+    "track": "T0690",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z148_control_F04_r01",
+    "via": "z149_control_F04_r02",
+    "target": "z150_control_F04_r00",
+    "track": "T0691",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture",
+      "score"
+    ]
+  },
+  {
+    "source": "z148_control_F06_r00",
+    "via": "z149_control_F06_r01",
+    "target": "z150_control_F06_r03",
+    "track": "T0585",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "orientation"
+    ]
+  },
+  {
+    "source": "z148_control_F06_r01",
+    "via": "z149_control_F06_r02",
+    "target": "z150_control_F06_r00",
+    "track": "T0699",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z148_F01_end_r01",
+    "via": "z149_F01_end_r00",
+    "target": "z150_F01_end_r00",
+    "track": "T0536",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "orientation"
+    ]
+  },
+  {
+    "source": "z148_F02_end_r02",
+    "via": "z149_F02_end_r01",
+    "target": "z150_F02_end_r00",
+    "track": "T0545",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z148_F02_end_r05",
+    "via": "z149_F02_end_r05",
+    "target": "z150_F02_end_r03",
+    "track": "T0596",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z148_F03_start_r02",
+    "via": "z149_F03_start_r02",
+    "target": "z150_F03_start_r00",
+    "track": "T0551",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "score"
+    ]
+  },
+  {
+    "source": "z148_F03_end_r01",
+    "via": "z149_F03_end_r01",
+    "target": "z150_F03_end_r01",
+    "track": "T0651",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z148_F03_end_r03",
+    "via": "z149_F03_end_r00",
+    "target": "z150_F03_end_r00",
+    "track": "T0653",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture",
+      "not_mutual_best",
+      "competitor_margin"
+    ]
+  },
+  {
+    "source": "z148_F04_start_r00",
+    "via": "z149_F04_start_r03",
+    "target": "z150_F04_start_r03",
+    "track": "T0663",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z148_F04_start_r06",
+    "via": "z149_F04_start_r09",
+    "target": "z150_F04_start_r02",
+    "track": "T0668",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "competitor_margin"
+    ]
+  },
+  {
+    "source": "z148_F05_start_r00",
+    "via": "z149_F05_start_r01",
+    "target": "z150_F05_start_r03",
+    "track": "T0671",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z148_F05_start_r03",
+    "via": "z149_F05_start_r04",
+    "target": "z150_F05_start_r04",
+    "track": "T0617",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z148_F05_end_r01",
+    "via": "z149_F05_end_r02",
+    "target": "z150_F05_end_r02",
+    "track": "T0614",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z148_F05_end_r03",
+    "via": "z149_F05_end_r06",
+    "target": "z150_F05_end_r06",
+    "track": "T0562",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z148_F06_start_r00",
+    "via": "z149_F06_start_r00",
+    "target": "z150_F06_start_r00",
+    "track": "T0566",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z148_F06_start_r01",
+    "via": "z149_F06_start_r01",
+    "target": "z150_F06_start_r01",
+    "track": "T0678",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "orientation"
+    ]
+  },
+  {
+    "source": "z148_F06_end_r04",
+    "via": "z149_F06_end_r03",
+    "target": "z150_F06_end_r02",
+    "track": "T0455",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z148_F07_start_r03",
+    "via": "z149_F07_start_r03",
+    "target": "z150_F07_start_r03",
+    "track": "T0572",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z148_F07_end_r01",
+    "via": "z149_F07_end_r00",
+    "target": "z150_F07_end_r02",
+    "track": "T0679",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z149_control_F02_r00",
+    "via": "z150_control_F02_r00",
+    "target": "z151_control_F02_r01",
+    "track": "T0748",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "orientation"
+    ]
+  },
+  {
+    "source": "z149_control_F02_r01",
+    "via": "z150_control_F02_r02",
+    "target": "z151_control_F02_r02",
+    "track": "T0688",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z149_control_F02_r02",
+    "via": "z150_control_F02_r01",
+    "target": "z151_control_F02_r03",
+    "track": "T0527",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z149_control_F06_r01",
+    "via": "z150_control_F06_r03",
+    "target": "z151_control_F06_r00",
+    "track": "T0585",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z149_F01_end_r01",
+    "via": "z150_F01_end_r02",
+    "target": "z151_F01_end_r00",
+    "track": "T0701",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z149_F02_start_r00",
+    "via": "z150_F02_start_r00",
+    "target": "z151_F02_start_r00",
+    "track": "T0710",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "distance"
+    ]
+  },
+  {
+    "source": "z149_F02_end_r01",
+    "via": "z150_F02_end_r00",
+    "target": "z151_F02_end_r01",
+    "track": "T0545",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z149_F02_end_r05",
+    "via": "z150_F02_end_r03",
+    "target": "z151_F02_end_r02",
+    "track": "T0596",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z149_F03_end_r00",
+    "via": "z150_F03_end_r00",
+    "target": "z151_F03_end_r01",
+    "track": "T0653",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "texture"
+    ]
+  },
+  {
+    "source": "z149_F04_start_r06",
+    "via": "z150_F04_start_r01",
+    "target": "z151_F04_start_r01",
+    "track": "T0724",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "distance",
+      "texture",
+      "score",
+      "not_mutual_best",
+      "competitor_margin"
+    ]
+  },
+  {
+    "source": "z149_F04_start_r09",
+    "via": "z150_F04_start_r02",
+    "target": "z151_F04_start_r03",
+    "track": "T0668",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "short_common_support",
+      "texture",
+      "overlap",
+      "score",
+      "not_mutual_best",
+      "competitor_margin"
+    ]
+  },
+  {
+    "source": "z149_F04_end_r01",
+    "via": "z150_F04_end_r01",
+    "target": "z151_F04_end_r01",
+    "track": "T0716",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z149_F05_start_r04",
+    "via": "z150_F05_start_r04",
+    "target": "z151_F05_start_r00",
+    "track": "T0617",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z149_F05_end_r02",
+    "via": "z150_F05_end_r02",
+    "target": "z151_F05_end_r02",
+    "track": "T0614",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z149_F06_start_r04",
+    "via": "z150_F06_start_r03",
+    "target": "z151_F06_start_r01",
+    "track": "T0738",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z149_F06_end_r02",
+    "via": "z150_F06_end_r03",
+    "target": "z151_F06_end_r03",
+    "track": "T0735",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "orientation"
+    ]
+  },
+  {
+    "source": "z149_F07_start_r00",
+    "via": "z150_F07_start_r00",
+    "target": "z151_F07_start_r02",
+    "track": "T0746",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  },
+  {
+    "source": "z149_F07_end_r00",
+    "via": "z150_F07_end_r02",
+    "target": "z151_F07_end_r00",
+    "track": "T0679",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "orientation"
+    ]
+  },
+  {
+    "source": "z149_F07_end_r02",
+    "via": "z150_F07_end_r00",
+    "target": "z151_F07_end_r02",
+    "track": "T0741",
+    "shortcut_status": "UNKNOWN",
+    "shortcut_competing_target": null,
+    "shortcut_failures": [
+      "orientation"
+    ]
+  },
+  {
+    "source": "z149_F07_end_r03",
+    "via": "z150_F07_end_r03",
+    "target": "z151_F07_end_r04",
+    "track": "T0742",
+    "shortcut_status": "ACCEPTED",
+    "shortcut_competing_target": null,
+    "shortcut_failures": []
+  }
+]

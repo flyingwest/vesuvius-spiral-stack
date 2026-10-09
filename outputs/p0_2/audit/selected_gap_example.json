@@ -1,0 +1,24 @@
+{
+  "source": "z140_F01_start_r02",
+  "target": "z142_F01_start_r02",
+  "track": "T0206",
+  "window": "F01_start",
+  "z_missing": 141,
+  "score": 0.8197028895615064,
+  "NCC": 0.7264850786939686,
+  "normal_error_px": 0.20392637697507088,
+  "classification": "RETAINED_DETECTION_BUT_ASSOCIATION_GAP",
+  "middle_candidates": [
+    {
+      "node": "z141_F01_start_r01",
+      "median_expected_offset_error_px": 0.32852473436007834,
+      "common_stations": 7
+    },
+    {
+      "node": "z141_F01_start_r00",
+      "median_expected_offset_error_px": 3.41768429212209,
+      "common_stations": 7
+    }
+  ],
+  "physical_disappearance": "UNKNOWN; loss of detector/association evidence is not a proven tear"
+}

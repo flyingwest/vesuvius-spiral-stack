@@ -1,0 +1,43 @@
+{
+  "hypothesis": "Geometrically anchored physical arc-length rows have coherent neighboring-Z CT structure.",
+  "source": "outputs/orientation/ct_level4_zyx.npy",
+  "source_z_offset": 128,
+  "tracks": {
+    "F02": "T0077",
+    "F03": "T0243"
+  },
+  "support": "Intersection of validated control u stations across all observations; no variable tails.",
+  "core_u_px": {
+    "F02": [
+      1.0,
+      3.5
+    ],
+    "F03": [
+      1.0,
+      1.5
+    ]
+  },
+  "voxel_spacing_um_zyx": [
+    126.56,
+    126.56,
+    126.56
+  ],
+  "ds_px": 0.25,
+  "ds_um": 31.64,
+  "anchor": "s=0 at midpoint of common u interval on every observed polyline; geometry-only translation.",
+  "sampling": "Piecewise-linear XY at physical arc length; float64 bilinear original uint8 CT; no CT smoothing.",
+  "missing": "Inclusive track Z span; absent observations and outside-core samples NaN, mask false. Never interpolate Z.",
+  "coherence_diagnostic": {
+    "minimum_common_arc_span_px": 2.0,
+    "minimum_samples": 9,
+    "minimum_row_std_CT": 1.0,
+    "minimum_eligible_adjacent_fraction": 0.75,
+    "minimum_mean_NCC": 0.5,
+    "minimum_positive_fraction": 0.75
+  },
+  "null": "2000 fixed-seed permutations of row order; descriptive, not independent samples or a success gate.",
+  "misregistration_probe": "Diagnostic only: shifts -0.5..0.5 px step0.25, same support at all shifts, never applied.",
+  "misregistration_flag": "Eligible zero/shift correlations, nonzero optimum, NCC gain>=0.2 and optimum NCC>=0.5.",
+  "no_tuning": "Exploratory gates fixed before P0.3 output; no retries to improve coherence.",
+  "limits": "Small already-selected coarse CT cores; no new ridge detection, oracle, OCR, ink, mesh or language priors."
+}

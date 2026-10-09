@@ -1,0 +1,37 @@
+{
+  "selected_z_reviewed": [
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150
+  ],
+  "prior_full_CT_review": "outputs/p0_2/validation/F02_overlays.png and F02_raw.png, unchanged input track",
+  "new_CT_review": [
+    135,
+    136,
+    137,
+    139,
+    140,
+    146,
+    147,
+    148,
+    150,
+    151,
+    152
+  ],
+  "new_accepted_seed_links": 0,
+  "suspected_switches_in_accepted_seed_track": 0,
+  "true_switch_count": null,
+  "unresolved_new_boundary_directions": 2,
+  "interpretation": "No extrapolation of physical identity to disconnected tracklets."
+}

@@ -1,0 +1,9 @@
+{
+  "global_contrast_percentiles": [
+    1,
+    99
+  ],
+  "low": 49.96173966396096,
+  "high": 141.13257486883427,
+  "raw_mapping": "uint8 rint clipped0..255; NaN\u21920"
+}

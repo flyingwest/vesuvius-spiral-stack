@@ -1,0 +1,516 @@
+{
+  "score": 537.9891600936168,
+  "path": [
+    1490,
+    1770,
+    1892,
+    2082,
+    2120,
+    2198,
+    2332,
+    2420,
+    2472,
+    2972,
+    2990,
+    3020,
+    3022,
+    3688,
+    3748,
+    4008,
+    4054,
+    4327,
+    4325,
+    4504,
+    4608,
+    4696,
+    4776,
+    4747,
+    4673,
+    4674,
+    4731,
+    4651,
+    3931,
+    3693,
+    3690,
+    3451,
+    3333,
+    3025,
+    2301,
+    2151,
+    1953,
+    1818,
+    1938,
+    2018,
+    2154,
+    2202,
+    2130,
+    2268,
+    2510,
+    2706,
+    2822,
+    3026,
+    3316,
+    3452,
+    3602,
+    4206,
+    4478,
+    4653,
+    4585,
+    4582,
+    4557,
+    4399
+  ],
+  "edge_ids": [
+    37408,
+    44493,
+    47923,
+    53174,
+    54157,
+    56356,
+    60012,
+    62571,
+    64014,
+    78254,
+    78781,
+    79648,
+    79712,
+    98433,
+    100060,
+    107378,
+    108554,
+    115438,
+    115396,
+    120131,
+    122724,
+    125071,
+    127315,
+    126471,
+    124460,
+    124488,
+    126023,
+    123873,
+    105362,
+    98586,
+    98475,
+    91671,
+    88302,
+    79776,
+    59101,
+    55060,
+    49573,
+    45883,
+    49166,
+    51505,
+    55144,
+    56475,
+    54513,
+    58243,
+    65068,
+    70765,
+    73960,
+    79815,
+    87813,
+    91709,
+    96127,
+    112364,
+    119423,
+    123939,
+    122206,
+    122121,
+    121505
+  ],
+  "archive_rank": 16788,
+  "seed_piece": [
+    [
+      253.0,
+      89.0
+    ],
+    [
+      254.0,
+      88.0
+    ],
+    [
+      255.0,
+      88.0
+    ],
+    [
+      256.0,
+      88.0
+    ],
+    [
+      257.0,
+      89.0
+    ],
+    [
+      258.0,
+      89.0
+    ],
+    [
+      259.0,
+      90.0
+    ],
+    [
+      260.0,
+      91.0
+    ],
+    [
+      261.0,
+      92.0
+    ],
+    [
+      262.0,
+      93.0
+    ],
+    [
+      263.0,
+      93.0
+    ],
+    [
+      264.0,
+      94.0
+    ],
+    [
+      265.0,
+      94.0
+    ],
+    [
+      266.0,
+      95.0
+    ],
+    [
+      267.0,
+      95.0
+    ],
+    [
+      268.0,
+      96.0
+    ],
+    [
+      269.0,
+      96.0
+    ],
+    [
+      270.0,
+      96.0
+    ],
+    [
+      271.0,
+      96.0
+    ],
+    [
+      272.0,
+      97.0
+    ],
+    [
+      273.0,
+      97.0
+    ],
+    [
+      274.0,
+      97.0
+    ],
+    [
+      275.0,
+      97.0
+    ],
+    [
+      276.0,
+      98.0
+    ],
+    [
+      277.0,
+      98.0
+    ],
+    [
+      278.0,
+      98.0
+    ]
+  ],
+  "transitions": [
+    {
+      "edge_id": 37408,
+      "low_confidence": false,
+      "local_margin": 13.421331977148686
+    },
+    {
+      "edge_id": 44493,
+      "low_confidence": false,
+      "local_margin": 15.407831632433798
+    },
+    {
+      "edge_id": 47923,
+      "low_confidence": true,
+      "local_margin": 6.283774918070093
+    },
+    {
+      "edge_id": 53174,
+      "low_confidence": true,
+      "local_margin": 10.380154354354472
+    },
+    {
+      "edge_id": 54157,
+      "low_confidence": true,
+      "local_margin": 14.640924842577494
+    },
+    {
+      "edge_id": 56356,
+      "low_confidence": true,
+      "local_margin": 18.433974586266196
+    },
+    {
+      "edge_id": 60012,
+      "low_confidence": true,
+      "local_margin": 6.835527032586946
+    },
+    {
+      "edge_id": 62571,
+      "low_confidence": false,
+      "local_margin": 2.3561944901923404
+    },
+    {
+      "edge_id": 64014,
+      "low_confidence": false,
+      "local_margin": 2.4293507177105047
+    },
+    {
+      "edge_id": 78254,
+      "low_confidence": false,
+      "local_margin": 7.5252399825696585
+    },
+    {
+      "edge_id": 78781,
+      "low_confidence": false,
+      "local_margin": 16.938096664811944
+    },
+    {
+      "edge_id": 79648,
+      "low_confidence": true,
+      "local_margin": 2.594446653423227
+    },
+    {
+      "edge_id": 79712,
+      "low_confidence": false,
+      "local_margin": 7.373704711117762
+    },
+    {
+      "edge_id": 98433,
+      "low_confidence": false,
+      "local_margin": 17.366111198303017
+    },
+    {
+      "edge_id": 100060,
+      "low_confidence": false,
+      "local_margin": 15.039046200014198
+    },
+    {
+      "edge_id": 107378,
+      "low_confidence": false,
+      "local_margin": 17.972942593721342
+    },
+    {
+      "edge_id": 108554,
+      "low_confidence": true,
+      "local_margin": 2.8752249422238316
+    },
+    {
+      "edge_id": 115438,
+      "low_confidence": false,
+      "local_margin": 5.45851894766526
+    },
+    {
+      "edge_id": 115396,
+      "low_confidence": true,
+      "local_margin": 3.3214461533822712
+    },
+    {
+      "edge_id": 120131,
+      "low_confidence": true,
+      "local_margin": 0.8513823276249841
+    },
+    {
+      "edge_id": 122724,
+      "low_confidence": true,
+      "local_margin": 3.0003465865236123
+    },
+    {
+      "edge_id": 125071,
+      "low_confidence": false,
+      "local_margin": 4.71238898038469
+    },
+    {
+      "edge_id": 127315,
+      "low_confidence": false,
+      "local_margin": 5.261721432172143
+    },
+    {
+      "edge_id": 126471,
+      "low_confidence": true,
+      "local_margin": 0.5921866795496431
+    },
+    {
+      "edge_id": 124460,
+      "low_confidence": true,
+      "local_margin": 1.350868874836436
+    },
+    {
+      "edge_id": 124488,
+      "low_confidence": false,
+      "local_margin": 8.034186104409772
+    },
+    {
+      "edge_id": 126023,
+      "low_confidence": false,
+      "local_margin": 3.1700596313317035
+    },
+    {
+      "edge_id": 123873,
+      "low_confidence": true,
+      "local_margin": 3.480747778645039
+    },
+    {
+      "edge_id": 105362,
+      "low_confidence": true,
+      "local_margin": 0.7366249316961273
+    },
+    {
+      "edge_id": 98586,
+      "low_confidence": false,
+      "local_margin": 1.919309348479877
+    },
+    {
+      "edge_id": 98475,
+      "low_confidence": true,
+      "local_margin": 9.51635358646944
+    },
+    {
+      "edge_id": 91671,
+      "low_confidence": true,
+      "local_margin": 8.620055110659182
+    },
+    {
+      "edge_id": 88302,
+      "low_confidence": false,
+      "local_margin": 12.104875972039558
+    },
+    {
+      "edge_id": 79776,
+      "low_confidence": false,
+      "local_margin": 10.94394307979309
+    },
+    {
+      "edge_id": 59101,
+      "low_confidence": false,
+      "local_margin": 17.70737302205021
+    },
+    {
+      "edge_id": 55060,
+      "low_confidence": true,
+      "local_margin": 9.909169732961399
+    },
+    {
+      "edge_id": 49573,
+      "low_confidence": true,
+      "local_margin": 0.15545555473226358
+    },
+    {
+      "edge_id": 45883,
+      "low_confidence": false,
+      "local_margin": 11.667095780850463
+    },
+    {
+      "edge_id": 49166,
+      "low_confidence": true,
+      "local_margin": 0.25919564807535
+    },
+    {
+      "edge_id": 51505,
+      "low_confidence": false,
+      "local_margin": 8.519981407608803
+    },
+    {
+      "edge_id": 55144,
+      "low_confidence": false,
+      "local_margin": 19.30077159018485
+    },
+    {
+      "edge_id": 56475,
+      "low_confidence": true,
+      "local_margin": 3.2649993664774133
+    },
+    {
+      "edge_id": 54513,
+      "low_confidence": false,
+      "local_margin": 4.828835318629078
+    },
+    {
+      "edge_id": 58243,
+      "low_confidence": false,
+      "local_margin": 15.480570620710932
+    },
+    {
+      "edge_id": 65068,
+      "low_confidence": false,
+      "local_margin": 3.396883851885274
+    },
+    {
+      "edge_id": 70765,
+      "low_confidence": false,
+      "local_margin": 2.8957549895697783
+    },
+    {
+      "edge_id": 73960,
+      "low_confidence": true,
+      "local_margin": 6.897918245609002
+    },
+    {
+      "edge_id": 79815,
+      "low_confidence": false,
+      "local_margin": 17.25404153496219
+    },
+    {
+      "edge_id": 87813,
+      "low_confidence": true,
+      "local_margin": 2.5156336048539085
+    },
+    {
+      "edge_id": 91709,
+      "low_confidence": false,
+      "local_margin": 2.688166153714032
+    },
+    {
+      "edge_id": 96127,
+      "low_confidence": false,
+      "local_margin": 22.368949448946903
+    },
+    {
+      "edge_id": 112364,
+      "low_confidence": false,
+      "local_margin": 3.0465083281710967
+    },
+    {
+      "edge_id": 119423,
+      "low_confidence": true,
+      "local_margin": 3.091130479572938
+    },
+    {
+      "edge_id": 123939,
+      "low_confidence": false,
+      "local_margin": 11.407316703022184
+    },
+    {
+      "edge_id": 122206,
+      "low_confidence": false,
+      "local_margin": 11.908586867983242
+    },
+    {
+      "edge_id": 122121,
+      "low_confidence": false,
+      "local_margin": 3.1549506376451206
+    },
+    {
+      "edge_id": 121505,
+      "low_confidence": false,
+      "local_margin": 16.754451436822492
+    }
+  ]
+}

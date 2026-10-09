@@ -1,0 +1,106 @@
+{
+  "slice_local_z": 16,
+  "slice_global_level4_z": 144,
+  "native_nominal_z": 2304,
+  "guide_xy": [
+    [
+      246.0,
+      111.0
+    ],
+    [
+      258.0,
+      120.0
+    ],
+    [
+      271.0,
+      131.0
+    ],
+    [
+      281.0,
+      141.0
+    ],
+    [
+      281.0,
+      147.0
+    ],
+    [
+      270.0,
+      155.0
+    ],
+    [
+      245.0,
+      159.0
+    ],
+    [
+      210.0,
+      158.0
+    ],
+    [
+      183.0,
+      154.0
+    ],
+    [
+      175.0,
+      150.0
+    ],
+    [
+      187.0,
+      141.0
+    ],
+    [
+      211.0,
+      132.0
+    ],
+    [
+      229.0,
+      122.0
+    ],
+    [
+      241.0,
+      114.0
+    ]
+  ],
+  "guide_step_max_px": 0.5,
+  "offsets_px": [
+    -3.0,
+    -2.75,
+    -2.5,
+    -2.25,
+    -2.0,
+    -1.75,
+    -1.5,
+    -1.25,
+    -1.0,
+    -0.75,
+    -0.5,
+    -0.25,
+    0.0,
+    0.25,
+    0.5,
+    0.75,
+    1.0,
+    1.25,
+    1.5,
+    1.75,
+    2.0,
+    2.25,
+    2.5,
+    2.75,
+    3.0
+  ],
+  "sigma_px": 0.6,
+  "background_sigma_px": 2.0,
+  "guide_offset_penalty": 0.001,
+  "transition_penalty": 0.01,
+  "max_offset_change_px": 0.5,
+  "max_step_px": 1.25,
+  "row_step_max_px": 0.5,
+  "scope": "Exploratory, open near-turn candidate; no forced closure or gap repair.",
+  "variants": [
+    "sigma_0.4",
+    "sigma_0.8",
+    "guide_shift_-0.5",
+    "guide_shift_+0.5"
+  ],
+  "interpretation": "Manual guide and mathematical continuity do not establish one physical sheet."
+}

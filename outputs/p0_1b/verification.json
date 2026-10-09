@@ -1,0 +1,8 @@
+{
+  "deterministic_replay": "exact",
+  "prior_files_preserved": 64,
+  "fragment_partition": "nonoverlapping exact subsets of original CSV",
+  "oracle_truth_claims": "none",
+  "single_input_plane_only": true,
+  "script_sha256": "b88973c4f1cbf6befd8818356fc0b6ff7b838ce5eb74ec7eccbf4d9ff26d306c"
+}

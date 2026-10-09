@@ -1,0 +1,19 @@
+{
+  "READY_FOR_P0_3": "YES",
+  "scope": "bounded F02/F03 locally supported tracks with missing-data masks; not whole winding or full P0 PASS",
+  "physical_consistency": "moderate CT-supported local identity, no registered oracle",
+  "suspected_cross_z_layer_switches_F02_F03": 0,
+  "true_layer_switch_count": null,
+  "accepted_links_reviewed": 20,
+  "gap_identity_recoveries": 1,
+  "recovered_missing_paths": 0,
+  "unresolved_short_control_cases": 2,
+  "unaccepted_outer_boundary_cases": 3,
+  "unchanged_P0_1b_unknown_endpoints": 14,
+  "original_P0_2_gate_met": false,
+  "original_control_pass_count": 2,
+  "original_control_required": 3,
+  "stacking_performed": false,
+  "F03_gap_cause": "independent detector normal-step splitting then minimum component length filter",
+  "observations": "same local ridge before/after gap plausible; no missing geometry constructed"
+}

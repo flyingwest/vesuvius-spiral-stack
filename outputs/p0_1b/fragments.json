@@ -1,0 +1,149 @@
+[
+  {
+    "id": "F01",
+    "start_index": 13,
+    "end_index": 43,
+    "start_xy": [
+      248.74299801790917,
+      116.34474781274376
+    ],
+    "end_xy": [
+      260.584544226037,
+      123.13006236965299
+    ],
+    "points": 31,
+    "arc_length_px": 14.612509661945431,
+    "arc_length_mm": 1.8493592228158138,
+    "confidence": "PROVISIONAL_VISUAL_PLAUSIBILITY; not calibrated or oracle-certified",
+    "termination_reasons": {
+      "start": "UNTRACEABLE: Open apex: merged ridges / insufficient unique continuation",
+      "end": "LIKELY_SWITCH: Abrupt cross-band movement on upper-right diagonal"
+    }
+  },
+  {
+    "id": "F02",
+    "start_index": 64,
+    "end_index": 88,
+    "start_xy": [
+      266.39367741520357,
+      129.31922592324383
+    ],
+    "end_xy": [
+      275.0871822923389,
+      136.26015716100287
+    ],
+    "points": 25,
+    "arc_length_px": 11.781709491618633,
+    "arc_length_mm": 1.4910931532592542,
+    "confidence": "PROVISIONAL_VISUAL_PLAUSIBILITY; not calibrated or oracle-certified",
+    "termination_reasons": {
+      "start": "LIKELY_SWITCH: Abrupt cross-band movement on upper-right diagonal",
+      "end": "AMBIGUOUS: Right shoulder bend has competing ridge continuations"
+    }
+  },
+  {
+    "id": "F03",
+    "start_index": 105,
+    "end_index": 208,
+    "start_xy": [
+      281.4890887994949,
+      139.90804841626885
+    ],
+    "end_xy": [
+      245.93592466804338,
+      157.96967605213564
+    ],
+    "points": 104,
+    "arc_length_px": 50.85194327456263,
+    "arc_length_mm": 6.435821940828647,
+    "confidence": "PROVISIONAL_VISUAL_PLAUSIBILITY; not calibrated or oracle-certified",
+    "termination_reasons": {
+      "start": "AMBIGUOUS: Right shoulder bend has competing ridge continuations",
+      "end": "LIKELY_SWITCH: Lower arc moves between near-parallel bands"
+    }
+  },
+  {
+    "id": "F04",
+    "start_index": 263,
+    "end_index": 303,
+    "start_xy": [
+      221.80337375074936,
+      157.31415604186364
+    ],
+    "end_xy": [
+      202.47722892784583,
+      158.03323956656573
+    ],
+    "points": 41,
+    "arc_length_px": 19.85855777125607,
+    "arc_length_mm": 2.5132990715301684,
+    "confidence": "PROVISIONAL_VISUAL_PLAUSIBILITY; not calibrated or oracle-certified",
+    "termination_reasons": {
+      "start": "LIKELY_SWITCH: Lower arc moves between near-parallel bands",
+      "end": "LIKELY_SWITCH: Lower-left diagonal crosses dark trough / competing bands"
+    }
+  },
+  {
+    "id": "F05",
+    "start_index": 358,
+    "end_index": 407,
+    "start_xy": [
+      180.5506830251404,
+      150.9843766136495
+    ],
+    "end_xy": [
+      184.3397447089354,
+      140.81648374230446
+    ],
+    "points": 50,
+    "arc_length_px": 24.287274542546818,
+    "arc_length_mm": 3.0737974661047254,
+    "confidence": "PROVISIONAL_VISUAL_PLAUSIBILITY; not calibrated or oracle-certified",
+    "termination_reasons": {
+      "start": "LIKELY_SWITCH: Lower-left diagonal crosses dark trough / competing bands",
+      "end": "UNTRACEABLE: Left-upper contact: ridge identity not resolved"
+    }
+  },
+  {
+    "id": "F06",
+    "start_index": 427,
+    "end_index": 455,
+    "start_xy": [
+      193.12152292482497,
+      139.0484894530786
+    ],
+    "end_xy": [
+      203.5259027573418,
+      132.01512305934864
+    ],
+    "points": 29,
+    "arc_length_px": 13.620120836848264,
+    "arc_length_mm": 1.7237624931115163,
+    "confidence": "PROVISIONAL_VISUAL_PLAUSIBILITY; not calibrated or oracle-certified",
+    "termination_reasons": {
+      "start": "UNTRACEABLE: Left-upper contact: ridge identity not resolved",
+      "end": "AMBIGUOUS: Upper-left zigzag: multiple ridge continuations"
+    }
+  },
+  {
+    "id": "F07",
+    "start_index": 480,
+    "end_index": 508,
+    "start_xy": [
+      212.77397364296976,
+      129.3046389181641
+    ],
+    "end_xy": [
+      224.05832582031871,
+      123.90281999803021
+    ],
+    "points": 29,
+    "arc_length_px": 13.734333765401447,
+    "arc_length_mm": 1.7382172813492072,
+    "confidence": "PROVISIONAL_VISUAL_PLAUSIBILITY; not calibrated or oracle-certified",
+    "termination_reasons": {
+      "start": "AMBIGUOUS: Upper-left zigzag: multiple ridge continuations",
+      "end": "UNTRACEABLE: Upper apex merges and strong guide-shift sensitivity"
+    }
+  }
+]

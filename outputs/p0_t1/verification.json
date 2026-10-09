@@ -1,0 +1,25 @@
+{
+  "checks": [
+    {
+      "z": 170,
+      "replay_and_bilinear": "PASS"
+    },
+    {
+      "z": 160,
+      "replay_and_bilinear": "PASS"
+    },
+    {
+      "z": 146,
+      "replay_and_bilinear": "PASS"
+    },
+    {
+      "z": 144,
+      "replay_and_bilinear": "PASS"
+    },
+    {
+      "z": 128,
+      "replay_and_bilinear": "PASS"
+    }
+  ],
+  "prior_artifact_preservation": "PASS"
+}

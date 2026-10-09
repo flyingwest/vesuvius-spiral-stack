@@ -1,0 +1,9 @@
+{
+  "scope": "Same five independent XY slices; select highest T2-score complete path without proper crossing or repeated nonadjacent vertex",
+  "objective": "unchanged T2 maximum-recovery score; hard topology feasibility filter, no percentage gate",
+  "sampling_px": 0.5,
+  "spacing_um": 126.56,
+  "preserve": "T2 original runs and report; all rejected candidate evaluations",
+  "search": "evaluate existing score-sorted T2 complete archive, stop at first topology-feasible path; if none, disclose and expand search separately",
+  "sampling": "CT only for provenance1/3 and response>3; bridge geometry retained, CT NaN; no downstream masking"
+}

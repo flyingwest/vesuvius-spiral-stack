@@ -1,0 +1,65 @@
+{
+  "shape": [
+    128,
+    493,
+    506
+  ],
+  "dtype": "uint8",
+  "decoded_bytes": 31930624,
+  "nonzero_fraction": 0.9285501279273465,
+  "intensity_quantiles": {
+    "0": 0.0,
+    "1": 0.0,
+    "50": 62.0,
+    "99": 142.0,
+    "100": 248.0
+  },
+  "continuity_roi_global_zyx": [
+    [
+      128,
+      256
+    ],
+    [
+      80,
+      420
+    ],
+    [
+      80,
+      420
+    ]
+  ],
+  "adjacent_voxel_statistics": {
+    "z": {
+      "mean_absolute_difference": 16.730863571166992,
+      "pearson_correlation": 0.8314238834321276,
+      "pairs": 14681200
+    },
+    "y": {
+      "mean_absolute_difference": 20.693668365478516,
+      "pearson_correlation": 0.7461778598607167,
+      "pairs": 14753280
+    },
+    "x": {
+      "mean_absolute_difference": 17.02001190185547,
+      "pearson_correlation": 0.8241931218397844,
+      "pairs": 14753280
+    }
+  },
+  "images": [
+    "XY_z0144.png",
+    "XY_z0144_raw.png",
+    "XY_z0192.png",
+    "XY_z0192_raw.png",
+    "XY_z0240.png",
+    "XY_z0240_raw.png",
+    "XZ_y0246.png",
+    "XZ_y0246_raw.png",
+    "YZ_x0253.png",
+    "YZ_x0253_raw.png"
+  ],
+  "physical_fov_mm_zyx": [
+    16.19968,
+    62.39408,
+    64.03936
+  ]
+}

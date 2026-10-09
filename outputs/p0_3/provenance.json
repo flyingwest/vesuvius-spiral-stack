@@ -1,0 +1,24 @@
+{
+  "source_volume": {
+    "path": "outputs/orientation/ct_level4_zyx.npy",
+    "sha256": "da3a232b146e2fb6e9048ec118de63752f679c7487c86f497b367fb4b4bee3a4"
+  },
+  "source_track_files": {
+    "outputs/p0_2/run_02/fragments.json": "3ee0a3aaece085fcbb4797a2359799fb1219fe47b1b5eb5401009cb3a3850a16",
+    "outputs/p0_2/run_02/tracks.json": "dd9ff21d5de5f3d3d1ff5ad7ce04838d7eecc151b4164e0dad7282fe9c2c0e8b",
+    "outputs/p0_2/validation/F02_measurements.json": "6f4c1e292ed049df0bbf734921295cb017a5aedabfa78da37f3079aef0d8f9f5",
+    "outputs/p0_2/validation/F03_measurements.json": "a0ed086700fac205679c5805f6d31f3647e924256aa70dffef45274a002535cb",
+    "docs/p0_2_validation.md": "336441368ddd96397e68c92e1a9c995d68b5a6ddce1b0f31218e5b8c197c8e1d"
+  },
+  "spacing_um": {
+    "s": 31.64,
+    "z": 126.56
+  },
+  "numeric_dtype": "float64 CT and XY; bool valid mask; integer Z",
+  "mask_convention": "True / PNG255 = valid; False / PNG0 = missing",
+  "PNG_CT_encoding": "uint8, nearest integer via np.rint, clipped [0,255], invalid pixels zero; use accompanying mask",
+  "scripts": {
+    "scripts/p0_3_report.py": "487bfb2803fef66b17725293c1ff76130db46b65b32e9c3c06c4ae8cfaef7686",
+    "scripts/p0_3_first_stack.py": "3e4dd1bb34100e27c0c7d63565ebcf559d434758f9ee0af29422968a809ac51f"
+  }
+}

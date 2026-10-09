@@ -1,0 +1,19 @@
+{
+  "prior_source_files_hash_preserved": 124,
+  "both_runs_exact_replay": "PASS (see run verification.json)",
+  "node_partition_one_to_one_and_forward_z": "PASS",
+  "accepted_links": 551,
+  "F02_F03_links_reviewed": 20,
+  "validation_pngs_readable": 13,
+  "all_prior_run_preservation_inventories": "PASS",
+  "README_AGENTS": "unchanged",
+  "report_sha256": "336441368ddd96397e68c92e1a9c995d68b5a6ddce1b0f31218e5b8c197c8e1d",
+  "scripts": {
+    "scripts/p0_2_finalize.py": "90f387853d334fceea7aba827f0c83c3f8318bdf121244863a520eea649a0073",
+    "scripts/p0_2_local_ridges.py": "59cc0f06622af91b5d04fa29017e62f61cf5ef714e015e9c8a8aab25428f9702",
+    "scripts/p0_2_gap_diagnosis.py": "37ce80af69925ea0204d55180c905c832078cf0c8a45f755ecb479fddf0f5c99",
+    "scripts/p0_2_validate.py": "942c2e0800596bf7932980e95ba7dce44191ef85a7af3548ee56b593d6973534",
+    "scripts/p0_2_audit.py": "aa717e9e8069608e312382094ab069453bcfc5d4219ad78bed513ec862d94b44",
+    "scripts/p0_2_cross_z.py": "748577d5cdec69f51db94b5d7fc96fd82fabd59b20a062a8c3edbd0c01a83e7a"
+  }
+}

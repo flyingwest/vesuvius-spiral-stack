@@ -1,0 +1,21 @@
+{
+  "plausible_fragments_provisional": 7,
+  "oracle_verified_fragments": null,
+  "retained_points": 309,
+  "source_points": 556,
+  "retained_arc_length_px": 148.7464493441793,
+  "excluded_review_intervals": 8,
+  "suspected_switch_regions": 3,
+  "true_layer_jump_count": null,
+  "false_continuation_count": null,
+  "false_layer_switch_rate": null,
+  "correctly_detected_physical_interruptions": null,
+  "missed_continuations": null,
+  "oracle_resolved_endpoints": 0,
+  "ambiguous_identity_endpoints": 14,
+  "multiple_geometric_candidate_endpoints": 14,
+  "CONTINUE_decisions": 0,
+  "STOP_decisions": 14,
+  "candidate_count": 48,
+  "note": "Null denotes not measurable without independent registered layer identity; STOP correctness is not inferred from score."
+}

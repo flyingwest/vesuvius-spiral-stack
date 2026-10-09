@@ -1,0 +1,961 @@
+[
+  {
+    "endpoint": "F01_start",
+    "attachment": "z144_F01_start_r00",
+    "distance_px": 0.040350330129520696,
+    "track": "T0432",
+    "candidates": [
+      {
+        "candidate": "F01_start_C01",
+        "xy": [
+          241.80649011199196,
+          114.55869578830124
+        ],
+        "observed_z": [
+          144
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F01_start_C02",
+        "xy": [
+          245.679964055779,
+          111.01487022730039
+        ],
+        "observed_z": [
+          144
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F01_start_C03",
+        "xy": [
+          250.10679142010702,
+          106.96478387187085
+        ],
+        "observed_z": [
+          144
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      }
+    ],
+    "winner": null,
+    "decision": "UNKNOWN",
+    "physical_oracle_correct": null
+  },
+  {
+    "endpoint": "F01_end",
+    "attachment": "z144_F01_end_r01",
+    "distance_px": 0.03239726476241823,
+    "track": "T0429",
+    "candidates": [
+      {
+        "candidate": "F01_end_C01",
+        "xy": [
+          267.7101117798722,
+          121.85717068706562
+        ],
+        "observed_z": [
+          144
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F01_end_C02",
+        "xy": [
+          266.2930036360701,
+          125.05745262914037
+        ],
+        "observed_z": [
+          144
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F01_end_C03",
+        "xy": [
+          264.9771175025396,
+          128.02914300392408
+        ],
+        "observed_z": [
+          144
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F01_end_C04",
+        "xy": [
+          263.25634332792276,
+          131.915199647872
+        ],
+        "observed_z": [
+          144
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      }
+    ],
+    "winner": null,
+    "decision": "UNKNOWN",
+    "physical_oracle_correct": null
+  },
+  {
+    "endpoint": "F02_start",
+    "attachment": "z144_F02_start_r00",
+    "distance_px": 0.008460615181067346,
+    "track": "T0380",
+    "candidates": [
+      {
+        "candidate": "F02_start_C03",
+        "xy": [
+          261.9942499473032,
+          124.82175602331874
+        ],
+        "observed_z": [
+          143,
+          144
+        ],
+        "z_support": [
+          143,
+          144
+        ],
+        "neighbor_support": 1,
+        "longest_consecutive_neighbors": 1,
+        "support_fraction": 1.0,
+        "single_slice_supported": true
+      },
+      {
+        "candidate": "F02_start_C01",
+        "xy": [
+          257.28047488993184,
+          133.64107145641802
+        ],
+        "observed_z": [
+          143,
+          144
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F02_start_C02",
+        "xy": [
+          259.0481405364461,
+          130.33382816900578
+        ],
+        "observed_z": [
+          143,
+          144
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F02_start_C04",
+        "xy": [
+          263.1726937116461,
+          122.61692716504393
+        ],
+        "observed_z": [
+          143,
+          144
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      }
+    ],
+    "winner": null,
+    "decision": "UNKNOWN",
+    "physical_oracle_correct": null
+  },
+  {
+    "endpoint": "F02_end",
+    "attachment": "z144_F02_end_r00",
+    "distance_px": 0.06784146444193566,
+    "track": "T0156",
+    "candidates": [
+      {
+        "candidate": "F02_end_C02",
+        "xy": [
+          276.99640403051654,
+          142.43391316891447
+        ],
+        "observed_z": [
+          139,
+          140,
+          141,
+          142,
+          143,
+          144
+        ],
+        "z_support": [
+          143,
+          144
+        ],
+        "neighbor_support": 1,
+        "longest_consecutive_neighbors": 1,
+        "support_fraction": 0.3333333333333333,
+        "single_slice_supported": true
+      },
+      {
+        "candidate": "F02_end_C01",
+        "xy": [
+          281.07721602639447,
+          139.1309639633864
+        ],
+        "observed_z": [
+          139,
+          140,
+          141,
+          142,
+          143,
+          144
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F02_end_C03",
+        "xy": [
+          272.5269432731264,
+          146.05142896544524
+        ],
+        "observed_z": [
+          139,
+          140,
+          141,
+          142,
+          143,
+          144
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      }
+    ],
+    "winner": null,
+    "decision": "UNKNOWN",
+    "physical_oracle_correct": null
+  },
+  {
+    "endpoint": "F03_start",
+    "attachment": "z144_F03_start_r01",
+    "distance_px": 0.11330078570249492,
+    "track": "T0386",
+    "candidates": [
+      {
+        "candidate": "F03_start_C01",
+        "xy": [
+          272.0108490333543,
+          146.0407062355018
+        ],
+        "observed_z": [
+          143,
+          144,
+          145,
+          146,
+          147,
+          148,
+          149,
+          151
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F03_start_C02",
+        "xy": [
+          273.3838745934009,
+          143.0949803807321
+        ],
+        "observed_z": [
+          143,
+          144,
+          145,
+          146,
+          147,
+          148,
+          149,
+          151
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F03_start_C03",
+        "xy": [
+          276.0243083627213,
+          137.43012296771343
+        ],
+        "observed_z": [
+          143,
+          144,
+          145,
+          146,
+          147,
+          148,
+          149,
+          151
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F03_start_C04",
+        "xy": [
+          277.2917165719951,
+          134.71099140946447
+        ],
+        "observed_z": [
+          143,
+          144,
+          145,
+          146,
+          147,
+          148,
+          149,
+          151
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      }
+    ],
+    "winner": null,
+    "decision": "UNKNOWN",
+    "physical_oracle_correct": null
+  },
+  {
+    "endpoint": "F03_end",
+    "attachment": null,
+    "distance_px": 2.8367384304241554,
+    "track": null,
+    "candidates": [
+      {
+        "candidate": "F03_end_C01",
+        "xy": [
+          239.61424880048617,
+          163.0258445049905
+        ],
+        "observed_z": [],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F03_end_C02",
+        "xy": [
+          239.99719484508665,
+          156.78758735038994
+        ],
+        "observed_z": [],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F03_end_C03",
+        "xy": [
+          240.28823383898302,
+          152.04651191289355
+        ],
+        "observed_z": [],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0,
+        "single_slice_supported": false
+      }
+    ],
+    "winner": null,
+    "decision": "UNKNOWN",
+    "physical_oracle_correct": null
+  },
+  {
+    "endpoint": "F04_start",
+    "attachment": "z144_F04_start_r01",
+    "distance_px": 0.17377019445456643,
+    "track": "T0393",
+    "candidates": [
+      {
+        "candidate": "F04_start_C01",
+        "xy": [
+          228.35773454850357,
+          154.05253141913363
+        ],
+        "observed_z": [
+          143,
+          144,
+          145,
+          146
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F04_start_C02",
+        "xy": [
+          227.4704989775875,
+          159.98656992943174
+        ],
+        "observed_z": [
+          143,
+          144,
+          145,
+          146
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F04_start_C03",
+        "xy": [
+          226.84204044818864,
+          164.18984720755958
+        ],
+        "observed_z": [
+          143,
+          144,
+          145,
+          146
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      }
+    ],
+    "winner": null,
+    "decision": "UNKNOWN",
+    "physical_oracle_correct": null
+  },
+  {
+    "endpoint": "F04_end",
+    "attachment": "z144_F04_end_r01",
+    "distance_px": 0.02538160164808899,
+    "track": "T0390",
+    "candidates": [
+      {
+        "candidate": "F04_end_C01",
+        "xy": [
+          198.0237216016315,
+          165.13976674499162
+        ],
+        "observed_z": [
+          143,
+          144
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F04_end_C02",
+        "xy": [
+          196.78894620456433,
+          160.03703907062004
+        ],
+        "observed_z": [
+          143,
+          144
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F04_end_C03",
+        "xy": [
+          195.55417080749712,
+          154.93431139624846
+        ],
+        "observed_z": [
+          143,
+          144
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      }
+    ],
+    "winner": null,
+    "decision": "UNKNOWN",
+    "physical_oracle_correct": null
+  },
+  {
+    "endpoint": "F05_start",
+    "attachment": "z144_F05_start_r00",
+    "distance_px": 0.026636195370711786,
+    "track": "T0451",
+    "candidates": [
+      {
+        "candidate": "F05_start_C01",
+        "xy": [
+          182.96822987688654,
+          158.06659882922202
+        ],
+        "observed_z": [
+          144,
+          145
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F05_start_C02",
+        "xy": [
+          180.2811103347294,
+          161.98347112304998
+        ],
+        "observed_z": [
+          144,
+          145
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      }
+    ],
+    "winner": null,
+    "decision": "UNKNOWN",
+    "physical_oracle_correct": null
+  },
+  {
+    "endpoint": "F05_end",
+    "attachment": "z144_F05_end_r00",
+    "distance_px": 0.1048876828994832,
+    "track": "T0450",
+    "candidates": [
+      {
+        "candidate": "F05_end_C02",
+        "xy": [
+          189.08373832449948,
+          136.98629515229257
+        ],
+        "observed_z": [
+          144,
+          146
+        ],
+        "z_support": [
+          146
+        ],
+        "neighbor_support": 1,
+        "longest_consecutive_neighbors": 1,
+        "support_fraction": 0.5,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F05_end_C01",
+        "xy": [
+          188.00418757635916,
+          135.01219531130437
+        ],
+        "observed_z": [
+          144,
+          146
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F05_end_C03",
+        "xy": [
+          190.7630394882733,
+          140.05711712716314
+        ],
+        "observed_z": [
+          144,
+          146
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F05_end_C04",
+        "xy": [
+          192.32239056892044,
+          142.9085946752572
+        ],
+        "observed_z": [
+          144,
+          146
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      }
+    ],
+    "winner": null,
+    "decision": "UNKNOWN",
+    "physical_oracle_correct": null
+  },
+  {
+    "endpoint": "F06_start",
+    "attachment": "z144_F06_start_r00",
+    "distance_px": 0.027241931717875305,
+    "track": "T0411",
+    "candidates": [
+      {
+        "candidate": "F06_start_C01",
+        "xy": [
+          191.3795021618503,
+          147.77894531849876
+        ],
+        "observed_z": [
+          143,
+          144
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F06_start_C02",
+        "xy": [
+          189.701279405779,
+          144.9957693662808
+        ],
+        "observed_z": [
+          143,
+          144
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F06_start_C03",
+        "xy": [
+          186.603022009955,
+          139.85759837757072
+        ],
+        "observed_z": [
+          143,
+          144
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F06_start_C04",
+        "xy": [
+          184.79570519572434,
+          136.86033196748983
+        ],
+        "observed_z": [
+          143,
+          144
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      }
+    ],
+    "winner": null,
+    "decision": "UNKNOWN",
+    "physical_oracle_correct": null
+  },
+  {
+    "endpoint": "F06_end",
+    "attachment": "z144_F06_end_r00",
+    "distance_px": 0.10985751389264846,
+    "track": "T0455",
+    "candidates": [
+      {
+        "candidate": "F06_end_C03",
+        "xy": [
+          207.97141793552404,
+          127.78104762301649
+        ],
+        "observed_z": [
+          144,
+          145,
+          146
+        ],
+        "z_support": [
+          146
+        ],
+        "neighbor_support": 1,
+        "longest_consecutive_neighbors": 1,
+        "support_fraction": 0.3333333333333333,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F06_end_C01",
+        "xy": [
+          202.3866620092836,
+          123.9898734982469
+        ],
+        "observed_z": [
+          144,
+          145,
+          146
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F06_end_C02",
+        "xy": [
+          204.86877575427937,
+          125.67483977592227
+        ],
+        "observed_z": [
+          144,
+          145,
+          146
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      }
+    ],
+    "winner": null,
+    "decision": "UNKNOWN",
+    "physical_oracle_correct": null
+  },
+  {
+    "endpoint": "F07_start",
+    "attachment": "z144_F07_start_r01",
+    "distance_px": 0.11578437087107314,
+    "track": "T0358",
+    "candidates": [
+      {
+        "candidate": "F07_start_C01",
+        "xy": [
+          208.17466772528306,
+          134.41709496491688
+        ],
+        "observed_z": [
+          142,
+          143,
+          144
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F07_start_C02",
+        "xy": [
+          206.002225722515,
+          128.0262424596083
+        ],
+        "observed_z": [
+          142,
+          143,
+          144
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F07_start_C03",
+        "xy": [
+          204.23208779433358,
+          122.81888115898649
+        ],
+        "observed_z": [
+          142,
+          143,
+          144
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      }
+    ],
+    "winner": null,
+    "decision": "UNKNOWN",
+    "physical_oracle_correct": null
+  },
+  {
+    "endpoint": "F07_end",
+    "attachment": "z144_F07_end_r00",
+    "distance_px": 0.0028986465706910425,
+    "track": "T0462",
+    "candidates": [
+      {
+        "candidate": "F07_end_C01",
+        "xy": [
+          227.03707091306413,
+          115.26594399682236
+        ],
+        "observed_z": [
+          144
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F07_end_C02",
+        "xy": [
+          228.16199054128387,
+          118.04705094011777
+        ],
+        "observed_z": [
+          144
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F07_end_C03",
+        "xy": [
+          230.13059989066838,
+          122.91398809088476
+        ],
+        "observed_z": [
+          144
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F07_end_C04",
+        "xy": [
+          230.7868030071299,
+          124.53630047447376
+        ],
+        "observed_z": [
+          144
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F07_end_C05",
+        "xy": [
+          232.19295254240453,
+          128.01268415359303
+        ],
+        "observed_z": [
+          144
+        ],
+        "z_support": [],
+        "neighbor_support": 0,
+        "longest_consecutive_neighbors": 0,
+        "support_fraction": 0.0,
+        "single_slice_supported": false
+      }
+    ],
+    "winner": null,
+    "decision": "UNKNOWN",
+    "physical_oracle_correct": null
+  }
+]

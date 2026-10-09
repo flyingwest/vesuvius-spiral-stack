@@ -1,0 +1,12 @@
+{
+  "type": "retrospective validation, no parameter tuning or new accepted tracks",
+  "radial_center_proxy_xy": [
+    240,
+    140
+  ],
+  "spacing_um": 126.56,
+  "radial_method": "median radius on stations common to EVERY observation; never fragment centroid",
+  "competitor_method": "other retained fragments, >=3 common stations; median absolute normal separation",
+  "gap_probe": "interpolate endpoint geometry for diagnostic only; enumerate same detector peaks at each station",
+  "physical_truth": "visual CT consistency only; no registered layer oracle"
+}

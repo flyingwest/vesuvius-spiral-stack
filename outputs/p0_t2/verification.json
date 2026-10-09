@@ -1,0 +1,221 @@
+{
+  "slices": [
+    {
+      "z": 170,
+      "candidate_checks": [
+        {
+          "rank": 1,
+          "continuous": true,
+          "proper_self_crossings": 0,
+          "crossing_xy": [],
+          "score_recomputed": 568.9043612372443
+        },
+        {
+          "rank": 2,
+          "continuous": true,
+          "proper_self_crossings": 0,
+          "crossing_xy": [],
+          "score_recomputed": 562.7030547855402
+        },
+        {
+          "rank": 3,
+          "continuous": true,
+          "proper_self_crossings": 0,
+          "crossing_xy": [],
+          "score_recomputed": 548.5798235313914
+        }
+      ],
+      "T1_raw_valid_samples": 43,
+      "T2_valid_samples": 2587,
+      "sample_utilization_gain_vs_T1": 60.16279069767442
+    },
+    {
+      "z": 160,
+      "candidate_checks": [
+        {
+          "rank": 1,
+          "continuous": true,
+          "proper_self_crossings": 1,
+          "crossing_xy": [
+            [
+              363.53846153846155,
+              176.46153846153845
+            ]
+          ],
+          "score_recomputed": 708.9699003831747
+        },
+        {
+          "rank": 2,
+          "continuous": true,
+          "proper_self_crossings": 2,
+          "crossing_xy": [
+            [
+              363.53846153846155,
+              176.46153846153845
+            ],
+            [
+              372.5,
+              198.0
+            ]
+          ],
+          "score_recomputed": 702.2672113530018
+        },
+        {
+          "rank": 3,
+          "continuous": true,
+          "proper_self_crossings": 1,
+          "crossing_xy": [
+            [
+              363.53846153846155,
+              176.46153846153845
+            ]
+          ],
+          "score_recomputed": 699.80082622328
+        }
+      ],
+      "T1_raw_valid_samples": 216,
+      "T2_valid_samples": 2267,
+      "sample_utilization_gain_vs_T1": 10.49537037037037
+    },
+    {
+      "z": 146,
+      "candidate_checks": [
+        {
+          "rank": 1,
+          "continuous": true,
+          "proper_self_crossings": 2,
+          "crossing_xy": [
+            [
+              291.0,
+              184.25
+            ],
+            [
+              383.3333333333333,
+              151.33333333333334
+            ]
+          ],
+          "score_recomputed": 762.4402529083336
+        },
+        {
+          "rank": 2,
+          "continuous": true,
+          "proper_self_crossings": 2,
+          "crossing_xy": [
+            [
+              291.0,
+              184.25
+            ],
+            [
+              383.3333333333333,
+              151.33333333333334
+            ]
+          ],
+          "score_recomputed": 740.9436924575919
+        },
+        {
+          "rank": 3,
+          "continuous": true,
+          "proper_self_crossings": 2,
+          "crossing_xy": [
+            [
+              291.0,
+              184.25
+            ],
+            [
+              383.3333333333333,
+              151.33333333333334
+            ]
+          ],
+          "score_recomputed": 731.5745685877121
+        }
+      ],
+      "T1_raw_valid_samples": 62,
+      "T2_valid_samples": 2965,
+      "sample_utilization_gain_vs_T1": 47.82258064516129
+    },
+    {
+      "z": 144,
+      "candidate_checks": [
+        {
+          "rank": 1,
+          "continuous": true,
+          "proper_self_crossings": 0,
+          "crossing_xy": [],
+          "score_recomputed": 672.8654909796137
+        },
+        {
+          "rank": 2,
+          "continuous": true,
+          "proper_self_crossings": 0,
+          "crossing_xy": [],
+          "score_recomputed": 662.5808440555679
+        },
+        {
+          "rank": 3,
+          "continuous": true,
+          "proper_self_crossings": 0,
+          "crossing_xy": [],
+          "score_recomputed": 633.3207494721796
+        }
+      ],
+      "T1_raw_valid_samples": 47,
+      "T2_valid_samples": 3124,
+      "sample_utilization_gain_vs_T1": 66.46808510638297
+    },
+    {
+      "z": 128,
+      "candidate_checks": [
+        {
+          "rank": 1,
+          "continuous": true,
+          "proper_self_crossings": 1,
+          "crossing_xy": [
+            [
+              361.6,
+              111.6
+            ]
+          ],
+          "score_recomputed": 695.7297830791783
+        },
+        {
+          "rank": 2,
+          "continuous": true,
+          "proper_self_crossings": 2,
+          "crossing_xy": [
+            [
+              279.1111111111111,
+              42.111111111111114
+            ],
+            [
+              361.6,
+              111.6
+            ]
+          ],
+          "score_recomputed": 690.0404751102456
+        },
+        {
+          "rank": 3,
+          "continuous": true,
+          "proper_self_crossings": 2,
+          "crossing_xy": [
+            [
+              279.1111111111111,
+              42.111111111111114
+            ],
+            [
+              361.6,
+              111.6
+            ]
+          ],
+          "score_recomputed": 684.8389401610712
+        }
+      ],
+      "T1_raw_valid_samples": 85,
+      "T2_valid_samples": 2129,
+      "sample_utilization_gain_vs_T1": 25.04705882352941
+    }
+  ],
+  "search_replay_Z128": "exact paths/scores/complete count PASS",
+  "prior_artifacts": "all preserved hashes PASS",
+  "note": "proper crossings exclude endpoint touches and collinear overlap; no oracle-based identity check"
+}

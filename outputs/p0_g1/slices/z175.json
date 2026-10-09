@@ -1,0 +1,17 @@
+{
+  "points": [],
+  "decisions": [],
+  "gaps": [],
+  "summary": {
+    "recovered_arc_px": 0.0,
+    "gap_placeholder_arc_px": 0.0,
+    "angular_coverage_deg": 0.0,
+    "continuation_decisions": 0,
+    "accepted_gap_continuations": 0,
+    "interruptions": 1,
+    "accepted_local_steps": 0,
+    "stop_reason": "NO_ELIGIBLE_START_RIDGE",
+    "candidate_count": 15941,
+    "seed_radius_px": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "method": "two-edge uncrossing: replace crossing A->B,C->D by A->C,B->D; reverse intervening edges; preserve their provenance",
+  "selection": "at each step choose strict decrease in proper crossing count, then minimum lost observed length, then minimum new bridge length; max20 corrections",
+  "scope": "only four original T2 crossings; no detection, ideal spiral, new CT, Z tracking or downstream masking",
+  "gap": "both replacement edges labeled2 and unsampled even if they touch bright CT",
+  "uncertainty": "observed edges within5px along path on either side of each new bridge relabeled3 locally",
+  "arc_sampling_px": 0.5,
+  "spacing_um": 126.56,
+  "amendment": "Existing-archive alternatives lose31-48% observed length on three slices; loop diagnosis shows96-682px intervening arc; preserve both findings, apply local two-edge exchange instead of loop deletion",
+  "contact_amendment": "run03 exhaustive check found two incident segment pairs at one Z146 point contact; admit inclusive vertex-on-edge intersections to the same two-edge correction; exact collinear audit remains separate"
+}

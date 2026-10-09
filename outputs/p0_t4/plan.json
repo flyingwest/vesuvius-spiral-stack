@@ -1,0 +1,21 @@
+{
+  "slices": [
+    128,
+    144,
+    146,
+    160,
+    170
+  ],
+  "source": "outputs/p0_t3/run_04",
+  "coordinate": "s=0 at each unchanged T3 seed; shared distance grid, not registered material coordinate",
+  "ds_um": 63.28,
+  "dz_um": 126.56,
+  "registration": "none; offsets0; no stretch/resizing/reversal",
+  "z": "five observed rows in increasing Z, nonuniform spacing preserved in coordinate array; no missing Z interpolation",
+  "mask": "retain source masks and labels; pad missing row tails with NaN, maskTrue, provenance0 and coverageFalse",
+  "raw_display": "round/clip original CT to uint8 0..255; missing black",
+  "contrast_display": "one pooled valid-data 1st/99th percentile window; visualization only",
+  "diagnostics": "Pearson raw and contiguous first differences; 256-sample windows stride128 minimum64 jointly valid; diagnostic lag \u00b164 minimum128 pairs; never apply shifts",
+  "null": "199 deterministic circular shifts of second row within shared native prefix, shifts>=128 and <=N-128; roll mask with data; descriptive autocorrelation-preserving comparison, not independent replicates",
+  "scope": "representation and coherence assessment only, no changes to T3 paths; no OCR/ink/mesh/learned correction"
+}

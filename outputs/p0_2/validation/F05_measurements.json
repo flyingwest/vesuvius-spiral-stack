@@ -1,0 +1,76 @@
+{
+  "track": "T0470",
+  "observed_z": [
+    144
+  ],
+  "missing_z": [],
+  "observations": 1,
+  "span_slices": 1,
+  "common_u_px": [
+    -4.0,
+    -3.5,
+    -3.0,
+    -2.5,
+    -2.0,
+    -1.5,
+    -1.0,
+    -0.5,
+    0.0,
+    0.5,
+    1.0,
+    1.5,
+    2.0,
+    2.5,
+    3.0,
+    3.5,
+    4.0
+  ],
+  "common_station_count": 17,
+  "radial_range_px": 0.0,
+  "radial_net_px": 0.0,
+  "normal_range_px": 0.0,
+  "normal_net_px": 0.0,
+  "nearest_retained_competitor_min_px": 3.3193390202406032,
+  "nearest_retained_competitor_median_px": 3.3193390202406032,
+  "max_accepted_normal_residual_px": null,
+  "accepted_gap_links": 0,
+  "touching_candidate_statuses": {
+    "UNKNOWN": 5,
+    "REJECTED": 1
+  },
+  "two_step_shortcut_statuses": {},
+  "conflicting_accepted_shortcuts": [],
+  "order_checks": 0,
+  "order_reversals": 0,
+  "observations_detail": [
+    {
+      "z": 144,
+      "node": "z144_control_F05_r01",
+      "radius_px": 66.38319894307566,
+      "normal_px": -0.08795749699878881,
+      "arc_length_px": 9.628383379352886,
+      "incoming_score": null,
+      "incoming_NCC": null,
+      "competitors": [
+        {
+          "id": "z144_control_F05_r03",
+          "separation_px": 3.3193390202406032,
+          "signed_separation_px": 3.3193390202406032,
+          "common_stations": 7
+        },
+        {
+          "id": "z144_control_F05_r00",
+          "separation_px": 3.53316103699794,
+          "signed_separation_px": -3.53316103699794,
+          "common_stations": 9
+        },
+        {
+          "id": "z144_control_F05_r02",
+          "separation_px": 6.439767339714342,
+          "signed_separation_px": 6.439767339714342,
+          "common_stations": 14
+        }
+      ]
+    }
+  ]
+}

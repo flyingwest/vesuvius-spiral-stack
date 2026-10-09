@@ -1,0 +1,66 @@
+{
+  "slices": [
+    {
+      "z": 128,
+      "proper_crossings": 0,
+      "nonadjacent_point_contacts": 0,
+      "collinear_overlaps": 0,
+      "lineage": "all retained observed geometry exact, only local1\u21923 upgrades",
+      "gap_interior_samples_checked": 320,
+      "total_samples": 2525,
+      "independent_bilinear": "PASS",
+      "continuous_s_and_XY": "PASS",
+      "source_T2_edges_retained": 996
+    },
+    {
+      "z": 144,
+      "proper_crossings": 0,
+      "nonadjacent_point_contacts": 0,
+      "collinear_overlaps": 0,
+      "lineage": "all retained observed geometry exact, only local1\u21923 upgrades",
+      "gap_interior_samples_checked": 540,
+      "total_samples": 3772,
+      "independent_bilinear": "PASS",
+      "continuous_s_and_XY": "PASS",
+      "source_T2_edges_retained": 1479
+    },
+    {
+      "z": 146,
+      "proper_crossings": 0,
+      "nonadjacent_point_contacts": 2,
+      "collinear_overlaps": 0,
+      "lineage": "all retained observed geometry exact, only local1\u21923 upgrades",
+      "gap_interior_samples_checked": 483,
+      "total_samples": 3543,
+      "independent_bilinear": "PASS",
+      "continuous_s_and_XY": "PASS",
+      "source_T2_edges_retained": 1397
+    },
+    {
+      "z": 160,
+      "proper_crossings": 0,
+      "nonadjacent_point_contacts": 0,
+      "collinear_overlaps": 0,
+      "lineage": "all retained observed geometry exact, only local1\u21923 upgrades",
+      "gap_interior_samples_checked": 315,
+      "total_samples": 2648,
+      "independent_bilinear": "PASS",
+      "continuous_s_and_XY": "PASS",
+      "source_T2_edges_retained": 1065
+    },
+    {
+      "z": 170,
+      "proper_crossings": 0,
+      "nonadjacent_point_contacts": 0,
+      "collinear_overlaps": 0,
+      "lineage": "all retained observed geometry exact, only local1\u21923 upgrades",
+      "gap_interior_samples_checked": 424,
+      "total_samples": 3096,
+      "independent_bilinear": "PASS",
+      "continuous_s_and_XY": "PASS",
+      "source_T2_edges_retained": 1259
+    }
+  ],
+  "preservation": "all run03 pre-existing hashes PASS, including T2 evidence/report and README/AGENTS",
+  "method": "exhaustive orientation/bounding-box pair tests independent of KD-tree crossing detector"
+}

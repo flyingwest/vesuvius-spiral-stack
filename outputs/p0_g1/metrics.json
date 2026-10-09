@@ -1,0 +1,34 @@
+{
+  "slices_processed": 50,
+  "shape_z_s": [
+    50,
+    216
+  ],
+  "slices_with_valid_data": 45,
+  "recovered_arc_px_min_median_mean_max": [
+    0.0,
+    3.300721655506226,
+    13.171450762316452,
+    49.12281978029791
+  ],
+  "masked_fraction_min_median_mean_max": [
+    0.5462962962962963,
+    0.9652777777777777,
+    0.8762962962962964,
+    1.0
+  ],
+  "accepted_gap_continuations_min_median_mean_max": [
+    0,
+    4.5,
+    8.7,
+    28
+  ],
+  "accepted_gap_continuations_total": 435,
+  "stop_counts": {
+    "NO_CREDIBLE_CONTINUATION_WITHIN_15_DEG": 46,
+    "NO_ELIGIBLE_START_RIDGE": 4
+  },
+  "max_angular_coverage_deg": 155.0,
+  "cross_z_input_or_identity_gate": false,
+  "geometry_only": true
+}

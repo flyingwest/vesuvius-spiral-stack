@@ -1,0 +1,27 @@
+{
+  "accepted_edges": 551,
+  "accepted_adjacent": 524,
+  "accepted_gap": 27,
+  "order_pairs_evaluable": 251,
+  "order_reversals": 0,
+  "two_step_chains": 238,
+  "two_step_shortcut_statuses": {
+    "UNKNOWN": 97,
+    "ACCEPTED": 131,
+    "NOT_ENUMERATED": 9,
+    "REJECTED": 1
+  },
+  "two_step_conflicting_accepted_targets": 1,
+  "gap_classifications": {
+    "NO_CLOSE_RETAINED_FRAGMENT": 22,
+    "RETAINED_DETECTION_BUT_ASSOCIATION_GAP": 5
+  },
+  "accepted_NCC_min_median": [
+    0.5510468444596993,
+    0.7676316767228657
+  ],
+  "accepted_normal_error_max_px": 0.9999143144690712,
+  "true_false_association_count": null,
+  "true_false_association_rate": null,
+  "limitation": "No registered physical layer oracle; gate compliance is not independent evidence of accuracy."
+}

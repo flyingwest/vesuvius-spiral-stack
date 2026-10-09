@@ -1,0 +1,39 @@
+{
+  "mode": "saved-artifact replay only; no tracing or topology optimization rerun",
+  "run": "outputs/p0_t3/run_04",
+  "checks": [
+    {
+      "z": 128,
+      "arc_and_XY_regeneration": "bit-identical",
+      "stored_provenance_array": "identical",
+      "metrics": "consistent"
+    },
+    {
+      "z": 144,
+      "arc_and_XY_regeneration": "bit-identical",
+      "stored_provenance_array": "identical",
+      "metrics": "consistent"
+    },
+    {
+      "z": 146,
+      "arc_and_XY_regeneration": "bit-identical",
+      "stored_provenance_array": "identical",
+      "metrics": "consistent"
+    },
+    {
+      "z": 160,
+      "arc_and_XY_regeneration": "bit-identical",
+      "stored_provenance_array": "identical",
+      "metrics": "consistent"
+    },
+    {
+      "z": 170,
+      "arc_and_XY_regeneration": "bit-identical",
+      "stored_provenance_array": "identical",
+      "metrics": "consistent"
+    }
+  ],
+  "existing_validator": "PASS, reproduced authoritative per-slice results",
+  "prior_evidence_and_protected_files": "byte-identical",
+  "full_experiment_replay": "NOT RUN; would rerun tracing/search/topology experiment"
+}

@@ -1,0 +1,14 @@
+{
+  "P0_4": "FAIL",
+  "scope": "Longitudinal scale-up under unchanged frozen method",
+  "reason": "Only original14 F02 rows supported among50 attempted; neither end extends without unsupported joins.",
+  "coherence_collapse_observed": false,
+  "physical_method_universally_falsified": false,
+  "disconnected_tracklets_reseeded": false,
+  "new_F02_links": 0,
+  "suspected_switches_within_accepted_track": 0,
+  "true_switches": null,
+  "three_low_coherence_transition_causes": "UNKNOWN; full core present, geometry-u comparison does not restore coherence.",
+  "no_change_to_thresholds_or_method": true,
+  "conditional_100_200_expansion": "not warranted by boundary support"
+}

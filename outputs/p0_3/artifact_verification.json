@@ -1,0 +1,16 @@
+{
+  "frozen_raster_artifacts_unchanged": 34,
+  "prior_files_unchanged": 156,
+  "PNG_matches_numeric_data_and_mask": true,
+  "CSV_row_counts_match": true,
+  "F03_Z146_all_missing": true,
+  "readable_PNGs": 9,
+  "report_sha256": "07f4d4890349f378b098b96df807e3d875c02d4c02e213dae7f375d262dc1983",
+  "replay": {
+    "exact_replay": "PASS",
+    "independent_bilinear_reference": "PASS",
+    "bent_polyline_arc_length": "PASS",
+    "NaN_masks_and_Z_spacing": "PASS",
+    "prior_hashes": "unchanged"
+  }
+}

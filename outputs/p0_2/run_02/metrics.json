@@ -1,0 +1,132 @@
+{
+  "z_inclusive": [
+    137,
+    151
+  ],
+  "slices": 15,
+  "total_window_local_fragments": 1417,
+  "fragment_counts": [
+    {
+      "z": 137,
+      "all": 94,
+      "controls": 18,
+      "endpoint_windows": 76
+    },
+    {
+      "z": 138,
+      "all": 88,
+      "controls": 19,
+      "endpoint_windows": 69
+    },
+    {
+      "z": 139,
+      "all": 87,
+      "controls": 22,
+      "endpoint_windows": 65
+    },
+    {
+      "z": 140,
+      "all": 89,
+      "controls": 16,
+      "endpoint_windows": 73
+    },
+    {
+      "z": 141,
+      "all": 98,
+      "controls": 18,
+      "endpoint_windows": 80
+    },
+    {
+      "z": 142,
+      "all": 89,
+      "controls": 19,
+      "endpoint_windows": 70
+    },
+    {
+      "z": 143,
+      "all": 106,
+      "controls": 19,
+      "endpoint_windows": 87
+    },
+    {
+      "z": 144,
+      "all": 89,
+      "controls": 19,
+      "endpoint_windows": 70
+    },
+    {
+      "z": 145,
+      "all": 98,
+      "controls": 18,
+      "endpoint_windows": 80
+    },
+    {
+      "z": 146,
+      "all": 92,
+      "controls": 19,
+      "endpoint_windows": 73
+    },
+    {
+      "z": 147,
+      "all": 94,
+      "controls": 18,
+      "endpoint_windows": 76
+    },
+    {
+      "z": 148,
+      "all": 102,
+      "controls": 21,
+      "endpoint_windows": 81
+    },
+    {
+      "z": 149,
+      "all": 104,
+      "controls": 16,
+      "endpoint_windows": 88
+    },
+    {
+      "z": 150,
+      "all": 94,
+      "controls": 18,
+      "endpoint_windows": 76
+    },
+    {
+      "z": 151,
+      "all": 93,
+      "controls": 18,
+      "endpoint_windows": 75
+    }
+  ],
+  "adjacent_associations": {
+    "ACCEPTED": 524,
+    "REJECTED": 818,
+    "UNKNOWN": 832
+  },
+  "gap_associations": {
+    "UNKNOWN": 446,
+    "REJECTED": 242,
+    "ACCEPTED": 27
+  },
+  "association_total": 2889,
+  "track_length_histogram": {
+    "1": 574,
+    "2": 155,
+    "3": 74,
+    "4": 32,
+    "5": 18,
+    "6": 7,
+    "7": 3,
+    "8": 2,
+    "14": 1
+  },
+  "tracks": 866,
+  "tracks_with_missing_slice": 25,
+  "control_pass_count": 2,
+  "control_count": 5,
+  "control_gate_met": false,
+  "endpoint_decisions": {
+    "UNKNOWN": 14
+  },
+  "true_false_association_rate": null,
+  "oracle": "No registered physical layer identity in this region"
+}

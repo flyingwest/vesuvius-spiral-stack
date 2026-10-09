@@ -1,0 +1,86 @@
+[
+  {
+    "source": "z137_control_F02_r01",
+    "via": "z138_control_F02_r02",
+    "target": "z139_control_F02_r03",
+    "direct_status": "ACCEPTED",
+    "conflicting_accepted_targets": []
+  },
+  {
+    "source": "z138_control_F02_r02",
+    "via": "z139_control_F02_r03",
+    "target": "z140_control_F02_r04",
+    "direct_status": "ACCEPTED",
+    "conflicting_accepted_targets": []
+  },
+  {
+    "source": "z139_control_F02_r03",
+    "via": "z140_control_F02_r04",
+    "target": "z141_control_F02_r01",
+    "direct_status": "ACCEPTED",
+    "conflicting_accepted_targets": []
+  },
+  {
+    "source": "z140_control_F02_r04",
+    "via": "z141_control_F02_r01",
+    "target": "z142_control_F02_r02",
+    "direct_status": "ACCEPTED",
+    "conflicting_accepted_targets": []
+  },
+  {
+    "source": "z141_control_F02_r01",
+    "via": "z142_control_F02_r02",
+    "target": "z143_control_F02_r01",
+    "direct_status": "ACCEPTED",
+    "conflicting_accepted_targets": []
+  },
+  {
+    "source": "z142_control_F02_r02",
+    "via": "z143_control_F02_r01",
+    "target": "z144_control_F02_r02",
+    "direct_status": "ACCEPTED",
+    "conflicting_accepted_targets": []
+  },
+  {
+    "source": "z143_control_F02_r01",
+    "via": "z144_control_F02_r02",
+    "target": "z145_control_F02_r01",
+    "direct_status": "ACCEPTED",
+    "conflicting_accepted_targets": []
+  },
+  {
+    "source": "z144_control_F02_r02",
+    "via": "z145_control_F02_r01",
+    "target": "z146_control_F02_r01",
+    "direct_status": "UNKNOWN",
+    "conflicting_accepted_targets": []
+  },
+  {
+    "source": "z145_control_F02_r01",
+    "via": "z146_control_F02_r01",
+    "target": "z147_control_F02_r00",
+    "direct_status": "UNKNOWN",
+    "conflicting_accepted_targets": []
+  },
+  {
+    "source": "z146_control_F02_r01",
+    "via": "z147_control_F02_r00",
+    "target": "z148_control_F02_r00",
+    "direct_status": "UNKNOWN",
+    "conflicting_accepted_targets": []
+  },
+  {
+    "source": "z147_control_F02_r00",
+    "via": "z148_control_F02_r00",
+    "target": "z149_control_F02_r03",
+    "direct_status": "ACCEPTED",
+    "conflicting_accepted_targets": []
+  },
+  {
+    "source": "z148_control_F02_r00",
+    "via": "z149_control_F02_r03",
+    "target": "z150_control_F02_r03",
+    "direct_status": "ACCEPTED",
+    "conflicting_accepted_targets": []
+  }
+]

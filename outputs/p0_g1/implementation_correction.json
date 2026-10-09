@@ -1,0 +1,8 @@
+{
+  "interrupted_attempt": "outputs/p0_g1_initial_interrupted",
+  "completed_slice_files_in_interrupted_attempt": 0,
+  "reason": "Repeated whole-image sin/cos orientation computation inside each peak loop.",
+  "change": "Cache sin(2*tangent) and cos(2*tangent) once per slice; numerical formula and all geometric rules unchanged.",
+  "initial_script_sha256": "5d3755227176bb46aa8424afeb73f1c9f276f257cf78e54cd6e7eaf9ab2d947b",
+  "executed_script_sha256": "336689206c2519095f7947287981007c0c92d1781b9cb0f9600dd90391a6d095"
+}

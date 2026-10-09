@@ -1,0 +1,27 @@
+{
+  "P0_3": "PARTIAL_LOCAL_DEMONSTRATION",
+  "F02": "PASS_LOCAL_COHERENCE",
+  "F03": "NOT_EVALUABLE_SHORT_SUPPORT",
+  "both_fragments_coherence_demonstrated": false,
+  "full_P0_PASS_claimed": false,
+  "CT_or_geometry_only": true,
+  "general_3D_mesh": false,
+  "missing_data_filled": false,
+  "suspect_low_coherence_pairs_F02": [
+    [
+      139,
+      140
+    ],
+    [
+      146,
+      147
+    ],
+    [
+      147,
+      148
+    ]
+  ],
+  "confirmed_misregistration_count": null,
+  "reason": "Shift probe has no eligible support; low coherence is a warning, not confirmed layer switching.",
+  "next_step_not_executed": "Independent geometric-correspondence validation for low-coherence F02 pairs; further F03 support validation before enlarging it."
+}

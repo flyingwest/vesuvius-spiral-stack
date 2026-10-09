@@ -1,0 +1,50 @@
+{
+  "track": "T0243",
+  "z_inclusive": [
+    140,
+    148
+  ],
+  "observations": 8,
+  "shape_z_s": [
+    9,
+    5
+  ],
+  "core_u_px": [
+    1.0,
+    1.5
+  ],
+  "anchor_u_px": 1.25,
+  "ds_px": 0.25,
+  "ds_um": 31.64,
+  "arc_length_px_min_max_mean": [
+    0.5000100995887942,
+    0.5369282534385523,
+    0.5110937070142484
+  ],
+  "valid_row_samples_min_max": [
+    3,
+    3
+  ],
+  "missing_data_fraction": 0.4666666666666667,
+  "missing_observation_rows": [
+    146
+  ],
+  "missing_pixels": 21,
+  "valid_pixels": 24,
+  "missing_observation_pixels": 5,
+  "outside_core_padding_pixels": 16,
+  "adjacent_geometric_offset_change_max_abs_px": 0.010212548217804984,
+  "observed_adjacent_pairs": 6,
+  "eligible_correlation_pairs": 0,
+  "mean_adjacent_NCC": null,
+  "positive_adjacent_fraction": null,
+  "mean_adjacent_MAD_CT": 10.268725149469828,
+  "row_permutation_null_mean": null,
+  "row_permutation_null_95pct": null,
+  "null_fraction_ge_observed": null,
+  "max_homologous_s_residual_px": 0.010212548217804984,
+  "misregistration_scan_eligible_pairs": 0,
+  "misregistration_flags": 0,
+  "status": "NOT_EVALUABLE_SHORT_SUPPORT",
+  "gap_identity_not_intensity_interpolated": true
+}

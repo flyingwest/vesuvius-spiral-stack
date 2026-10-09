@@ -1,0 +1,5819 @@
+[
+  {
+    "control": "F02",
+    "z": 142,
+    "station": 0,
+    "expected_xy": [
+      267.7348318332709,
+      130.3142330836687
+    ],
+    "response_at_expected": -5.462512683260503,
+    "nearest_eligible_peak_distance_px": 1.75,
+    "eligible_peak_offsets_px": [
+      -7.25,
+      -5.5,
+      -1.75,
+      1.75,
+      7.5
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 142,
+    "station": 1,
+    "expected_xy": [
+      267.9997116435573,
+      130.78141726618324
+    ],
+    "response_at_expected": -0.3260563767971143,
+    "nearest_eligible_peak_distance_px": 1.5,
+    "eligible_peak_offsets_px": [
+      -7.5,
+      -2.25,
+      1.5,
+      5.25
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 142,
+    "station": 2,
+    "expected_xy": [
+      268.4622165873532,
+      131.00491351862178
+    ],
+    "response_at_expected": 5.584497771000411,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -7.5,
+      -2.5,
+      1.25,
+      5.5
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 142,
+    "station": 3,
+    "expected_xy": [
+      269.0713271407053,
+      131.0476330808904
+    ],
+    "response_at_expected": 10.251024587882007,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -1.5,
+      1.25
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 142,
+    "station": 4,
+    "expected_xy": [
+      269.54605405059834,
+      131.2560586509376
+    ],
+    "response_at_expected": 13.566933263484724,
+    "nearest_eligible_peak_distance_px": 0.75,
+    "eligible_peak_offsets_px": [
+      -6.75,
+      -1.75,
+      0.75
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 142,
+    "station": 5,
+    "expected_xy": [
+      269.8446299264904,
+      131.68169283253206
+    ],
+    "response_at_expected": 22.925267531776193,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -2.0,
+      0.25,
+      2.5,
+      6.25
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 142,
+    "station": 6,
+    "expected_xy": [
+      270.2070735683249,
+      132.02857284250524
+    ],
+    "response_at_expected": 27.206119936414687,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -2.0,
+      0.0,
+      3.0,
+      6.5
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 142,
+    "station": 7,
+    "expected_xy": [
+      270.69542773197253,
+      132.2201948957067
+    ],
+    "response_at_expected": 19.36923315157831,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -6.75,
+      -1.75,
+      0.25,
+      3.25,
+      6.75
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 142,
+    "station": 8,
+    "expected_xy": [
+      270.9407723751414,
+      132.71146753475517
+    ],
+    "response_at_expected": 21.69516815868117,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.25,
+      -2.25,
+      0.0,
+      3.0,
+      6.5
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 142,
+    "station": 9,
+    "expected_xy": [
+      271.33823287861503,
+      133.0151688944269
+    ],
+    "response_at_expected": 23.845625203594704,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -2.5,
+      0.0,
+      3.75,
+      6.75
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 142,
+    "station": 10,
+    "expected_xy": [
+      271.9443281902409,
+      133.06160649600488
+    ],
+    "response_at_expected": 21.882428928268414,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -6.5,
+      0.25,
+      4.75,
+      7.75
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 142,
+    "station": 11,
+    "expected_xy": [
+      272.14318741317425,
+      133.6101994547655
+    ],
+    "response_at_expected": 24.40968781355642,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -7.25,
+      0.25,
+      5.0
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 142,
+    "station": 12,
+    "expected_xy": [
+      272.5339828550818,
+      133.92211937969768
+    ],
+    "response_at_expected": 20.06946884691279,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      0.25,
+      5.5
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 142,
+    "station": 13,
+    "expected_xy": [
+      273.12365034953694,
+      133.9888138215415
+    ],
+    "response_at_expected": 10.024315845967534,
+    "nearest_eligible_peak_distance_px": 0.5,
+    "eligible_peak_offsets_px": [
+      -6.5,
+      0.5,
+      6.5
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 142,
+    "station": 14,
+    "expected_xy": [
+      273.61947090978447,
+      134.17122919793908
+    ],
+    "response_at_expected": 6.752465428746351,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -6.75,
+      -1.5,
+      1.0,
+      7.25
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 142,
+    "station": 15,
+    "expected_xy": [
+      273.94050550206924,
+      134.5691699479709
+    ],
+    "response_at_expected": 9.157065234527192,
+    "nearest_eligible_peak_distance_px": 0.75,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -1.75,
+      0.75,
+      7.0
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 142,
+    "station": 16,
+    "expected_xy": [
+      274.2491620178759,
+      134.98237387724373
+    ],
+    "response_at_expected": 10.624237351160653,
+    "nearest_eligible_peak_distance_px": 0.5,
+    "eligible_peak_offsets_px": [
+      -7.25,
+      -1.25,
+      0.5,
+      7.0
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 143,
+    "station": 0,
+    "expected_xy": [
+      267.7348318332709,
+      130.3142330836687
+    ],
+    "response_at_expected": 11.579143417027955,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -0.25,
+      7.5
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 143,
+    "station": 1,
+    "expected_xy": [
+      267.9997116435573,
+      130.78141726618324
+    ],
+    "response_at_expected": 11.342692362828634,
+    "nearest_eligible_peak_distance_px": 0.5,
+    "eligible_peak_offsets_px": [
+      -7.5,
+      -0.5,
+      4.75
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 143,
+    "station": 2,
+    "expected_xy": [
+      268.4622165873532,
+      131.00491351862178
+    ],
+    "response_at_expected": 13.672430120250805,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -7.5,
+      -2.5,
+      -0.25
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 143,
+    "station": 3,
+    "expected_xy": [
+      269.0713271407053,
+      131.0476330808904
+    ],
+    "response_at_expected": 16.947203295464266,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -2.5,
+      0.0,
+      2.5
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 143,
+    "station": 4,
+    "expected_xy": [
+      269.54605405059834,
+      131.2560586509376
+    ],
+    "response_at_expected": 15.478421637847559,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -6.75,
+      -2.25,
+      0.25,
+      2.5
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 143,
+    "station": 5,
+    "expected_xy": [
+      269.8446299264904,
+      131.68169283253206
+    ],
+    "response_at_expected": 19.041887871420702,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -7.25,
+      -2.25,
+      0.25,
+      2.5,
+      6.25
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 143,
+    "station": 6,
+    "expected_xy": [
+      270.2070735683249,
+      132.02857284250524
+    ],
+    "response_at_expected": 18.787190466223542,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.25,
+      -2.5,
+      0.0,
+      2.5,
+      6.5
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 143,
+    "station": 7,
+    "expected_xy": [
+      270.69542773197253,
+      132.2201948957067
+    ],
+    "response_at_expected": 9.456158632574027,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -2.25,
+      0.25,
+      2.75,
+      6.5
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 143,
+    "station": 8,
+    "expected_xy": [
+      270.9407723751414,
+      132.71146753475517
+    ],
+    "response_at_expected": 13.345665404178469,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.25,
+      -2.5,
+      0.0,
+      3.0,
+      6.25
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 143,
+    "station": 9,
+    "expected_xy": [
+      271.33823287861503,
+      133.0151688944269
+    ],
+    "response_at_expected": 19.046080162566447,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.25,
+      -2.5,
+      0.0,
+      3.5,
+      6.75
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 143,
+    "station": 10,
+    "expected_xy": [
+      271.9443281902409,
+      133.06160649600488
+    ],
+    "response_at_expected": 20.532965422592547,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -6.75,
+      -2.25,
+      0.0,
+      4.5
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 143,
+    "station": 11,
+    "expected_xy": [
+      272.14318741317425,
+      133.6101994547655
+    ],
+    "response_at_expected": 19.481924116898185,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -7.25,
+      -2.5,
+      0.25,
+      5.0
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 143,
+    "station": 12,
+    "expected_xy": [
+      272.5339828550818,
+      133.92211937969768
+    ],
+    "response_at_expected": 18.286703281433727,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.25,
+      -2.5,
+      0.0,
+      5.5
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 143,
+    "station": 13,
+    "expected_xy": [
+      273.12365034953694,
+      133.9888138215415
+    ],
+    "response_at_expected": 14.672321756858706,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -6.5,
+      -2.25,
+      0.25,
+      6.0
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 143,
+    "station": 14,
+    "expected_xy": [
+      273.61947090978447,
+      134.17122919793908
+    ],
+    "response_at_expected": 9.988111055245275,
+    "nearest_eligible_peak_distance_px": 0.75,
+    "eligible_peak_offsets_px": [
+      -6.75,
+      -2.0,
+      0.75,
+      6.25
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 143,
+    "station": 15,
+    "expected_xy": [
+      273.94050550206924,
+      134.5691699479709
+    ],
+    "response_at_expected": 17.341292278129977,
+    "nearest_eligible_peak_distance_px": 0.5,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -2.0,
+      0.5,
+      6.25
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 143,
+    "station": 16,
+    "expected_xy": [
+      274.2491620178759,
+      134.98237387724373
+    ],
+    "response_at_expected": 24.18768759863588,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -2.0,
+      0.25,
+      6.75
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 144,
+    "station": 0,
+    "expected_xy": [
+      267.7348318332709,
+      130.3142330836687
+    ],
+    "response_at_expected": 5.998388089690643,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -3.0,
+      0.0,
+      4.5,
+      7.5
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 144,
+    "station": 1,
+    "expected_xy": [
+      267.9997116435573,
+      130.78141726618324
+    ],
+    "response_at_expected": 9.510747185535086,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.5,
+      -3.25,
+      0.0,
+      1.5,
+      4.75
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 144,
+    "station": 2,
+    "expected_xy": [
+      268.4622165873532,
+      131.00491351862178
+    ],
+    "response_at_expected": 14.989972425364474,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.25,
+      -3.0,
+      0.0,
+      5.5
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 144,
+    "station": 3,
+    "expected_xy": [
+      269.0713271407053,
+      131.0476330808904
+    ],
+    "response_at_expected": 19.247357166209028,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -6.25,
+      -2.5,
+      0.0,
+      6.5
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 144,
+    "station": 4,
+    "expected_xy": [
+      269.54605405059834,
+      131.2560586509376
+    ],
+    "response_at_expected": 20.02952956067235,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -6.0,
+      -2.25,
+      0.0
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 144,
+    "station": 5,
+    "expected_xy": [
+      269.8446299264904,
+      131.68169283253206
+    ],
+    "response_at_expected": 25.6692385458571,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -6.25,
+      -2.25,
+      0.0
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 144,
+    "station": 6,
+    "expected_xy": [
+      270.2070735683249,
+      132.02857284250524
+    ],
+    "response_at_expected": 29.306865380917632,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -6.5,
+      -2.75,
+      0.0
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 144,
+    "station": 7,
+    "expected_xy": [
+      270.69542773197253,
+      132.2201948957067
+    ],
+    "response_at_expected": 24.866802033137468,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -6.5,
+      -3.0,
+      0.0,
+      4.25,
+      6.25
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 144,
+    "station": 8,
+    "expected_xy": [
+      270.9407723751414,
+      132.71146753475517
+    ],
+    "response_at_expected": 30.024746636895443,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -6.75,
+      -3.25,
+      0.0,
+      5.5
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 144,
+    "station": 9,
+    "expected_xy": [
+      271.33823287861503,
+      133.0151688944269
+    ],
+    "response_at_expected": 34.27267032629989,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -6.5,
+      -2.75,
+      0.0,
+      5.25
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 144,
+    "station": 10,
+    "expected_xy": [
+      271.9443281902409,
+      133.06160649600488
+    ],
+    "response_at_expected": 33.117845347404995,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -6.5,
+      0.0,
+      6.25
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 144,
+    "station": 11,
+    "expected_xy": [
+      272.14318741317425,
+      133.6101994547655
+    ],
+    "response_at_expected": 27.28986367477989,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -6.75,
+      0.0,
+      2.0,
+      5.75
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 144,
+    "station": 12,
+    "expected_xy": [
+      272.5339828550818,
+      133.92211937969768
+    ],
+    "response_at_expected": 25.72986332105276,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -6.5,
+      0.0,
+      2.5,
+      5.25
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 144,
+    "station": 13,
+    "expected_xy": [
+      273.12365034953694,
+      133.9888138215415
+    ],
+    "response_at_expected": 25.286518762775213,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -6.5,
+      0.0,
+      5.25
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 144,
+    "station": 14,
+    "expected_xy": [
+      273.61947090978447,
+      134.17122919793908
+    ],
+    "response_at_expected": 18.489352044464837,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -6.75,
+      -1.5,
+      0.0,
+      5.75
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 144,
+    "station": 15,
+    "expected_xy": [
+      273.94050550206924,
+      134.5691699479709
+    ],
+    "response_at_expected": 21.563533733613333,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -1.5,
+      0.0,
+      6.25
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 144,
+    "station": 16,
+    "expected_xy": [
+      274.2491620178759,
+      134.98237387724373
+    ],
+    "response_at_expected": 25.992400410330617,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.25,
+      -1.25,
+      0.0,
+      6.5
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 145,
+    "station": 0,
+    "expected_xy": [
+      267.7348318332709,
+      130.3142330836687
+    ],
+    "response_at_expected": 10.896096425343144,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -1.0,
+      7.5
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 145,
+    "station": 1,
+    "expected_xy": [
+      267.9997116435573,
+      130.78141726618324
+    ],
+    "response_at_expected": 13.242899263408805,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -7.5,
+      -3.25,
+      -0.25
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 145,
+    "station": 2,
+    "expected_xy": [
+      268.4622165873532,
+      131.00491351862178
+    ],
+    "response_at_expected": 19.050756230731682,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -7.25,
+      -2.5,
+      -0.25,
+      4.0
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 145,
+    "station": 3,
+    "expected_xy": [
+      269.0713271407053,
+      131.0476330808904
+    ],
+    "response_at_expected": 24.818948629571892,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -6.5,
+      -2.25,
+      0.0,
+      4.75,
+      7.5
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 145,
+    "station": 4,
+    "expected_xy": [
+      269.54605405059834,
+      131.2560586509376
+    ],
+    "response_at_expected": 20.53054957958048,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -6.75,
+      -0.25,
+      4.75,
+      7.25
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 145,
+    "station": 5,
+    "expected_xy": [
+      269.8446299264904,
+      131.68169283253206
+    ],
+    "response_at_expected": 12.260043234143247,
+    "nearest_eligible_peak_distance_px": 0.75,
+    "eligible_peak_offsets_px": [
+      -7.25,
+      -3.5,
+      -0.75,
+      4.5,
+      6.75
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 145,
+    "station": 6,
+    "expected_xy": [
+      270.2070735683249,
+      132.02857284250524
+    ],
+    "response_at_expected": 10.389405645789948,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -7.75,
+      -3.5,
+      -1.0,
+      4.0,
+      6.75
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 145,
+    "station": 7,
+    "expected_xy": [
+      270.69542773197253,
+      132.2201948957067
+    ],
+    "response_at_expected": 14.334605806526522,
+    "nearest_eligible_peak_distance_px": 0.5,
+    "eligible_peak_offsets_px": [
+      -7.5,
+      -3.25,
+      -0.5,
+      4.5,
+      7.25
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 145,
+    "station": 8,
+    "expected_xy": [
+      270.9407723751414,
+      132.71146753475517
+    ],
+    "response_at_expected": 3.5989897366061427,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -7.5,
+      -3.5,
+      -1.0,
+      4.75,
+      6.75
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 145,
+    "station": 9,
+    "expected_xy": [
+      271.33823287861503,
+      133.0151688944269
+    ],
+    "response_at_expected": 5.751767780917469,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -7.25,
+      -1.0,
+      6.5
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 145,
+    "station": 10,
+    "expected_xy": [
+      271.9443281902409,
+      133.06160649600488
+    ],
+    "response_at_expected": 23.9274782126797,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -6.75,
+      -0.25,
+      7.0
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 145,
+    "station": 11,
+    "expected_xy": [
+      272.14318741317425,
+      133.6101994547655
+    ],
+    "response_at_expected": 16.906608596145137,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -6.5,
+      0.0,
+      3.5,
+      6.75
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 145,
+    "station": 12,
+    "expected_xy": [
+      272.5339828550818,
+      133.92211937969768
+    ],
+    "response_at_expected": 9.288477223214235,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.5,
+      0.0,
+      4.0,
+      7.25
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 145,
+    "station": 13,
+    "expected_xy": [
+      273.12365034953694,
+      133.9888138215415
+    ],
+    "response_at_expected": 4.345253815338416,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -7.75,
+      -4.0,
+      -0.25,
+      1.75,
+      3.75
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 145,
+    "station": 14,
+    "expected_xy": [
+      273.61947090978447,
+      134.17122919793908
+    ],
+    "response_at_expected": 5.680844961094941,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -7.25,
+      -4.0,
+      -1.5,
+      -0.25,
+      3.75
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 145,
+    "station": 15,
+    "expected_xy": [
+      273.94050550206924,
+      134.5691699479709
+    ],
+    "response_at_expected": 12.978373158605681,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.25,
+      -4.5,
+      -1.75,
+      0.0,
+      3.75
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 145,
+    "station": 16,
+    "expected_xy": [
+      274.2491620178759,
+      134.98237387724373
+    ],
+    "response_at_expected": 16.933135032926007,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.75,
+      -4.75,
+      0.0,
+      3.75
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 146,
+    "station": 0,
+    "expected_xy": [
+      267.7348318332709,
+      130.3142330836687
+    ],
+    "response_at_expected": -1.3387390726065957,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -4.25,
+      -1.25,
+      7.5
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 146,
+    "station": 1,
+    "expected_xy": [
+      267.9997116435573,
+      130.78141726618324
+    ],
+    "response_at_expected": -2.7141080560891404,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -4.75,
+      -1.5,
+      1.25
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 146,
+    "station": 2,
+    "expected_xy": [
+      268.4622165873532,
+      131.00491351862178
+    ],
+    "response_at_expected": 0.4832290649753319,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -4.0,
+      -1.25,
+      1.25,
+      4.0
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 146,
+    "station": 3,
+    "expected_xy": [
+      269.0713271407053,
+      131.0476330808904
+    ],
+    "response_at_expected": 6.438828776357657,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -7.75,
+      -4.0,
+      -1.0,
+      1.25,
+      4.75
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 146,
+    "station": 4,
+    "expected_xy": [
+      269.54605405059834,
+      131.2560586509376
+    ],
+    "response_at_expected": 8.600440315828502,
+    "nearest_eligible_peak_distance_px": 0.75,
+    "eligible_peak_offsets_px": [
+      -4.0,
+      -0.75,
+      1.25,
+      5.0
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 146,
+    "station": 5,
+    "expected_xy": [
+      269.8446299264904,
+      131.68169283253206
+    ],
+    "response_at_expected": -1.7452869231406432,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -4.0,
+      -1.0,
+      1.5,
+      4.75
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 146,
+    "station": 6,
+    "expected_xy": [
+      270.2070735683249,
+      132.02857284250524
+    ],
+    "response_at_expected": -9.126323089915859,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -7.75,
+      -4.0,
+      -1.25,
+      1.25,
+      5.25
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 146,
+    "station": 7,
+    "expected_xy": [
+      270.69542773197253,
+      132.2201948957067
+    ],
+    "response_at_expected": -3.2525194861967854,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -4.25,
+      -1.25,
+      1.25,
+      6.0
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 146,
+    "station": 8,
+    "expected_xy": [
+      270.9407723751414,
+      132.71146753475517
+    ],
+    "response_at_expected": -13.801824531357704,
+    "nearest_eligible_peak_distance_px": 1.5,
+    "eligible_peak_offsets_px": [
+      -4.75,
+      -1.5,
+      1.5,
+      6.25
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 146,
+    "station": 9,
+    "expected_xy": [
+      271.33823287861503,
+      133.0151688944269
+    ],
+    "response_at_expected": -16.45091681158241,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -1.25,
+      1.25,
+      7.0
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 146,
+    "station": 10,
+    "expected_xy": [
+      271.9443281902409,
+      133.06160649600488
+    ],
+    "response_at_expected": -6.376053299482044,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -7.75,
+      -1.25,
+      1.75
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 146,
+    "station": 11,
+    "expected_xy": [
+      272.14318741317425,
+      133.6101994547655
+    ],
+    "response_at_expected": -12.878754805740593,
+    "nearest_eligible_peak_distance_px": 1.5,
+    "eligible_peak_offsets_px": [
+      -4.5,
+      -1.5,
+      1.75
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 146,
+    "station": 12,
+    "expected_xy": [
+      272.5339828550818,
+      133.92211937969768
+    ],
+    "response_at_expected": -8.737532702535242,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -4.5,
+      -1.25,
+      2.5
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 146,
+    "station": 13,
+    "expected_xy": [
+      273.12365034953694,
+      133.9888138215415
+    ],
+    "response_at_expected": 2.840741451103564,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -4.0,
+      -1.25,
+      3.25
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 146,
+    "station": 14,
+    "expected_xy": [
+      273.61947090978447,
+      134.17122919793908
+    ],
+    "response_at_expected": 4.7772715338730425,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -4.0,
+      -1.25,
+      3.75
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 146,
+    "station": 15,
+    "expected_xy": [
+      273.94050550206924,
+      134.5691699479709
+    ],
+    "response_at_expected": 7.64868595468174,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -4.25,
+      -1.25,
+      3.0
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 146,
+    "station": 16,
+    "expected_xy": [
+      274.2491620178759,
+      134.98237387724373
+    ],
+    "response_at_expected": 8.817314211533695,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -4.25,
+      -1.25,
+      2.75
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 147,
+    "station": 0,
+    "expected_xy": [
+      267.7348318332709,
+      130.3142330836687
+    ],
+    "response_at_expected": -10.094782951169643,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -4.25,
+      -2.0,
+      1.25,
+      7.5
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 147,
+    "station": 1,
+    "expected_xy": [
+      267.9997116435573,
+      130.78141726618324
+    ],
+    "response_at_expected": -13.273913058155028,
+    "nearest_eligible_peak_distance_px": 1.5,
+    "eligible_peak_offsets_px": [
+      -4.5,
+      -2.0,
+      1.5,
+      6.75
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 147,
+    "station": 2,
+    "expected_xy": [
+      268.4622165873532,
+      131.00491351862178
+    ],
+    "response_at_expected": -21.059200679219447,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -4.0,
+      -1.75,
+      1.25,
+      6.5
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 147,
+    "station": 3,
+    "expected_xy": [
+      269.0713271407053,
+      131.0476330808904
+    ],
+    "response_at_expected": -27.639926450683838,
+    "nearest_eligible_peak_distance_px": 1.5,
+    "eligible_peak_offsets_px": [
+      -1.5,
+      1.5,
+      5.0
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 147,
+    "station": 4,
+    "expected_xy": [
+      269.54605405059834,
+      131.2560586509376
+    ],
+    "response_at_expected": -23.144231588178627,
+    "nearest_eligible_peak_distance_px": 1.75,
+    "eligible_peak_offsets_px": [
+      -4.0,
+      -1.75,
+      1.75,
+      5.75
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 147,
+    "station": 5,
+    "expected_xy": [
+      269.8446299264904,
+      131.68169283253206
+    ],
+    "response_at_expected": -24.34199904814213,
+    "nearest_eligible_peak_distance_px": 1.5,
+    "eligible_peak_offsets_px": [
+      -4.25,
+      -2.0,
+      1.5,
+      6.0
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 147,
+    "station": 6,
+    "expected_xy": [
+      270.2070735683249,
+      132.02857284250524
+    ],
+    "response_at_expected": -26.995946741008893,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -4.0,
+      -1.75,
+      1.25,
+      6.75
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 147,
+    "station": 7,
+    "expected_xy": [
+      270.69542773197253,
+      132.2201948957067
+    ],
+    "response_at_expected": -23.453811640927796,
+    "nearest_eligible_peak_distance_px": 1.5,
+    "eligible_peak_offsets_px": [
+      -3.75,
+      -1.75,
+      1.5,
+      7.5
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 147,
+    "station": 8,
+    "expected_xy": [
+      270.9407723751414,
+      132.71146753475517
+    ],
+    "response_at_expected": -24.676014817633217,
+    "nearest_eligible_peak_distance_px": 1.5,
+    "eligible_peak_offsets_px": [
+      -3.5,
+      -1.75,
+      1.5
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 147,
+    "station": 9,
+    "expected_xy": [
+      271.33823287861503,
+      133.0151688944269
+    ],
+    "response_at_expected": -24.49572549047943,
+    "nearest_eligible_peak_distance_px": 1.5,
+    "eligible_peak_offsets_px": [
+      -5.0,
+      -1.5,
+      1.75
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 147,
+    "station": 10,
+    "expected_xy": [
+      271.9443281902409,
+      133.06160649600488
+    ],
+    "response_at_expected": -21.32880309038769,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -4.5,
+      -1.25,
+      2.25
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 147,
+    "station": 11,
+    "expected_xy": [
+      272.14318741317425,
+      133.6101994547655
+    ],
+    "response_at_expected": -21.38360934915732,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -4.5,
+      -1.25,
+      2.0
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 147,
+    "station": 12,
+    "expected_xy": [
+      272.5339828550818,
+      133.92211937969768
+    ],
+    "response_at_expected": -13.498585806023799,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -4.0,
+      -1.0,
+      2.5
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 147,
+    "station": 13,
+    "expected_xy": [
+      273.12365034953694,
+      133.9888138215415
+    ],
+    "response_at_expected": 0.12789268133997211,
+    "nearest_eligible_peak_distance_px": 0.5,
+    "eligible_peak_offsets_px": [
+      -3.75,
+      -0.5,
+      3.5
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 147,
+    "station": 14,
+    "expected_xy": [
+      273.61947090978447,
+      134.17122919793908
+    ],
+    "response_at_expected": 6.099204441617743,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -4.5,
+      -0.25,
+      4.0
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 147,
+    "station": 15,
+    "expected_xy": [
+      273.94050550206924,
+      134.5691699479709
+    ],
+    "response_at_expected": 11.021906851977036,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -4.75,
+      -0.25,
+      4.75
+    ]
+  },
+  {
+    "control": "F02",
+    "z": 147,
+    "station": 16,
+    "expected_xy": [
+      274.2491620178759,
+      134.98237387724373
+    ],
+    "response_at_expected": 11.242543925604439,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -4.5,
+      0.0,
+      5.0
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 143,
+    "station": 5,
+    "expected_xy": [
+      271.4276252991769,
+      156.13509759275428
+    ],
+    "response_at_expected": 15.121630777469786,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -4.0,
+      0.0,
+      4.25
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 143,
+    "station": 6,
+    "expected_xy": [
+      270.9836431225119,
+      156.4335751038352
+    ],
+    "response_at_expected": 22.788182152876686,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -3.75,
+      0.25,
+      4.5
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 143,
+    "station": 7,
+    "expected_xy": [
+      270.41370628332595,
+      156.18978361065285
+    ],
+    "response_at_expected": 22.12799643234979,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -4.0,
+      0.0,
+      4.25
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 143,
+    "station": 8,
+    "expected_xy": [
+      269.9337642811846,
+      156.33344431412777
+    ],
+    "response_at_expected": 20.678772540717947,
+    "nearest_eligible_peak_distance_px": 0.5,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -3.75,
+      -0.5,
+      4.5
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 143,
+    "station": 9,
+    "expected_xy": [
+      269.37050913264284,
+      156.11841931247474
+    ],
+    "response_at_expected": 19.325693167954277,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.25,
+      -4.0,
+      0.0,
+      4.25
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 143,
+    "station": 10,
+    "expected_xy": [
+      268.8351333734904,
+      156.02342264816875
+    ],
+    "response_at_expected": 18.69585872637564,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -4.0,
+      0.0,
+      4.0
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 143,
+    "station": 11,
+    "expected_xy": [
+      268.3190782458247,
+      156.01160654572877
+    ],
+    "response_at_expected": 15.252184121625687,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -4.25,
+      0.0,
+      3.5
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 144,
+    "station": 5,
+    "expected_xy": [
+      271.4276252991769,
+      156.13509759275428
+    ],
+    "response_at_expected": 7.231221651411701,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -4.0,
+      0.25,
+      5.25
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 144,
+    "station": 6,
+    "expected_xy": [
+      270.9836431225119,
+      156.4335751038352
+    ],
+    "response_at_expected": 14.11213730101615,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -6.75,
+      -3.5,
+      0.25,
+      5.5
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 144,
+    "station": 7,
+    "expected_xy": [
+      270.41370628332595,
+      156.18978361065285
+    ],
+    "response_at_expected": 15.085964363332799,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -3.75,
+      0.0,
+      4.5
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 144,
+    "station": 8,
+    "expected_xy": [
+      269.9337642811846,
+      156.33344431412777
+    ],
+    "response_at_expected": 15.112947650773975,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -3.75,
+      0.25,
+      4.75
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 144,
+    "station": 9,
+    "expected_xy": [
+      269.37050913264284,
+      156.11841931247474
+    ],
+    "response_at_expected": 22.104865220449874,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -4.0,
+      0.0,
+      4.25
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 144,
+    "station": 10,
+    "expected_xy": [
+      268.8351333734904,
+      156.02342264816875
+    ],
+    "response_at_expected": 26.046094918204513,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -4.0,
+      0.0,
+      4.25
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 144,
+    "station": 11,
+    "expected_xy": [
+      268.3190782458247,
+      156.01160654572877
+    ],
+    "response_at_expected": 21.884126007847932,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      0.0,
+      4.0
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 145,
+    "station": 5,
+    "expected_xy": [
+      271.4276252991769,
+      156.13509759275428
+    ],
+    "response_at_expected": 7.234686016420935,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -4.0,
+      0.0
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 145,
+    "station": 6,
+    "expected_xy": [
+      270.9836431225119,
+      156.4335751038352
+    ],
+    "response_at_expected": 15.33904925159338,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -3.5,
+      -0.25
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 145,
+    "station": 7,
+    "expected_xy": [
+      270.41370628332595,
+      156.18978361065285
+    ],
+    "response_at_expected": 18.012159560263857,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -4.0,
+      0.0,
+      7.25
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 145,
+    "station": 8,
+    "expected_xy": [
+      269.9337642811846,
+      156.33344431412777
+    ],
+    "response_at_expected": 19.295466068240515,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -3.75,
+      0.25,
+      6.5
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 145,
+    "station": 9,
+    "expected_xy": [
+      269.37050913264284,
+      156.11841931247474
+    ],
+    "response_at_expected": 23.367733716302418,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -4.0,
+      0.0,
+      6.25
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 145,
+    "station": 10,
+    "expected_xy": [
+      268.8351333734904,
+      156.02342264816875
+    ],
+    "response_at_expected": 26.946469141489107,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -5.0,
+      0.0,
+      6.25
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 145,
+    "station": 11,
+    "expected_xy": [
+      268.3190782458247,
+      156.01160654572877
+    ],
+    "response_at_expected": 28.897737832504433,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -5.0,
+      0.0,
+      6.0
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 146,
+    "station": 5,
+    "expected_xy": [
+      271.4276252991769,
+      156.13509759275428
+    ],
+    "response_at_expected": 12.56880421031336,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -4.0,
+      0.0,
+      3.0,
+      6.25
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 146,
+    "station": 6,
+    "expected_xy": [
+      270.9836431225119,
+      156.4335751038352
+    ],
+    "response_at_expected": 22.843327706807212,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -3.75,
+      -0.25,
+      2.5,
+      6.75
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 146,
+    "station": 7,
+    "expected_xy": [
+      270.41370628332595,
+      156.18978361065285
+    ],
+    "response_at_expected": 20.48872863794432,
+    "nearest_eligible_peak_distance_px": 0.75,
+    "eligible_peak_offsets_px": [
+      -4.25,
+      -0.75,
+      2.25,
+      6.25
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 146,
+    "station": 8,
+    "expected_xy": [
+      269.9337642811846,
+      156.33344431412777
+    ],
+    "response_at_expected": 19.813117382262117,
+    "nearest_eligible_peak_distance_px": 0.75,
+    "eligible_peak_offsets_px": [
+      -4.75,
+      -0.75,
+      2.25,
+      6.5
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 146,
+    "station": 9,
+    "expected_xy": [
+      269.37050913264284,
+      156.11841931247474
+    ],
+    "response_at_expected": 16.08841846690271,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -5.0,
+      0.0,
+      6.25
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 146,
+    "station": 10,
+    "expected_xy": [
+      268.8351333734904,
+      156.02342264816875
+    ],
+    "response_at_expected": 15.666208375059332,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -5.0,
+      -2.0,
+      0.0,
+      5.25
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 146,
+    "station": 11,
+    "expected_xy": [
+      268.3190782458247,
+      156.01160654572877
+    ],
+    "response_at_expected": 15.836949582561084,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -5.25,
+      -2.0,
+      1.0,
+      5.25
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 147,
+    "station": 5,
+    "expected_xy": [
+      271.4276252991769,
+      156.13509759275428
+    ],
+    "response_at_expected": 6.216915857154943,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      0.0,
+      3.25,
+      6.5
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 147,
+    "station": 6,
+    "expected_xy": [
+      270.9836431225119,
+      156.4335751038352
+    ],
+    "response_at_expected": 8.68829553381089,
+    "nearest_eligible_peak_distance_px": 0.5,
+    "eligible_peak_offsets_px": [
+      -6.75,
+      0.5,
+      2.75,
+      6.75
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 147,
+    "station": 7,
+    "expected_xy": [
+      270.41370628332595,
+      156.18978361065285
+    ],
+    "response_at_expected": 15.406138868656468,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      0.0,
+      2.25,
+      6.5
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 147,
+    "station": 8,
+    "expected_xy": [
+      269.9337642811846,
+      156.33344431412777
+    ],
+    "response_at_expected": 19.88073170902987,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -6.75,
+      -0.25,
+      2.25,
+      6.5
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 147,
+    "station": 9,
+    "expected_xy": [
+      269.37050913264284,
+      156.11841931247474
+    ],
+    "response_at_expected": 20.05349746700547,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      0.0,
+      2.0,
+      6.25
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 147,
+    "station": 10,
+    "expected_xy": [
+      268.8351333734904,
+      156.02342264816875
+    ],
+    "response_at_expected": 21.04398817799281,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -6.25,
+      0.0,
+      5.75
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 147,
+    "station": 11,
+    "expected_xy": [
+      268.3190782458247,
+      156.01160654572877
+    ],
+    "response_at_expected": 20.61373651317049,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -6.25,
+      -2.0,
+      0.0,
+      5.25
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 148,
+    "station": 5,
+    "expected_xy": [
+      271.4276252991769,
+      156.13509759275428
+    ],
+    "response_at_expected": 9.928150896686388,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -4.75,
+      0.25,
+      3.25,
+      6.5
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 148,
+    "station": 6,
+    "expected_xy": [
+      270.9836431225119,
+      156.4335751038352
+    ],
+    "response_at_expected": 13.582679434394977,
+    "nearest_eligible_peak_distance_px": 0.5,
+    "eligible_peak_offsets_px": [
+      -5.5,
+      0.5,
+      6.75
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 148,
+    "station": 7,
+    "expected_xy": [
+      270.41370628332595,
+      156.18978361065285
+    ],
+    "response_at_expected": 21.645619646316728,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -6.0,
+      0.0,
+      2.25,
+      6.25
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 148,
+    "station": 8,
+    "expected_xy": [
+      269.9337642811846,
+      156.33344431412777
+    ],
+    "response_at_expected": 26.467856454986652,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -5.75,
+      -0.25,
+      2.5,
+      6.25
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 148,
+    "station": 9,
+    "expected_xy": [
+      269.37050913264284,
+      156.11841931247474
+    ],
+    "response_at_expected": 23.40069300906731,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -6.0,
+      0.0,
+      2.0,
+      5.25
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 148,
+    "station": 10,
+    "expected_xy": [
+      268.8351333734904,
+      156.02342264816875
+    ],
+    "response_at_expected": 20.968111838086926,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -6.0,
+      0.0,
+      5.25
+    ]
+  },
+  {
+    "control": "F03",
+    "z": 148,
+    "station": 11,
+    "expected_xy": [
+      268.3190782458247,
+      156.01160654572877
+    ],
+    "response_at_expected": 17.22977312713986,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -6.25,
+      0.0,
+      5.25
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 142,
+    "station": 0,
+    "expected_xy": [
+      215.97965444453632,
+      157.0565328095498
+    ],
+    "response_at_expected": 7.443459319887782,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -6.75,
+      -2.75,
+      0.25,
+      7.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 142,
+    "station": 1,
+    "expected_xy": [
+      215.4796099998824,
+      157.06710752575606
+    ],
+    "response_at_expected": 8.145769689122595,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -6.75,
+      -2.0,
+      0.0,
+      7.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 142,
+    "station": 2,
+    "expected_xy": [
+      214.97956581708732,
+      157.07761426395453
+    ],
+    "response_at_expected": 8.86395496798727,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -6.75,
+      0.0,
+      4.25,
+      7.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 142,
+    "station": 3,
+    "expected_xy": [
+      214.4795289834263,
+      157.0862131821227
+    ],
+    "response_at_expected": 8.795544635782335,
+    "nearest_eligible_peak_distance_px": 0.75,
+    "eligible_peak_offsets_px": [
+      -6.0,
+      -0.75,
+      4.25,
+      7.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 142,
+    "station": 4,
+    "expected_xy": [
+      213.97949225841293,
+      157.09478389559507
+    ],
+    "response_at_expected": 8.646012097665395,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -6.0,
+      -1.0,
+      4.25,
+      7.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 142,
+    "station": 5,
+    "expected_xy": [
+      213.47947494872386,
+      157.09831443098724
+    ],
+    "response_at_expected": 5.306257392747629,
+    "nearest_eligible_peak_distance_px": 1.75,
+    "eligible_peak_offsets_px": [
+      -5.0,
+      -1.75,
+      4.25,
+      6.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 142,
+    "station": 6,
+    "expected_xy": [
+      212.979460276476,
+      157.10116029209647
+    ],
+    "response_at_expected": 2.0060804364844964,
+    "nearest_eligible_peak_distance_px": 1.75,
+    "eligible_peak_offsets_px": [
+      -5.0,
+      -1.75,
+      6.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 142,
+    "station": 7,
+    "expected_xy": [
+      212.47946971334528,
+      157.09774747620136
+    ],
+    "response_at_expected": -1.3618340139726792,
+    "nearest_eligible_peak_distance_px": 1.75,
+    "eligible_peak_offsets_px": [
+      -5.0,
+      -1.75,
+      2.0,
+      5.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 142,
+    "station": 8,
+    "expected_xy": [
+      211.97949820758444,
+      157.0893874064739
+    ],
+    "response_at_expected": -4.707146920320231,
+    "nearest_eligible_peak_distance_px": 1.75,
+    "eligible_peak_offsets_px": [
+      -6.75,
+      -1.75,
+      2.0,
+      5.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 142,
+    "station": 9,
+    "expected_xy": [
+      211.47968019171253,
+      157.04118167870186
+    ],
+    "response_at_expected": -4.291526847325715,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -1.0,
+      2.0,
+      5.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 142,
+    "station": 10,
+    "expected_xy": [
+      210.97981715847087,
+      157.00466236710417
+    ],
+    "response_at_expected": -3.4771840980100683,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -1.0,
+      2.0,
+      5.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 142,
+    "station": 11,
+    "expected_xy": [
+      210.47965690562177,
+      157.04530065150962
+    ],
+    "response_at_expected": -2.2365549877532165,
+    "nearest_eligible_peak_distance_px": 1.75,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -1.75,
+      2.0,
+      5.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 142,
+    "station": 12,
+    "expected_xy": [
+      209.97951337600736,
+      157.08159761872835
+    ],
+    "response_at_expected": -1.3955431342888671,
+    "nearest_eligible_peak_distance_px": 1.75,
+    "eligible_peak_offsets_px": [
+      -6.75,
+      -1.75,
+      2.0,
+      5.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 142,
+    "station": 13,
+    "expected_xy": [
+      209.4794311025063,
+      157.10199262549776
+    ],
+    "response_at_expected": 0.3850532496494563,
+    "nearest_eligible_peak_distance_px": 1.75,
+    "eligible_peak_offsets_px": [
+      -6.0,
+      -1.75,
+      2.25,
+      5.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 142,
+    "station": 14,
+    "expected_xy": [
+      208.9793789889558,
+      157.1145581714078
+    ],
+    "response_at_expected": 1.8704801754071194,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.75,
+      -5.75,
+      0.0,
+      3.25,
+      5.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 142,
+    "station": 15,
+    "expected_xy": [
+      208.47937630797216,
+      157.11429112510316
+    ],
+    "response_at_expected": 6.126778202341609,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.75,
+      -5.75,
+      -2.75,
+      0.0,
+      3.0,
+      5.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 142,
+    "station": 16,
+    "expected_xy": [
+      207.97937271425351,
+      157.11426102291182
+    ],
+    "response_at_expected": 10.279920509531097,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.75,
+      -6.0,
+      -2.75,
+      0.0,
+      3.0,
+      5.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 143,
+    "station": 0,
+    "expected_xy": [
+      215.97965444453632,
+      157.0565328095498
+    ],
+    "response_at_expected": 15.452386730280077,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -3.0,
+      0.0,
+      5.0,
+      7.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 143,
+    "station": 1,
+    "expected_xy": [
+      215.4796099998824,
+      157.06710752575606
+    ],
+    "response_at_expected": 16.796925832211116,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -3.0,
+      0.0,
+      4.0,
+      7.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 143,
+    "station": 2,
+    "expected_xy": [
+      214.97956581708732,
+      157.07761426395453
+    ],
+    "response_at_expected": 17.949780326611496,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -3.0,
+      0.0,
+      4.0,
+      7.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 143,
+    "station": 3,
+    "expected_xy": [
+      214.4795289834263,
+      157.0862131821227
+    ],
+    "response_at_expected": 15.479717252932687,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -3.0,
+      0.0,
+      4.0,
+      7.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 143,
+    "station": 4,
+    "expected_xy": [
+      213.97949225841293,
+      157.09478389559507
+    ],
+    "response_at_expected": 13.028670837884732,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -2.75,
+      0.0,
+      3.75,
+      7.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 143,
+    "station": 5,
+    "expected_xy": [
+      213.47947494872386,
+      157.09831443098724
+    ],
+    "response_at_expected": 8.871648658163616,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -2.75,
+      0.0,
+      4.0,
+      6.25
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 143,
+    "station": 6,
+    "expected_xy": [
+      212.979460276476,
+      157.10116029209647
+    ],
+    "response_at_expected": 4.718595966857942,
+    "nearest_eligible_peak_distance_px": 1.75,
+    "eligible_peak_offsets_px": [
+      -1.75,
+      4.0,
+      6.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 143,
+    "station": 7,
+    "expected_xy": [
+      212.47946971334528,
+      157.09774747620136
+    ],
+    "response_at_expected": -1.1232151300493396,
+    "nearest_eligible_peak_distance_px": 1.75,
+    "eligible_peak_offsets_px": [
+      -1.75,
+      2.25,
+      4.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 143,
+    "station": 8,
+    "expected_xy": [
+      211.97949820758444,
+      157.0893874064739
+    ],
+    "response_at_expected": -6.604445426323762,
+    "nearest_eligible_peak_distance_px": 1.75,
+    "eligible_peak_offsets_px": [
+      -1.75,
+      2.0,
+      4.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 143,
+    "station": 9,
+    "expected_xy": [
+      211.47968019171253,
+      157.04118167870186
+    ],
+    "response_at_expected": -0.8785130597109131,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -1.0,
+      2.0,
+      4.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 143,
+    "station": 10,
+    "expected_xy": [
+      210.97981715847087,
+      157.00466236710417
+    ],
+    "response_at_expected": 5.313174916288172,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -1.0,
+      2.0,
+      5.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 143,
+    "station": 11,
+    "expected_xy": [
+      210.47965690562177,
+      157.04530065150962
+    ],
+    "response_at_expected": 8.381089490067177,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -1.0,
+      2.0,
+      5.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 143,
+    "station": 12,
+    "expected_xy": [
+      209.97951337600736,
+      157.08159761872835
+    ],
+    "response_at_expected": 11.306185799021513,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -7.75,
+      -1.0,
+      2.0,
+      5.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 143,
+    "station": 13,
+    "expected_xy": [
+      209.4794311025063,
+      157.10199262549776
+    ],
+    "response_at_expected": 13.021790282808242,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.75,
+      0.0,
+      2.25,
+      4.25
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 143,
+    "station": 14,
+    "expected_xy": [
+      208.9793789889558,
+      157.1145581714078
+    ],
+    "response_at_expected": 14.519505781878452,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.75,
+      0.0,
+      2.25,
+      4.25
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 143,
+    "station": 15,
+    "expected_xy": [
+      208.47937630797216,
+      157.11429112510316
+    ],
+    "response_at_expected": 16.626711868082467,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.75,
+      0.0,
+      2.25
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 143,
+    "station": 16,
+    "expected_xy": [
+      207.97937271425351,
+      157.11426102291182
+    ],
+    "response_at_expected": 18.620085461449293,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.75,
+      -2.75,
+      0.0,
+      2.25
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 144,
+    "station": 0,
+    "expected_xy": [
+      215.97965444453632,
+      157.0565328095498
+    ],
+    "response_at_expected": 19.662718192958863,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -4.0,
+      0.0,
+      5.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 144,
+    "station": 1,
+    "expected_xy": [
+      215.4796099998824,
+      157.06710752575606
+    ],
+    "response_at_expected": 17.742456153615436,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -4.0,
+      0.0,
+      4.0,
+      7.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 144,
+    "station": 2,
+    "expected_xy": [
+      214.97956581708732,
+      157.07761426395453
+    ],
+    "response_at_expected": 15.910943873592192,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -4.0,
+      0.0,
+      3.0,
+      7.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 144,
+    "station": 3,
+    "expected_xy": [
+      214.4795289834263,
+      157.0862131821227
+    ],
+    "response_at_expected": 15.26773569002901,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -4.75,
+      0.0,
+      3.0,
+      7.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 144,
+    "station": 4,
+    "expected_xy": [
+      213.97949225841293,
+      157.09478389559507
+    ],
+    "response_at_expected": 14.833832646538069,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -4.75,
+      0.0,
+      3.25,
+      7.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 144,
+    "station": 5,
+    "expected_xy": [
+      213.47947494872386,
+      157.09831443098724
+    ],
+    "response_at_expected": 18.774185571469165,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -2.75,
+      0.0,
+      3.25,
+      7.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 144,
+    "station": 6,
+    "expected_xy": [
+      212.979460276476,
+      157.10116029209647
+    ],
+    "response_at_expected": 22.389072823882934,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -2.75,
+      0.0,
+      4.0,
+      7.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 144,
+    "station": 7,
+    "expected_xy": [
+      212.47946971334528,
+      157.09774747620136
+    ],
+    "response_at_expected": 18.07286267399216,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -3.0,
+      0.0,
+      4.0,
+      7.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 144,
+    "station": 8,
+    "expected_xy": [
+      211.97949820758444,
+      157.0893874064739
+    ],
+    "response_at_expected": 14.030584804559712,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -5.75,
+      0.0,
+      4.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 144,
+    "station": 9,
+    "expected_xy": [
+      211.47968019171253,
+      157.04118167870186
+    ],
+    "response_at_expected": 16.630660839471783,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -4.5,
+      0.0,
+      4.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 144,
+    "station": 10,
+    "expected_xy": [
+      210.97981715847087,
+      157.00466236710417
+    ],
+    "response_at_expected": 19.440584451730516,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -4.0,
+      0.0,
+      4.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 144,
+    "station": 11,
+    "expected_xy": [
+      210.47965690562177,
+      157.04530065150962
+    ],
+    "response_at_expected": 20.552820369121783,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -4.0,
+      0.0,
+      3.25
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 144,
+    "station": 12,
+    "expected_xy": [
+      209.97951337600736,
+      157.08159761872835
+    ],
+    "response_at_expected": 21.8426686572544,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -3.75,
+      0.0,
+      3.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 144,
+    "station": 13,
+    "expected_xy": [
+      209.4794311025063,
+      157.10199262549776
+    ],
+    "response_at_expected": 20.581734746719086,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.75,
+      -3.75,
+      0.0,
+      3.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 144,
+    "station": 14,
+    "expected_xy": [
+      208.9793789889558,
+      157.1145581714078
+    ],
+    "response_at_expected": 19.42673182540878,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.75,
+      -3.75,
+      0.0,
+      3.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 144,
+    "station": 15,
+    "expected_xy": [
+      208.47937630797216,
+      157.11429112510316
+    ],
+    "response_at_expected": 19.001843466483745,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.75,
+      -3.75,
+      0.0,
+      3.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 144,
+    "station": 16,
+    "expected_xy": [
+      207.97937271425351,
+      157.11426102291182
+    ],
+    "response_at_expected": 18.50518028821265,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.75,
+      -3.75,
+      0.0,
+      3.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 145,
+    "station": 0,
+    "expected_xy": [
+      215.97965444453632,
+      157.0565328095498
+    ],
+    "response_at_expected": 15.621475064517128,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -4.0,
+      0.0,
+      2.25,
+      7.25
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 145,
+    "station": 1,
+    "expected_xy": [
+      215.4796099998824,
+      157.06710752575606
+    ],
+    "response_at_expected": 11.009860104942794,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -4.0,
+      0.0,
+      2.25,
+      7.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 145,
+    "station": 2,
+    "expected_xy": [
+      214.97956581708732,
+      157.07761426395453
+    ],
+    "response_at_expected": 6.627105938017679,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -4.0,
+      -2.0,
+      0.0,
+      3.0,
+      7.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 145,
+    "station": 3,
+    "expected_xy": [
+      214.4795289834263,
+      157.0862131821227
+    ],
+    "response_at_expected": 5.645992394804702,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -4.0,
+      -2.0,
+      0.0,
+      3.0,
+      7.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 145,
+    "station": 4,
+    "expected_xy": [
+      213.97949225841293,
+      157.09478389559507
+    ],
+    "response_at_expected": 4.948480034847499,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -2.0,
+      0.0,
+      3.0,
+      7.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 145,
+    "station": 5,
+    "expected_xy": [
+      213.47947494872386,
+      157.09831443098724
+    ],
+    "response_at_expected": 10.844877067113991,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -2.0,
+      0.0,
+      3.0,
+      7.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 145,
+    "station": 6,
+    "expected_xy": [
+      212.979460276476,
+      157.10116029209647
+    ],
+    "response_at_expected": 16.43202834655747,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -2.0,
+      0.0,
+      2.25,
+      7.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 145,
+    "station": 7,
+    "expected_xy": [
+      212.47946971334528,
+      157.09774747620136
+    ],
+    "response_at_expected": 15.53731315607445,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -2.0,
+      0.0,
+      3.0,
+      7.25
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 145,
+    "station": 8,
+    "expected_xy": [
+      211.97949820758444,
+      157.0893874064739
+    ],
+    "response_at_expected": 14.910267127709549,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -5.75,
+      -2.0,
+      0.0,
+      3.25
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 145,
+    "station": 9,
+    "expected_xy": [
+      211.47968019171253,
+      157.04118167870186
+    ],
+    "response_at_expected": 19.387967759194552,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -6.0,
+      0.0,
+      3.25
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 145,
+    "station": 10,
+    "expected_xy": [
+      210.97981715847087,
+      157.00466236710417
+    ],
+    "response_at_expected": 23.906113084110796,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -6.0,
+      0.0,
+      4.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 145,
+    "station": 11,
+    "expected_xy": [
+      210.47965690562177,
+      157.04530065150962
+    ],
+    "response_at_expected": 21.800724922752938,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      0.0,
+      4.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 145,
+    "station": 12,
+    "expected_xy": [
+      209.97951337600736,
+      157.08159761872835
+    ],
+    "response_at_expected": 19.83588869750529,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      0.0,
+      3.25
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 145,
+    "station": 13,
+    "expected_xy": [
+      209.4794311025063,
+      157.10199262549776
+    ],
+    "response_at_expected": 13.964334713927038,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -3.0,
+      0.0,
+      3.25
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 145,
+    "station": 14,
+    "expected_xy": [
+      208.9793789889558,
+      157.1145581714078
+    ],
+    "response_at_expected": 8.577699569580545,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -3.75,
+      0.0,
+      3.25
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 145,
+    "station": 15,
+    "expected_xy": [
+      208.47937630797216,
+      157.11429112510316
+    ],
+    "response_at_expected": 6.215395931172557,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -3.75,
+      0.0,
+      4.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 145,
+    "station": 16,
+    "expected_xy": [
+      207.97937271425351,
+      157.11426102291182
+    ],
+    "response_at_expected": 3.9692483950236745,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -3.75,
+      0.0,
+      4.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 146,
+    "station": 0,
+    "expected_xy": [
+      215.97965444453632,
+      157.0565328095498
+    ],
+    "response_at_expected": 13.049713394791816,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -5.0,
+      0.0,
+      2.25,
+      5.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 146,
+    "station": 1,
+    "expected_xy": [
+      215.4796099998824,
+      157.06710752575606
+    ],
+    "response_at_expected": 13.510182050869899,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -5.0,
+      0.0,
+      3.0,
+      7.25
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 146,
+    "station": 2,
+    "expected_xy": [
+      214.97956581708732,
+      157.07761426395453
+    ],
+    "response_at_expected": 13.723075631573755,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -5.0,
+      0.0,
+      3.0,
+      7.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 146,
+    "station": 3,
+    "expected_xy": [
+      214.4795289834263,
+      157.0862131821227
+    ],
+    "response_at_expected": 7.903115641381309,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -5.0,
+      0.0,
+      3.0,
+      7.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 146,
+    "station": 4,
+    "expected_xy": [
+      213.97949225841293,
+      157.09478389559507
+    ],
+    "response_at_expected": 2.3785107922076754,
+    "nearest_eligible_peak_distance_px": 0.75,
+    "eligible_peak_offsets_px": [
+      -4.75,
+      -0.75,
+      3.0,
+      7.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 146,
+    "station": 5,
+    "expected_xy": [
+      213.47947494872386,
+      157.09831443098724
+    ],
+    "response_at_expected": 0.6042138444157548,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -4.0,
+      -1.0,
+      3.0,
+      6.25
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 146,
+    "station": 6,
+    "expected_xy": [
+      212.979460276476,
+      157.10116029209647
+    ],
+    "response_at_expected": -1.0985843975933995,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -4.0,
+      -1.0,
+      3.0,
+      6.25
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 146,
+    "station": 7,
+    "expected_xy": [
+      212.47946971334528,
+      157.09774747620136
+    ],
+    "response_at_expected": -1.4998745208950899,
+    "nearest_eligible_peak_distance_px": 1.75,
+    "eligible_peak_offsets_px": [
+      -4.0,
+      -1.75,
+      3.0,
+      7.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 146,
+    "station": 8,
+    "expected_xy": [
+      211.97949820758444,
+      157.0893874064739
+    ],
+    "response_at_expected": -1.809336387131537,
+    "nearest_eligible_peak_distance_px": 1.75,
+    "eligible_peak_offsets_px": [
+      -4.75,
+      -1.75,
+      3.0,
+      7.25
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 146,
+    "station": 9,
+    "expected_xy": [
+      211.47968019171253,
+      157.04118167870186
+    ],
+    "response_at_expected": 0.1334911894539213,
+    "nearest_eligible_peak_distance_px": 2.0,
+    "eligible_peak_offsets_px": [
+      -5.0,
+      -2.0,
+      3.0,
+      7.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 146,
+    "station": 10,
+    "expected_xy": [
+      210.97981715847087,
+      157.00466236710417
+    ],
+    "response_at_expected": 2.4846020281290535,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -5.0,
+      1.0,
+      4.0,
+      7.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 146,
+    "station": 11,
+    "expected_xy": [
+      210.47965690562177,
+      157.04530065150962
+    ],
+    "response_at_expected": 5.004403586605988,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -5.0,
+      1.0,
+      4.0,
+      7.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 146,
+    "station": 12,
+    "expected_xy": [
+      209.97951337600736,
+      157.08159761872835
+    ],
+    "response_at_expected": 7.275768526650667,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -5.0,
+      1.0,
+      5.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 146,
+    "station": 13,
+    "expected_xy": [
+      209.4794311025063,
+      157.10199262549776
+    ],
+    "response_at_expected": 6.382837430495118,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -4.75,
+      0.25,
+      5.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 146,
+    "station": 14,
+    "expected_xy": [
+      208.9793789889558,
+      157.1145581714078
+    ],
+    "response_at_expected": 5.459909793418387,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -3.75,
+      0.25,
+      5.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 146,
+    "station": 15,
+    "expected_xy": [
+      208.47937630797216,
+      157.11429112510316
+    ],
+    "response_at_expected": 2.6596419066353807,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -4.0,
+      0.0,
+      4.25
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 146,
+    "station": 16,
+    "expected_xy": [
+      207.97937271425351,
+      157.11426102291182
+    ],
+    "response_at_expected": -0.006796929419287001,
+    "nearest_eligible_peak_distance_px": 4.0,
+    "eligible_peak_offsets_px": [
+      -4.0,
+      4.25
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 147,
+    "station": 0,
+    "expected_xy": [
+      215.97965444453632,
+      157.0565328095498
+    ],
+    "response_at_expected": 21.248139701497283,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -6.0,
+      -4.0,
+      0.0,
+      2.25
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 147,
+    "station": 1,
+    "expected_xy": [
+      215.4796099998824,
+      157.06710752575606
+    ],
+    "response_at_expected": 21.96416526415143,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -6.0,
+      -4.0,
+      0.0,
+      3.0,
+      5.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 147,
+    "station": 2,
+    "expected_xy": [
+      214.97956581708732,
+      157.07761426395453
+    ],
+    "response_at_expected": 22.639852125215832,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -6.0,
+      -4.0,
+      0.0,
+      3.0,
+      5.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 147,
+    "station": 3,
+    "expected_xy": [
+      214.4795289834263,
+      157.0862131821227
+    ],
+    "response_at_expected": 22.3487754039716,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -6.75,
+      -4.0,
+      0.0,
+      3.0,
+      5.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 147,
+    "station": 4,
+    "expected_xy": [
+      213.97949225841293,
+      157.09478389559507
+    ],
+    "response_at_expected": 22.118729702528046,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -6.75,
+      -4.0,
+      0.0,
+      3.0,
+      5.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 147,
+    "station": 5,
+    "expected_xy": [
+      213.47947494872386,
+      157.09831443098724
+    ],
+    "response_at_expected": 20.14300278859454,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -6.75,
+      -4.0,
+      0.0,
+      3.0,
+      5.0,
+      7.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 147,
+    "station": 6,
+    "expected_xy": [
+      212.979460276476,
+      157.10116029209647
+    ],
+    "response_at_expected": 17.857113469001714,
+    "nearest_eligible_peak_distance_px": 0.75,
+    "eligible_peak_offsets_px": [
+      -6.0,
+      -4.0,
+      -0.75,
+      3.0,
+      7.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 147,
+    "station": 7,
+    "expected_xy": [
+      212.47946971334528,
+      157.09774747620136
+    ],
+    "response_at_expected": 6.522639506640771,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -6.75,
+      -1.0,
+      3.0,
+      7.25
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 147,
+    "station": 8,
+    "expected_xy": [
+      211.97949820758444,
+      157.0893874064739
+    ],
+    "response_at_expected": -4.618097265990437,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -6.75,
+      -1.0,
+      2.25,
+      4.0,
+      7.25
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 147,
+    "station": 9,
+    "expected_xy": [
+      211.47968019171253,
+      157.04118167870186
+    ],
+    "response_at_expected": -7.983956571969959,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -1.0,
+      4.0,
+      7.25
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 147,
+    "station": 10,
+    "expected_xy": [
+      210.97981715847087,
+      157.00466236710417
+    ],
+    "response_at_expected": -11.09441744001032,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -1.0,
+      4.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 147,
+    "station": 11,
+    "expected_xy": [
+      210.47965690562177,
+      157.04530065150962
+    ],
+    "response_at_expected": -7.699469267068297,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -1.0,
+      4.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 147,
+    "station": 12,
+    "expected_xy": [
+      209.97951337600736,
+      157.08159761872835
+    ],
+    "response_at_expected": -4.510050161692877,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -6.75,
+      -1.0,
+      4.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 147,
+    "station": 13,
+    "expected_xy": [
+      209.4794311025063,
+      157.10199262549776
+    ],
+    "response_at_expected": -2.1179234350204066,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -6.75,
+      -4.0,
+      -1.0,
+      4.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 147,
+    "station": 14,
+    "expected_xy": [
+      208.9793789889558,
+      157.1145581714078
+    ],
+    "response_at_expected": -0.06446389980822986,
+    "nearest_eligible_peak_distance_px": 1.75,
+    "eligible_peak_offsets_px": [
+      -6.75,
+      -3.75,
+      -1.75,
+      3.25,
+      5.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 147,
+    "station": 15,
+    "expected_xy": [
+      208.47937630797216,
+      157.11429112510316
+    ],
+    "response_at_expected": 0.7741223162520239,
+    "nearest_eligible_peak_distance_px": 1.75,
+    "eligible_peak_offsets_px": [
+      -6.75,
+      -3.75,
+      -1.75,
+      3.25,
+      5.0
+    ]
+  },
+  {
+    "control": "F04",
+    "z": 147,
+    "station": 16,
+    "expected_xy": [
+      207.97937271425351,
+      157.11426102291182
+    ],
+    "response_at_expected": 1.5254392147195288,
+    "nearest_eligible_peak_distance_px": 3.75,
+    "eligible_peak_offsets_px": [
+      -6.75,
+      -3.75,
+      5.0
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 142,
+    "station": 0,
+    "expected_xy": [
+      168.8716381823209,
+      146.41435023416824
+    ],
+    "response_at_expected": 1.2362797472566012,
+    "nearest_eligible_peak_distance_px": 0.75,
+    "eligible_peak_offsets_px": [
+      -6.0,
+      -0.75,
+      1.75
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 142,
+    "station": 1,
+    "expected_xy": [
+      169.2772134341572,
+      146.11013668479274
+    ],
+    "response_at_expected": -3.538115972527829,
+    "nearest_eligible_peak_distance_px": 1.5,
+    "eligible_peak_offsets_px": [
+      -6.0,
+      1.5,
+      7.75
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 142,
+    "station": 2,
+    "expected_xy": [
+      169.91279887254342,
+      146.0249823358532
+    ],
+    "response_at_expected": -12.870625944215375,
+    "nearest_eligible_peak_distance_px": 2.25,
+    "eligible_peak_offsets_px": [
+      -6.0,
+      -2.5,
+      2.25,
+      7.25
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 142,
+    "station": 3,
+    "expected_xy": [
+      170.59077288410796,
+      145.98019840305636
+    ],
+    "response_at_expected": -11.716490904455773,
+    "nearest_eligible_peak_distance_px": 1.75,
+    "eligible_peak_offsets_px": [
+      -6.25,
+      -2.75,
+      1.75,
+      7.25
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 142,
+    "station": 4,
+    "expected_xy": [
+      171.36305634093512,
+      146.02523376036442
+    ],
+    "response_at_expected": -0.3159034271198407,
+    "nearest_eligible_peak_distance_px": 1.5,
+    "eligible_peak_offsets_px": [
+      -3.0,
+      1.5,
+      7.25
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 142,
+    "station": 5,
+    "expected_xy": [
+      172.03549907602897,
+      145.97518190000642
+    ],
+    "response_at_expected": 16.206903554514913,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -3.0,
+      1.25,
+      7.25
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 142,
+    "station": 6,
+    "expected_xy": [
+      172.69902770334753,
+      145.9166403403393
+    ],
+    "response_at_expected": 22.348941171477065,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      0.25,
+      7.25
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 142,
+    "station": 7,
+    "expected_xy": [
+      173.38193622055206,
+      145.87655597705395
+    ],
+    "response_at_expected": 20.727779260319256,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      0.0,
+      6.5
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 142,
+    "station": 8,
+    "expected_xy": [
+      173.85667324093077,
+      145.6382113439421
+    ],
+    "response_at_expected": 13.339701710087922,
+    "nearest_eligible_peak_distance_px": 0.5,
+    "eligible_peak_offsets_px": [
+      -6.75,
+      0.5,
+      6.25
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 142,
+    "station": 9,
+    "expected_xy": [
+      174.02828972347513,
+      145.11117800686566
+    ],
+    "response_at_expected": 7.6539046925921745,
+    "nearest_eligible_peak_distance_px": 0.75,
+    "eligible_peak_offsets_px": [
+      -6.0,
+      0.75
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 142,
+    "station": 10,
+    "expected_xy": [
+      174.51522865083388,
+      144.88445433727253
+    ],
+    "response_at_expected": 7.4951013277613345,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -6.0,
+      -0.25,
+      7.5
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 142,
+    "station": 11,
+    "expected_xy": [
+      174.92030563544765,
+      144.57976624361262
+    ],
+    "response_at_expected": 12.27533541909654,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -6.0,
+      -0.25,
+      2.25,
+      7.0
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 142,
+    "station": 12,
+    "expected_xy": [
+      175.23678427872704,
+      144.190698053124
+    ],
+    "response_at_expected": 16.268704450258447,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -6.0,
+      -0.25,
+      2.75,
+      7.0
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 142,
+    "station": 13,
+    "expected_xy": [
+      175.7959334841871,
+      144.03274666714762
+    ],
+    "response_at_expected": 13.750742853223082,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -5.75,
+      -0.25,
+      3.0,
+      4.25
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 142,
+    "station": 14,
+    "expected_xy": [
+      176.46780152119044,
+      143.9821474705778
+    ],
+    "response_at_expected": 5.028866015585431,
+    "nearest_eligible_peak_distance_px": 0.75,
+    "eligible_peak_offsets_px": [
+      -6.0,
+      -0.75,
+      2.25
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 142,
+    "station": 15,
+    "expected_xy": [
+      177.07114763000789,
+      143.86628873474191
+    ],
+    "response_at_expected": -3.2823442701072367,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -5.75,
+      -1.25,
+      1.25
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 142,
+    "station": 16,
+    "expected_xy": [
+      177.45149520759225,
+      143.53804862274592
+    ],
+    "response_at_expected": -0.6984939984208831,
+    "nearest_eligible_peak_distance_px": 6.5,
+    "eligible_peak_offsets_px": [
+      6.5
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 143,
+    "station": 0,
+    "expected_xy": [
+      168.8716381823209,
+      146.41435023416824
+    ],
+    "response_at_expected": 4.5879690773995385,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -3.5,
+      0.0,
+      3.25,
+      7.0
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 143,
+    "station": 1,
+    "expected_xy": [
+      169.2772134341572,
+      146.11013668479274
+    ],
+    "response_at_expected": 3.602206080946366,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -3.5,
+      0.25,
+      3.25,
+      7.0
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 143,
+    "station": 2,
+    "expected_xy": [
+      169.91279887254342,
+      146.0249823358532
+    ],
+    "response_at_expected": 5.7294139365395145,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -3.0,
+      -0.25,
+      2.5,
+      7.25
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 143,
+    "station": 3,
+    "expected_xy": [
+      170.59077288410796,
+      145.98019840305636
+    ],
+    "response_at_expected": 5.811380824085983,
+    "nearest_eligible_peak_distance_px": 0.75,
+    "eligible_peak_offsets_px": [
+      -3.0,
+      -0.75,
+      2.0,
+      7.25
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 143,
+    "station": 4,
+    "expected_xy": [
+      171.36305634093512,
+      146.02523376036442
+    ],
+    "response_at_expected": 7.589576877115768,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -3.25,
+      -1.25,
+      1.5,
+      7.25
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 143,
+    "station": 5,
+    "expected_xy": [
+      172.03549907602897,
+      145.97518190000642
+    ],
+    "response_at_expected": 12.59405470151552,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -4.0,
+      -1.25,
+      1.25,
+      6.75
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 143,
+    "station": 6,
+    "expected_xy": [
+      172.69902770334753,
+      145.9166403403393
+    ],
+    "response_at_expected": 12.168523275966006,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -5.25,
+      -1.25,
+      6.0
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 143,
+    "station": 7,
+    "expected_xy": [
+      173.38193622055206,
+      145.87655597705395
+    ],
+    "response_at_expected": 9.992841368090247,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -5.5,
+      -1.25,
+      6.0
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 143,
+    "station": 8,
+    "expected_xy": [
+      173.85667324093077,
+      145.6382113439421
+    ],
+    "response_at_expected": 8.318820273313502,
+    "nearest_eligible_peak_distance_px": 0.75,
+    "eligible_peak_offsets_px": [
+      -5.25,
+      -0.75,
+      1.0,
+      6.5
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 143,
+    "station": 9,
+    "expected_xy": [
+      174.02828972347513,
+      145.11117800686566
+    ],
+    "response_at_expected": 9.36733058231536,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      1.25,
+      6.75
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 143,
+    "station": 10,
+    "expected_xy": [
+      174.51522865083388,
+      144.88445433727253
+    ],
+    "response_at_expected": 12.224889045677507,
+    "nearest_eligible_peak_distance_px": 1.5,
+    "eligible_peak_offsets_px": [
+      1.5,
+      6.5
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 143,
+    "station": 11,
+    "expected_xy": [
+      174.92030563544765,
+      144.57976624361262
+    ],
+    "response_at_expected": 15.18287826000663,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      0.0,
+      2.0,
+      6.5
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 143,
+    "station": 12,
+    "expected_xy": [
+      175.23678427872704,
+      144.190698053124
+    ],
+    "response_at_expected": 13.244544330157789,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -5.75,
+      -0.25,
+      2.75,
+      7.0
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 143,
+    "station": 13,
+    "expected_xy": [
+      175.7959334841871,
+      144.03274666714762
+    ],
+    "response_at_expected": 4.853191707524055,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -5.75,
+      -1.0,
+      3.0,
+      7.25
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 143,
+    "station": 14,
+    "expected_xy": [
+      176.46780152119044,
+      143.9821474705778
+    ],
+    "response_at_expected": -1.1440789019221598,
+    "nearest_eligible_peak_distance_px": 1.5,
+    "eligible_peak_offsets_px": [
+      -5.75,
+      -1.5,
+      2.5
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 143,
+    "station": 15,
+    "expected_xy": [
+      177.07114763000789,
+      143.86628873474191
+    ],
+    "response_at_expected": -3.610561639345766,
+    "nearest_eligible_peak_distance_px": 2.25,
+    "eligible_peak_offsets_px": [
+      -5.75,
+      -4.25,
+      2.25,
+      6.75
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 143,
+    "station": 16,
+    "expected_xy": [
+      177.45149520759225,
+      143.53804862274592
+    ],
+    "response_at_expected": 0.46568967235092257,
+    "nearest_eligible_peak_distance_px": 2.25,
+    "eligible_peak_offsets_px": [
+      -5.5,
+      2.25,
+      6.5
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 144,
+    "station": 0,
+    "expected_xy": [
+      168.8716381823209,
+      146.41435023416824
+    ],
+    "response_at_expected": 4.752762593281562,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -3.5,
+      0.0,
+      3.0,
+      6.75
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 144,
+    "station": 1,
+    "expected_xy": [
+      169.2772134341572,
+      146.11013668479274
+    ],
+    "response_at_expected": 9.719170700273835,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -3.0,
+      0.0,
+      2.75,
+      7.0
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 144,
+    "station": 2,
+    "expected_xy": [
+      169.91279887254342,
+      146.0249823358532
+    ],
+    "response_at_expected": 17.842362302300437,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -3.0,
+      0.0,
+      2.5,
+      7.0
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 144,
+    "station": 3,
+    "expected_xy": [
+      170.59077288410796,
+      145.98019840305636
+    ],
+    "response_at_expected": 18.001061399794892,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -3.0,
+      0.0,
+      1.75,
+      6.75
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 144,
+    "station": 4,
+    "expected_xy": [
+      171.36305634093512,
+      146.02523376036442
+    ],
+    "response_at_expected": 18.610093680580935,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -3.25,
+      0.0,
+      6.25
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 144,
+    "station": 5,
+    "expected_xy": [
+      172.03549907602897,
+      145.97518190000642
+    ],
+    "response_at_expected": 21.12380718867864,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -4.25,
+      0.0,
+      6.0
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 144,
+    "station": 6,
+    "expected_xy": [
+      172.69902770334753,
+      145.9166403403393
+    ],
+    "response_at_expected": 17.47702715352643,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -5.0,
+      0.0,
+      6.0
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 144,
+    "station": 7,
+    "expected_xy": [
+      173.38193622055206,
+      145.87655597705395
+    ],
+    "response_at_expected": 14.224840795908316,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.25,
+      -5.75,
+      0.0,
+      6.0
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 144,
+    "station": 8,
+    "expected_xy": [
+      173.85667324093077,
+      145.6382113439421
+    ],
+    "response_at_expected": 11.928052101045163,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -5.25,
+      0.0,
+      6.25
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 144,
+    "station": 9,
+    "expected_xy": [
+      174.02828972347513,
+      145.11117800686566
+    ],
+    "response_at_expected": 11.381882204703897,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -3.0,
+      0.0,
+      6.5
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 144,
+    "station": 10,
+    "expected_xy": [
+      174.51522865083388,
+      144.88445433727253
+    ],
+    "response_at_expected": 10.528672531622476,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -2.75,
+      0.0,
+      3.0,
+      6.25
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 144,
+    "station": 11,
+    "expected_xy": [
+      174.92030563544765,
+      144.57976624361262
+    ],
+    "response_at_expected": 9.594637964927468,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      0.0,
+      3.5,
+      6.5
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 144,
+    "station": 12,
+    "expected_xy": [
+      175.23678427872704,
+      144.190698053124
+    ],
+    "response_at_expected": 10.049270899494108,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.5,
+      0.0,
+      3.75,
+      7.0
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 144,
+    "station": 13,
+    "expected_xy": [
+      175.7959334841871,
+      144.03274666714762
+    ],
+    "response_at_expected": 15.746334424706019,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.25,
+      -4.25,
+      0.0,
+      3.25,
+      7.25
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 144,
+    "station": 14,
+    "expected_xy": [
+      176.46780152119044,
+      143.9821474705778
+    ],
+    "response_at_expected": 20.106211063868273,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.5,
+      -4.25,
+      -2.0,
+      0.0,
+      3.0,
+      7.25
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 144,
+    "station": 15,
+    "expected_xy": [
+      177.07114763000789,
+      143.86628873474191
+    ],
+    "response_at_expected": 20.655436804672757,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -4.25,
+      -2.75,
+      0.0,
+      3.0,
+      7.25
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 144,
+    "station": 16,
+    "expected_xy": [
+      177.45149520759225,
+      143.53804862274592
+    ],
+    "response_at_expected": 16.6976026271927,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -2.25,
+      0.0,
+      3.5
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 145,
+    "station": 0,
+    "expected_xy": [
+      168.8716381823209,
+      146.41435023416824
+    ],
+    "response_at_expected": 19.94452484138026,
+    "nearest_eligible_peak_distance_px": 0.5,
+    "eligible_peak_offsets_px": [
+      -3.5,
+      -0.5,
+      2.75,
+      6.25
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 145,
+    "station": 1,
+    "expected_xy": [
+      169.2772134341572,
+      146.11013668479274
+    ],
+    "response_at_expected": 18.803156194409194,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -3.0,
+      -0.25,
+      2.5,
+      6.25
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 145,
+    "station": 2,
+    "expected_xy": [
+      169.91279887254342,
+      146.0249823358532
+    ],
+    "response_at_expected": 13.921914469082946,
+    "nearest_eligible_peak_distance_px": 0.5,
+    "eligible_peak_offsets_px": [
+      -0.5,
+      2.0,
+      5.75
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 145,
+    "station": 3,
+    "expected_xy": [
+      170.59077288410796,
+      145.98019840305636
+    ],
+    "response_at_expected": 7.633241513888844,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -3.5,
+      -1.0,
+      1.5,
+      6.0
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 145,
+    "station": 4,
+    "expected_xy": [
+      171.36305634093512,
+      146.02523376036442
+    ],
+    "response_at_expected": 6.371914155044649,
+    "nearest_eligible_peak_distance_px": 0.75,
+    "eligible_peak_offsets_px": [
+      -4.0,
+      -1.5,
+      0.75,
+      5.75
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 145,
+    "station": 5,
+    "expected_xy": [
+      172.03549907602897,
+      145.97518190000642
+    ],
+    "response_at_expected": 10.761635732553069,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -4.25,
+      0.0,
+      5.75
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 145,
+    "station": 6,
+    "expected_xy": [
+      172.69902770334753,
+      145.9166403403393
+    ],
+    "response_at_expected": 7.541396938949154,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -4.75,
+      0.0,
+      6.0
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 145,
+    "station": 7,
+    "expected_xy": [
+      173.38193622055206,
+      145.87655597705395
+    ],
+    "response_at_expected": 6.192853384571753,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -7.25,
+      -5.25,
+      0.25,
+      6.0,
+      7.75
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 145,
+    "station": 8,
+    "expected_xy": [
+      173.85667324093077,
+      145.6382113439421
+    ],
+    "response_at_expected": 5.6834123500610545,
+    "nearest_eligible_peak_distance_px": 0.5,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -5.25,
+      0.5,
+      5.75
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 145,
+    "station": 9,
+    "expected_xy": [
+      174.02828972347513,
+      145.11117800686566
+    ],
+    "response_at_expected": 4.53774076515047,
+    "nearest_eligible_peak_distance_px": 0.5,
+    "eligible_peak_offsets_px": [
+      -0.5,
+      1.25,
+      5.75
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 145,
+    "station": 10,
+    "expected_xy": [
+      174.51522865083388,
+      144.88445433727253
+    ],
+    "response_at_expected": 0.4654644379980897,
+    "nearest_eligible_peak_distance_px": 0.75,
+    "eligible_peak_offsets_px": [
+      -0.75,
+      2.5,
+      6.0
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 145,
+    "station": 11,
+    "expected_xy": [
+      174.92030563544765,
+      144.57976624361262
+    ],
+    "response_at_expected": 5.804502401587835,
+    "nearest_eligible_peak_distance_px": 0.75,
+    "eligible_peak_offsets_px": [
+      -0.75,
+      2.5,
+      6.5
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 145,
+    "station": 12,
+    "expected_xy": [
+      175.23678427872704,
+      144.190698053124
+    ],
+    "response_at_expected": 15.514939394901893,
+    "nearest_eligible_peak_distance_px": 0.25,
+    "eligible_peak_offsets_px": [
+      -7.5,
+      -0.25,
+      2.75
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 145,
+    "station": 13,
+    "expected_xy": [
+      175.7959334841871,
+      144.03274666714762
+    ],
+    "response_at_expected": 12.628416805137137,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -7.5,
+      -4.0,
+      -1.0,
+      2.75
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 145,
+    "station": 14,
+    "expected_xy": [
+      176.46780152119044,
+      143.9821474705778
+    ],
+    "response_at_expected": 8.266986704746571,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -4.75,
+      -1.25,
+      2.75,
+      6.25
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 145,
+    "station": 15,
+    "expected_xy": [
+      177.07114763000789,
+      143.86628873474191
+    ],
+    "response_at_expected": 5.566711376837941,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -1.25,
+      3.0,
+      6.0
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 145,
+    "station": 16,
+    "expected_xy": [
+      177.45149520759225,
+      143.53804862274592
+    ],
+    "response_at_expected": 4.051221232331425,
+    "nearest_eligible_peak_distance_px": 0.75,
+    "eligible_peak_offsets_px": [
+      -0.75,
+      3.25
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 146,
+    "station": 0,
+    "expected_xy": [
+      168.8716381823209,
+      146.41435023416824
+    ],
+    "response_at_expected": -0.9551209109128109,
+    "nearest_eligible_peak_distance_px": 1.5,
+    "eligible_peak_offsets_px": [
+      -1.5,
+      2.25,
+      5.75
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 146,
+    "station": 1,
+    "expected_xy": [
+      169.2772134341572,
+      146.11013668479274
+    ],
+    "response_at_expected": -5.799339289748658,
+    "nearest_eligible_peak_distance_px": 1.75,
+    "eligible_peak_offsets_px": [
+      -1.75,
+      2.5,
+      5.75
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 146,
+    "station": 2,
+    "expected_xy": [
+      169.91279887254342,
+      146.0249823358532
+    ],
+    "response_at_expected": -15.501384642043371,
+    "nearest_eligible_peak_distance_px": 2.25,
+    "eligible_peak_offsets_px": [
+      -2.25,
+      5.75
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 146,
+    "station": 3,
+    "expected_xy": [
+      170.59077288410796,
+      145.98019840305636
+    ],
+    "response_at_expected": -14.876007227138365,
+    "nearest_eligible_peak_distance_px": 2.75,
+    "eligible_peak_offsets_px": [
+      -2.75,
+      7.25
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 146,
+    "station": 4,
+    "expected_xy": [
+      171.36305634093512,
+      146.02523376036442
+    ],
+    "response_at_expected": -9.194873339342186,
+    "nearest_eligible_peak_distance_px": 3.0,
+    "eligible_peak_offsets_px": [
+      -3.0,
+      6.75
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 146,
+    "station": 5,
+    "expected_xy": [
+      172.03549907602897,
+      145.97518190000642
+    ],
+    "response_at_expected": -1.5834970454539383,
+    "nearest_eligible_peak_distance_px": 3.0,
+    "eligible_peak_offsets_px": [
+      -7.25,
+      -5.0,
+      -3.0,
+      6.5
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 146,
+    "station": 6,
+    "expected_xy": [
+      172.69902770334753,
+      145.9166403403393
+    ],
+    "response_at_expected": -3.610749949108171,
+    "nearest_eligible_peak_distance_px": 2.75,
+    "eligible_peak_offsets_px": [
+      -5.5,
+      -2.75,
+      5.75
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 146,
+    "station": 7,
+    "expected_xy": [
+      173.38193622055206,
+      145.87655597705395
+    ],
+    "response_at_expected": -6.003237334265762,
+    "nearest_eligible_peak_distance_px": 2.75,
+    "eligible_peak_offsets_px": [
+      -7.25,
+      -5.75,
+      -2.75,
+      5.25,
+      7.5
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 146,
+    "station": 8,
+    "expected_xy": [
+      173.85667324093077,
+      145.6382113439421
+    ],
+    "response_at_expected": -4.9388125565335415,
+    "nearest_eligible_peak_distance_px": 2.25,
+    "eligible_peak_offsets_px": [
+      -7.25,
+      -5.25,
+      -2.25,
+      5.0,
+      7.75
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 146,
+    "station": 9,
+    "expected_xy": [
+      174.02828972347513,
+      145.11117800686566
+    ],
+    "response_at_expected": 1.3453691507472165,
+    "nearest_eligible_peak_distance_px": 1.5,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -1.5,
+      5.75
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 146,
+    "station": 10,
+    "expected_xy": [
+      174.51522865083388,
+      144.88445433727253
+    ],
+    "response_at_expected": -3.7681285731837297,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -1.25,
+      6.0
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 146,
+    "station": 11,
+    "expected_xy": [
+      174.92030563544765,
+      144.57976624361262
+    ],
+    "response_at_expected": -0.10946766932729268,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -1.0,
+      6.25
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 146,
+    "station": 12,
+    "expected_xy": [
+      175.23678427872704,
+      144.190698053124
+    ],
+    "response_at_expected": 10.786073069275876,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -1.0,
+      6.5
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 146,
+    "station": 13,
+    "expected_xy": [
+      175.7959334841871,
+      144.03274666714762
+    ],
+    "response_at_expected": 6.415357668242832,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -4.0,
+      -1.25,
+      6.0
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 146,
+    "station": 14,
+    "expected_xy": [
+      176.46780152119044,
+      143.9821474705778
+    ],
+    "response_at_expected": 2.6485558803127365,
+    "nearest_eligible_peak_distance_px": 1.5,
+    "eligible_peak_offsets_px": [
+      -4.5,
+      -1.5,
+      6.0
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 146,
+    "station": 15,
+    "expected_xy": [
+      177.07114763000789,
+      143.86628873474191
+    ],
+    "response_at_expected": 2.039280763519223,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -1.25,
+      6.0
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 146,
+    "station": 16,
+    "expected_xy": [
+      177.45149520759225,
+      143.53804862274592
+    ],
+    "response_at_expected": 2.409312806374346,
+    "nearest_eligible_peak_distance_px": 0.75,
+    "eligible_peak_offsets_px": [
+      -0.75,
+      6.0
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 147,
+    "station": 0,
+    "expected_xy": [
+      168.8716381823209,
+      146.41435023416824
+    ],
+    "response_at_expected": 15.111594232084252,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -7.75,
+      -1.25,
+      5.25
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 147,
+    "station": 1,
+    "expected_xy": [
+      169.2772134341572,
+      146.11013668479274
+    ],
+    "response_at_expected": 15.113403032274233,
+    "nearest_eligible_peak_distance_px": 1.75,
+    "eligible_peak_offsets_px": [
+      -7.25,
+      -1.75,
+      2.5,
+      5.5
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 147,
+    "station": 2,
+    "expected_xy": [
+      169.91279887254342,
+      146.0249823358532
+    ],
+    "response_at_expected": 8.041370287390643,
+    "nearest_eligible_peak_distance_px": 1.75,
+    "eligible_peak_offsets_px": [
+      -7.25,
+      -1.75,
+      5.75,
+      7.25
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 147,
+    "station": 3,
+    "expected_xy": [
+      170.59077288410796,
+      145.98019840305636
+    ],
+    "response_at_expected": 5.1849956403203175,
+    "nearest_eligible_peak_distance_px": 0.0,
+    "eligible_peak_offsets_px": [
+      -7.25,
+      -5.0,
+      0.0,
+      5.0,
+      7.5
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 147,
+    "station": 4,
+    "expected_xy": [
+      171.36305634093512,
+      146.02523376036442
+    ],
+    "response_at_expected": 1.8727695100414234,
+    "nearest_eligible_peak_distance_px": 0.5,
+    "eligible_peak_offsets_px": [
+      -6.0,
+      -2.25,
+      -0.5,
+      4.5,
+      7.25
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 147,
+    "station": 5,
+    "expected_xy": [
+      172.03549907602897,
+      145.97518190000642
+    ],
+    "response_at_expected": -1.5736396904954808,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -2.75,
+      -1.0,
+      4.5,
+      7.25
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 147,
+    "station": 6,
+    "expected_xy": [
+      172.69902770334753,
+      145.9166403403393
+    ],
+    "response_at_expected": -1.0017705252023368,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -1.25,
+      1.75,
+      7.25
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 147,
+    "station": 7,
+    "expected_xy": [
+      173.38193622055206,
+      145.87655597705395
+    ],
+    "response_at_expected": -1.3609630311315315,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -7.5,
+      -1.25,
+      1.5,
+      7.25
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 147,
+    "station": 8,
+    "expected_xy": [
+      173.85667324093077,
+      145.6382113439421
+    ],
+    "response_at_expected": -3.690349902768452,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -7.5,
+      -1.0,
+      2.0,
+      4.0,
+      7.5
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 147,
+    "station": 9,
+    "expected_xy": [
+      174.02828972347513,
+      145.11117800686566
+    ],
+    "response_at_expected": -9.361952747857698,
+    "nearest_eligible_peak_distance_px": 2.5,
+    "eligible_peak_offsets_px": [
+      -7.25,
+      2.5,
+      4.25
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 147,
+    "station": 10,
+    "expected_xy": [
+      174.51522865083388,
+      144.88445433727253
+    ],
+    "response_at_expected": -12.322161236899305,
+    "nearest_eligible_peak_distance_px": 1.0,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -1.0,
+      4.5,
+      7.5
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 147,
+    "station": 11,
+    "expected_xy": [
+      174.92030563544765,
+      144.57976624361262
+    ],
+    "response_at_expected": -9.369820689688124,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -6.75,
+      -1.25,
+      2.75,
+      5.0
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 147,
+    "station": 12,
+    "expected_xy": [
+      175.23678427872704,
+      144.190698053124
+    ],
+    "response_at_expected": -5.239099116409737,
+    "nearest_eligible_peak_distance_px": 1.5,
+    "eligible_peak_offsets_px": [
+      -6.75,
+      -1.5,
+      2.25,
+      5.5
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 147,
+    "station": 13,
+    "expected_xy": [
+      175.7959334841871,
+      144.03274666714762
+    ],
+    "response_at_expected": -15.255303768875164,
+    "nearest_eligible_peak_distance_px": 1.5,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -1.5,
+      1.5
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 147,
+    "station": 14,
+    "expected_xy": [
+      176.46780152119044,
+      143.9821474705778
+    ],
+    "response_at_expected": -19.52160457804795,
+    "nearest_eligible_peak_distance_px": 1.5,
+    "eligible_peak_offsets_px": [
+      -7.25,
+      -1.5,
+      1.5
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 147,
+    "station": 15,
+    "expected_xy": [
+      177.07114763000789,
+      143.86628873474191
+    ],
+    "response_at_expected": -16.093424193887337,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -7.0,
+      -3.25,
+      -1.25,
+      1.75
+    ]
+  },
+  {
+    "control": "F05",
+    "z": 147,
+    "station": 16,
+    "expected_xy": [
+      177.45149520759225,
+      143.53804862274592
+    ],
+    "response_at_expected": -7.329433764766927,
+    "nearest_eligible_peak_distance_px": 1.25,
+    "eligible_peak_offsets_px": [
+      -6.5,
+      -3.5,
+      -1.25,
+      2.0,
+      5.25
+    ]
+  }
+]

@@ -1,0 +1,815 @@
+[
+  {
+    "endpoint": "F01_start",
+    "source_attachment_unique": false,
+    "source_distance_px": 3.3546069739468427,
+    "track": null,
+    "candidates": [
+      {
+        "candidate": "F01_start_C01",
+        "xy": [
+          241.80649011199196,
+          114.55869578830124
+        ],
+        "z_support": [],
+        "observed_z": [],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F01_start_C02",
+        "xy": [
+          245.679964055779,
+          111.01487022730039
+        ],
+        "z_support": [],
+        "observed_z": [],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F01_start_C03",
+        "xy": [
+          250.10679142010702,
+          106.96478387187085
+        ],
+        "z_support": [],
+        "observed_z": [],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      }
+    ],
+    "decision": "UNKNOWN",
+    "winner": null,
+    "physical_oracle_correct": null
+  },
+  {
+    "endpoint": "F01_end",
+    "source_attachment_unique": false,
+    "source_distance_px": 2.345246637228801,
+    "track": null,
+    "candidates": [
+      {
+        "candidate": "F01_end_C01",
+        "xy": [
+          267.7101117798722,
+          121.85717068706562
+        ],
+        "z_support": [],
+        "observed_z": [],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F01_end_C02",
+        "xy": [
+          266.2930036360701,
+          125.05745262914037
+        ],
+        "z_support": [],
+        "observed_z": [],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F01_end_C03",
+        "xy": [
+          264.9771175025396,
+          128.02914300392408
+        ],
+        "z_support": [],
+        "observed_z": [],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F01_end_C04",
+        "xy": [
+          263.25634332792276,
+          131.915199647872
+        ],
+        "z_support": [],
+        "observed_z": [],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      }
+    ],
+    "decision": "UNKNOWN",
+    "winner": null,
+    "physical_oracle_correct": null
+  },
+  {
+    "endpoint": "F02_start",
+    "source_attachment_unique": true,
+    "source_distance_px": 0.5068403075054728,
+    "track": "T0552",
+    "candidates": [
+      {
+        "candidate": "F02_start_C03",
+        "xy": [
+          261.9942499473032,
+          124.82175602331874
+        ],
+        "z_support": [
+          144
+        ],
+        "observed_z": [
+          144
+        ],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 1.0,
+        "single_slice_supported": true
+      },
+      {
+        "candidate": "F02_start_C01",
+        "xy": [
+          257.28047488993184,
+          133.64107145641802
+        ],
+        "z_support": [],
+        "observed_z": [
+          144
+        ],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F02_start_C02",
+        "xy": [
+          259.0481405364461,
+          130.33382816900578
+        ],
+        "z_support": [],
+        "observed_z": [
+          144
+        ],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F02_start_C04",
+        "xy": [
+          263.1726937116461,
+          122.61692716504393
+        ],
+        "z_support": [],
+        "observed_z": [
+          144
+        ],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      }
+    ],
+    "decision": "UNKNOWN",
+    "winner": null,
+    "physical_oracle_correct": null
+  },
+  {
+    "endpoint": "F02_end",
+    "source_attachment_unique": false,
+    "source_distance_px": 7.382391895167957,
+    "track": null,
+    "candidates": [
+      {
+        "candidate": "F02_end_C01",
+        "xy": [
+          281.07721602639447,
+          139.1309639633864
+        ],
+        "z_support": [],
+        "observed_z": [],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F02_end_C02",
+        "xy": [
+          276.99640403051654,
+          142.43391316891447
+        ],
+        "z_support": [],
+        "observed_z": [],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F02_end_C03",
+        "xy": [
+          272.5269432731264,
+          146.05142896544524
+        ],
+        "z_support": [],
+        "observed_z": [],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      }
+    ],
+    "decision": "UNKNOWN",
+    "winner": null,
+    "physical_oracle_correct": null
+  },
+  {
+    "endpoint": "F03_start",
+    "source_attachment_unique": false,
+    "source_distance_px": 3.2681702044871086,
+    "track": null,
+    "candidates": [
+      {
+        "candidate": "F03_start_C01",
+        "xy": [
+          272.0108490333543,
+          146.0407062355018
+        ],
+        "z_support": [],
+        "observed_z": [],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F03_start_C02",
+        "xy": [
+          273.3838745934009,
+          143.0949803807321
+        ],
+        "z_support": [],
+        "observed_z": [],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F03_start_C03",
+        "xy": [
+          276.0243083627213,
+          137.43012296771343
+        ],
+        "z_support": [],
+        "observed_z": [],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F03_start_C04",
+        "xy": [
+          277.2917165719951,
+          134.71099140946447
+        ],
+        "z_support": [],
+        "observed_z": [],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      }
+    ],
+    "decision": "UNKNOWN",
+    "winner": null,
+    "physical_oracle_correct": null
+  },
+  {
+    "endpoint": "F03_end",
+    "source_attachment_unique": false,
+    "source_distance_px": 4.401264220978907,
+    "track": null,
+    "candidates": [
+      {
+        "candidate": "F03_end_C01",
+        "xy": [
+          239.61424880048617,
+          163.0258445049905
+        ],
+        "z_support": [],
+        "observed_z": [],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F03_end_C02",
+        "xy": [
+          239.99719484508665,
+          156.78758735038994
+        ],
+        "z_support": [],
+        "observed_z": [],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F03_end_C03",
+        "xy": [
+          240.28823383898302,
+          152.04651191289355
+        ],
+        "z_support": [],
+        "observed_z": [],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      }
+    ],
+    "decision": "UNKNOWN",
+    "winner": null,
+    "physical_oracle_correct": null
+  },
+  {
+    "endpoint": "F04_start",
+    "source_attachment_unique": true,
+    "source_distance_px": 0.3706155697401348,
+    "track": "T0571",
+    "candidates": [
+      {
+        "candidate": "F04_start_C01",
+        "xy": [
+          228.35773454850357,
+          154.05253141913363
+        ],
+        "z_support": [],
+        "observed_z": [
+          144,
+          145
+        ],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F04_start_C02",
+        "xy": [
+          227.4704989775875,
+          159.98656992943174
+        ],
+        "z_support": [],
+        "observed_z": [
+          144,
+          145
+        ],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F04_start_C03",
+        "xy": [
+          226.84204044818864,
+          164.18984720755958
+        ],
+        "z_support": [],
+        "observed_z": [
+          144,
+          145
+        ],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      }
+    ],
+    "decision": "UNKNOWN",
+    "winner": null,
+    "physical_oracle_correct": null
+  },
+  {
+    "endpoint": "F04_end",
+    "source_attachment_unique": false,
+    "source_distance_px": 2.023831527596962,
+    "track": null,
+    "candidates": [
+      {
+        "candidate": "F04_end_C01",
+        "xy": [
+          198.0237216016315,
+          165.13976674499162
+        ],
+        "z_support": [],
+        "observed_z": [],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F04_end_C02",
+        "xy": [
+          196.78894620456433,
+          160.03703907062004
+        ],
+        "z_support": [],
+        "observed_z": [],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F04_end_C03",
+        "xy": [
+          195.55417080749712,
+          154.93431139624846
+        ],
+        "z_support": [],
+        "observed_z": [],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      }
+    ],
+    "decision": "UNKNOWN",
+    "winner": null,
+    "physical_oracle_correct": null
+  },
+  {
+    "endpoint": "F05_start",
+    "source_attachment_unique": false,
+    "source_distance_px": 2.734041187004934,
+    "track": null,
+    "candidates": [
+      {
+        "candidate": "F05_start_C01",
+        "xy": [
+          182.96822987688654,
+          158.06659882922202
+        ],
+        "z_support": [],
+        "observed_z": [],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F05_start_C02",
+        "xy": [
+          180.2811103347294,
+          161.98347112304998
+        ],
+        "z_support": [],
+        "observed_z": [],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      }
+    ],
+    "decision": "UNKNOWN",
+    "winner": null,
+    "physical_oracle_correct": null
+  },
+  {
+    "endpoint": "F05_end",
+    "source_attachment_unique": true,
+    "source_distance_px": 0.3861407568337953,
+    "track": "T0559",
+    "candidates": [
+      {
+        "candidate": "F05_end_C01",
+        "xy": [
+          188.00418757635916,
+          135.01219531130437
+        ],
+        "z_support": [],
+        "observed_z": [
+          144
+        ],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F05_end_C02",
+        "xy": [
+          189.08373832449948,
+          136.98629515229257
+        ],
+        "z_support": [],
+        "observed_z": [
+          144
+        ],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F05_end_C03",
+        "xy": [
+          190.7630394882733,
+          140.05711712716314
+        ],
+        "z_support": [],
+        "observed_z": [
+          144
+        ],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F05_end_C04",
+        "xy": [
+          192.32239056892044,
+          142.9085946752572
+        ],
+        "z_support": [],
+        "observed_z": [
+          144
+        ],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      }
+    ],
+    "decision": "UNKNOWN",
+    "winner": null,
+    "physical_oracle_correct": null
+  },
+  {
+    "endpoint": "F06_start",
+    "source_attachment_unique": true,
+    "source_distance_px": 0.13083978109839745,
+    "track": "T0556",
+    "candidates": [
+      {
+        "candidate": "F06_start_C01",
+        "xy": [
+          191.3795021618503,
+          147.77894531849876
+        ],
+        "z_support": [],
+        "observed_z": [
+          144
+        ],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F06_start_C02",
+        "xy": [
+          189.701279405779,
+          144.9957693662808
+        ],
+        "z_support": [],
+        "observed_z": [
+          144
+        ],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F06_start_C03",
+        "xy": [
+          186.603022009955,
+          139.85759837757072
+        ],
+        "z_support": [],
+        "observed_z": [
+          144
+        ],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F06_start_C04",
+        "xy": [
+          184.79570519572434,
+          136.86033196748983
+        ],
+        "z_support": [],
+        "observed_z": [
+          144
+        ],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      }
+    ],
+    "decision": "UNKNOWN",
+    "winner": null,
+    "physical_oracle_correct": null
+  },
+  {
+    "endpoint": "F06_end",
+    "source_attachment_unique": false,
+    "source_distance_px": 9.027082054927979,
+    "track": null,
+    "candidates": [
+      {
+        "candidate": "F06_end_C01",
+        "xy": [
+          202.3866620092836,
+          123.9898734982469
+        ],
+        "z_support": [],
+        "observed_z": [],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F06_end_C02",
+        "xy": [
+          204.86877575427937,
+          125.67483977592227
+        ],
+        "z_support": [],
+        "observed_z": [],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F06_end_C03",
+        "xy": [
+          207.97141793552404,
+          127.78104762301649
+        ],
+        "z_support": [],
+        "observed_z": [],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      }
+    ],
+    "decision": "UNKNOWN",
+    "winner": null,
+    "physical_oracle_correct": null
+  },
+  {
+    "endpoint": "F07_start",
+    "source_attachment_unique": false,
+    "source_distance_px": 14.124811892958666,
+    "track": null,
+    "candidates": [
+      {
+        "candidate": "F07_start_C01",
+        "xy": [
+          208.17466772528306,
+          134.41709496491688
+        ],
+        "z_support": [],
+        "observed_z": [],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F07_start_C02",
+        "xy": [
+          206.002225722515,
+          128.0262424596083
+        ],
+        "z_support": [],
+        "observed_z": [],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F07_start_C03",
+        "xy": [
+          204.23208779433358,
+          122.81888115898649
+        ],
+        "z_support": [],
+        "observed_z": [],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      }
+    ],
+    "decision": "UNKNOWN",
+    "winner": null,
+    "physical_oracle_correct": null
+  },
+  {
+    "endpoint": "F07_end",
+    "source_attachment_unique": false,
+    "source_distance_px": 11.341715600407017,
+    "track": null,
+    "candidates": [
+      {
+        "candidate": "F07_end_C01",
+        "xy": [
+          227.03707091306413,
+          115.26594399682236
+        ],
+        "z_support": [],
+        "observed_z": [],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F07_end_C02",
+        "xy": [
+          228.16199054128387,
+          118.04705094011777
+        ],
+        "z_support": [],
+        "observed_z": [],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F07_end_C03",
+        "xy": [
+          230.13059989066838,
+          122.91398809088476
+        ],
+        "z_support": [],
+        "observed_z": [],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F07_end_C04",
+        "xy": [
+          230.7868030071299,
+          124.53630047447376
+        ],
+        "z_support": [],
+        "observed_z": [],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      },
+      {
+        "candidate": "F07_end_C05",
+        "xy": [
+          232.19295254240453,
+          128.01268415359303
+        ],
+        "z_support": [],
+        "observed_z": [],
+        "neighbor_support": 0,
+        "consecutive_neighbor_support": 0,
+        "vote_fraction": 0.0,
+        "single_slice_supported": false
+      }
+    ],
+    "decision": "UNKNOWN",
+    "winner": null,
+    "physical_oracle_correct": null
+  }
+]

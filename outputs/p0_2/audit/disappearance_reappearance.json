@@ -1,0 +1,633 @@
+[
+  {
+    "source": "z137_F01_end_r01",
+    "target": "z139_F01_end_r02",
+    "track": "T0001",
+    "window": "F01_end",
+    "z_missing": 138,
+    "score": 0.8550519959485549,
+    "NCC": 0.8017474310847142,
+    "normal_error_px": 0.19066812441494374,
+    "classification": "NO_CLOSE_RETAINED_FRAGMENT",
+    "middle_candidates": [
+      {
+        "node": "z138_F01_end_r02",
+        "median_expected_offset_error_px": 4.3835009212276494,
+        "common_stations": 6
+      },
+      {
+        "node": "z138_F01_end_r00",
+        "median_expected_offset_error_px": 6.37554980262098,
+        "common_stations": 11
+      },
+      {
+        "node": "z138_F01_end_r01",
+        "median_expected_offset_error_px": 9.820114583015211,
+        "common_stations": 8
+      }
+    ],
+    "physical_disappearance": "UNKNOWN; loss of detector/association evidence is not a proven tear"
+  },
+  {
+    "source": "z138_F06_end_r00",
+    "target": "z140_F06_end_r02",
+    "track": "T0122",
+    "window": "F06_end",
+    "z_missing": 139,
+    "score": 0.8322531742720793,
+    "NCC": 0.8273281614491289,
+    "normal_error_px": 0.17492142558003287,
+    "classification": "NO_CLOSE_RETAINED_FRAGMENT",
+    "middle_candidates": [
+      {
+        "node": "z139_F06_end_r00",
+        "median_expected_offset_error_px": 4.404045695679553,
+        "common_stations": 7
+      }
+    ],
+    "physical_disappearance": "UNKNOWN; loss of detector/association evidence is not a proven tear"
+  },
+  {
+    "source": "z139_F04_end_r03",
+    "target": "z141_F04_end_r06",
+    "track": "T0169",
+    "window": "F04_end",
+    "z_missing": 140,
+    "score": 0.8938893668836347,
+    "NCC": 0.7407237376948952,
+    "normal_error_px": 0.04827267246241984,
+    "classification": "NO_CLOSE_RETAINED_FRAGMENT",
+    "middle_candidates": [
+      {
+        "node": "z140_F04_end_r05",
+        "median_expected_offset_error_px": 4.1144108925844325,
+        "common_stations": 6
+      }
+    ],
+    "physical_disappearance": "UNKNOWN; loss of detector/association evidence is not a proven tear"
+  },
+  {
+    "source": "z139_F07_end_r03",
+    "target": "z141_F07_end_r02",
+    "track": "T0186",
+    "window": "F07_end",
+    "z_missing": 140,
+    "score": 0.8446267587300041,
+    "NCC": 0.7627676879075505,
+    "normal_error_px": 0.23309855344080477,
+    "classification": "NO_CLOSE_RETAINED_FRAGMENT",
+    "middle_candidates": [
+      {
+        "node": "z140_F07_end_r04",
+        "median_expected_offset_error_px": 3.961445350948008,
+        "common_stations": 7
+      },
+      {
+        "node": "z140_F07_end_r03",
+        "median_expected_offset_error_px": 7.15093726658424,
+        "common_stations": 5
+      },
+      {
+        "node": "z140_F07_end_r02",
+        "median_expected_offset_error_px": 9.952933160104834,
+        "common_stations": 7
+      }
+    ],
+    "physical_disappearance": "UNKNOWN; loss of detector/association evidence is not a proven tear"
+  },
+  {
+    "source": "z140_control_F02_r00",
+    "target": "z142_control_F02_r01",
+    "track": "T0076",
+    "window": "control_F02",
+    "z_missing": 141,
+    "score": 0.8580020872545889,
+    "NCC": 0.7993750594584488,
+    "normal_error_px": 0.16112631393354793,
+    "classification": "NO_CLOSE_RETAINED_FRAGMENT",
+    "middle_candidates": [
+      {
+        "node": "z141_control_F02_r01",
+        "median_expected_offset_error_px": 2.1085704041810023,
+        "common_stations": 9
+      },
+      {
+        "node": "z141_control_F02_r00",
+        "median_expected_offset_error_px": 4.7997705790767,
+        "common_stations": 9
+      },
+      {
+        "node": "z141_control_F02_r03",
+        "median_expected_offset_error_px": 5.8819282719537975,
+        "common_stations": 5
+      }
+    ],
+    "physical_disappearance": "UNKNOWN; loss of detector/association evidence is not a proven tear"
+  },
+  {
+    "source": "z140_F01_start_r02",
+    "target": "z142_F01_start_r02",
+    "track": "T0206",
+    "window": "F01_start",
+    "z_missing": 141,
+    "score": 0.8197028895615064,
+    "NCC": 0.7264850786939686,
+    "normal_error_px": 0.20392637697507088,
+    "classification": "RETAINED_DETECTION_BUT_ASSOCIATION_GAP",
+    "middle_candidates": [
+      {
+        "node": "z141_F01_start_r01",
+        "median_expected_offset_error_px": 0.32852473436007834,
+        "common_stations": 7
+      },
+      {
+        "node": "z141_F01_start_r00",
+        "median_expected_offset_error_px": 3.41768429212209,
+        "common_stations": 7
+      }
+    ],
+    "physical_disappearance": "UNKNOWN; loss of detector/association evidence is not a proven tear"
+  },
+  {
+    "source": "z140_F03_start_r01",
+    "target": "z142_F03_start_r01",
+    "track": "T0029",
+    "window": "F03_start",
+    "z_missing": 141,
+    "score": 0.8736045525878612,
+    "NCC": 0.8430053187489556,
+    "normal_error_px": 0.0984125507392544,
+    "classification": "NO_CLOSE_RETAINED_FRAGMENT",
+    "middle_candidates": [
+      {
+        "node": "z141_F03_start_r01",
+        "median_expected_offset_error_px": 1.1670103913251169,
+        "common_stations": 5
+      },
+      {
+        "node": "z141_F03_start_r00",
+        "median_expected_offset_error_px": 5.162967048033407,
+        "common_stations": 6
+      }
+    ],
+    "physical_disappearance": "UNKNOWN; loss of detector/association evidence is not a proven tear"
+  },
+  {
+    "source": "z141_F02_start_r03",
+    "target": "z143_F02_start_r06",
+    "track": "T0264",
+    "window": "F02_start",
+    "z_missing": 142,
+    "score": 0.774965588210536,
+    "NCC": 0.7509260066370721,
+    "normal_error_px": 0.6055163458161293,
+    "classification": "RETAINED_DETECTION_BUT_ASSOCIATION_GAP",
+    "middle_candidates": [
+      {
+        "node": "z142_F02_start_r03",
+        "median_expected_offset_error_px": 0.5882385061071563,
+        "common_stations": 7
+      },
+      {
+        "node": "z142_F02_start_r04",
+        "median_expected_offset_error_px": 3.5685879631714656,
+        "common_stations": 5
+      },
+      {
+        "node": "z142_F02_start_r05",
+        "median_expected_offset_error_px": 4.066979098276938,
+        "common_stations": 6
+      }
+    ],
+    "physical_disappearance": "UNKNOWN; loss of detector/association evidence is not a proven tear"
+  },
+  {
+    "source": "z143_F03_start_r03",
+    "target": "z145_F03_start_r02",
+    "track": "T0387",
+    "window": "F03_start",
+    "z_missing": 144,
+    "score": 0.8794863155660925,
+    "NCC": 0.8997486290730924,
+    "normal_error_px": 0.2907408677272325,
+    "classification": "NO_CLOSE_RETAINED_FRAGMENT",
+    "middle_candidates": [
+      {
+        "node": "z144_F03_start_r03",
+        "median_expected_offset_error_px": 6.352453562323469,
+        "common_stations": 9
+      }
+    ],
+    "physical_disappearance": "UNKNOWN; loss of detector/association evidence is not a proven tear"
+  },
+  {
+    "source": "z143_F06_end_r00",
+    "target": "z145_F06_end_r00",
+    "track": "T0406",
+    "window": "F06_end",
+    "z_missing": 144,
+    "score": 0.8400818379503168,
+    "NCC": 0.7203669979416717,
+    "normal_error_px": 0.18749616687563053,
+    "classification": "RETAINED_DETECTION_BUT_ASSOCIATION_GAP",
+    "middle_candidates": [
+      {
+        "node": "z144_F06_end_r02",
+        "median_expected_offset_error_px": 0.5233559292853105,
+        "common_stations": 5
+      },
+      {
+        "node": "z144_F06_end_r00",
+        "median_expected_offset_error_px": 5.667170714472675,
+        "common_stations": 8
+      },
+      {
+        "node": "z144_F06_end_r01",
+        "median_expected_offset_error_px": 11.238245902142863,
+        "common_stations": 6
+      }
+    ],
+    "physical_disappearance": "UNKNOWN; loss of detector/association evidence is not a proven tear"
+  },
+  {
+    "source": "z143_F07_start_r02",
+    "target": "z145_F07_start_r03",
+    "track": "T0419",
+    "window": "F07_start",
+    "z_missing": 144,
+    "score": 0.8689627218627914,
+    "NCC": 0.7009128111726565,
+    "normal_error_px": 0.029643987907892466,
+    "classification": "NO_CLOSE_RETAINED_FRAGMENT",
+    "middle_candidates": [
+      {
+        "node": "z144_F07_start_r02",
+        "median_expected_offset_error_px": 3.737599373467691,
+        "common_stations": 7
+      }
+    ],
+    "physical_disappearance": "UNKNOWN; loss of detector/association evidence is not a proven tear"
+  },
+  {
+    "source": "z144_F04_end_r02",
+    "target": "z146_F04_end_r02",
+    "track": "T0444",
+    "window": "F04_end",
+    "z_missing": 145,
+    "score": 0.8894632779601185,
+    "NCC": 0.7581172447051411,
+    "normal_error_px": 0.10045815436892536,
+    "classification": "NO_CLOSE_RETAINED_FRAGMENT",
+    "middle_candidates": [],
+    "physical_disappearance": "UNKNOWN; loss of detector/association evidence is not a proven tear"
+  },
+  {
+    "source": "z144_F05_end_r00",
+    "target": "z146_F05_end_r00",
+    "track": "T0450",
+    "window": "F05_end",
+    "z_missing": 145,
+    "score": 0.8349934344627263,
+    "NCC": 0.8016039171187747,
+    "normal_error_px": 0.35397678036220614,
+    "classification": "NO_CLOSE_RETAINED_FRAGMENT",
+    "middle_candidates": [
+      {
+        "node": "z145_F05_end_r01",
+        "median_expected_offset_error_px": 1.1999716546016903,
+        "common_stations": 6
+      },
+      {
+        "node": "z145_F05_end_r00",
+        "median_expected_offset_error_px": 7.610213787198823,
+        "common_stations": 10
+      }
+    ],
+    "physical_disappearance": "UNKNOWN; loss of detector/association evidence is not a proven tear"
+  },
+  {
+    "source": "z144_F06_start_r04",
+    "target": "z146_F06_start_r06",
+    "track": "T0460",
+    "window": "F06_start",
+    "z_missing": 145,
+    "score": 0.849126496197982,
+    "NCC": 0.8388755560548841,
+    "normal_error_px": 0.2994015323168455,
+    "classification": "NO_CLOSE_RETAINED_FRAGMENT",
+    "middle_candidates": [
+      {
+        "node": "z145_F06_start_r05",
+        "median_expected_offset_error_px": 1.2688836608365226,
+        "common_stations": 6
+      },
+      {
+        "node": "z145_F06_start_r03",
+        "median_expected_offset_error_px": 7.589362549890814,
+        "common_stations": 10
+      }
+    ],
+    "physical_disappearance": "UNKNOWN; loss of detector/association evidence is not a proven tear"
+  },
+  {
+    "source": "z145_control_F03_r01",
+    "target": "z147_control_F03_r03",
+    "track": "T0243",
+    "window": "control_F03",
+    "z_missing": 146,
+    "score": 0.8092254539264867,
+    "NCC": 0.7157221964520728,
+    "normal_error_px": 0.1311733660346313,
+    "classification": "NO_CLOSE_RETAINED_FRAGMENT",
+    "middle_candidates": [
+      {
+        "node": "z146_control_F03_r00",
+        "median_expected_offset_error_px": 4.642366825242574,
+        "common_stations": 7
+      },
+      {
+        "node": "z146_control_F03_r02",
+        "median_expected_offset_error_px": 6.33896427918626,
+        "common_stations": 7
+      }
+    ],
+    "physical_disappearance": "UNKNOWN; loss of detector/association evidence is not a proven tear"
+  },
+  {
+    "source": "z145_F03_end_r04",
+    "target": "z147_F03_end_r03",
+    "track": "T0494",
+    "window": "F03_end",
+    "z_missing": 146,
+    "score": 0.8203314534684163,
+    "NCC": 0.7047576365315958,
+    "normal_error_px": 0.1622937227080743,
+    "classification": "NO_CLOSE_RETAINED_FRAGMENT",
+    "middle_candidates": [
+      {
+        "node": "z146_F03_end_r00",
+        "median_expected_offset_error_px": 3.680590787764932,
+        "common_stations": 6
+      }
+    ],
+    "physical_disappearance": "UNKNOWN; loss of detector/association evidence is not a proven tear"
+  },
+  {
+    "source": "z145_F03_end_r08",
+    "target": "z147_F03_end_r05",
+    "track": "T0497",
+    "window": "F03_end",
+    "z_missing": 146,
+    "score": 0.8508952936131187,
+    "NCC": 0.7661632334367418,
+    "normal_error_px": 0.08462415717288163,
+    "classification": "NO_CLOSE_RETAINED_FRAGMENT",
+    "middle_candidates": [
+      {
+        "node": "z146_F03_end_r00",
+        "median_expected_offset_error_px": 10.011034506883025,
+        "common_stations": 8
+      },
+      {
+        "node": "z146_F03_end_r04",
+        "median_expected_offset_error_px": 13.420439782796551,
+        "common_stations": 8
+      }
+    ],
+    "physical_disappearance": "UNKNOWN; loss of detector/association evidence is not a proven tear"
+  },
+  {
+    "source": "z145_F07_end_r02",
+    "target": "z147_F07_end_r02",
+    "track": "T0463",
+    "window": "F07_end",
+    "z_missing": 146,
+    "score": 0.8461990026696613,
+    "NCC": 0.7924049587049756,
+    "normal_error_px": 0.18226480853326832,
+    "classification": "NO_CLOSE_RETAINED_FRAGMENT",
+    "middle_candidates": [
+      {
+        "node": "z146_F07_end_r02",
+        "median_expected_offset_error_px": 6.650044582618366,
+        "common_stations": 8
+      }
+    ],
+    "physical_disappearance": "UNKNOWN; loss of detector/association evidence is not a proven tear"
+  },
+  {
+    "source": "z146_control_F02_r03",
+    "target": "z148_control_F02_r01",
+    "track": "T0527",
+    "window": "control_F02",
+    "z_missing": 147,
+    "score": 0.8482956095499278,
+    "NCC": 0.7580776335458411,
+    "normal_error_px": 0.12609719862313407,
+    "classification": "NO_CLOSE_RETAINED_FRAGMENT",
+    "middle_candidates": [
+      {
+        "node": "z147_control_F02_r01",
+        "median_expected_offset_error_px": 3.6471439014975715,
+        "common_stations": 8
+      },
+      {
+        "node": "z147_control_F02_r00",
+        "median_expected_offset_error_px": 6.934233727134859,
+        "common_stations": 8
+      }
+    ],
+    "physical_disappearance": "UNKNOWN; loss of detector/association evidence is not a proven tear"
+  },
+  {
+    "source": "z147_F01_end_r02",
+    "target": "z149_F01_end_r02",
+    "track": "T0587",
+    "window": "F01_end",
+    "z_missing": 148,
+    "score": 0.8559588888421996,
+    "NCC": 0.7516148071926981,
+    "normal_error_px": 0.07835669252578104,
+    "classification": "NO_CLOSE_RETAINED_FRAGMENT",
+    "middle_candidates": [
+      {
+        "node": "z148_F01_end_r02",
+        "median_expected_offset_error_px": 0.9501672835000905,
+        "common_stations": 13
+      },
+      {
+        "node": "z148_F01_end_r01",
+        "median_expected_offset_error_px": 5.596062434206777,
+        "common_stations": 13
+      },
+      {
+        "node": "z148_F01_end_r00",
+        "median_expected_offset_error_px": 9.685723001464002,
+        "common_stations": 6
+      }
+    ],
+    "physical_disappearance": "UNKNOWN; loss of detector/association evidence is not a proven tear"
+  },
+  {
+    "source": "z147_F02_start_r03",
+    "target": "z149_F02_start_r01",
+    "track": "T0599",
+    "window": "F02_start",
+    "z_missing": 148,
+    "score": 0.8320819179205385,
+    "NCC": 0.8520380848114808,
+    "normal_error_px": 0.38692830592528527,
+    "classification": "RETAINED_DETECTION_BUT_ASSOCIATION_GAP",
+    "middle_candidates": [
+      {
+        "node": "z148_F02_start_r02",
+        "median_expected_offset_error_px": 0.2859642948298715,
+        "common_stations": 15
+      },
+      {
+        "node": "z148_F02_start_r01",
+        "median_expected_offset_error_px": 5.923434260509264,
+        "common_stations": 15
+      }
+    ],
+    "physical_disappearance": "UNKNOWN; loss of detector/association evidence is not a proven tear"
+  },
+  {
+    "source": "z147_F02_start_r04",
+    "target": "z149_F02_start_r04",
+    "track": "T0548",
+    "window": "F02_start",
+    "z_missing": 148,
+    "score": 0.8617130078381429,
+    "NCC": 0.7362261223235618,
+    "normal_error_px": 0.05887104715632452,
+    "classification": "NO_CLOSE_RETAINED_FRAGMENT",
+    "middle_candidates": [
+      {
+        "node": "z148_F02_start_r01",
+        "median_expected_offset_error_px": 1.0428681740456436,
+        "common_stations": 13
+      },
+      {
+        "node": "z148_F02_start_r02",
+        "median_expected_offset_error_px": 5.65258621312164,
+        "common_stations": 13
+      }
+    ],
+    "physical_disappearance": "UNKNOWN; loss of detector/association evidence is not a proven tear"
+  },
+  {
+    "source": "z147_F03_start_r02",
+    "target": "z149_F03_start_r03",
+    "track": "T0387",
+    "window": "F03_start",
+    "z_missing": 148,
+    "score": 0.8080477141704989,
+    "NCC": 0.7027481627531754,
+    "normal_error_px": 0.2466485843983699,
+    "classification": "NO_CLOSE_RETAINED_FRAGMENT",
+    "middle_candidates": [],
+    "physical_disappearance": "UNKNOWN; loss of detector/association evidence is not a proven tear"
+  },
+  {
+    "source": "z149_F02_start_r05",
+    "target": "z151_F02_start_r06",
+    "track": "T0713",
+    "window": "F02_start",
+    "z_missing": 150,
+    "score": 0.7836636752343156,
+    "NCC": 0.7656160853813392,
+    "normal_error_px": 0.5932290262070814,
+    "classification": "NO_CLOSE_RETAINED_FRAGMENT",
+    "middle_candidates": [
+      {
+        "node": "z150_F02_start_r04",
+        "median_expected_offset_error_px": 5.561102371573275,
+        "common_stations": 8
+      },
+      {
+        "node": "z150_F02_start_r05",
+        "median_expected_offset_error_px": 10.053881743194179,
+        "common_stations": 8
+      },
+      {
+        "node": "z150_F02_start_r06",
+        "median_expected_offset_error_px": 14.039510331043346,
+        "common_stations": 5
+      }
+    ],
+    "physical_disappearance": "UNKNOWN; loss of detector/association evidence is not a proven tear"
+  },
+  {
+    "source": "z149_F02_end_r06",
+    "target": "z151_F02_end_r04",
+    "track": "T0645",
+    "window": "F02_end",
+    "z_missing": 150,
+    "score": 0.9162221546107711,
+    "NCC": 0.8618828841128856,
+    "normal_error_px": 0.034149978565994665,
+    "classification": "NO_CLOSE_RETAINED_FRAGMENT",
+    "middle_candidates": [
+      {
+        "node": "z150_F02_end_r04",
+        "median_expected_offset_error_px": 3.4211662143817603,
+        "common_stations": 8
+      },
+      {
+        "node": "z150_F02_end_r03",
+        "median_expected_offset_error_px": 5.253610830424288,
+        "common_stations": 7
+      }
+    ],
+    "physical_disappearance": "UNKNOWN; loss of detector/association evidence is not a proven tear"
+  },
+  {
+    "source": "z149_F03_start_r01",
+    "target": "z151_F03_start_r00",
+    "track": "T0386",
+    "window": "F03_start",
+    "z_missing": 150,
+    "score": 0.8643815797629187,
+    "NCC": 0.8237536951527009,
+    "normal_error_px": 0.16383580376269785,
+    "classification": "NO_CLOSE_RETAINED_FRAGMENT",
+    "middle_candidates": [
+      {
+        "node": "z150_F03_start_r00",
+        "median_expected_offset_error_px": 6.396575801650353,
+        "common_stations": 6
+      }
+    ],
+    "physical_disappearance": "UNKNOWN; loss of detector/association evidence is not a proven tear"
+  },
+  {
+    "source": "z149_F03_end_r02",
+    "target": "z151_F03_end_r05",
+    "track": "T0494",
+    "window": "F03_end",
+    "z_missing": 150,
+    "score": 0.861036678850822,
+    "NCC": 0.7926921091469004,
+    "normal_error_px": 0.13838312436329758,
+    "classification": "RETAINED_DETECTION_BUT_ASSOCIATION_GAP",
+    "middle_candidates": [
+      {
+        "node": "z150_F03_end_r03",
+        "median_expected_offset_error_px": 0.059751995623039456,
+        "common_stations": 5
+      },
+      {
+        "node": "z150_F03_end_r06",
+        "median_expected_offset_error_px": 2.899986108679032,
+        "common_stations": 9
+      },
+      {
+        "node": "z150_F03_end_r05",
+        "median_expected_offset_error_px": 5.8274685795421135,
+        "common_stations": 9
+      }
+    ],
+    "physical_disappearance": "UNKNOWN; loss of detector/association evidence is not a proven tear"
+  }
+]

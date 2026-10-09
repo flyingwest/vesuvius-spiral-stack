@@ -1,0 +1,21 @@
+{
+  "source_sha256": "da3a232b146e2fb6e9048ec118de63752f679c7487c86f497b367fb4b4bee3a4",
+  "executed_script_sha256": "336689206c2519095f7947287981007c0c92d1781b9cb0f9600dd90391a6d095",
+  "report_script_sha256": "5146292f7b08705e82f4ee1fce4a4446e8ed3878dc3362f60a058250e9ed9a5d",
+  "report_sha256": "c3ae8d440c428024d04570111479c2629ddddcc6fc8eb63ee4c5730da3266b6e",
+  "source_z_inclusive": [
+    128,
+    177
+  ],
+  "source_zyx_shape": [
+    128,
+    493,
+    506
+  ],
+  "source_dtype": "uint8",
+  "voxel_spacing_um": 126.56,
+  "arc_sampling_um": 63.28,
+  "constructed_from_prior_tracks": false,
+  "cross_Z_geometry_inputs": false,
+  "download_bytes": 0
+}

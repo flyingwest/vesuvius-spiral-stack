@@ -1,0 +1,100 @@
+{
+  "analysis": "Retrospective semi-manual fragmentation, exploratory scores, not calibrated probabilities",
+  "z_level4": 144,
+  "source": "outputs/p0_1/source_slice.png",
+  "spacing_mm": 0.12656,
+  "excluded_intervals": [
+    {
+      "start": 0,
+      "end": 12,
+      "category": "UNTRACEABLE",
+      "reason": "Open apex: merged ridges / insufficient unique continuation"
+    },
+    {
+      "start": 44,
+      "end": 63,
+      "category": "LIKELY_SWITCH",
+      "reason": "Abrupt cross-band movement on upper-right diagonal"
+    },
+    {
+      "start": 89,
+      "end": 104,
+      "category": "AMBIGUOUS",
+      "reason": "Right shoulder bend has competing ridge continuations"
+    },
+    {
+      "start": 209,
+      "end": 262,
+      "category": "LIKELY_SWITCH",
+      "reason": "Lower arc moves between near-parallel bands"
+    },
+    {
+      "start": 304,
+      "end": 357,
+      "category": "LIKELY_SWITCH",
+      "reason": "Lower-left diagonal crosses dark trough / competing bands"
+    },
+    {
+      "start": 408,
+      "end": 426,
+      "category": "UNTRACEABLE",
+      "reason": "Left-upper contact: ridge identity not resolved"
+    },
+    {
+      "start": 456,
+      "end": 479,
+      "category": "AMBIGUOUS",
+      "reason": "Upper-left zigzag: multiple ridge continuations"
+    },
+    {
+      "start": 509,
+      "end": 555,
+      "category": "UNTRACEABLE",
+      "reason": "Upper apex merges and strong guide-shift sensitivity"
+    }
+  ],
+  "minimum_fragment_points": 15,
+  "continuation_advance_px": 6.0,
+  "normal_search_px": [
+    -8,
+    8,
+    0.25
+  ],
+  "candidate_peak_prominence": 1.5,
+  "candidate_min_ridge_response": 1.0,
+  "candidate_peak_separation_px": 1.0,
+  "spacing_profile_px": [
+    -8,
+    8,
+    0.25
+  ],
+  "spacing_peak_prominence": 2.0,
+  "endpoint_fit_points": 13,
+  "ridge_sigma": [
+    0.6,
+    2.0
+  ],
+  "gradient_sigma": 1.0,
+  "structure_tensor_sigma": 1.2,
+  "center_proxy_xy": [
+    240.0,
+    140.0
+  ],
+  "score": "equal mean of seven [0,1] heuristic evidence components; not probability",
+  "acceptance": {
+    "total_score": 0.8,
+    "winner_margin": 0.12,
+    "coherence_min": 0.35,
+    "tangent_angle_max_deg": 25,
+    "curvature_delta_max": 0.08,
+    "endpoint_abs_curvature_max": 0.15,
+    "lateral_spacing_fraction_max": 0.4,
+    "radial_spacing_fraction_max": 0.5,
+    "texture_correlation_min": 0.6,
+    "mean_CT_difference_max": 25,
+    "bridge_positive_ridge_fraction_min": 0.9,
+    "bridge_abs_orientation_cosine_min": 0.85
+  },
+  "oracle": "Unavailable at candidate; do not equate construction annotations with ground truth",
+  "scope": "Single PNG only; no neighboring z, no gap filling, no accepted link appended automatically"
+}

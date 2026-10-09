@@ -1,0 +1,88 @@
+{
+  "hypothesis": "Neighboring Z supports fragment identity and may disambiguate single-slice continuations.",
+  "scope": "15 existing real CT XY slices, independent extraction, no in-plane joins, no mesh or final stacked raster",
+  "z_inclusive": [
+    137,
+    151
+  ],
+  "z_center": 144,
+  "source": "outputs/orientation/ct_level4_zyx.npy",
+  "local_slab_z_origin": 128,
+  "roi_xy_half_open": [
+    160,
+    296,
+    100,
+    174
+  ],
+  "spacing_um": 126.56,
+  "extraction": {
+    "DoG_sigma": [
+      0.6,
+      2.0
+    ],
+    "threshold_CT_units": 3.0,
+    "min_vertices": 7,
+    "min_length_px": 6.0,
+    "branch_rule": "Remove degree>=3 skeleton nodes; no closing or gap filling; split into remaining paths"
+  },
+  "registration": {
+    "max_shift_px": 2.0,
+    "grid_step_px": 0.5,
+    "objective": "NCC of sigma-1 image at fixed ROI interior"
+  },
+  "association": {
+    "candidate_distance_px": 4.0,
+    "near_distance_px": 1.5,
+    "score_weights": {
+      "proximity": 0.2,
+      "overlap": 0.25,
+      "texture": 0.3,
+      "orientation": 0.1,
+      "curvature": 0.05,
+      "spacing": 0.05,
+      "radial_order": 0.05
+    },
+    "accept_score": 0.72,
+    "accept_margin": 0.06,
+    "accept_median_distance_px": 1.25,
+    "accept_overlap": 0.5,
+    "accept_angle_deg": 25.0,
+    "accept_NCC": 0.65,
+    "normal_spacing_fraction": 0.45,
+    "radial_spacing_fraction": 0.5,
+    "hard_reject": {
+      "distance_px": 2.5,
+      "overlap": 0.25,
+      "angle_deg": 45.0,
+      "NCC": 0.15
+    }
+  },
+  "gap_reappearance": {
+    "max_missing_slices": 1,
+    "min_score": 0.78,
+    "min_NCC": 0.75,
+    "min_overlap": 0.65,
+    "margin": 0.1
+  },
+  "controls": {
+    "ids": [
+      "F02",
+      "F03",
+      "F04",
+      "F05",
+      "F06"
+    ],
+    "anchor": "middle CSV point of each original fragment",
+    "success": ">=3 of 5 controls attached uniquely within 2 px and tracked across >=7 observed slices"
+  },
+  "endpoint_support": {
+    "source_attachment_px": 2.0,
+    "candidate_distance_px": 1.5,
+    "source_distance_px": 2.0,
+    "min_consecutive_neighbor_votes": 3,
+    "min_vote_fraction": 0.6,
+    "min_runner_up_vote_margin": 2
+  },
+  "status": "Prospective parameters for an exploratory pilot; not an independently reviewed preregistration",
+  "failure_rule": "Preserve failures; if controls fail, diagnose gates/extraction before claiming any success."
+}

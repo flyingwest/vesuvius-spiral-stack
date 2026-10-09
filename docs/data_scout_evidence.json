@@ -1,0 +1,271 @@
+{
+  "checked_at_utc": "2026-10-06T18:37:16.635108+00:00",
+  "responses": [
+    {
+      "method": "GET",
+      "url": "https://dl.ash2txt.org/full-scrolls/Scroll1/PHercParis4.volpkg/volumes_zarr_standardized/54keV_7.91um_Scroll1A.zarr/.zattrs",
+      "status": 200,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Tue, 06 Oct 2026 18:37:13 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "3018",
+        "Last-Modified": "Tue, 19 Nov 2024 10:45:33 GMT",
+        "Connection": "close",
+        "ETag": "\"673c6c4d-bca\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Accept-Ranges": "bytes"
+      },
+      "bytes_read": 3018,
+      "text": "{\n    \"multiscales\": [\n        {\n            \"axes\": [\n                {\n                    \"name\": \"z\",\n                    \"type\": \"space\"\n                },\n                {\n                    \"name\": \"y\",\n                    \"type\": \"space\"\n                },\n                {\n                    \"name\": \"x\",\n                    \"type\": \"space\"\n                }\n            ],\n            \"datasets\": [\n                {\n                    \"coordinateTransformations\": [\n                        {\n                            \"scale\": [\n                                1.0,\n                                1.0,\n                                1.0\n                            ],\n                            \"type\": \"scale\"\n                        }\n                    ],\n                    \"path\": \"0\"\n                },\n                {\n                    \"coordinateTransformations\": [\n                        {\n                            \"scale\": [\n                                2.0,\n                                2.0,\n                                2.0\n                            ],\n                            \"type\": \"scale\"\n                        }\n                    ],\n                    \"path\": \"1\"\n                },\n                {\n                    \"coordinateTransformations\": [\n                        {\n                            \"scale\": [\n                                4.0,\n                                4.0,\n                                4.0\n                            ],\n                            \"type\": \"scale\"\n                        }\n                    ],\n                    \"path\": \"2\"\n                },\n                {\n                    \"coordinateTransformations\": [\n                        {\n                            \"scale\": [\n                                8.0,\n                                8.0,\n                                8.0\n                            ],\n                            \"type\": \"scale\"\n                        }\n                    ],\n                    \"path\": \"3\"\n                },\n                {\n                    \"coordinateTransformations\": [\n                        {\n                            \"scale\": [\n                                16.0,\n                                16.0,\n                                16.0\n                            ],\n                            \"type\": \"scale\"\n                        }\n                    ],\n                    \"path\": \"4\"\n                },\n                {\n                    \"coordinateTransformations\": [\n                        {\n                            \"scale\": [\n                                32.0,\n                                32.0,\n                                32.0\n                            ],\n                            \"type\": \"scale\"\n                        }\n                    ],\n                    \"path\": \"5\"\n                }\n            ],\n            \"name\": \"/\",\n            \"version\": \"0.4\"\n        }\n    ]\n}"
+    },
+    {
+      "method": "GET",
+      "url": "https://dl.ash2txt.org/full-scrolls/Scroll1/PHercParis4.volpkg/volumes_zarr_standardized/54keV_7.91um_Scroll1A.zarr/0/.zarray",
+      "status": 200,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Tue, 06 Oct 2026 18:37:13 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "402",
+        "Last-Modified": "Tue, 19 Nov 2024 10:45:36 GMT",
+        "Connection": "close",
+        "ETag": "\"673c6c50-192\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Accept-Ranges": "bytes"
+      },
+      "bytes_read": 402,
+      "text": "{\n    \"chunks\": [\n        128,\n        128,\n        128\n    ],\n    \"compressor\": {\n        \"blocksize\": 0,\n        \"clevel\": 3,\n        \"cname\": \"zstd\",\n        \"id\": \"blosc\",\n        \"shuffle\": 0\n    },\n    \"dimension_separator\": \"/\",\n    \"dtype\": \"|u1\",\n    \"fill_value\": 0,\n    \"filters\": null,\n    \"order\": \"C\",\n    \"shape\": [\n        14376,\n        7888,\n        8096\n    ],\n    \"zarr_format\": 2\n}"
+    },
+    {
+      "method": "GET",
+      "url": "https://dl.ash2txt.org/full-scrolls/Scroll1/PHercParis4.volpkg/volumes_zarr_standardized/54keV_7.91um_Scroll1A.zarr/2/.zarray",
+      "status": 200,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Tue, 06 Oct 2026 18:37:13 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "401",
+        "Last-Modified": "Wed, 20 Nov 2024 03:33:45 GMT",
+        "Connection": "close",
+        "ETag": "\"673d5899-191\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Accept-Ranges": "bytes"
+      },
+      "bytes_read": 401,
+      "text": "{\n    \"chunks\": [\n        128,\n        128,\n        128\n    ],\n    \"compressor\": {\n        \"blocksize\": 0,\n        \"clevel\": 3,\n        \"cname\": \"zstd\",\n        \"id\": \"blosc\",\n        \"shuffle\": 0\n    },\n    \"dimension_separator\": \"/\",\n    \"dtype\": \"|u1\",\n    \"fill_value\": 0,\n    \"filters\": null,\n    \"order\": \"C\",\n    \"shape\": [\n        3594,\n        1972,\n        2024\n    ],\n    \"zarr_format\": 2\n}"
+    },
+    {
+      "method": "HEAD",
+      "url": "https://dl.ash2txt.org/full-scrolls/Scroll1/PHercParis4.volpkg/volumes_zarr_standardized/54keV_7.91um_Scroll1A.zarr/0/18/20/38",
+      "status": 200,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Tue, 06 Oct 2026 18:37:13 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "719102",
+        "Last-Modified": "Tue, 19 Nov 2024 13:26:29 GMT",
+        "Connection": "close",
+        "ETag": "\"673c9205-af8fe\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Accept-Ranges": "bytes"
+      },
+      "bytes_read": 0,
+      "text": ""
+    },
+    {
+      "method": "HEAD",
+      "url": "https://dl.ash2txt.org/full-scrolls/Scroll1/PHercParis4.volpkg/volumetric-instance-labels/instance-labels-harmonized/02256_02512_04816/02256_02512_04816_volume.nrrd",
+      "status": 200,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Tue, 06 Oct 2026 18:37:13 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "14799078",
+        "Last-Modified": "Sun, 06 Oct 2024 20:38:46 GMT",
+        "Connection": "close",
+        "ETag": "\"6702f556-e1d0e6\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Accept-Ranges": "bytes"
+      },
+      "bytes_read": 0,
+      "text": ""
+    },
+    {
+      "method": "RANGE",
+      "url": "https://dl.ash2txt.org/full-scrolls/Scroll1/PHercParis4.volpkg/volumetric-instance-labels/instance-labels-harmonized/02256_02512_04816/02256_02512_04816_volume.nrrd",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Tue, 06 Oct 2026 18:37:16 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "1024",
+        "Last-Modified": "Sun, 06 Oct 2024 20:38:46 GMT",
+        "Connection": "close",
+        "ETag": "\"6702f556-e1d0e6\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 0-1023/14799078"
+      },
+      "bytes_read": 1024,
+      "text": "NRRD0005\n# This NRRD file was generated by pynrrd\n# on 2024-06-27 11:03:30(GMT).\n# Complete NRRD file format specification at:\n# http://teem.sourceforge.net/nrrd/format.html\ntype: uint8\ndimension: 3\nspace: left-posterior-superior\nsizes: 256 256 256\nspace directions: (1,0,0) (0,1,0) (0,0,1)\nencoding: gzip\nspace origin: (2256,2512,4816)"
+    },
+    {
+      "method": "HEAD",
+      "url": "https://dl.ash2txt.org/full-scrolls/Scroll1/PHercParis4.volpkg/volumetric-instance-labels/instance-labels-harmonized/02256_02512_04816/02256_02512_04816_mask.nrrd",
+      "status": 200,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Tue, 06 Oct 2026 18:37:15 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "1173145",
+        "Last-Modified": "Sun, 06 Oct 2024 20:38:44 GMT",
+        "Connection": "close",
+        "ETag": "\"6702f554-11e699\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Accept-Ranges": "bytes"
+      },
+      "bytes_read": 0,
+      "text": ""
+    },
+    {
+      "method": "RANGE",
+      "url": "https://dl.ash2txt.org/full-scrolls/Scroll1/PHercParis4.volpkg/volumetric-instance-labels/instance-labels-harmonized/02256_02512_04816/02256_02512_04816_mask.nrrd",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Tue, 06 Oct 2026 18:37:16 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "1024",
+        "Last-Modified": "Sun, 06 Oct 2024 20:38:44 GMT",
+        "Connection": "close",
+        "ETag": "\"6702f554-11e699\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 0-1023/1173145"
+      },
+      "bytes_read": 1024,
+      "text": "NRRD0005\n# This NRRD file was generated by pynrrd\n# on 2024-10-06 20:24:06(GMT).\n# Complete NRRD file format specification at:\n# http://teem.sourceforge.net/nrrd/format.html\ntype: uint16\ndimension: 3\nspace: left-posterior-superior\nsizes: 256 256 256\nspace directions: (1,0,0) (0,1,0) (0,0,1)\nkinds: domain domain domain\nendian: little\nencoding: gzip\nspace origin: (2256,2512,4816)\nSegment0_ID:=Segment_318\nSegment0_Name:=Segment_318\nSegment0_NameAutoGenerated:=1\nSegment0_Color:=0.678431 0.474510 0.345098\nSegment0_ColorAutoGenerated:=0\nSegment0_LabelValue:=318\nSegment0_Layer:=0\nSegment0_Extent:=0 255 0 255 0 255\nSegment1_ID:=Segment_319\nSegment1_Name:=Segment_319\nSegment1_NameAutoGenerated:=1\nSegment1_Color:=0.737255 0.372549 0.298039\nSegment1_ColorAutoGenerated:=0\nSegment1_LabelValue:=319\nSegment1_Layer:=0\nSegment1_Extent:=0 255 0 255 0 255\nSegment2_ID:=Segment_320\nSegment2_Name:=Segment_320\nSegment2_NameAutoGenerated:=1\nSegment2_Color:=1.000000 0.937255 0.674510\nSegment2_ColorAutoGenerated:=0\nSegment2_LabelValue"
+    },
+    {
+      "method": "GET",
+      "url": "https://dl.ash2txt.org/datasets/grand-prize-banner-region/README.txt",
+      "status": 200,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Tue, 06 Oct 2026 18:37:15 GMT",
+        "Content-Type": "text/plain",
+        "Content-Length": "1874",
+        "Last-Modified": "Tue, 24 Dec 2024 11:15:58 GMT",
+        "Connection": "close",
+        "ETag": "\"676a97ee-752\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Accept-Ranges": "bytes"
+      },
+      "bytes_read": 1874,
+      "text": "# Scroll 1 Grand Prize Banner Region Dataset\n\nThis folder contains data related to the Grand Prize (GP) region from `Scroll1`. The dataset includes volumes and meshes associated to manual segmentation of surfaces.\n\n## Contents\n\n### 1. `volumes/`\nThis directory contains the volumetric data for the GP region.\n\n- **`gp_tifstack.7z`**: \n  - Archive of the original uint16 TIFF stacks representing the volumetric data in the GP region.\n  - The images have the original shape, but the non GP region is masked.\n  - Data is not cropped to maintain alignment integrity, coordinate system is ZYX.\n\n- **`gp_volume.zarr/`**: \n  - Multiresolution, standardized OME-Zarr containing the GP region from `Scroll1`.\n  - The script to generate the standardized zarr is shared [here](https://github.com/ScrollPrize/villa/tree/main/foundation/scroll2zarr).\n\n### 2. `gp_meshes.7z`\nArchive containing all `.obj` triangular meshes for the GP region segments, semi-manually annotated with [Volume Cartographer](https://github.com/educelab/volume-cartographer). The coordinate system, as usual when dealing with meshes, is XYZ.\n\n### 3. `predictions`\n- **`gp_legendary-medial-cubes.7z`:\n  - Archive containing a `.zarr` with segmentation medial surface predictions obtained with a multiclass semantic segmentation [nnUNet](https://dl.ash2txt.org/ml-models/segmentation/nnUNets/results/Dataset004_legendary-medial-cubes/nnUNetTrainer__nnUNetResEncUNetPlans_80G__3d_fullres_bs16/fold_0/checkpoint_best.pth).\n  - Background is 0, medial surface is 5, labels from 4 to 1 are surface layers from the medial surface towards the border (1).\n- **`gp_legendary-medial-cubes-softmax.7z`:\n  - Output from the the same model as `gp_legendary-medial-cubes.7z`, but instead of taking the most likely label as final prediction, we provide the normalized average of each label weighted by its estimated probability."
+    },
+    {
+      "method": "GET",
+      "url": "https://dl.ash2txt.org/datasets/grand-prize-banner-region/gp_volume.zarr/.zarray",
+      "status": 404
+    },
+    {
+      "method": "GET",
+      "url": "https://dl.ash2txt.org/datasets/grand-prize-banner-region/gp_volume.zarr/.zattrs",
+      "status": 404
+    },
+    {
+      "method": "GET",
+      "url": "https://dl.ash2txt.org/datasets/grand-prize-banner-region/volumes/gp_volume.zarr/.zarray",
+      "status": 200,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Tue, 06 Oct 2026 18:37:47 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "402",
+        "Last-Modified": "Tue, 19 Nov 2024 10:45:36 GMT",
+        "Connection": "close",
+        "ETag": "\"673c6c50-192\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Accept-Ranges": "bytes"
+      },
+      "bytes_read": 402,
+      "text": "{\n    \"chunks\": [\n        128,\n        128,\n        128\n    ],\n    \"compressor\": {\n        \"blocksize\": 0,\n        \"clevel\": 3,\n        \"cname\": \"zstd\",\n        \"id\": \"blosc\",\n        \"shuffle\": 0\n    },\n    \"dimension_separator\": \"/\",\n    \"dtype\": \"|u1\",\n    \"fill_value\": 0,\n    \"filters\": null,\n    \"order\": \"C\",\n    \"shape\": [\n        14376,\n        7888,\n        8096\n    ],\n    \"zarr_format\": 2\n}"
+    },
+    {
+      "method": "GET",
+      "url": "https://dl.ash2txt.org/datasets/grand-prize-banner-region/volumes/gp_volume.zarr/.zattrs",
+      "status": 404
+    },
+    {
+      "method": "GET",
+      "url": "https://dl.ash2txt.org/full-scrolls/Scroll1/PHercParis4.volpkg/volumetric-instance-labels/README.txt",
+      "status": 200,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Tue, 06 Oct 2026 18:37:48 GMT",
+        "Content-Type": "text/plain",
+        "Content-Length": "1944",
+        "Last-Modified": "Thu, 12 Dec 2024 20:58:50 GMT",
+        "Connection": "close",
+        "ETag": "\"675b4e8a-798\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Accept-Ranges": "bytes"
+      },
+      "bytes_read": 1944,
+      "text": "A brief explanation of the contents of volumetric-instance-labels/\n\ninstance-labels/\n\n    - A subset of Scroll 1, chunked into 256x256x256 cubes, each in .nrrd format.\n    - The cubes are manually annotated to label each sheet of papyrus with a distinct instance ID.\n    - Each cube folder is labelled as z_y_x:\n        - z_y_x_volume.nrrd contains the raw scroll data from the CT scan (the input).\n        - z_y_x_mask.nrrd contains the corresponding instance labels (could be used as training data for model output).\n\ninstance-labels-harmonized/ *** RECOMMENDED STARTING POINT ***\n\n    - The same cubes from instance-labels/ but with instance IDs updated such that the ID values are consistent across cube boundaries.\n    - In the process of making continuous instances across all cubes sharing faces, chunks of papyrus beneath a specific size threshold\n      were removed from the data set. We do not expect this to affect anything. \n    - A trained model capable of generating instance labels from an input CT volume could be a great starting point for segmentation\n      methods.\n    - As this is the recommended starting point for this data, instance-labels-harmonized.zip is also provided for easy download.\n\t\nsemantic-labels/\n\n    - A larger set of 256x256x256 cubes that were used as inputs to the instance labeling process:\n        - For z=1744 the entire cross section of the scroll is included.\n        - For all other z a reduced cross section is included, centred around the scroll axis.\n    - Each cube folder is labelled as z_y_x:\n        - z_y_x_volume.nrrd contains the raw scroll data.\n        - z_y_x_mask.nrrd contains the corresponding semantic mask, generated using a 3D U-Net. Instead of separating the papyrus sheets\n          from one another, this just separates foreground (papyrus) from background (air).\n\nPlease reach out to the Vesuvius Team on our discord server with any questions. And thanks for showing up :)\n"
+    },
+    {
+      "method": "GET",
+      "url": "https://dl.ash2txt.org/full-scrolls/Scroll1/PHercParis4.volpkg/volumetric-instance-labels/instance-labels-harmonized/02256_02512_04816/",
+      "status": 200,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Tue, 06 Oct 2026 18:37:48 GMT",
+        "Content-Type": "text/html",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range"
+      },
+      "bytes_read": 1424,
+      "text": "<!DOCTYPE html><html><head><meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\"><meta name=\"viewport\" content=\"width=device-width\"><style type=\"text/css\">body,html {background:#fff;font-family:\"Bitstream Vera Sans\",\"Lucida Grande\",\"Lucida Sans Unicode\",Lucidux,Verdana,Lucida,sans-serif;}tr:nth-child(even) {background:#f4f4f4;}th,td {padding:0.1em 0.5em;}th {text-align:left;font-weight:bold;background:#eee;border-bottom:1px solid #aaa;}#list {border:1px solid #aaa;width:100%;}a {color:#a33;}a:hover {color:#e33;}</style>\n\n<title>Index of /full-scrolls/Scroll1/PHercParis4.volpkg/volumetric-instance-labels/instance-labels-harmonized/02256_02512_04816/</title>\n</head><body><h1>Index of /full-scrolls/Scroll1/PHercParis4.volpkg/volumetric-instance-labels/instance-labels-harmonized/02256_02512_04816/</h1>\n<table id=\"list\"><thead><tr><th style=\"width:55%\">File Name</th><th style=\"width:20%\">File Size</th><th style=\"width:25%\">Date</th></tr></thead>\n<tbody><tr><td class=\"link\"><a href=\"02256_02512_04816_mask.nrrd\" title=\"02256_02512_04816_mask.nrrd\">02256_02512_04816_mask.nrrd</a></td><td class=\"size\">1.1 MiB</td><td class=\"date\">2024-Oct-06 20:38</td></tr>\r\n<tr><td class=\"link\"><a href=\"02256_02512_04816_volume.nrrd\" title=\"02256_02512_04816_volume.nrrd\">02256_02512_04816_volume.nrrd</a></td><td class=\"size\">14.1 MiB</td><td class=\"date\">2024-Oct-06 20:38</td></tr>\r\n</tbody></table></body></html>"
+    }
+  ],
+  "villa_commit": "fb8c2c4c2705746eefb42e9bb359560906f391e2",
+  "scope": "Metadata, HEAD and two 1024-byte NRRD ranges only; no CT chunk or complete NRRD."
+}

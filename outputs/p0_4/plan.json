@@ -1,0 +1,38 @@
+{
+  "initial_z_inclusive": [
+    128,
+    177
+  ],
+  "initial_attempts": 50,
+  "available_z_inclusive": [
+    128,
+    255
+  ],
+  "expansion": "Extend upper bound by50 (capped255) only if seed-connected track reaches within one plane of current upper bound. Lower128 is a cache boundary, not a physical ending; inspect if reached.",
+  "source": "outputs/orientation/ct_level4_zyx.npy",
+  "z_offset": 128,
+  "spacing_um": 126.56,
+  "identity_seed": "z144_control_F02_r02",
+  "prior_identity": "T0077",
+  "extraction_and_association": "Import unchanged P0.2 run02 extract_window/associate; original fixed window and competition gates; same registration. No reseeding disconnected tracks.",
+  "gap": "Original maximum one absent slice, original stricter gap gates; no missing CT row interpolation.",
+  "raster": "P0.3 fixed core u=[1,3.5], anchor2.25, ds0.25px=31.64um, piecewise-linear arc XY/bilinear raw CT. Partial new support clipped, never enlarged; anchor must be present.",
+  "low_coherence": "Eligible adjacent NCC<0.2, same P0.3 correlation eligibility.",
+  "classification": "PASS needs >=50 supported rows with P0.3 coherence gates and no suspected switching; PARTIAL needs >=2 seed-connected supported runs of>=3 rows with local coherence; otherwise FAIL longitudinal scale-up (not automatic falsification of physical persistence).",
+  "transition_audit": [
+    [
+      139,
+      140
+    ],
+    [
+      146,
+      147
+    ],
+    [
+      147,
+      148
+    ]
+  ],
+  "diagnostic_alignment": "Compare frozen arc alignment versus homologous window-u samples within same core; no correction applied. Descriptive only.",
+  "limits": "No frozen gates changed, no longer-gap joins, no full scroll, mesh, OCR, ink, language or learned correction."
+}

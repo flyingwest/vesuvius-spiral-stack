@@ -1,0 +1,34 @@
+{
+  "slices": [
+    128,
+    144,
+    146,
+    160,
+    170
+  ],
+  "source": "outputs/orientation/ct_level4_zyx.npy",
+  "z_origin": 128,
+  "spacing_um": 126.56,
+  "ds_px": 0.5,
+  "roi_xy": [
+    25,
+    475,
+    25,
+    325
+  ],
+  "seed_reference_xy": [
+    246,
+    112
+  ],
+  "interior_reference_xy": [
+    240,
+    140
+  ],
+  "detection": "DoG sigma 0.6 minus 2, threshold >3; skeleton; maximal graph chains; no branch removal",
+  "seed": "nearest point to reference on chain >=20 px; direction toward farther endpoint from interior reference",
+  "continuation": "endpoints within 8 px; score .3 tangent + .25 chord + .2 proximity + .15 normal consistency + .1 ridge strength",
+  "gates": "score >=.72; margin >=.08 among eligible; tangent cosine >=.5; chord cosines >=.65 for nonzero gaps; normal miss <=.45 local layer spacing; no intervening skeleton crossing",
+  "scope": "exploratory fixed-parameter 2D geometry; no physical identity oracle; no cross-Z input",
+  "gap": "all nonzero connectors masked; chord length is lower bound, not true missing arc",
+  "limit": "200 chains; revisits forbidden; terminal unknown one masked sample, not estimated remaining sheet length"
+}

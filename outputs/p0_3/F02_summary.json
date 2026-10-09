@@ -1,0 +1,51 @@
+{
+  "track": "T0077",
+  "z_inclusive": [
+    137,
+    150
+  ],
+  "observations": 14,
+  "shape_z_s": [
+    14,
+    15
+  ],
+  "core_u_px": [
+    1.0,
+    3.5
+  ],
+  "anchor_u_px": 2.25,
+  "ds_px": 0.25,
+  "ds_um": 31.64,
+  "arc_length_px_min_max_mean": [
+    2.63761281331579,
+    3.043911301720514,
+    2.8371539860511326
+  ],
+  "valid_row_samples_min_max": [
+    11,
+    12
+  ],
+  "missing_data_fraction": 0.24761904761904763,
+  "missing_observation_rows": [],
+  "missing_pixels": 52,
+  "valid_pixels": 158,
+  "missing_observation_pixels": 0,
+  "outside_core_padding_pixels": 52,
+  "adjacent_geometric_offset_change_max_abs_px": 0.25403784678927277,
+  "observed_adjacent_pairs": 13,
+  "eligible_correlation_pairs": 13,
+  "mean_adjacent_NCC": 0.5494675472884871,
+  "positive_adjacent_fraction": 0.9230769230769231,
+  "mean_adjacent_MAD_CT": 15.330456041037468,
+  "row_permutation_null_mean": 0.10866877585657274,
+  "row_permutation_null_95pct": [
+    -0.13966168844333846,
+    0.3701429525293246
+  ],
+  "null_fraction_ge_observed": 0.0,
+  "max_homologous_s_residual_px": 0.25403784678927277,
+  "misregistration_scan_eligible_pairs": 0,
+  "misregistration_flags": 0,
+  "status": "PASS_LOCAL_COHERENCE",
+  "gap_identity_not_intensity_interpolated": true
+}

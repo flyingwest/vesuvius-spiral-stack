@@ -1,0 +1,71 @@
+{
+  "revision": "run_02; designed after preserved run_01 control failure, not independent confirmation",
+  "z_inclusive": [
+    137,
+    151
+  ],
+  "center_z": 144,
+  "spacing_um": 126.56,
+  "source": "outputs/orientation/ct_level4_zyx.npy",
+  "extraction_independence": "Each XY independently supplies all local peaks. Fixed inspection windows come from P0.1b; no preceding-Z initialization.",
+  "windows": {
+    "controls": 5,
+    "endpoints": 14,
+    "u_control": [
+      -4,
+      4,
+      0.5
+    ],
+    "u_endpoint": [
+      -4,
+      10,
+      0.5
+    ],
+    "v": [
+      -8,
+      8,
+      0.25
+    ]
+  },
+  "ridge": {
+    "sigma": [
+      0.6,
+      2.0
+    ],
+    "peak_prominence": 1.0,
+    "min_response": 1.0,
+    "peak_separation_px": 1.0,
+    "neighbor_u_max_v_change": 0.75,
+    "neighbor_u_competitor_margin": 0.125,
+    "min_points": 7,
+    "min_arc_px": 3.0
+  },
+  "association": {
+    "min_common_stations": 5,
+    "accept_normal_residual_px": 1.0,
+    "accept_NCC": 0.55,
+    "accept_overlap": 0.6,
+    "accept_angle_deg": 25.0,
+    "accept_score": 0.7,
+    "margin": 0.06,
+    "layer_spacing_fraction": 0.45,
+    "weights": {
+      "position": 0.2,
+      "overlap": 0.15,
+      "texture": 0.35,
+      "orientation": 0.1,
+      "curvature": 0.05,
+      "spacing": 0.05,
+      "radial_order": 0.1
+    }
+  },
+  "gap": {
+    "missing_slices_max": 1,
+    "score": 0.76,
+    "NCC": 0.7,
+    "margin": 0.1
+  },
+  "controls": "Same F02,F03,F04,F05,F06 midpoints, >=3/5 attached within 2 px and observed in >=7 slices",
+  "endpoint_resolution": "Unique candidate with >=3 consecutive neighboring support slices, >=0.6 supported fraction, >=2 vote lead; compare central-slice baseline",
+  "limits": "Window-local proposals may overlap; counts are not unique anatomical sheets. No in-plane gap filling or mesh."
+}

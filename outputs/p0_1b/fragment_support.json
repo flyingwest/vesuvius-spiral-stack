@@ -1,0 +1,72 @@
+[
+  {
+    "fragment": "F01",
+    "positive_ridge_fraction": 0.967741935483871,
+    "mean_abs_ridge_orientation_cosine": 0.9331441357686664,
+    "variant_max_displacement_px": 4.999997167097105,
+    "variant_p95_displacement_px": 4.959568600889507,
+    "confidence": "LOW",
+    "use_status": "WITHHELD_UNCERTAIN_HYPOTHESIS",
+    "confidence_basis": "Retrospective visual plausibility plus >2 px p95 sensitivity warning; not calibrated or independently validated"
+  },
+  {
+    "fragment": "F02",
+    "positive_ridge_fraction": 1.0,
+    "mean_abs_ridge_orientation_cosine": 0.9534827034278259,
+    "variant_max_displacement_px": 1.5643846863113606,
+    "variant_p95_displacement_px": 0.9693227704353502,
+    "confidence": "MODERATE",
+    "use_status": "PROVISIONALLY_USEFUL",
+    "confidence_basis": "Retrospective visual plausibility plus >2 px p95 sensitivity warning; not calibrated or independently validated"
+  },
+  {
+    "fragment": "F03",
+    "positive_ridge_fraction": 0.9711538461538461,
+    "mean_abs_ridge_orientation_cosine": 0.8883613571535905,
+    "variant_max_displacement_px": 0.9999953624280666,
+    "variant_p95_displacement_px": 0.49840272815512765,
+    "confidence": "MODERATE",
+    "use_status": "PROVISIONALLY_USEFUL",
+    "confidence_basis": "Retrospective visual plausibility plus >2 px p95 sensitivity warning; not calibrated or independently validated"
+  },
+  {
+    "fragment": "F04",
+    "positive_ridge_fraction": 1.0,
+    "mean_abs_ridge_orientation_cosine": 0.8776661984982356,
+    "variant_max_displacement_px": 0.7173007565990736,
+    "variant_p95_displacement_px": 0.4999998049648087,
+    "confidence": "MODERATE",
+    "use_status": "PROVISIONALLY_USEFUL",
+    "confidence_basis": "Retrospective visual plausibility plus >2 px p95 sensitivity warning; not calibrated or independently validated"
+  },
+  {
+    "fragment": "F05",
+    "positive_ridge_fraction": 0.92,
+    "mean_abs_ridge_orientation_cosine": 0.8725199194346345,
+    "variant_max_displacement_px": 1.2499587231546405,
+    "variant_p95_displacement_px": 1.2472660817469303,
+    "confidence": "MODERATE",
+    "use_status": "PROVISIONALLY_USEFUL",
+    "confidence_basis": "Retrospective visual plausibility plus >2 px p95 sensitivity warning; not calibrated or independently validated"
+  },
+  {
+    "fragment": "F06",
+    "positive_ridge_fraction": 1.0,
+    "mean_abs_ridge_orientation_cosine": 0.9489389093590409,
+    "variant_max_displacement_px": 0.4999999416869541,
+    "variant_p95_displacement_px": 0.47648426197955224,
+    "confidence": "MODERATE",
+    "use_status": "PROVISIONALLY_USEFUL",
+    "confidence_basis": "Retrospective visual plausibility plus >2 px p95 sensitivity warning; not calibrated or independently validated"
+  },
+  {
+    "fragment": "F07",
+    "positive_ridge_fraction": 1.0,
+    "mean_abs_ridge_orientation_cosine": 0.817440062515131,
+    "variant_max_displacement_px": 2.2499964530104353,
+    "variant_p95_displacement_px": 2.1678506755867577,
+    "confidence": "LOW",
+    "use_status": "WITHHELD_UNCERTAIN_HYPOTHESIS",
+    "confidence_basis": "Retrospective visual plausibility plus >2 px p95 sensitivity warning; not calibrated or independently validated"
+  }
+]

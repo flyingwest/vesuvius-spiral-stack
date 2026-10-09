@@ -1,0 +1,130 @@
+{
+  "attempted_Z_levels": 50,
+  "attempted_z_inclusive": [
+    128,
+    177
+  ],
+  "seed_connected_observations": 14,
+  "seed_connected_z": [
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150
+  ],
+  "valid_rows": 14,
+  "masked_rows": 36,
+  "longest_continuous_supported_run": 14,
+  "supported_runs": [
+    {
+      "z_inclusive": [
+        137,
+        150
+      ],
+      "rows": 14,
+      "mean_NCC": 0.5494675472884871,
+      "coherent_by_P03_gate": true
+    }
+  ],
+  "correlation_distribution": {
+    "count": 13,
+    "min": -0.42050158864850873,
+    "median": 0.7323413796376896,
+    "mean": 0.5494675472884871,
+    "max": 0.9518227554076585,
+    "sd": 0.3923993229004237,
+    "q05_q25_q75_q95": [
+      -0.14875640293835182,
+      0.4431286990850273,
+      0.8276917415091437,
+      0.9371194161642366
+    ]
+  },
+  "positive_adjacent_fraction": 0.9230769230769231,
+  "low_coherence_transition_count": 3,
+  "unevaluable_adjacent_pairs": 36,
+  "alignment_shift_distribution_px": {
+    "count": 13,
+    "min": -0.25403784678927277,
+    "median": -0.024143869050010203,
+    "mean": -0.0008751563436170715,
+    "max": 0.2407904712419493,
+    "sd": 0.1355320745762663,
+    "q05_q25_q75_q95": [
+      -0.21501938046571278,
+      -0.08611404693973301,
+      0.09170313063107627,
+      0.20912803254381887
+    ]
+  },
+  "row_length_distribution_px": {
+    "count": 14,
+    "min": 2.63761281331579,
+    "median": 2.8032843516060657,
+    "mean": 2.8371539860511326,
+    "max": 3.043911301720514,
+    "sd": 0.1332488498891774,
+    "q05_q25_q75_q95": [
+      2.6676750783074548,
+      2.7564904281915297,
+      2.9549261417281634,
+      3.043553920391366
+    ]
+  },
+  "missing_data_fraction": 0.7893333333333333,
+  "missing_samples": 592,
+  "valid_samples": 158,
+  "shape_z_s": [
+    50,
+    15
+  ],
+  "association_counts": {
+    "ACCEPTED": 113,
+    "REJECTED": 150,
+    "UNKNOWN": 101
+  },
+  "fragments_total": 182,
+  "all_tracklets": 69,
+  "accepted_seed_links": 13,
+  "accepted_seed_gap_links": 0,
+  "two_step_conflicting_targets": 0,
+  "suspected_layer_switch_count": null,
+  "true_layer_switch_count": null,
+  "unconnected_tracklets_never_reseeded": 68,
+  "lower_cache_boundary_reached": false,
+  "new_seed_observations_beyond_P03": 0,
+  "conditional_extension_executed": false,
+  "attempt_history": [
+    {
+      "z_inclusive": [
+        128,
+        177
+      ],
+      "seed_connected_z": [
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150
+      ]
+    }
+  ]
+}

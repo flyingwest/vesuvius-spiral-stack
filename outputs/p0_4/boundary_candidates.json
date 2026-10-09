@@ -1,0 +1,435 @@
+[
+  {
+    "side": "lower",
+    "z": 137,
+    "node": "z137_control_F02_r01",
+    "at_acquired_boundary": false,
+    "continuation_candidates": [
+      {
+        "source": "z136_control_F02_r00",
+        "target": "z137_control_F02_r01",
+        "z_source": 136,
+        "z_target": 137,
+        "window": "control_F02",
+        "score": 0.39364239221238806,
+        "components": {
+          "position": 0.11108242941735734,
+          "overlap": 1.0,
+          "texture": 0.13241145313407945,
+          "orientation": 0.9479895655541095,
+          "curvature": 0.1391635458777137,
+          "spacing": 0.7308561000309031,
+          "radial_order": 0.36781958881147
+        },
+        "common_stations": 16,
+        "normal_error_px": 3.29622411885396,
+        "overlap": 1.0,
+        "NCC": 0.13241145313407945,
+        "angle_deg": 18.560232041455293,
+        "curvature_difference": 0.5916316345324729,
+        "radial_error_px": 2.6774674622082877,
+        "spacing_px": 2.6770318855121316,
+        "hard_reject": [
+          "distance"
+        ],
+        "gate_failures": [
+          "distance",
+          "texture",
+          "score",
+          "layer_order_risk"
+        ],
+        "status": "REJECTED"
+      },
+      {
+        "source": "z136_control_F02_r01",
+        "target": "z137_control_F02_r01",
+        "z_source": 136,
+        "z_target": 137,
+        "window": "control_F02",
+        "score": 0.6750577770488222,
+        "components": {
+          "position": 0.5358731256323188,
+          "overlap": 1.0,
+          "texture": 0.5851270428339916,
+          "orientation": 0.8562769837507179,
+          "curvature": 0.3035228470610133,
+          "spacing": 0.7308561000309031,
+          "radial_order": 0.757420412007937
+        },
+        "common_stations": 17,
+        "normal_error_px": 0.9357867777606803,
+        "overlap": 1.0,
+        "NCC": 0.5851270428339916,
+        "angle_deg": 31.098901932331902,
+        "curvature_difference": 0.35768951780891806,
+        "radial_error_px": 0.7437780094439397,
+        "spacing_px": 2.6770318855121316,
+        "hard_reject": [],
+        "gate_failures": [
+          "orientation",
+          "score"
+        ],
+        "status": "UNKNOWN",
+        "mutual_best": true,
+        "minimum_margin": 0.038884559799293394,
+        "decision_failures": [
+          "orientation",
+          "score",
+          "competitor_margin"
+        ]
+      },
+      {
+        "source": "z136_control_F02_r04",
+        "target": "z137_control_F02_r01",
+        "z_source": 136,
+        "z_target": 137,
+        "window": "control_F02",
+        "score": 0.6361732172495288,
+        "components": {
+          "position": 0.6702909845333023,
+          "overlap": 1.0,
+          "texture": 0.3646426571454571,
+          "orientation": 0.9496209024457039,
+          "curvature": 0.1767317067082869,
+          "spacing": 0.7308561000309031,
+          "radial_order": 0.8414860976042844
+        },
+        "common_stations": 7,
+        "normal_error_px": 0.6000650334101665,
+        "overlap": 1.0,
+        "NCC": 0.3646426571454571,
+        "angle_deg": 18.26430623466917,
+        "curvature_difference": 0.5199367433028342,
+        "radial_error_px": 0.4620176533318663,
+        "spacing_px": 2.6770318855121316,
+        "hard_reject": [],
+        "gate_failures": [
+          "texture",
+          "score"
+        ],
+        "status": "UNKNOWN",
+        "mutual_best": false,
+        "minimum_margin": -0.038884559799293394,
+        "decision_failures": [
+          "texture",
+          "score",
+          "not_mutual_best",
+          "competitor_margin"
+        ]
+      },
+      {
+        "source": "z136_control_F02_r05",
+        "target": "z137_control_F02_r01",
+        "z_source": 136,
+        "z_target": 137,
+        "window": "control_F02",
+        "score": 0.5537103535294611,
+        "components": {
+          "position": 0.12218866994328512,
+          "overlap": 1.0,
+          "texture": 0.5380256696130071,
+          "orientation": 0.9816743444596548,
+          "curvature": 0.27705907420532044,
+          "spacing": 0.7308561000309031,
+          "radial_order": 0.4240044201847492
+        },
+        "common_stations": 7,
+        "normal_error_px": 3.1532834307973268,
+        "overlap": 1.0,
+        "NCC": 0.5380256696130071,
+        "angle_deg": 10.985829561683522,
+        "curvature_difference": 0.3850573593759771,
+        "radial_error_px": 2.2969238728288524,
+        "spacing_px": 2.6770318855121316,
+        "hard_reject": [
+          "distance"
+        ],
+        "gate_failures": [
+          "distance",
+          "texture",
+          "score",
+          "layer_order_risk"
+        ],
+        "status": "REJECTED"
+      },
+      {
+        "source": "z135_control_F02_r01",
+        "target": "z137_control_F02_r01",
+        "z_source": 135,
+        "z_target": 137,
+        "window": "control_F02",
+        "score": 0.49244783954798066,
+        "components": {
+          "position": 0.08390381727692373,
+          "overlap": 1.0,
+          "texture": 0.41749252481842036,
+          "orientation": 0.8855312525778805,
+          "curvature": 0.09285101365737404,
+          "spacing": 0.8959438148464376,
+          "radial_order": 0.41551825723170144
+        },
+        "common_stations": 10,
+        "normal_error_px": 3.7171262529102957,
+        "overlap": 1.0,
+        "NCC": 0.41749252481842036,
+        "angle_deg": 27.683031524343086,
+        "curvature_difference": 0.7130277222279153,
+        "radial_error_px": 2.882106875872573,
+        "spacing_px": 3.2817269499014587,
+        "hard_reject": [
+          "distance"
+        ],
+        "gate_failures": [
+          "distance",
+          "texture",
+          "orientation",
+          "score",
+          "layer_order_risk"
+        ],
+        "status": "REJECTED"
+      },
+      {
+        "source": "z135_control_F02_r03",
+        "target": "z137_control_F02_r01",
+        "z_source": 135,
+        "z_target": 137,
+        "window": "control_F02",
+        "score": 0.5119020724052665,
+        "components": {
+          "position": 0.29035815733191955,
+          "overlap": 1.0,
+          "texture": 0.2903194597822747,
+          "orientation": 0.9245876520836899,
+          "curvature": 0.07637002218563367,
+          "spacing": 0.8959438148464376,
+          "radial_order": 0.6114417295511391
+        },
+        "common_stations": 16,
+        "normal_error_px": 1.854960139103278,
+        "overlap": 1.0,
+        "NCC": 0.2903194597822747,
+        "angle_deg": 22.393741631676257,
+        "curvature_difference": 0.7716495118739819,
+        "radial_error_px": 1.6143983797989758,
+        "spacing_px": 3.2817269499014587,
+        "hard_reject": [],
+        "gate_failures": [
+          "distance",
+          "texture",
+          "score",
+          "layer_order_risk"
+        ],
+        "status": "UNKNOWN",
+        "mutual_best": true,
+        "minimum_margin": 0.5119020724052665,
+        "decision_failures": [
+          "distance",
+          "texture",
+          "score",
+          "layer_order_risk",
+          "gap_strict_evidence"
+        ]
+      }
+    ],
+    "decision": "UNKNOWN"
+  },
+  {
+    "side": "upper",
+    "z": 150,
+    "node": "z150_control_F02_r03",
+    "at_acquired_boundary": false,
+    "continuation_candidates": [
+      {
+        "source": "z150_control_F02_r03",
+        "target": "z151_control_F02_r00",
+        "z_source": 150,
+        "z_target": 151,
+        "window": "control_F02",
+        "score": 0.5032533812255163,
+        "components": {
+          "position": 0.07206525548364938,
+          "overlap": 1.0,
+          "texture": 0.4117238638449617,
+          "orientation": 0.8825137413402769,
+          "curvature": 0.2924612067995966,
+          "spacing": 0.9843197137519288,
+          "radial_order": 0.42646557621445946
+        },
+        "common_stations": 7,
+        "normal_error_px": 3.9452748664047737,
+        "overlap": 1.0,
+        "NCC": 0.4117238638449617,
+        "angle_deg": 28.052902671953955,
+        "curvature_difference": 0.3688269742296121,
+        "radial_error_px": 3.199495511184466,
+        "spacing_px": 3.7542910189630128,
+        "hard_reject": [
+          "distance"
+        ],
+        "gate_failures": [
+          "distance",
+          "texture",
+          "orientation",
+          "score",
+          "layer_order_risk"
+        ],
+        "status": "REJECTED"
+      },
+      {
+        "source": "z150_control_F02_r03",
+        "target": "z151_control_F02_r01",
+        "z_source": 150,
+        "z_target": 151,
+        "window": "control_F02",
+        "score": 0.5100086477665223,
+        "components": {
+          "position": 0.35212815903388495,
+          "overlap": 0.42857142857142855,
+          "texture": 0.4371964291584654,
+          "orientation": 0.9341700543132452,
+          "curvature": 0.16396736263473893,
+          "spacing": 0.9843197137519288,
+          "radial_order": 0.7144719221791028
+        },
+        "common_stations": 3,
+        "normal_error_px": 1.5656401222254095,
+        "overlap": 0.42857142857142855,
+        "NCC": 0.4371964291584654,
+        "angle_deg": 20.90552750785842,
+        "curvature_difference": 0.5424263637862456,
+        "radial_error_px": 1.262236113555197,
+        "spacing_px": 3.7542910189630128,
+        "hard_reject": [],
+        "gate_failures": [
+          "short_common_support",
+          "distance",
+          "texture",
+          "overlap",
+          "score"
+        ],
+        "status": "UNKNOWN",
+        "mutual_best": false,
+        "minimum_margin": -0.30195397836161963,
+        "decision_failures": [
+          "short_common_support",
+          "distance",
+          "texture",
+          "overlap",
+          "score",
+          "not_mutual_best",
+          "competitor_margin"
+        ]
+      },
+      {
+        "source": "z150_control_F02_r03",
+        "target": "z151_control_F02_r02",
+        "z_source": 150,
+        "z_target": 151,
+        "window": "control_F02",
+        "score": 0.406958203470525,
+        "components": {
+          "position": 0.09947417559111005,
+          "overlap": 0.7142857142857143,
+          "texture": 0.23318052702762931,
+          "orientation": 0.9216130707455847,
+          "curvature": 0.15457352623249304,
+          "spacing": 0.9843197137519288,
+          "radial_order": 0.49201357675996027
+        },
+        "common_stations": 5,
+        "normal_error_px": 3.4617858154534207,
+        "overlap": 0.7142857142857143,
+        "NCC": 0.23318052702762931,
+        "angle_deg": 22.836947148643617,
+        "curvature_difference": 0.5601256193708732,
+        "radial_error_px": 2.662727030132938,
+        "spacing_px": 3.7542910189630128,
+        "hard_reject": [
+          "distance"
+        ],
+        "gate_failures": [
+          "distance",
+          "texture",
+          "score",
+          "layer_order_risk"
+        ],
+        "status": "REJECTED"
+      },
+      {
+        "source": "z150_control_F02_r03",
+        "target": "z152_control_F02_r01",
+        "z_source": 150,
+        "z_target": 152,
+        "window": "control_F02",
+        "score": 0.6757823992698971,
+        "components": {
+          "position": 0.5471685693625185,
+          "overlap": 1.0,
+          "texture": 0.46482524197386554,
+          "orientation": 0.9590140277216697,
+          "curvature": 0.49159900002681534,
+          "spacing": 0.9944879282768747,
+          "radial_order": 0.8345410151918903
+        },
+        "common_stations": 7,
+        "normal_error_px": 0.9044975300309488,
+        "overlap": 1.0,
+        "NCC": 0.46482524197386554,
+        "angle_deg": 16.460759001302158,
+        "curvature_difference": 0.2130275806235713,
+        "radial_error_px": 0.6898686731561554,
+        "spacing_px": 3.8140971541175297,
+        "hard_reject": [],
+        "gate_failures": [
+          "texture",
+          "score"
+        ],
+        "status": "UNKNOWN",
+        "mutual_best": true,
+        "minimum_margin": 0.6757823992698971,
+        "decision_failures": [
+          "texture",
+          "score",
+          "gap_strict_evidence"
+        ]
+      },
+      {
+        "source": "z150_control_F02_r03",
+        "target": "z152_control_F02_r04",
+        "z_source": 150,
+        "z_target": 152,
+        "window": "control_F02",
+        "score": 0.4206331799109854,
+        "components": {
+          "position": 0.08853358165108327,
+          "overlap": 0.7142857142857143,
+          "texture": 0.2996052873935668,
+          "orientation": 0.8771349312935477,
+          "curvature": 0.1510798240193209,
+          "spacing": 0.9944879282768747,
+          "radial_order": 0.4592987510599872
+        },
+        "common_stations": 5,
+        "normal_error_px": 3.6365600178870587,
+        "overlap": 0.7142857142857143,
+        "NCC": 0.2996052873935668,
+        "angle_deg": 28.701340117799884,
+        "curvature_difference": 0.5669840837869194,
+        "radial_error_px": 2.967575099025879,
+        "spacing_px": 3.8140971541175297,
+        "hard_reject": [
+          "distance"
+        ],
+        "gate_failures": [
+          "distance",
+          "texture",
+          "orientation",
+          "score",
+          "layer_order_risk"
+        ],
+        "status": "REJECTED"
+      }
+    ],
+    "decision": "UNKNOWN"
+  }
+]

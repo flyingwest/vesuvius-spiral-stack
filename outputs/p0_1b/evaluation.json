@@ -1,0 +1,24 @@
+{
+  "useful_provisional_fragments": 5,
+  "withheld_uncertain_fragments": 2,
+  "confidence_rule_status": "Post-analysis exploratory warning, not a retrospectively preregistered threshold",
+  "new_links_appended": 0,
+  "false_new_links_appended": 0,
+  "false_link_rate": null,
+  "rate_denominator_accepted_links": 0,
+  "true_inherited_layer_jump_count": null,
+  "correctly_detected_physical_interruptions": null,
+  "missed_true_continuations": null,
+  "endpoint_decision_biological_correctness": "UNKNOWN at every endpoint",
+  "interior_control_continue": 0,
+  "interior_control_stop": 7,
+  "retained_arc_length_mm": 18.82535062899933,
+  "useful_arc_length_mm": 15.237774124834312,
+  "source_reads": "source_slice.png, P0.1 CSV and preserved same-slice variant NPYs only",
+  "environment": {
+    "numpy": "2.5.3",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2",
+    "pillow": "12.3.0"
+  }
+}

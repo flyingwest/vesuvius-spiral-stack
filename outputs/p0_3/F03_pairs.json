@@ -1,0 +1,122 @@
+[
+  {
+    "samples": 3,
+    "span_px": 0.5,
+    "std_CT": [
+      0.8922571356149764,
+      0.6487023010539004
+    ],
+    "descriptive_NCC": 0.9726759362512523,
+    "eligible": false,
+    "NCC": null,
+    "mean_absolute_difference_CT": 12.183294627735682,
+    "z_source": 140,
+    "z_target": 141,
+    "observation_pair_present": true
+  },
+  {
+    "samples": 3,
+    "span_px": 0.5,
+    "std_CT": [
+      0.6487023010539004,
+      1.8023671214411436
+    ],
+    "descriptive_NCC": -0.9881396997054814,
+    "eligible": false,
+    "NCC": null,
+    "mean_absolute_difference_CT": 16.185187627355386,
+    "z_source": 141,
+    "z_target": 142,
+    "observation_pair_present": true
+  },
+  {
+    "samples": 3,
+    "span_px": 0.5,
+    "std_CT": [
+      1.8023671214411436,
+      3.377340751018638
+    ],
+    "descriptive_NCC": 0.999778340428438,
+    "eligible": false,
+    "NCC": null,
+    "mean_absolute_difference_CT": 13.53277107507634,
+    "z_source": 142,
+    "z_target": 143,
+    "observation_pair_present": true
+  },
+  {
+    "samples": 3,
+    "span_px": 0.5,
+    "std_CT": [
+      3.377340751018638,
+      4.13566556912707
+    ],
+    "descriptive_NCC": 0.9999790508387009,
+    "eligible": false,
+    "NCC": null,
+    "mean_absolute_difference_CT": 7.072672494182764,
+    "z_source": 143,
+    "z_target": 144,
+    "observation_pair_present": true
+  },
+  {
+    "samples": 3,
+    "span_px": 0.5,
+    "std_CT": [
+      4.13566556912707,
+      0.13091341795354858
+    ],
+    "descriptive_NCC": 0.8613656870388807,
+    "eligible": false,
+    "NCC": null,
+    "mean_absolute_difference_CT": 11.100948349656127,
+    "z_source": 144,
+    "z_target": 145,
+    "observation_pair_present": true
+  },
+  {
+    "samples": 0,
+    "span_px": 0.0,
+    "std_CT": [
+      0.0,
+      0.0
+    ],
+    "descriptive_NCC": null,
+    "eligible": false,
+    "NCC": null,
+    "mean_absolute_difference_CT": null,
+    "z_source": 145,
+    "z_target": 146,
+    "observation_pair_present": false
+  },
+  {
+    "samples": 0,
+    "span_px": 0.0,
+    "std_CT": [
+      0.0,
+      0.0
+    ],
+    "descriptive_NCC": null,
+    "eligible": false,
+    "NCC": null,
+    "mean_absolute_difference_CT": null,
+    "z_source": 146,
+    "z_target": 147,
+    "observation_pair_present": false
+  },
+  {
+    "samples": 3,
+    "span_px": 0.5,
+    "std_CT": [
+      2.6765302686899815,
+      3.6885514624540634
+    ],
+    "descriptive_NCC": 0.9988518331577294,
+    "eligible": false,
+    "NCC": null,
+    "mean_absolute_difference_CT": 1.5374767228126747,
+    "z_source": 147,
+    "z_target": 148,
+    "observation_pair_present": true
+  }
+]

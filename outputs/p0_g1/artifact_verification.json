@@ -1,0 +1,18 @@
+{
+  "all50slice_replay": {
+    "exact_50_slice_replay": "PASS",
+    "prior_files": "unchanged",
+    "all_gap_interiors_masked": "PASS"
+  },
+  "reordered_isolated_slice_replay": [
+    177,
+    146,
+    128
+  ],
+  "independent_bilinear_max_tolerance": 1e-10,
+  "gap_interiors_and_padding_missing": true,
+  "mask_nan_png_consistency": true,
+  "overlay_count": 50,
+  "prior_files_hash_preserved": 250,
+  "README_AGENTS": "unchanged"
+}

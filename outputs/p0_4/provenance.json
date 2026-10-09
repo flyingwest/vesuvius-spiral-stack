@@ -1,0 +1,40 @@
+{
+  "source_sha256": {
+    "outputs/orientation/ct_level4_zyx.npy": "da3a232b146e2fb6e9048ec118de63752f679c7487c86f497b367fb4b4bee3a4",
+    "outputs/p0_2/run_02/windows.json": "f807089f165a98ae1cd3ea162de590268eb76d67ef5418b8ab7fa96ab3da754e",
+    "outputs/p0_2/run_02/tracks.json": "dd9ff21d5de5f3d3d1ff5ad7ce04838d7eecc151b4164e0dad7282fe9c2c0e8b",
+    "outputs/p0_3/F02_stack.npy": "50ea78e8edac7d25d8c53e22f3d2c09e7e213f73ce273ff8a6c1581032b1944e",
+    "docs/p0_3_first_stack.md": "07f4d4890349f378b098b96df807e3d875c02d4c02e213dae7f375d262dc1983"
+  },
+  "script_sha256": {
+    "scripts/p0_4_audit.py": "3c90eb95185131b076be33e27e1435e88617ac572c2775c35b7b149637797f20",
+    "scripts/p0_4_scale.py": "f801c7e5898d37cb37dbb89c743e9c3a3677792d576a65aaafdd25c5cf64b895",
+    "scripts/p0_4_finalize.py": "072a3595b541f9a435e7cb8f30d407c53e84a98fbc1ce07e235997a32af0bce0"
+  },
+  "report_sha256": "39ff3840e90e52c433bda87ed388af94fa018c45d25856e20a1e7aa55e730b57",
+  "voxel_spacing_um": 126.56,
+  "arc_sampling_um": 31.64,
+  "dtype": "float64 CT/XY; boolean valid mask",
+  "network_download_bytes": 0,
+  "source_volume_file_bytes": 31930752,
+  "attempted_slice_pixel_bytes": 12472900,
+  "registration_shifts": [
+    [
+      0.0,
+      -0.5
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.5,
+      -0.5
+    ],
+    [
+      0.5,
+      0.0
+    ]
+  ],
+  "no_full_volume_copy": true
+}

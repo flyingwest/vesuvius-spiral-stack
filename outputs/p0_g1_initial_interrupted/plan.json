@@ -1,0 +1,68 @@
+{
+  "hypothesis": "Unwind each XY independently; same-slice credible continuation may cross masked gaps; stack rows without cross-Z identity requirements.",
+  "source": "outputs/orientation/ct_level4_zyx.npy",
+  "z_inclusive": [
+    128,
+    177
+  ],
+  "z_offset": 128,
+  "spacing_um": 126.56,
+  "reference": {
+    "center_xy": [
+      240.0,
+      140.0
+    ],
+    "ellipse_y_scale": 0.5,
+    "start_angle_rad": 0.0,
+    "direction": "increasing angle; clockwise in image coordinates",
+    "seed": "nearest eligible positive-X ray ridge to elliptical radius40 within20..80; no prior trace",
+    "seed_tangent_min_cos": 0.65,
+    "seed_coherence_min": 0.2
+  },
+  "polar": {
+    "angle_step_deg": 0.5,
+    "r_min_px": 8.0,
+    "r_max_px": 180.0,
+    "r_step_px": 0.25,
+    "max_turns": 3
+  },
+  "ridge": {
+    "DoG_sigma_px": [
+      0.6,
+      2.0
+    ],
+    "prominence_CT": 2.5,
+    "response_CT": 3.0,
+    "radial_peak_separation_px": 1.0,
+    "structure_tensor_gradient_sigma": 1.0,
+    "structure_tensor_average_sigma": 1.2
+  },
+  "continuation": {
+    "prediction": "linear radial slope from last up-to7 consecutive points, clipped \u00b1120 px/radian",
+    "max_skipped_angle_deg": 15.0,
+    "candidate_radial_window_px": 6.0,
+    "max_chord_px": 14.0,
+    "min_orientation_cos": 0.65,
+    "max_normal_miss_spacing_fraction": 0.45,
+    "score_weights": {
+      "proximity": 0.4,
+      "tangent": 0.35,
+      "curvature": 0.15,
+      "orientation": 0.1
+    },
+    "min_score": 0.68,
+    "winner_margin": 0.06,
+    "max_turn_angle_deg": 65.0,
+    "repeat_stop": "after300 degrees, any return within1px of geometry at least240 degrees earlier; no forced closure"
+  },
+  "sampling": {
+    "ds_px": 0.5,
+    "ds_um": 63.28,
+    "method": "linear XY in Euclidean chord arc; bilinear original CT, float64",
+    "gaps": "chord length between endpoints is a lower-bound placeholder, ALL samples inside blank; never sample connector",
+    "terminal": "one masked sample sentinel after STOP; unknown remainder length not inferred; rectangular padding remains masked"
+  },
+  "no_cross_z": "Pure process_slice(image) function receives no Z, neighbor image, old trace or track.",
+  "limits": "Fixed geometric reference is not a measured roll center. Angular-monotone bounded path can stop at folds; one selected candidate winding, not all sheets.",
+  "success_evaluation": "50 independently constructed rows with nonempty recovered geometry and correctly masked gaps; inspect coverage and failure modes, no cross-Z persistence gate."
+}

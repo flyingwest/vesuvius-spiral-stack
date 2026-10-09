@@ -1,0 +1,30 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local source datasets / caches
+data/raw/
+data/cache/
+
+# External repositories
+external/
+
+# Local scratch
+*.tmp
+*.log
+.DS_Store
+
+# Large/reproducible experiment artifacts
+outputs/**/*_complete_paths.json
+outputs/**/*.npy
+outputs/**/*.npz
+outputs/**/*.zarr/
+outputs/**/*.tif
+outputs/**/*.tiff
+
+# Raw downloaded CT data
+data/

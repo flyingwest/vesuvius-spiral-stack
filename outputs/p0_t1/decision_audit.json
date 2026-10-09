@@ -1,0 +1,1387 @@
+[
+  {
+    "z": 128,
+    "decisions": [
+      {
+        "index": 0,
+        "endpoint": [
+          273.0,
+          129.0
+        ],
+        "decision": "CONTINUE",
+        "selected": {
+          "chain": 2679,
+          "reverse": false,
+          "xy": [
+            274.0,
+            130.0
+          ],
+          "distance": 1.4142135623730951,
+          "tangent_cos": 0.9260923597695476,
+          "chord_cos": 0.9701425001453318,
+          "normal_miss": 0.20000000000000007,
+          "spacing": 3.5,
+          "ridge_strength": 1.0,
+          "score": 0.9296255806321788,
+          "rejected_by": []
+        },
+        "margin": 1.0,
+        "candidate_count": 18,
+        "viable_count": 1,
+        "top_candidates": [
+          {
+            "chain": 2679,
+            "reverse": false,
+            "xy": [
+              274.0,
+              130.0
+            ],
+            "distance": 1.4142135623730951,
+            "tangent_cos": 0.9260923597695476,
+            "chord_cos": 0.9701425001453318,
+            "normal_miss": 0.20000000000000007,
+            "spacing": 3.5,
+            "ridge_strength": 1.0,
+            "score": 0.9296255806321788,
+            "rejected_by": []
+          },
+          {
+            "chain": 2649,
+            "reverse": false,
+            "xy": [
+              275.0,
+              129.0
+            ],
+            "distance": 2.0,
+            "tangent_cos": 0.9899494936611665,
+            "chord_cos": 0.6,
+            "normal_miss": 1.6,
+            "spacing": 3.5,
+            "ridge_strength": 0.7298961495075568,
+            "score": 0.7706981034917637,
+            "rejected_by": [
+              "chord",
+              "normal/layer-spacing"
+            ]
+          },
+          {
+            "chain": 2791,
+            "reverse": false,
+            "xy": [
+              272.0,
+              133.0
+            ],
+            "distance": 4.123105625617661,
+            "tangent_cos": 0.9899494936611666,
+            "chord_cos": 0.5144957554275266,
+            "normal_miss": 3.2,
+            "spacing": 3.5,
+            "ridge_strength": 0.8324442784718471,
+            "score": 0.6884273741393219,
+            "rejected_by": [
+              "chord",
+              "normal/layer-spacing",
+              "intervening-ridge",
+              "score"
+            ]
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "endpoint": [
+          279.0,
+          133.0
+        ],
+        "decision": "UNKNOWN",
+        "selected": null,
+        "margin": 1.0,
+        "candidate_count": 12,
+        "viable_count": 0,
+        "top_candidates": [
+          {
+            "chain": 2793,
+            "reverse": false,
+            "xy": [
+              281.0,
+              133.0
+            ],
+            "distance": 2.0,
+            "tangent_cos": 0.7961621941231025,
+            "chord_cos": 0.3713906763541037,
+            "normal_miss": 1.028991510855053,
+            "spacing": 3.75,
+            "ridge_strength": 1.0,
+            "score": 0.7014609425069303,
+            "rejected_by": [
+              "chord",
+              "score"
+            ]
+          },
+          {
+            "chain": 2794,
+            "reverse": false,
+            "xy": [
+              284.0,
+              133.0
+            ],
+            "distance": 5.0,
+            "tangent_cos": 0.9037378388935386,
+            "chord_cos": 0.5547001962252291,
+            "normal_miss": 2.5724787771376323,
+            "spacing": 3.75,
+            "ridge_strength": 1.0,
+            "score": 0.6923870726271193,
+            "rejected_by": [
+              "chord",
+              "normal/layer-spacing",
+              "intervening-ridge",
+              "score"
+            ]
+          },
+          {
+            "chain": 2649,
+            "reverse": true,
+            "xy": [
+              279.0,
+              133.0
+            ],
+            "distance": 0.0,
+            "tangent_cos": -0.9701425001453318,
+            "chord_cos": 1.0,
+            "normal_miss": 0.0,
+            "spacing": 3.75,
+            "ridge_strength": 0.7298961495075568,
+            "score": 0.6729896149507557,
+            "rejected_by": [
+              "tangent",
+              "score"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "z": 144,
+    "decisions": [
+      {
+        "index": 0,
+        "endpoint": [
+          229.0,
+          134.0
+        ],
+        "decision": "CONTINUE",
+        "selected": {
+          "chain": 2619,
+          "reverse": true,
+          "xy": [
+            227.0,
+            134.0
+          ],
+          "distance": 2.0,
+          "tangent_cos": 0.9021342216356466,
+          "chord_cos": 0.8,
+          "normal_miss": 0.3922322702763681,
+          "spacing": 4.0,
+          "ridge_strength": 1.0,
+          "score": 0.8623898618626603,
+          "rejected_by": []
+        },
+        "margin": 1.0,
+        "candidate_count": 11,
+        "viable_count": 1,
+        "top_candidates": [
+          {
+            "chain": 2619,
+            "reverse": true,
+            "xy": [
+              227.0,
+              134.0
+            ],
+            "distance": 2.0,
+            "tangent_cos": 0.9021342216356466,
+            "chord_cos": 0.8,
+            "normal_miss": 0.3922322702763681,
+            "spacing": 4.0,
+            "ridge_strength": 1.0,
+            "score": 0.8623898618626603,
+            "rejected_by": []
+          },
+          {
+            "chain": 2714,
+            "reverse": false,
+            "xy": [
+              227.0,
+              134.0
+            ],
+            "distance": 2.0,
+            "tangent_cos": 0.4594229188737667,
+            "chord_cos": 0.6246950475544243,
+            "normal_miss": 0.3922322702763681,
+            "spacing": 4.0,
+            "ridge_strength": 1.0,
+            "score": 0.6857502329227024,
+            "rejected_by": [
+              "tangent",
+              "chord",
+              "score"
+            ]
+          },
+          {
+            "chain": 2927,
+            "reverse": false,
+            "xy": [
+              228.0,
+              140.0
+            ],
+            "distance": 6.082762530298219,
+            "tangent_cos": 0.8682431421244592,
+            "chord_cos": -0.032241294010958044,
+            "normal_miss": 6.079600189283705,
+            "spacing": 4.0,
+            "ridge_strength": 1.0,
+            "score": 0.48678399738100975,
+            "rejected_by": [
+              "chord",
+              "normal/layer-spacing",
+              "score"
+            ]
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "endpoint": [
+          223.0,
+          131.0
+        ],
+        "decision": "UNKNOWN",
+        "selected": null,
+        "margin": 1.0,
+        "candidate_count": 12,
+        "viable_count": 0,
+        "top_candidates": [
+          {
+            "chain": 2564,
+            "reverse": true,
+            "xy": [
+              219.0,
+              130.0
+            ],
+            "distance": 4.123105625617661,
+            "tangent_cos": 0.9216353751380653,
+            "chord_cos": 0.9216353751380653,
+            "normal_miss": 1.5999999999999999,
+            "spacing": 5.0,
+            "ridge_strength": 0.9875537237553242,
+            "score": 0.8340309218606112,
+            "rejected_by": [
+              "intervening-ridge"
+            ]
+          },
+          {
+            "chain": 2491,
+            "reverse": false,
+            "xy": [
+              219.0,
+              126.0
+            ],
+            "distance": 6.4031242374328485,
+            "tangent_cos": 0.6305926250944658,
+            "chord_cos": 0.4166547104932137,
+            "normal_miss": 1.6,
+            "spacing": 5.0,
+            "ridge_strength": 1.0,
+            "score": 0.5920945251288854,
+            "rejected_by": [
+              "chord",
+              "score"
+            ]
+          },
+          {
+            "chain": 2492,
+            "reverse": true,
+            "xy": [
+              219.0,
+              130.0
+            ],
+            "distance": 4.123105625617661,
+            "tangent_cos": 0.6,
+            "chord_cos": 0.24253562503633297,
+            "normal_miss": 1.5999999999999999,
+            "spacing": 5.0,
+            "ridge_strength": 1.0,
+            "score": 0.569009999418226,
+            "rejected_by": [
+              "chord",
+              "intervening-ridge",
+              "score"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "z": 146,
+    "decisions": [
+      {
+        "index": 0,
+        "endpoint": [
+          269.0,
+          109.0
+        ],
+        "decision": "CONTINUE",
+        "selected": {
+          "chain": 1882,
+          "reverse": true,
+          "xy": [
+            269.0,
+            109.0
+          ],
+          "distance": 0.0,
+          "tangent_cos": 0.5199469468957454,
+          "chord_cos": 1.0,
+          "normal_miss": 0.0,
+          "spacing": 3.25,
+          "ridge_strength": 0.6686956817726433,
+          "score": 0.8228536522459879,
+          "rejected_by": []
+        },
+        "margin": 1.0,
+        "candidate_count": 13,
+        "viable_count": 1,
+        "top_candidates": [
+          {
+            "chain": 1882,
+            "reverse": true,
+            "xy": [
+              269.0,
+              109.0
+            ],
+            "distance": 0.0,
+            "tangent_cos": 0.5199469468957454,
+            "chord_cos": 1.0,
+            "normal_miss": 0.0,
+            "spacing": 3.25,
+            "ridge_strength": 0.6686956817726433,
+            "score": 0.8228536522459879,
+            "rejected_by": []
+          },
+          {
+            "chain": 1964,
+            "reverse": false,
+            "xy": [
+              269.0,
+              109.0
+            ],
+            "distance": 0.0,
+            "tangent_cos": 0.3713906763541037,
+            "chord_cos": 1.0,
+            "normal_miss": 0.0,
+            "spacing": 3.25,
+            "ridge_strength": 1.0,
+            "score": 0.8114172029062312,
+            "rejected_by": [
+              "tangent"
+            ]
+          },
+          {
+            "chain": 1883,
+            "reverse": false,
+            "xy": [
+              273.0,
+              106.0
+            ],
+            "distance": 5.0,
+            "tangent_cos": 0.9785497849867492,
+            "chord_cos": 0.3328201177351376,
+            "normal_miss": 4.270992778072193,
+            "spacing": 3.25,
+            "ridge_strength": 0.5444011560797006,
+            "score": 0.5785676942989496,
+            "rejected_by": [
+              "chord",
+              "normal/layer-spacing",
+              "intervening-ridge",
+              "score"
+            ]
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "endpoint": [
+          273.0,
+          106.0
+        ],
+        "decision": "UNKNOWN",
+        "selected": null,
+        "margin": 1.0,
+        "candidate_count": 11,
+        "viable_count": 0,
+        "top_candidates": [
+          {
+            "chain": 1883,
+            "reverse": false,
+            "xy": [
+              273.0,
+              106.0
+            ],
+            "distance": 0.0,
+            "tangent_cos": 0.3328201177351376,
+            "chord_cos": 1.0,
+            "normal_miss": 0.0,
+            "spacing": 2.125,
+            "ridge_strength": 0.5444011560797006,
+            "score": 0.7542861509285113,
+            "rejected_by": [
+              "tangent"
+            ]
+          },
+          {
+            "chain": 1724,
+            "reverse": true,
+            "xy": [
+              273.0,
+              106.0
+            ],
+            "distance": 0.0,
+            "tangent_cos": -0.031234752377721275,
+            "chord_cos": 1.0,
+            "normal_miss": 0.0,
+            "spacing": 2.125,
+            "ridge_strength": 1.0,
+            "score": 0.7,
+            "rejected_by": [
+              "tangent",
+              "score"
+            ]
+          },
+          {
+            "chain": 1753,
+            "reverse": false,
+            "xy": [
+              279.0,
+              101.0
+            ],
+            "distance": 7.810249675906654,
+            "tangent_cos": 0.3772968873135194,
+            "chord_cos": 0.32937215631829403,
+            "normal_miss": 0.40000000000000036,
+            "spacing": 2.125,
+            "ridge_strength": 1.0,
+            "score": 0.4951369496916903,
+            "rejected_by": [
+              "tangent",
+              "chord",
+              "intervening-ridge",
+              "score"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "z": 160,
+    "decisions": [
+      {
+        "index": 0,
+        "endpoint": [
+          278.0,
+          98.0
+        ],
+        "decision": "CONTINUE",
+        "selected": {
+          "chain": 1691,
+          "reverse": false,
+          "xy": [
+            280.0,
+            98.0
+          ],
+          "distance": 2.0,
+          "tangent_cos": 0.9417419115948374,
+          "chord_cos": 0.8574929257125441,
+          "normal_miss": 0.3922322702763681,
+          "spacing": 5.25,
+          "ridge_strength": 1.0,
+          "score": 0.8918577206819878,
+          "rejected_by": []
+        },
+        "margin": 1.0,
+        "candidate_count": 7,
+        "viable_count": 1,
+        "top_candidates": [
+          {
+            "chain": 1691,
+            "reverse": false,
+            "xy": [
+              280.0,
+              98.0
+            ],
+            "distance": 2.0,
+            "tangent_cos": 0.9417419115948374,
+            "chord_cos": 0.8574929257125441,
+            "normal_miss": 0.3922322702763681,
+            "spacing": 5.25,
+            "ridge_strength": 1.0,
+            "score": 0.8918577206819878,
+            "rejected_by": []
+          },
+          {
+            "chain": 1597,
+            "reverse": true,
+            "xy": [
+              285.0,
+              96.0
+            ],
+            "distance": 7.280109889280518,
+            "tangent_cos": 0.8682431421244592,
+            "chord_cos": 0.8889745564266028,
+            "normal_miss": 3.333974297349129,
+            "spacing": 5.25,
+            "ridge_strength": 0.8707339109160666,
+            "score": 0.7297806390533708,
+            "rejected_by": [
+              "normal/layer-spacing",
+              "intervening-ridge"
+            ]
+          },
+          {
+            "chain": 1472,
+            "reverse": false,
+            "xy": [
+              279.0,
+              91.0
+            ],
+            "distance": 7.0710678118654755,
+            "tangent_cos": 0.9805806756909202,
+            "chord_cos": -0.055470019622522904,
+            "normal_miss": 7.060180864974626,
+            "spacing": 5.25,
+            "ridge_strength": 0.7138357372409834,
+            "score": 0.48728173919397,
+            "rejected_by": [
+              "chord",
+              "normal/layer-spacing",
+              "intervening-ridge",
+              "score"
+            ]
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "endpoint": [
+          287.0,
+          103.0
+        ],
+        "decision": "CONTINUE",
+        "selected": {
+          "chain": 1836,
+          "reverse": false,
+          "xy": [
+            287.0,
+            103.0
+          ],
+          "distance": 0.0,
+          "tangent_cos": 0.9021342216356466,
+          "chord_cos": 1.0,
+          "normal_miss": 0.0,
+          "spacing": 3.75,
+          "ridge_strength": 1.0,
+          "score": 0.9706402664906939,
+          "rejected_by": []
+        },
+        "margin": 0.15283806969756897,
+        "candidate_count": 4,
+        "viable_count": 2,
+        "top_candidates": [
+          {
+            "chain": 1836,
+            "reverse": false,
+            "xy": [
+              287.0,
+              103.0
+            ],
+            "distance": 0.0,
+            "tangent_cos": 0.9021342216356466,
+            "chord_cos": 1.0,
+            "normal_miss": 0.0,
+            "spacing": 3.75,
+            "ridge_strength": 1.0,
+            "score": 0.9706402664906939,
+            "rejected_by": []
+          },
+          {
+            "chain": 1986,
+            "reverse": false,
+            "xy": [
+              291.0,
+              108.0
+            ],
+            "distance": 6.4031242374328485,
+            "tangent_cos": 0.96,
+            "chord_cos": 0.9682773237093576,
+            "normal_miss": 1.6,
+            "spacing": 3.75,
+            "ridge_strength": 1.0,
+            "score": 0.8178021967931249,
+            "rejected_by": []
+          },
+          {
+            "chain": 1597,
+            "reverse": true,
+            "xy": [
+              285.0,
+              96.0
+            ],
+            "distance": 7.280109889280518,
+            "tangent_cos": 0.5692099788303083,
+            "chord_cos": -0.7966912709023963,
+            "normal_miss": 4.4,
+            "spacing": 3.75,
+            "ridge_strength": 0.8707339109160666,
+            "score": 0.3847402397987572,
+            "rejected_by": [
+              "chord",
+              "normal/layer-spacing",
+              "intervening-ridge",
+              "score"
+            ]
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "endpoint": [
+          299.0,
+          109.0
+        ],
+        "decision": "CONTINUE",
+        "selected": {
+          "chain": 2022,
+          "reverse": false,
+          "xy": [
+            299.0,
+            109.0
+          ],
+          "distance": 0.0,
+          "tangent_cos": 0.9701425001453318,
+          "chord_cos": 1.0,
+          "normal_miss": 0.0,
+          "spacing": 4.5,
+          "ridge_strength": 0.9971343753119019,
+          "score": 0.9907561875747897,
+          "rejected_by": []
+        },
+        "margin": 0.15441058003808283,
+        "candidate_count": 16,
+        "viable_count": 2,
+        "top_candidates": [
+          {
+            "chain": 2022,
+            "reverse": false,
+            "xy": [
+              299.0,
+              109.0
+            ],
+            "distance": 0.0,
+            "tangent_cos": 0.9701425001453318,
+            "chord_cos": 1.0,
+            "normal_miss": 0.0,
+            "spacing": 4.5,
+            "ridge_strength": 0.9971343753119019,
+            "score": 0.9907561875747897,
+            "rejected_by": []
+          },
+          {
+            "chain": 2061,
+            "reverse": false,
+            "xy": [
+              300.0,
+              110.0
+            ],
+            "distance": 1.4142135623730951,
+            "tangent_cos": 0.7592566023652965,
+            "chord_cos": 0.8944271909999157,
+            "normal_miss": 0.34299717028501764,
+            "spacing": 4.5,
+            "ridge_strength": 0.7837682401717441,
+            "score": 0.8363456075367068,
+            "rejected_by": []
+          },
+          {
+            "chain": 2062,
+            "reverse": false,
+            "xy": [
+              304.0,
+              110.0
+            ],
+            "distance": 5.0990195135927845,
+            "tangent_cos": 0.9761870601839526,
+            "chord_cos": 0.9417419115948374,
+            "normal_miss": 1.7149858514250882,
+            "spacing": 4.5,
+            "ridge_strength": 0.7934970726958234,
+            "score": 0.8158423422420882,
+            "rejected_by": [
+              "intervening-ridge"
+            ]
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "endpoint": [
+          300.0,
+          110.0
+        ],
+        "decision": "CONTINUE",
+        "selected": {
+          "chain": 2061,
+          "reverse": false,
+          "xy": [
+            300.0,
+            110.0
+          ],
+          "distance": 0.0,
+          "tangent_cos": 0.8944271909999157,
+          "chord_cos": 1.0,
+          "normal_miss": 0.0,
+          "spacing": 3.125,
+          "ridge_strength": 0.7837682401717441,
+          "score": 0.9467049813171491,
+          "rejected_by": []
+        },
+        "margin": 1.0,
+        "candidate_count": 16,
+        "viable_count": 1,
+        "top_candidates": [
+          {
+            "chain": 2061,
+            "reverse": false,
+            "xy": [
+              300.0,
+              110.0
+            ],
+            "distance": 0.0,
+            "tangent_cos": 0.8944271909999157,
+            "chord_cos": 1.0,
+            "normal_miss": 0.0,
+            "spacing": 3.125,
+            "ridge_strength": 0.7837682401717441,
+            "score": 0.9467049813171491,
+            "rejected_by": []
+          },
+          {
+            "chain": 2137,
+            "reverse": false,
+            "xy": [
+              301.0,
+              113.0
+            ],
+            "distance": 3.1622776601683795,
+            "tangent_cos": 0.9999999999999998,
+            "chord_cos": 0.8944271909999157,
+            "normal_miss": 1.414213562373095,
+            "spacing": 3.125,
+            "ridge_strength": 0.9945312688568192,
+            "score": 0.8531583766343349,
+            "rejected_by": [
+              "normal/layer-spacing"
+            ]
+          },
+          {
+            "chain": 2062,
+            "reverse": false,
+            "xy": [
+              304.0,
+              110.0
+            ],
+            "distance": 4.0,
+            "tangent_cos": 0.8944271909999157,
+            "chord_cos": 0.7071067811865475,
+            "normal_miss": 2.82842712474619,
+            "spacing": 3.125,
+            "ridge_strength": 0.7934970726958234,
+            "score": 0.7064361081962692,
+            "rejected_by": [
+              "normal/layer-spacing",
+              "score"
+            ]
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "endpoint": [
+          301.0,
+          113.0
+        ],
+        "decision": "CONTINUE",
+        "selected": {
+          "chain": 2137,
+          "reverse": false,
+          "xy": [
+            301.0,
+            113.0
+          ],
+          "distance": 0.0,
+          "tangent_cos": 0.8944271909999157,
+          "chord_cos": 1.0,
+          "normal_miss": 0.0,
+          "spacing": 3.75,
+          "ridge_strength": 0.9945312688568192,
+          "score": 0.9677812841856566,
+          "rejected_by": []
+        },
+        "margin": 1.0,
+        "candidate_count": 18,
+        "viable_count": 1,
+        "top_candidates": [
+          {
+            "chain": 2137,
+            "reverse": false,
+            "xy": [
+              301.0,
+              113.0
+            ],
+            "distance": 0.0,
+            "tangent_cos": 0.8944271909999157,
+            "chord_cos": 1.0,
+            "normal_miss": 0.0,
+            "spacing": 3.75,
+            "ridge_strength": 0.9945312688568192,
+            "score": 0.9677812841856566,
+            "rejected_by": []
+          },
+          {
+            "chain": 2265,
+            "reverse": false,
+            "xy": [
+              306.0,
+              117.0
+            ],
+            "distance": 6.4031242374328485,
+            "tangent_cos": 0.8944271909999157,
+            "chord_cos": 0.8395701571521512,
+            "normal_miss": 3.478505426185217,
+            "spacing": 3.75,
+            "ridge_strength": 1.0,
+            "score": 0.7273765816367438,
+            "rejected_by": [
+              "normal/layer-spacing",
+              "intervening-ridge"
+            ]
+          },
+          {
+            "chain": 2162,
+            "reverse": false,
+            "xy": [
+              299.0,
+              114.0
+            ],
+            "distance": 2.23606797749979,
+            "tangent_cos": 0.9761870601839526,
+            "chord_cos": -0.07669649888473706,
+            "normal_miss": 2.2135943621178655,
+            "spacing": 3.75,
+            "ridge_strength": 0.8211249419661387,
+            "score": 0.609324503629963,
+            "rejected_by": [
+              "chord",
+              "normal/layer-spacing",
+              "score"
+            ]
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "endpoint": [
+          303.0,
+          115.0
+        ],
+        "decision": "CONTINUE",
+        "selected": {
+          "chain": 2265,
+          "reverse": false,
+          "xy": [
+            306.0,
+            117.0
+          ],
+          "distance": 3.605551275463989,
+          "tangent_cos": 0.9999999999999998,
+          "chord_cos": 0.9805806756909201,
+          "normal_miss": 0.7071067811865475,
+          "spacing": 2.75,
+          "ridge_strength": 1.0,
+          "score": 0.8885725213877445,
+          "rejected_by": []
+        },
+        "margin": 1.0,
+        "candidate_count": 11,
+        "viable_count": 1,
+        "top_candidates": [
+          {
+            "chain": 2265,
+            "reverse": false,
+            "xy": [
+              306.0,
+              117.0
+            ],
+            "distance": 3.605551275463989,
+            "tangent_cos": 0.9999999999999998,
+            "chord_cos": 0.9805806756909201,
+            "normal_miss": 0.7071067811865475,
+            "spacing": 2.75,
+            "ridge_strength": 1.0,
+            "score": 0.8885725213877445,
+            "rejected_by": []
+          },
+          {
+            "chain": 2162,
+            "reverse": false,
+            "xy": [
+              299.0,
+              114.0
+            ],
+            "distance": 4.123105625617661,
+            "tangent_cos": 0.9701425001453318,
+            "chord_cos": -0.8574929257125441,
+            "normal_miss": 2.1213203435596424,
+            "spacing": 2.75,
+            "ridge_strength": 0.8211249419661387,
+            "score": 0.5619645253090646,
+            "rejected_by": [
+              "chord",
+              "normal/layer-spacing",
+              "intervening-ridge",
+              "score"
+            ]
+          },
+          {
+            "chain": 2062,
+            "reverse": false,
+            "xy": [
+              304.0,
+              110.0
+            ],
+            "distance": 5.0990195135927845,
+            "tangent_cos": 0.8944271909999157,
+            "chord_cos": -0.5547001962252291,
+            "normal_miss": 4.242640687119285,
+            "spacing": 2.75,
+            "ridge_strength": 0.7934970726958234,
+            "score": 0.4854812263804661,
+            "rejected_by": [
+              "chord",
+              "normal/layer-spacing",
+              "intervening-ridge",
+              "score"
+            ]
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "endpoint": [
+          317.0,
+          127.0
+        ],
+        "decision": "CONTINUE",
+        "selected": {
+          "chain": 2545,
+          "reverse": false,
+          "xy": [
+            319.0,
+            128.0
+          ],
+          "distance": 2.23606797749979,
+          "tangent_cos": 0.888217643155949,
+          "chord_cos": 0.9647638212377321,
+          "normal_miss": 0.4685212856658182,
+          "spacing": 5.25,
+          "ridge_strength": 1.0,
+          "score": 0.8960809194038057,
+          "rejected_by": []
+        },
+        "margin": 1.0,
+        "candidate_count": 10,
+        "viable_count": 1,
+        "top_candidates": [
+          {
+            "chain": 2545,
+            "reverse": false,
+            "xy": [
+              319.0,
+              128.0
+            ],
+            "distance": 2.23606797749979,
+            "tangent_cos": 0.888217643155949,
+            "chord_cos": 0.9647638212377321,
+            "normal_miss": 0.4685212856658182,
+            "spacing": 5.25,
+            "ridge_strength": 1.0,
+            "score": 0.8960809194038057,
+            "rejected_by": []
+          },
+          {
+            "chain": 2597,
+            "reverse": false,
+            "xy": [
+              316.0,
+              129.0
+            ],
+            "distance": 2.23606797749979,
+            "tangent_cos": 0.9938837346736189,
+            "chord_cos": 0.2095290887308734,
+            "normal_miss": 2.186432666440485,
+            "spacing": 5.25,
+            "ridge_strength": 0.9048719410922289,
+            "score": 0.6911718474909312,
+            "rejected_by": [
+              "chord",
+              "score"
+            ]
+          },
+          {
+            "chain": 2408,
+            "reverse": false,
+            "xy": [
+              323.0,
+              123.0
+            ],
+            "distance": 7.211102550927978,
+            "tangent_cos": 0.9909924304103233,
+            "chord_cos": 0.30320365727694704,
+            "normal_miss": 6.8716455230986675,
+            "spacing": 5.25,
+            "ridge_strength": 1.0,
+            "score": 0.5948179712924606,
+            "rejected_by": [
+              "chord",
+              "normal/layer-spacing",
+              "score"
+            ]
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "endpoint": [
+          330.0,
+          134.0
+        ],
+        "decision": "CONTINUE",
+        "selected": {
+          "chain": 2746,
+          "reverse": false,
+          "xy": [
+            330.0,
+            134.0
+          ],
+          "distance": 0.0,
+          "tangent_cos": 0.9701425001453318,
+          "chord_cos": 1.0,
+          "normal_miss": 0.0,
+          "spacing": 4.125,
+          "ridge_strength": 1.0,
+          "score": 0.9910427500435994,
+          "rejected_by": []
+        },
+        "margin": 1.0,
+        "candidate_count": 14,
+        "viable_count": 1,
+        "top_candidates": [
+          {
+            "chain": 2746,
+            "reverse": false,
+            "xy": [
+              330.0,
+              134.0
+            ],
+            "distance": 0.0,
+            "tangent_cos": 0.9701425001453318,
+            "chord_cos": 1.0,
+            "normal_miss": 0.0,
+            "spacing": 4.125,
+            "ridge_strength": 1.0,
+            "score": 0.9910427500435994,
+            "rejected_by": []
+          },
+          {
+            "chain": 2747,
+            "reverse": false,
+            "xy": [
+              330.0,
+              134.0
+            ],
+            "distance": 0.0,
+            "tangent_cos": 0.44721359549995787,
+            "chord_cos": 1.0,
+            "normal_miss": 0.0,
+            "spacing": 4.125,
+            "ridge_strength": 0.9744664516493161,
+            "score": 0.831610723814919,
+            "rejected_by": [
+              "tangent"
+            ]
+          },
+          {
+            "chain": 2906,
+            "reverse": false,
+            "xy": [
+              333.0,
+              140.0
+            ],
+            "distance": 6.708203932499369,
+            "tangent_cos": 0.9805806756909201,
+            "chord_cos": 0.9486832980505137,
+            "normal_miss": 2.1213203435596424,
+            "spacing": 4.125,
+            "ridge_strength": 1.0,
+            "score": 0.8075060211676295,
+            "rejected_by": [
+              "normal/layer-spacing",
+              "intervening-ridge"
+            ]
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "endpoint": [
+          335.0,
+          138.0
+        ],
+        "decision": "CONTINUE",
+        "selected": {
+          "chain": 2857,
+          "reverse": false,
+          "xy": [
+            335.0,
+            138.0
+          ],
+          "distance": 0.0,
+          "tangent_cos": 0.8320502943378436,
+          "chord_cos": 1.0,
+          "normal_miss": 0.0,
+          "spacing": 3.5,
+          "ridge_strength": 0.953501426326382,
+          "score": 0.9449652309339912,
+          "rejected_by": []
+        },
+        "margin": 1.0,
+        "candidate_count": 16,
+        "viable_count": 1,
+        "top_candidates": [
+          {
+            "chain": 2857,
+            "reverse": false,
+            "xy": [
+              335.0,
+              138.0
+            ],
+            "distance": 0.0,
+            "tangent_cos": 0.8320502943378436,
+            "chord_cos": 1.0,
+            "normal_miss": 0.0,
+            "spacing": 3.5,
+            "ridge_strength": 0.953501426326382,
+            "score": 0.9449652309339912,
+            "rejected_by": []
+          },
+          {
+            "chain": 2884,
+            "reverse": false,
+            "xy": [
+              340.0,
+              139.0
+            ],
+            "distance": 5.0990195135927845,
+            "tangent_cos": 0.9999999999999998,
+            "chord_cos": 0.8320502943378436,
+            "normal_miss": 2.82842712474619,
+            "spacing": 3.5,
+            "ridge_strength": 0.7585419191280924,
+            "score": 0.7564563263878173,
+            "rejected_by": [
+              "normal/layer-spacing",
+              "intervening-ridge"
+            ]
+          },
+          {
+            "chain": 2885,
+            "reverse": false,
+            "xy": [
+              340.0,
+              139.0
+            ],
+            "distance": 5.0990195135927845,
+            "tangent_cos": 0.9805806756909201,
+            "chord_cos": 0.7071067811865476,
+            "normal_miss": 2.82842712474619,
+            "spacing": 3.5,
+            "ridge_strength": 0.758542998671507,
+            "score": 0.7193947587616107,
+            "rejected_by": [
+              "normal/layer-spacing",
+              "intervening-ridge",
+              "score"
+            ]
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "endpoint": [
+          340.0,
+          139.0
+        ],
+        "decision": "UNKNOWN",
+        "selected": null,
+        "margin": 0.0374829459910474,
+        "candidate_count": 10,
+        "viable_count": 2,
+        "top_candidates": [
+          {
+            "chain": 2884,
+            "reverse": false,
+            "xy": [
+              340.0,
+              139.0
+            ],
+            "distance": 0.0,
+            "tangent_cos": 0.8320502943378436,
+            "chord_cos": 1.0,
+            "normal_miss": 0.0,
+            "spacing": 3.25,
+            "ridge_strength": 0.7585419191280924,
+            "score": 0.9254692802141623,
+            "rejected_by": []
+          },
+          {
+            "chain": 2885,
+            "reverse": false,
+            "xy": [
+              340.0,
+              139.0
+            ],
+            "distance": 0.0,
+            "tangent_cos": 0.7071067811865476,
+            "chord_cos": 1.0,
+            "normal_miss": 0.0,
+            "spacing": 3.25,
+            "ridge_strength": 0.758542998671507,
+            "score": 0.8879863342231149,
+            "rejected_by": []
+          },
+          {
+            "chain": 2907,
+            "reverse": true,
+            "xy": [
+              342.0,
+              142.0
+            ],
+            "distance": 3.605551275463989,
+            "tangent_cos": 0.8682431421244592,
+            "chord_cos": 0.2631174057921088,
+            "normal_miss": 2.5495097567963922,
+            "spacing": 3.25,
+            "ridge_strength": 0.9774071171304208,
+            "score": 0.6198847756986792,
+            "rejected_by": [
+              "chord",
+              "normal/layer-spacing",
+              "score"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "z": 170,
+    "decisions": [
+      {
+        "index": 0,
+        "endpoint": [
+          289.0,
+          101.0
+        ],
+        "decision": "UNKNOWN",
+        "selected": null,
+        "margin": 1.0,
+        "candidate_count": 7,
+        "viable_count": 0,
+        "top_candidates": [
+          {
+            "chain": 1767,
+            "reverse": false,
+            "xy": [
+              294.0,
+              105.0
+            ],
+            "distance": 6.4031242374328485,
+            "tangent_cos": 0.8320502943378436,
+            "chord_cos": 0.888217643155949,
+            "normal_miss": 2.9417420270727606,
+            "spacing": 3.75,
+            "ridge_strength": 0.7872060230487822,
+            "score": 0.7086754059298037,
+            "rejected_by": [
+              "normal/layer-spacing",
+              "intervening-ridge",
+              "score"
+            ]
+          },
+          {
+            "chain": 1533,
+            "reverse": false,
+            "xy": [
+              295.0,
+              96.0
+            ],
+            "distance": 7.810249675906654,
+            "tangent_cos": 0.9832820049844603,
+            "chord_cos": 0.47551703436547416,
+            "normal_miss": 6.079600189283705,
+            "spacing": 3.75,
+            "ridge_strength": 1.0,
+            "score": 0.6188541525342682,
+            "rejected_by": [
+              "chord",
+              "normal/layer-spacing",
+              "intervening-ridge",
+              "score"
+            ]
+          },
+          {
+            "chain": 1732,
+            "reverse": false,
+            "xy": [
+              288.0,
+              104.0
+            ],
+            "distance": 3.1622776601683795,
+            "tangent_cos": 0.9805806756909202,
+            "chord_cos": -0.31622776601683794,
+            "normal_miss": 3.1378581622109447,
+            "spacing": 3.75,
+            "ridge_strength": 0.5136439414732134,
+            "score": 0.5452028384945097,
+            "rejected_by": [
+              "chord",
+              "normal/layer-spacing",
+              "score"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

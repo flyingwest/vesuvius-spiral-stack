@@ -1,0 +1,16 @@
+{
+  "prior_files_unchanged": 212,
+  "readable_pngs": 7,
+  "independent_bilinear_reference": "PASS",
+  "mask_nan_png_csv_consistency": "PASS",
+  "one_to_one_forward_track_graph": "PASS",
+  "P03_overlap": "bit-identical",
+  "README_AGENTS": "unchanged",
+  "replay": {
+    "exact_replay": "PASS",
+    "prior_hashes": "unchanged",
+    "P03_numeric_overlap": "bit-identical",
+    "independent_extraction_old_nodes": "exact",
+    "missing_mask": "NaN consistent"
+  }
+}

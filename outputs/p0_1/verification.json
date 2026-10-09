@@ -1,0 +1,10 @@
+{
+  "status": "PASS_NUMERICAL_AND_PRESERVATION_ONLY",
+  "prior_files_verified": 40,
+  "source_slice_exact": true,
+  "deterministic_path_exact": true,
+  "csv_matches_path": true,
+  "png_matches_bilinear_sampling": true,
+  "arc_length_recomputed": true,
+  "physical_winding_identity": "NOT_ESTABLISHED; see report and trace_audit.png"
+}

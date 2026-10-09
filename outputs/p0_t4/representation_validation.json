@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "shape": [
+    5,
+    3772
+  ],
+  "coordinate_arrays": "exact fixed s and actual nonuniform Z",
+  "low_confidence": "all retained finite",
+  "bridges": "all NaN",
+  "padding": "masked code0",
+  "contrast_png": "exact pooled percentile mapping",
+  "provenance_png": "exact palette",
+  "csv_rows": 5,
+  "source_replay": "PASS; see replay_validation.txt",
+  "visual_inspection": [
+    "stack_inspection.png",
+    "coherence_diagnostic.png",
+    "row_extent_diagnostic.png"
+  ],
+  "conclusion": "PARTIAL"
+}

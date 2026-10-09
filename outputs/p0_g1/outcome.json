@@ -1,0 +1,27 @@
+{
+  "result": "RASTER_CONSTRUCTION_ACHIEVED_WITH_PARTIAL_GEOMETRIC_RECOVERY",
+  "rows_processed": 50,
+  "rows_with_sampled_geometry": 45,
+  "fully_unresolved_rows": [
+    145,
+    170,
+    171,
+    175,
+    177
+  ],
+  "complete_turns_demonstrated": 0,
+  "masked_fraction": 0.8762962962962964,
+  "valid_samples": 1336,
+  "native_row_samples": 3515,
+  "rectangular_padding_samples": 7285,
+  "inside_native_row_missing_samples": 2179,
+  "inside_native_row_missing_fraction": 0.6199146514935988,
+  "visible_coherent_structure": "Weak short start-aligned patches; no convincing broad coherent structure in the sparse raster.",
+  "blanks": "Dominate both rectangular output and native row domains.",
+  "cross_Z_persistence_used_or_required": false,
+  "cross_Z_identity_failure_claimed": false,
+  "recovered_spiral_is_partial": true,
+  "same_slice_continuation_truth": "geometric plausibility only; no physical-layer oracle",
+  "continuation_decisions_total": 481,
+  "interruptions_total": 485
+}

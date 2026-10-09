@@ -1,0 +1,5815 @@
+{
+  "points": [
+    {
+      "station": 0,
+      "candidate": 7,
+      "xy": [
+        282.90241836628496,
+        140.0
+      ],
+      "radius": 42.90241836628496,
+      "connected": false
+    },
+    {
+      "station": 4,
+      "candidate": 129,
+      "xy": [
+        281.91015735508336,
+        140.73176747217988
+      ],
+      "radius": 41.93570345256188,
+      "connected": false
+    },
+    {
+      "station": 5,
+      "candidate": 160,
+      "xy": [
+        281.8861558674979,
+        140.91439452999393
+      ],
+      "radius": 41.92606018674135,
+      "connected": true
+    },
+    {
+      "station": 6,
+      "candidate": 189,
+      "xy": [
+        281.85516140810836,
+        141.0967680304661
+      ],
+      "radius": 41.912601171359114,
+      "connected": true
+    },
+    {
+      "station": 7,
+      "candidate": 220,
+      "xy": [
+        281.8134892693289,
+        141.27871128067315
+      ],
+      "radius": 41.89162559550017,
+      "connected": true
+    },
+    {
+      "station": 12,
+      "candidate": 372,
+      "xy": [
+        281.06934818780303,
+        142.15828121706943
+      ],
+      "radius": 41.295569639112834,
+      "connected": false
+    },
+    {
+      "station": 13,
+      "candidate": 405,
+      "xy": [
+        281.02905982554546,
+        142.33733544463405
+      ],
+      "radius": 41.29450687550536,
+      "connected": true
+    },
+    {
+      "station": 14,
+      "candidate": 430,
+      "xy": [
+        280.99802923030836,
+        142.51696250846393
+      ],
+      "radius": 41.30591727398477,
+      "connected": true
+    },
+    {
+      "station": 15,
+      "candidate": 461,
+      "xy": [
+        280.9727581452959,
+        142.69708297143626
+      ],
+      "radius": 41.32631046019181,
+      "connected": true
+    },
+    {
+      "station": 16,
+      "candidate": 492,
+      "xy": [
+        280.9668928358336,
+        142.87876065715574
+      ],
+      "radius": 41.36949794604024,
+      "connected": true
+    },
+    {
+      "station": 17,
+      "candidate": 523,
+      "xy": [
+        280.9432568814876,
+        143.05950536971645
+      ],
+      "radius": 41.397977927584584,
+      "connected": true
+    },
+    {
+      "station": 18,
+      "candidate": 553,
+      "xy": [
+        280.9125132399839,
+        143.23995275589252
+      ],
+      "radius": 41.422492863823656,
+      "connected": true
+    },
+    {
+      "station": 19,
+      "candidate": 584,
+      "xy": [
+        280.8311886854737,
+        143.41639882326146
+      ],
+      "radius": 41.3989503870217,
+      "connected": true
+    },
+    {
+      "station": 25,
+      "candidate": 785,
+      "xy": [
+        279.97865902477264,
+        144.43152766270705
+      ],
+      "radius": 40.94932144883949,
+      "connected": false
+    },
+    {
+      "station": 26,
+      "candidate": 816,
+      "xy": [
+        279.93658504132486,
+        144.61004357411144
+      ],
+      "radius": 40.98708127915185,
+      "connected": true
+    },
+    {
+      "station": 27,
+      "candidate": 848,
+      "xy": [
+        279.92798756668833,
+        144.79293085378842
+      ],
+      "radius": 41.06254906605779,
+      "connected": true
+    },
+    {
+      "station": 30,
+      "candidate": 958,
+      "xy": [
+        279.8390974616723,
+        145.33742699601993
+      ],
+      "radius": 41.244468651105144,
+      "connected": false
+    },
+    {
+      "station": 42,
+      "candidate": 1392,
+      "xy": [
+        274.9942913621403,
+        146.7165249427381
+      ],
+      "radius": 37.4839599984321,
+      "connected": false
+    },
+    {
+      "station": 43,
+      "candidate": 1425,
+      "xy": [
+        275.0052965042048,
+        146.8944764975067
+      ],
+      "radius": 37.623211027848015,
+      "connected": true
+    },
+    {
+      "station": 44,
+      "candidate": 1456,
+      "xy": [
+        274.93715611515,
+        147.05776366330886
+      ],
+      "radius": 37.68093668053986,
+      "connected": true
+    },
+    {
+      "station": 45,
+      "candidate": 1486,
+      "xy": [
+        274.84455809637444,
+        147.21654426920776
+      ],
+      "radius": 37.71547790615087,
+      "connected": true
+    },
+    {
+      "station": 47,
+      "candidate": 1546,
+      "xy": [
+        274.6487409676502,
+        147.5328506747751
+      ],
+      "radius": 37.782411354983175,
+      "connected": false
+    },
+    {
+      "station": 48,
+      "candidate": 1577,
+      "xy": [
+        274.22774853024583,
+        147.61958773959626
+      ],
+      "radius": 37.4669352727891,
+      "connected": true
+    },
+    {
+      "station": 51,
+      "candidate": 1667,
+      "xy": [
+        270.9474733621784,
+        147.38059379629357
+      ],
+      "radius": 34.28758910518921,
+      "connected": false
+    },
+    {
+      "station": 58,
+      "candidate": 1853,
+      "xy": [
+        264.9350881719484,
+        146.91087253624192
+      ],
+      "radius": 28.50963449417708,
+      "connected": false
+    },
+    {
+      "station": 59,
+      "candidate": 1878,
+      "xy": [
+        264.78586750834484,
+        147.01158455999513
+      ],
+      "radius": 28.477859826698246,
+      "connected": true
+    },
+    {
+      "station": 60,
+      "candidate": 1902,
+      "xy": [
+        264.2994098752035,
+        147.0146354162989
+      ],
+      "radius": 28.05854166519558,
+      "connected": true
+    },
+    {
+      "station": 61,
+      "candidate": 1927,
+      "xy": [
+        263.99898346614594,
+        147.0682408049462
+      ],
+      "radius": 27.853030709694284,
+      "connected": true
+    },
+    {
+      "station": 62,
+      "candidate": 1951,
+      "xy": [
+        263.89548148436046,
+        147.1789268983272
+      ],
+      "radius": 27.87726674219546,
+      "connected": true
+    },
+    {
+      "station": 63,
+      "candidate": 1974,
+      "xy": [
+        263.6585799258538,
+        147.2489982124174
+      ],
+      "radius": 27.747437799597567,
+      "connected": true
+    },
+    {
+      "station": 64,
+      "candidate": 1997,
+      "xy": [
+        263.4267538342873,
+        147.31933024288523
+      ],
+      "radius": 27.62432218227179,
+      "connected": true
+    },
+    {
+      "station": 65,
+      "candidate": 2023,
+      "xy": [
+        263.2064274719625,
+        147.39206240098665
+      ],
+      "radius": 27.51560688358114,
+      "connected": true
+    },
+    {
+      "station": 66,
+      "candidate": 2049,
+      "xy": [
+        263.058435053167,
+        147.48716140538914
+      ],
+      "radius": 27.49403154763802,
+      "connected": true
+    },
+    {
+      "station": 67,
+      "candidate": 2077,
+      "xy": [
+        262.94297001182395,
+        147.592810290886
+      ],
+      "radius": 27.513323052968158,
+      "connected": true
+    },
+    {
+      "station": 69,
+      "candidate": 2124,
+      "xy": [
+        262.7717939240475,
+        147.82531017859887
+      ],
+      "radius": 27.631440716770765,
+      "connected": false
+    },
+    {
+      "station": 70,
+      "candidate": 2148,
+      "xy": [
+        262.57851851908214,
+        147.90482443433442
+      ],
+      "radius": 27.56328165997542,
+      "connected": true
+    },
+    {
+      "station": 71,
+      "candidate": 2173,
+      "xy": [
+        262.3021685436949,
+        147.9539911106441
+      ],
+      "radius": 27.394353799719305,
+      "connected": true
+    },
+    {
+      "station": 72,
+      "candidate": 2195,
+      "xy": [
+        262.05485633025336,
+        148.01189553648865
+      ],
+      "radius": 27.26130165818467,
+      "connected": true
+    },
+    {
+      "station": 73,
+      "candidate": 2218,
+      "xy": [
+        261.9268578432138,
+        148.11251065083064
+      ],
+      "radius": 27.2770674947999,
+      "connected": true
+    },
+    {
+      "station": 75,
+      "candidate": 2267,
+      "xy": [
+        261.7792847787843,
+        148.3559164948203
+      ],
+      "radius": 27.45218766053129,
+      "connected": false
+    },
+    {
+      "station": 76,
+      "candidate": 2291,
+      "xy": [
+        261.59220771599064,
+        148.43484076652547
+      ],
+      "radius": 27.400904895222794,
+      "connected": true
+    },
+    {
+      "station": 77,
+      "candidate": 2314,
+      "xy": [
+        261.3969988853871,
+        148.5099707111692
+      ],
+      "radius": 27.340628509986498,
+      "connected": true
+    },
+    {
+      "station": 78,
+      "candidate": 2340,
+      "xy": [
+        261.21571305305764,
+        148.59007284160649
+      ],
+      "radius": 27.299521718266483,
+      "connected": true
+    },
+    {
+      "station": 79,
+      "candidate": 2366,
+      "xy": [
+        261.08405519868126,
+        148.69017693042875
+      ],
+      "radius": 27.324239860418107,
+      "connected": true
+    },
+    {
+      "station": 80,
+      "candidate": 2392,
+      "xy": [
+        261.0217633418741,
+        148.81967693343128
+      ],
+      "radius": 27.441963101100473,
+      "connected": true
+    },
+    {
+      "station": 81,
+      "candidate": 2418,
+      "xy": [
+        260.9140063265091,
+        148.93112442956607
+      ],
+      "radius": 27.503737835625728,
+      "connected": true
+    },
+    {
+      "station": 82,
+      "candidate": 2444,
+      "xy": [
+        260.67892801846097,
+        148.98795893935224
+      ],
+      "radius": 27.39984831298557,
+      "connected": true
+    },
+    {
+      "station": 83,
+      "candidate": 2469,
+      "xy": [
+        260.34070749993805,
+        148.99796891206887
+      ],
+      "radius": 27.158758435691908,
+      "connected": true
+    },
+    {
+      "station": 84,
+      "candidate": 2494,
+      "xy": [
+        260.0101085061131,
+        149.00859131287143
+      ],
+      "radius": 26.926256928800786,
+      "connected": true
+    },
+    {
+      "station": 85,
+      "candidate": 2522,
+      "xy": [
+        259.6743227356989,
+        149.01409762520035
+      ],
+      "radius": 26.685104442272863,
+      "connected": true
+    },
+    {
+      "station": 86,
+      "candidate": 2547,
+      "xy": [
+        259.33562892483036,
+        149.01538283618203
+      ],
+      "radius": 26.438136406532877,
+      "connected": true
+    },
+    {
+      "station": 87,
+      "candidate": 2566,
+      "xy": [
+        259.029384103064,
+        149.02910562010757
+      ],
+      "radius": 26.23387986055771,
+      "connected": true
+    },
+    {
+      "station": 88,
+      "candidate": 2584,
+      "xy": [
+        258.7315964987739,
+        149.04444623654072
+      ],
+      "radius": 26.039983454210972,
+      "connected": true
+    },
+    {
+      "station": 89,
+      "candidate": 2608,
+      "xy": [
+        258.4080781261251,
+        149.04478399688145
+      ],
+      "radius": 25.808715785534485,
+      "connected": true
+    },
+    {
+      "station": 90,
+      "candidate": 2632,
+      "xy": [
+        258.0867101107842,
+        149.0433550553921
+      ],
+      "radius": 25.578470737381675,
+      "connected": true
+    },
+    {
+      "station": 91,
+      "candidate": 2654,
+      "xy": [
+        257.7690552932335,
+        149.04096101626246
+      ],
+      "radius": 25.351434484152957,
+      "connected": true
+    },
+    {
+      "station": 92,
+      "candidate": 2678,
+      "xy": [
+        257.5281980527072,
+        149.07549021485158
+      ],
+      "radius": 25.23283213462958,
+      "connected": true
+    },
+    {
+      "station": 93,
+      "candidate": 2698,
+      "xy": [
+        257.2935801404103,
+        149.11181552345897
+      ],
+      "radius": 25.123069927996166,
+      "connected": true
+    },
+    {
+      "station": 94,
+      "candidate": 2720,
+      "xy": [
+        256.8907603125587,
+        149.05656142385735
+      ],
+      "radius": 24.766570275932686,
+      "connected": true
+    },
+    {
+      "station": 99,
+      "candidate": 2833,
+      "xy": [
+        256.06072381521267,
+        149.40234575524755
+      ],
+      "radius": 24.729805342408714,
+      "connected": false
+    },
+    {
+      "station": 100,
+      "candidate": 2857,
+      "xy": [
+        255.94580258976814,
+        149.5017337615771
+      ],
+      "radius": 24.807265027314745,
+      "connected": true
+    },
+    {
+      "station": 101,
+      "candidate": 2879,
+      "xy": [
+        255.83375228441528,
+        149.6039387298869
+      ],
+      "radius": 24.89277541605019,
+      "connected": true
+    },
+    {
+      "station": 102,
+      "candidate": 2903,
+      "xy": [
+        255.70237109255143,
+        149.69540670652498
+      ],
+      "radius": 24.95131464969157,
+      "connected": true
+    },
+    {
+      "station": 103,
+      "candidate": 2925,
+      "xy": [
+        255.56980828475704,
+        149.7869658375377
+      ],
+      "radius": 25.011152137488757,
+      "connected": true
+    },
+    {
+      "station": 104,
+      "candidate": 2944,
+      "xy": [
+        255.4390732024688,
+        149.88055627715818
+      ],
+      "radius": 25.077211781526852,
+      "connected": true
+    },
+    {
+      "station": 105,
+      "candidate": 2966,
+      "xy": [
+        255.21208603133263,
+        149.91238824493797
+      ],
+      "radius": 24.988583879407887,
+      "connected": true
+    },
+    {
+      "station": 106,
+      "candidate": 2991,
+      "xy": [
+        255.036743009612,
+        149.97721597247124
+      ],
+      "radius": 24.985655776514186,
+      "connected": true
+    },
+    {
+      "station": 107,
+      "candidate": 3015,
+      "xy": [
+        254.87274057805652,
+        150.04967766546633
+      ],
+      "radius": 25.003649674022807,
+      "connected": true
+    },
+    {
+      "station": 108,
+      "candidate": 3037,
+      "xy": [
+        254.60251769444986,
+        150.0493206740006
+      ],
+      "radius": 24.84328696151747,
+      "connected": true
+    },
+    {
+      "station": 109,
+      "candidate": 3061,
+      "xy": [
+        254.41080096527452,
+        150.10159891765227
+      ],
+      "radius": 24.816131592841202,
+      "connected": true
+    },
+    {
+      "station": 110,
+      "candidate": 3086,
+      "xy": [
+        254.22505462767083,
+        150.15774170615288
+      ],
+      "radius": 24.800625908147754,
+      "connected": true
+    },
+    {
+      "station": 111,
+      "candidate": 3106,
+      "xy": [
+        254.08892189414496,
+        150.2497542801209
+      ],
+      "radius": 24.874235090766987,
+      "connected": true
+    },
+    {
+      "station": 112,
+      "candidate": 3127,
+      "xy": [
+        254.02788909378518,
+        150.39860042053573
+      ],
+      "radius": 25.085956933140906,
+      "connected": true
+    },
+    {
+      "station": 113,
+      "candidate": 3150,
+      "xy": [
+        253.96066542685114,
+        150.54613232658474
+      ],
+      "radius": 25.293948038213,
+      "connected": true
+    },
+    {
+      "station": 114,
+      "candidate": 3169,
+      "xy": [
+        253.8651900486081,
+        150.6752601862411
+      ],
+      "radius": 25.457576775093894,
+      "connected": true
+    },
+    {
+      "station": 117,
+      "candidate": 3229,
+      "xy": [
+        253.42071853259097,
+        150.9503110899446
+      ],
+      "radius": 25.685656265653105,
+      "connected": false
+    },
+    {
+      "station": 118,
+      "candidate": 3253,
+      "xy": [
+        253.19028910984028,
+        150.9761637658893
+      ],
+      "radius": 25.610318445182543,
+      "connected": true
+    },
+    {
+      "station": 121,
+      "candidate": 3316,
+      "xy": [
+        252.41306922836142,
+        150.9700127921688
+      ],
+      "radius": 25.208113977635886,
+      "connected": false
+    },
+    {
+      "station": 133,
+      "candidate": 3550,
+      "xy": [
+        250.27257507942076,
+        151.81265261866537
+      ],
+      "radius": 25.762003926701524,
+      "connected": false
+    },
+    {
+      "station": 134,
+      "candidate": 3569,
+      "xy": [
+        250.13073690652266,
+        151.9332602543847
+      ],
+      "radius": 25.92764222725798,
+      "connected": true
+    },
+    {
+      "station": 135,
+      "candidate": 3589,
+      "xy": [
+        249.95676916707956,
+        152.01888358029086
+      ],
+      "radius": 26.01829168705833,
+      "connected": true
+    },
+    {
+      "station": 136,
+      "candidate": 3609,
+      "xy": [
+        249.7403476495176,
+        152.05410320751264
+      ],
+      "radius": 26.00153820224737,
+      "connected": true
+    },
+    {
+      "station": 137,
+      "candidate": 3627,
+      "xy": [
+        249.47417984764743,
+        152.02580336668768
+      ],
+      "radius": 25.850335979296567,
+      "connected": true
+    },
+    {
+      "station": 138,
+      "candidate": 3646,
+      "xy": [
+        249.2464462132736,
+        152.04390795873923
+      ],
+      "radius": 25.80154342765736,
+      "connected": true
+    },
+    {
+      "station": 139,
+      "candidate": 3665,
+      "xy": [
+        249.02914622545177,
+        152.07477428320078
+      ],
+      "radius": 25.782284179676136,
+      "connected": true
+    },
+    {
+      "station": 140,
+      "candidate": 3688,
+      "xy": [
+        248.8258388535369,
+        152.12439647891895
+      ],
+      "radius": 25.805026475101556,
+      "connected": true
+    },
+    {
+      "station": 141,
+      "candidate": 3709,
+      "xy": [
+        248.54983390531103,
+        152.0719930674772
+      ],
+      "radius": 25.613116294064593,
+      "connected": true
+    },
+    {
+      "station": 142,
+      "candidate": 3728,
+      "xy": [
+        248.33689394664083,
+        152.106049042932
+      ],
+      "radius": 25.607215670529985,
+      "connected": true
+    },
+    {
+      "station": 143,
+      "candidate": 3745,
+      "xy": [
+        248.11883359134225,
+        152.13231793472823
+      ],
+      "radius": 25.586871883081365,
+      "connected": true
+    },
+    {
+      "station": 144,
+      "candidate": 3763,
+      "xy": [
+        247.83884855216945,
+        152.06274756971098
+      ],
+      "radius": 25.367046780146122,
+      "connected": true
+    },
+    {
+      "station": 145,
+      "candidate": 3782,
+      "xy": [
+        247.62533110490767,
+        152.09223024931185
+      ],
+      "radius": 25.358111208624383,
+      "connected": true
+    },
+    {
+      "station": 146,
+      "candidate": 3800,
+      "xy": [
+        247.40742993882606,
+        152.1143058058235
+      ],
+      "radius": 25.33565943342806,
+      "connected": true
+    },
+    {
+      "station": 147,
+      "candidate": 3817,
+      "xy": [
+        247.1595681302811,
+        152.08514846900815
+      ],
+      "radius": 25.2083849122473,
+      "connected": true
+    },
+    {
+      "station": 148,
+      "candidate": 3839,
+      "xy": [
+        246.9067951440747,
+        152.04342857304817
+      ],
+      "radius": 25.05754390076304,
+      "connected": true
+    },
+    {
+      "station": 149,
+      "candidate": 3860,
+      "xy": [
+        246.68357300274624,
+        152.05009283510103
+      ],
+      "radius": 25.00978003544312,
+      "connected": true
+    },
+    {
+      "station": 150,
+      "candidate": 3881,
+      "xy": [
+        246.44470307125115,
+        152.02597965080224
+      ],
+      "radius": 24.90042055714385,
+      "connected": true
+    },
+    {
+      "station": 151,
+      "candidate": 3901,
+      "xy": [
+        246.2099923351107,
+        152.00612934069667
+      ],
+      "radius": 24.80226948858276,
+      "connected": true
+    },
+    {
+      "station": 152,
+      "candidate": 3921,
+      "xy": [
+        245.98732816045634,
+        152.00693081439024
+      ],
+      "radius": 24.749013087943727,
+      "connected": true
+    },
+    {
+      "station": 153,
+      "candidate": 3938,
+      "xy": [
+        245.7649755158926,
+        152.00642559546216
+      ],
+      "radius": 24.695181007968255,
+      "connected": true
+    },
+    {
+      "station": 154,
+      "candidate": 3956,
+      "xy": [
+        245.53485466067534,
+        151.9870447151922
+      ],
+      "radius": 24.60470646300966,
+      "connected": true
+    },
+    {
+      "station": 155,
+      "candidate": 3977,
+      "xy": [
+        245.3069239744035,
+        151.96899354981497
+      ],
+      "radius": 24.519189800075925,
+      "connected": true
+    },
+    {
+      "station": 156,
+      "candidate": 3996,
+      "xy": [
+        245.08822163174312,
+        151.96910034619918
+      ],
+      "radius": 24.47299433586498,
+      "connected": true
+    },
+    {
+      "station": 158,
+      "candidate": 4032,
+      "xy": [
+        244.66541859434656,
+        152.00074898286408
+      ],
+      "radius": 24.450726681620882,
+      "connected": false
+    },
+    {
+      "station": 159,
+      "candidate": 4052,
+      "xy": [
+        244.07029153961946,
+        150.9806639532513
+      ],
+      "radius": 22.335335158318742,
+      "connected": true
+    }
+  ],
+  "decisions": [
+    {
+      "station": 1,
+      "options": [
+        {
+          "candidate": 37,
+          "score": 0.5609711664840401,
+          "normal_miss_px": 0.16318458459971313,
+          "spacing_px": 4.043586084765291,
+          "prediction_error_px": 0.7345011861400973,
+          "angle_deg": 52.68284792925851,
+          "failures": [
+            "ridge_orientation",
+            "score"
+          ]
+        },
+        {
+          "candidate": 36,
+          "score": 0.28474447806764375,
+          "normal_miss_px": 0.1837151459266516,
+          "spacing_px": 2.0318702203063075,
+          "prediction_error_px": 4.778087270905412,
+          "angle_deg": 63.31586580413008,
+          "failures": [
+            "low_orientation_coherence",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 2,
+      "options": [
+        {
+          "candidate": 68,
+          "score": 0.6177067404456352,
+          "normal_miss_px": 0.2803820016072942,
+          "spacing_px": 3.948067437396492,
+          "prediction_error_px": 0.742679174969215,
+          "angle_deg": 43.58880737422435,
+          "failures": [
+            "ridge_orientation",
+            "score"
+          ]
+        },
+        {
+          "candidate": 67,
+          "score": 0.29742969103646283,
+          "normal_miss_px": 0.35983702450331123,
+          "spacing_px": 2.0291062139766236,
+          "prediction_error_px": 4.690746612365703,
+          "angle_deg": 61.36983542745041,
+          "failures": [
+            "low_orientation_coherence",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 3,
+      "options": [
+        {
+          "candidate": 99,
+          "score": 0.6740893690932206,
+          "normal_miss_px": 0.34971916080085075,
+          "spacing_px": 3.9102678598767917,
+          "prediction_error_px": 0.6907523614554381,
+          "angle_deg": 35.60268299743145,
+          "failures": [
+            "score"
+          ]
+        },
+        {
+          "candidate": 98,
+          "score": 0.3099259095185095,
+          "normal_miss_px": 0.5274788133398579,
+          "spacing_px": 2.0264767083134934,
+          "prediction_error_px": 4.601020221332248,
+          "angle_deg": 59.43644270415929,
+          "failures": [
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 4,
+      "options": [
+        {
+          "candidate": 129,
+          "score": 0.7233500288116615,
+          "normal_miss_px": 0.3775797600494986,
+          "spacing_px": 3.887073025925964,
+          "prediction_error_px": 0.6215419867011694,
+          "angle_deg": 28.86156057205967,
+          "failures": [],
+          "margin": 0.4011335268106098
+        },
+        {
+          "candidate": 128,
+          "score": 0.32221650200105173,
+          "normal_miss_px": 0.6858360568732926,
+          "spacing_px": 2.023882434489866,
+          "prediction_error_px": 4.5086150126271445,
+          "angle_deg": 57.520086154345975,
+          "failures": [
+            "score"
+          ]
+        },
+        {
+          "candidate": 130,
+          "score": 0.09970731712595984,
+          "normal_miss_px": 0.7926361771432208,
+          "spacing_px": 6.134954409430851,
+          "prediction_error_px": 5.513412422729697,
+          "angle_deg": 105.46452181406697,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 5,
+      "options": [
+        {
+          "candidate": 160,
+          "score": 0.9753843776543967,
+          "normal_miss_px": 0.018558738536961186,
+          "spacing_px": 3.868129793840358,
+          "prediction_error_px": 0.018669223982047956,
+          "angle_deg": 5.207134894243021,
+          "failures": [],
+          "margin": 0.9753843776543967
+        },
+        {
+          "candidate": 159,
+          "score": 0.20531590254866008,
+          "normal_miss_px": 0.18108515091306873,
+          "spacing_px": 2.021218087671132,
+          "prediction_error_px": 3.849460569858321,
+          "angle_deg": 75.86007197942405,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        },
+        {
+          "candidate": 158,
+          "score": 0.15376002802724842,
+          "normal_miss_px": 0.18182161850288928,
+          "spacing_px": 2.021218087671132,
+          "prediction_error_px": 5.870678657529457,
+          "angle_deg": 76.78155814809976,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 6,
+      "options": [
+        {
+          "candidate": 189,
+          "score": 0.990846408683634,
+          "normal_miss_px": 0.0037733841208252034,
+          "spacing_px": 3.8410714739250476,
+          "prediction_error_px": 0.0038118282201876946,
+          "angle_deg": 2.158183611000348,
+          "failures": [],
+          "margin": 0.990846408683634
+        },
+        {
+          "candidate": 188,
+          "score": 0.1685245049708091,
+          "normal_miss_px": 0.1818586164892359,
+          "spacing_px": 2.018485768057997,
+          "prediction_error_px": 3.84488330214525,
+          "angle_deg": 81.30288925693206,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        },
+        {
+          "candidate": 187,
+          "score": 0.1214572884723485,
+          "normal_miss_px": 0.1823378216955795,
+          "spacing_px": 2.018485768057997,
+          "prediction_error_px": 5.863369070203221,
+          "angle_deg": 82.23186664541807,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 7,
+      "options": [
+        {
+          "candidate": 220,
+          "score": 0.9802980514111548,
+          "normal_miss_px": 0.009233647273152621,
+          "spacing_px": 3.7923550729345656,
+          "prediction_error_px": 0.009411254482032056,
+          "angle_deg": 4.331963408895177,
+          "failures": [],
+          "margin": 0.9802980514111548
+        },
+        {
+          "candidate": 219,
+          "score": 0.19684678925436286,
+          "normal_miss_px": 0.18164810146364438,
+          "spacing_px": 3.7923550729345656,
+          "prediction_error_px": 3.8017663274165776,
+          "angle_deg": 80.44449660575145,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        },
+        {
+          "candidate": 221,
+          "score": 0.11900163977529048,
+          "normal_miss_px": 0.18393330690182075,
+          "spacing_px": 5.418865891090237,
+          "prediction_error_px": 5.409454636608191,
+          "angle_deg": 94.8683151853604,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 8,
+      "options": [
+        {
+          "candidate": 249,
+          "score": 0.4804931963762873,
+          "normal_miss_px": 0.16298580287354783,
+          "spacing_px": 3.230990647885934,
+          "prediction_error_px": 0.5052475164299519,
+          "angle_deg": 63.159974367617174,
+          "failures": [
+            "ridge_orientation",
+            "score"
+          ]
+        },
+        {
+          "candidate": 248,
+          "score": 0.19339929805064168,
+          "normal_miss_px": 0.1813466834463972,
+          "spacing_px": 3.230990647885934,
+          "prediction_error_px": 3.736238164315891,
+          "angle_deg": 79.19729315585388,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        },
+        {
+          "candidate": 250,
+          "score": 0.12914598083531234,
+          "normal_miss_px": 0.18414395058404331,
+          "spacing_px": 5.6795004850119115,
+          "prediction_error_px": 5.174252968581944,
+          "angle_deg": 95.98113276292901,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 9,
+      "options": [
+        {
+          "candidate": 280,
+          "score": 0.5711903439619509,
+          "normal_miss_px": 0.2757224567282828,
+          "spacing_px": 3.1416681849430836,
+          "prediction_error_px": 0.5196742644317633,
+          "angle_deg": 50.186570264274096,
+          "failures": [
+            "ridge_orientation",
+            "score"
+          ]
+        },
+        {
+          "candidate": 279,
+          "score": 0.21146546510878178,
+          "normal_miss_px": 0.3582164507926298,
+          "spacing_px": 3.1416681849430836,
+          "prediction_error_px": 3.661342449374823,
+          "angle_deg": 76.61574496309211,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        },
+        {
+          "candidate": 281,
+          "score": 0.1073595300753056,
+          "normal_miss_px": 0.37019799498073186,
+          "spacing_px": 4.156461585592169,
+          "prediction_error_px": 5.110209189379138,
+          "angle_deg": 93.61529238796402,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 10,
+      "options": [
+        {
+          "candidate": 312,
+          "score": 0.629765766562647,
+          "normal_miss_px": 0.34649578137100084,
+          "spacing_px": 3.078868913705411,
+          "prediction_error_px": 0.5249690746618243,
+          "angle_deg": 41.17946881866142,
+          "failures": [
+            "ridge_orientation",
+            "score"
+          ]
+        },
+        {
+          "candidate": 311,
+          "score": 0.22901804930792238,
+          "normal_miss_px": 0.5290968019555065,
+          "spacing_px": 3.078868913705411,
+          "prediction_error_px": 3.603837988367249,
+          "angle_deg": 74.03930881032598,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        },
+        {
+          "candidate": 313,
+          "score": 0.13003425636419547,
+          "normal_miss_px": 0.5576967696955006,
+          "spacing_px": 5.513895367542681,
+          "prediction_error_px": 4.988926292880837,
+          "angle_deg": 91.09997131703058,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 11,
+      "options": [
+        {
+          "candidate": 340,
+          "score": 0.6687872186577041,
+          "normal_miss_px": 0.3894124242605129,
+          "spacing_px": 3.0328433210016597,
+          "prediction_error_px": 0.5246408675599336,
+          "angle_deg": 34.81020783602477,
+          "failures": [
+            "ridge_orientation",
+            "score"
+          ]
+        },
+        {
+          "candidate": 339,
+          "score": 0.24589287165139917,
+          "normal_miss_px": 0.6926936735192091,
+          "spacing_px": 3.0328433210016597,
+          "prediction_error_px": 3.5574841885615567,
+          "angle_deg": 71.50523034571874,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        },
+        {
+          "candidate": 341,
+          "score": 0.11973348310599513,
+          "normal_miss_px": 0.7461940083816584,
+          "spacing_px": 3.9375367839506534,
+          "prediction_error_px": 4.500870906188083,
+          "angle_deg": 87.72366422641737,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 12,
+      "options": [
+        {
+          "candidate": 372,
+          "score": 0.6972424330919308,
+          "normal_miss_px": 0.41490951275728427,
+          "spacing_px": 2.9997483765693693,
+          "prediction_error_px": 0.5210614932147313,
+          "angle_deg": 30.209092267368103,
+          "failures": [],
+          "margin": 0.6972424330919308
+        },
+        {
+          "candidate": 371,
+          "score": 0.26191224136917884,
+          "normal_miss_px": 0.848034171392338,
+          "spacing_px": 2.9997483765693693,
+          "prediction_error_px": 3.520809869784106,
+          "angle_deg": 69.04766908925848,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        },
+        {
+          "candidate": 373,
+          "score": 0.1358987702299816,
+          "normal_miss_px": 0.9339305208459134,
+          "spacing_px": 3.9168842805811614,
+          "prediction_error_px": 4.4890421769371,
+          "angle_deg": 85.00691765415638,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 13,
+      "options": [
+        {
+          "candidate": 405,
+          "score": 0.8824820756655841,
+          "normal_miss_px": 0.06741485872114274,
+          "spacing_px": 2.988441907617557,
+          "prediction_error_px": 0.06833641726786167,
+          "angle_deg": 21.871214431698657,
+          "failures": [],
+          "margin": 0.8824820756655841
+        },
+        {
+          "candidate": 404,
+          "score": 0.12082624946171482,
+          "normal_miss_px": 0.18302400939768684,
+          "spacing_px": 2.988441907617557,
+          "prediction_error_px": 3.056778324885406,
+          "angle_deg": 99.0183412206377,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 14,
+      "options": [
+        {
+          "candidate": 430,
+          "score": 0.9799226110195609,
+          "normal_miss_px": 0.012328876911950124,
+          "spacing_px": 2.9749631554849754,
+          "prediction_error_px": 0.01240349762725361,
+          "angle_deg": 2.8796178180134806,
+          "failures": [],
+          "margin": 0.9799226110195609
+        },
+        {
+          "candidate": 429,
+          "score": 0.20730643752915193,
+          "normal_miss_px": 0.17890556804918986,
+          "spacing_px": 2.9749631554849754,
+          "prediction_error_px": 2.962559657857708,
+          "angle_deg": 77.37023957297919,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 15,
+      "options": [
+        {
+          "candidate": 461,
+          "score": 0.9786369301665118,
+          "normal_miss_px": 0.015080815889941146,
+          "spacing_px": 2.95592628202954,
+          "prediction_error_px": 0.015121821017109457,
+          "angle_deg": 3.259296899665777,
+          "failures": [],
+          "margin": 0.9786369301665118
+        },
+        {
+          "candidate": 460,
+          "score": 0.19558913466251962,
+          "normal_miss_px": 0.17931564645284614,
+          "spacing_px": 2.95592628202954,
+          "prediction_error_px": 2.940804461012415,
+          "angle_deg": 79.02453003562721,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 16,
+      "options": [
+        {
+          "candidate": 492,
+          "score": 0.9559029485660596,
+          "normal_miss_px": 0.03256153330873293,
+          "spacing_px": 2.9296742052640847,
+          "prediction_error_px": 0.032584911126863,
+          "angle_deg": 8.314254374624696,
+          "failures": [],
+          "margin": 0.9559029485660596
+        },
+        {
+          "candidate": 491,
+          "score": 0.18750284017548216,
+          "normal_miss_px": 0.1796980348576874,
+          "spacing_px": 2.9296742052640847,
+          "prediction_error_px": 2.897089294137191,
+          "angle_deg": 80.30005965852966,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 17,
+      "options": [
+        {
+          "candidate": 523,
+          "score": 0.9899343415010499,
+          "normal_miss_px": 0.010411442777978765,
+          "spacing_px": 2.910482989870593,
+          "prediction_error_px": 0.010427466507522888,
+          "angle_deg": 0.9002078391265188,
+          "failures": [],
+          "margin": 0.9899343415010499
+        },
+        {
+          "candidate": 522,
+          "score": 0.16064357107016247,
+          "normal_miss_px": 0.1803742674708473,
+          "spacing_px": 2.910482989870593,
+          "prediction_error_px": 2.9000555233630574,
+          "angle_deg": 84.1575210354748,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 18,
+      "options": [
+        {
+          "candidate": 553,
+          "score": 0.9808010335807555,
+          "normal_miss_px": 0.0028367514579376554,
+          "spacing_px": 2.9092774729585362,
+          "prediction_error_px": 0.0028482091068134908,
+          "angle_deg": 3.9041443211551172,
+          "failures": [],
+          "margin": 0.9808010335807555
+        },
+        {
+          "candidate": 552,
+          "score": 0.15202795301814848,
+          "normal_miss_px": 0.18076107355806487,
+          "spacing_px": 2.9092774729585362,
+          "prediction_error_px": 2.906429263851724,
+          "angle_deg": 85.19744582768917,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 19,
+      "options": [
+        {
+          "candidate": 584,
+          "score": 0.8986688568682806,
+          "normal_miss_px": 0.043539198061281294,
+          "spacing_px": 2.8541660387413574,
+          "prediction_error_px": 0.046322349864156565,
+          "angle_deg": 18.41264568633188,
+          "failures": [],
+          "margin": 0.8986688568682806
+        },
+        {
+          "candidate": 583,
+          "score": 0.1543093163322549,
+          "normal_miss_px": 0.18100799395167386,
+          "spacing_px": 2.8541660387413574,
+          "prediction_error_px": 2.9004883886055075,
+          "angle_deg": 84.87246333262489,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 20,
+      "options": [
+        {
+          "candidate": 618,
+          "score": 0.43733264247697307,
+          "normal_miss_px": 0.16714541376898642,
+          "spacing_px": 2.2699999809959865,
+          "prediction_error_px": 0.5547353810396375,
+          "angle_deg": 63.33625346417521,
+          "failures": [
+            "ridge_orientation",
+            "score"
+          ]
+        },
+        {
+          "candidate": 617,
+          "score": 0.1985681393072164,
+          "normal_miss_px": 0.18083434543311802,
+          "spacing_px": 2.2699999809959865,
+          "prediction_error_px": 2.8247353620356614,
+          "angle_deg": 77.20186886065157,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 21,
+      "options": [
+        {
+          "candidate": 652,
+          "score": 0.5011883755322653,
+          "normal_miss_px": 0.3019634471222366,
+          "spacing_px": 2.095793653165215,
+          "prediction_error_px": 0.6530990528935325,
+          "angle_deg": 53.58927199420935,
+          "failures": [
+            "ridge_orientation",
+            "score"
+          ]
+        },
+        {
+          "candidate": 651,
+          "score": 0.22974095742018202,
+          "normal_miss_px": 0.3564619220371074,
+          "spacing_px": 2.095793653165215,
+          "prediction_error_px": 2.748892706058715,
+          "angle_deg": 73.67763500919882,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 22,
+      "options": [
+        {
+          "candidate": 683,
+          "score": 0.5647970501072541,
+          "normal_miss_px": 0.39955727685993225,
+          "spacing_px": 2.025162986775279,
+          "prediction_error_px": 0.6778079369170403,
+          "angle_deg": 45.264695395923,
+          "failures": [
+            "score"
+          ]
+        },
+        {
+          "candidate": 682,
+          "score": 0.25841223470207414,
+          "normal_miss_px": 0.5244034311492495,
+          "spacing_px": 2.025162986775279,
+          "prediction_error_px": 2.7029709236923107,
+          "angle_deg": 70.19823383993186,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 23,
+      "options": [
+        {
+          "candidate": 719,
+          "score": 0.6125976777847096,
+          "normal_miss_px": 0.46757353730102336,
+          "spacing_px": 1.9958006326300102,
+          "prediction_error_px": 0.6875250981546354,
+          "angle_deg": 38.792416629457094,
+          "failures": [
+            "score"
+          ]
+        },
+        {
+          "candidate": 718,
+          "score": 0.28383020086529326,
+          "normal_miss_px": 0.6830142885557153,
+          "spacing_px": 1.9958006326300102,
+          "prediction_error_px": 2.6833257307846594,
+          "angle_deg": 66.89613639496638,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 24,
+      "options": [
+        {
+          "candidate": 753,
+          "score": 0.6733805352498586,
+          "normal_miss_px": 0.4827723917165057,
+          "spacing_px": 2.0365528406438456,
+          "prediction_error_px": 0.6264968248050591,
+          "angle_deg": 31.493575806662317,
+          "failures": [
+            "score"
+          ]
+        },
+        {
+          "candidate": 752,
+          "score": 0.3074212502652704,
+          "normal_miss_px": 0.830713600717088,
+          "spacing_px": 2.0365528406438456,
+          "prediction_error_px": 2.663049665448894,
+          "angle_deg": 63.72427932884356,
+          "failures": [
+            "score"
+          ]
+        },
+        {
+          "candidate": 754,
+          "score": 0.1143673996086228,
+          "normal_miss_px": 0.9273209217881659,
+          "spacing_px": 5.764307067609463,
+          "prediction_error_px": 5.839710454845923,
+          "angle_deg": 88.9624936720445,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 25,
+      "options": [
+        {
+          "candidate": 785,
+          "score": 0.7182838487036672,
+          "normal_miss_px": 0.475693382350528,
+          "spacing_px": 1.957130845676664,
+          "prediction_error_px": 0.5717723098641225,
+          "angle_deg": 25.85832990685911,
+          "failures": [],
+          "margin": 0.30833471547039026
+        },
+        {
+          "candidate": 786,
+          "score": 0.409949133233277,
+          "normal_miss_px": 0.9283394796330803,
+          "spacing_px": 1.957130845676664,
+          "prediction_error_px": 1.3853585358125242,
+          "angle_deg": 55.765376736988735,
+          "failures": [
+            "layer_order_ambiguity",
+            "score"
+          ]
+        },
+        {
+          "candidate": 784,
+          "score": 0.33264908986592173,
+          "normal_miss_px": 0.9635735382778933,
+          "spacing_px": 2.027213276848592,
+          "prediction_error_px": 2.598985586712706,
+          "angle_deg": 60.397371952548156,
+          "failures": [
+            "layer_order_ambiguity",
+            "score"
+          ]
+        },
+        {
+          "candidate": 787,
+          "score": 0.11237695812015025,
+          "normal_miss_px": 1.1133707396416086,
+          "spacing_px": 4.1966224942686905,
+          "prediction_error_px": 5.581981030081231,
+          "angle_deg": 86.3354918223573,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 26,
+      "options": [
+        {
+          "candidate": 816,
+          "score": 0.8939440934809024,
+          "normal_miss_px": 0.06297950763270733,
+          "spacing_px": 1.9927567456015716,
+          "prediction_error_px": 0.06340960697895058,
+          "angle_deg": 17.868068515930137,
+          "failures": [],
+          "margin": 0.5450083265613757
+        },
+        {
+          "candidate": 815,
+          "score": 0.3489357669195268,
+          "normal_miss_px": 0.17393683166238766,
+          "spacing_px": 2.026080112036016,
+          "prediction_error_px": 1.9626705050570468,
+          "angle_deg": 60.370427259442366,
+          "failures": [
+            "score"
+          ]
+        },
+        {
+          "candidate": 817,
+          "score": 0.08128067491629533,
+          "normal_miss_px": 0.1891867606719219,
+          "spacing_px": 1.9927567456015716,
+          "prediction_error_px": 2.0561663525805587,
+          "angle_deg": 109.26598479325475,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 27,
+      "options": [
+        {
+          "candidate": 848,
+          "score": 0.9164783378050501,
+          "normal_miss_px": 0.03683231436734055,
+          "spacing_px": 2.0722747320132093,
+          "prediction_error_px": 0.03692930700483259,
+          "angle_deg": 10.570403783024203,
+          "failures": [],
+          "margin": 0.9164783378050501
+        },
+        {
+          "candidate": 847,
+          "score": 0.2063828667411562,
+          "normal_miss_px": 0.18027269115130334,
+          "spacing_px": 2.4016922384161905,
+          "prediction_error_px": 2.3647629314113696,
+          "angle_deg": 79.21105440464788,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        },
+        {
+          "candidate": 849,
+          "score": 0.08405650420424775,
+          "normal_miss_px": 0.18397686410733763,
+          "spacing_px": 2.0722747320132093,
+          "prediction_error_px": 2.109204039018029,
+          "angle_deg": 91.41285622579295,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 28,
+      "options": [
+        {
+          "candidate": 884,
+          "score": 0.8489779729887013,
+          "normal_miss_px": 0.062045085825931934,
+          "spacing_px": 2.0143391958658508,
+          "prediction_error_px": 0.06501673575208147,
+          "angle_deg": 18.26491202880116,
+          "failures": [
+            "ridge_orientation"
+          ]
+        },
+        {
+          "candidate": 883,
+          "score": 0.15619228331704607,
+          "normal_miss_px": 0.18238429877835394,
+          "spacing_px": 2.949364174466637,
+          "prediction_error_px": 2.884347438714572,
+          "angle_deg": 85.49941686372317,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        },
+        {
+          "candidate": 885,
+          "score": 0.10970128984628877,
+          "normal_miss_px": 0.18319331294547622,
+          "spacing_px": 2.0143391958658508,
+          "prediction_error_px": 2.079355931617913,
+          "angle_deg": 85.8208453586685,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 29,
+      "options": [
+        {
+          "candidate": 921,
+          "score": 0.943907045984326,
+          "normal_miss_px": 0.02883792788039576,
+          "spacing_px": 2.0995870217827117,
+          "prediction_error_px": 0.02885341021561391,
+          "angle_deg": 2.490363709651906,
+          "failures": [
+            "ridge_orientation"
+          ]
+        },
+        {
+          "candidate": 920,
+          "score": 0.1798364670328487,
+          "normal_miss_px": 0.3622432454938969,
+          "spacing_px": 2.9920389156137865,
+          "prediction_error_px": 2.963185505398197,
+          "angle_deg": 82.36483616910867,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        },
+        {
+          "candidate": 922,
+          "score": 0.14585701158571904,
+          "normal_miss_px": 0.3645115424728947,
+          "spacing_px": 2.0995870217827117,
+          "prediction_error_px": 2.128440431998356,
+          "angle_deg": 80.75236490847611,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        },
+        {
+          "candidate": 923,
+          "score": 0.10642022063055365,
+          "normal_miss_px": 0.3673801990528498,
+          "spacing_px": 3.65186727428298,
+          "prediction_error_px": 5.780307706281333,
+          "angle_deg": 86.96929422061203,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 30,
+      "options": [
+        {
+          "candidate": 958,
+          "score": 0.9566028771996432,
+          "normal_miss_px": 0.011766015152931778,
+          "spacing_px": 2.1820649226454023,
+          "prediction_error_px": 0.01177084333777224,
+          "angle_deg": 1.2905877876437302,
+          "failures": [],
+          "margin": 0.9566028771996432
+        },
+        {
+          "candidate": 957,
+          "score": 0.20256584020571386,
+          "normal_miss_px": 0.5377296951727459,
+          "spacing_px": 3.0282429546640457,
+          "prediction_error_px": 3.016472111326222,
+          "angle_deg": 79.3807823633696,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        },
+        {
+          "candidate": 959,
+          "score": 0.17845584664104228,
+          "normal_miss_px": 0.5412337958392689,
+          "spacing_px": 2.1820649226454023,
+          "prediction_error_px": 2.1938357659831857,
+          "angle_deg": 76.06782148631699,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        },
+        {
+          "candidate": 960,
+          "score": 0.1214456947176066,
+          "normal_miss_px": 0.55139871037144,
+          "spacing_px": 3.184628580630105,
+          "prediction_error_px": 5.378464346613331,
+          "angle_deg": 84.46624703615441,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 31,
+      "options": [
+        {
+          "candidate": 998,
+          "score": 0.4931227784432775,
+          "normal_miss_px": 0.2691287825954911,
+          "spacing_px": 2.132442012002487,
+          "prediction_error_px": 0.28334881467410766,
+          "angle_deg": 68.21308341361839,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        },
+        {
+          "candidate": 997,
+          "score": 0.442267136628642,
+          "normal_miss_px": 0.17372078980839098,
+          "spacing_px": 3.7851509686753615,
+          "prediction_error_px": 3.5018021540012905,
+          "angle_deg": 37.17226407999978,
+          "failures": [
+            "ridge_orientation",
+            "score"
+          ]
+        },
+        {
+          "candidate": 1000,
+          "score": 0.07834785295126757,
+          "normal_miss_px": 0.19260719227525477,
+          "spacing_px": 3.121903883186583,
+          "prediction_error_px": 5.5376947098631755,
+          "angle_deg": 137.9909712155775,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        },
+        {
+          "candidate": 999,
+          "score": 0.048104711769784855,
+          "normal_miss_px": 0.20302100383168173,
+          "spacing_px": 2.132442012002487,
+          "prediction_error_px": 2.4157908266765458,
+          "angle_deg": 135.16340984811137,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 32,
+      "options": [
+        {
+          "candidate": 1035,
+          "score": 0.5169751896264986,
+          "normal_miss_px": 0.32582818369019584,
+          "spacing_px": 6.08210195735,
+          "prediction_error_px": 3.372167618975088,
+          "angle_deg": 34.73571265700924,
+          "failures": [
+            "score"
+          ]
+        },
+        {
+          "candidate": 1037,
+          "score": 0.07446437197679853,
+          "normal_miss_px": 0.40093969016116054,
+          "spacing_px": 3.011594479194502,
+          "prediction_error_px": 5.721528817569381,
+          "angle_deg": 135.7012290994206,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        },
+        {
+          "candidate": 1036,
+          "score": 0.05933588362682715,
+          "normal_miss_px": 0.43774072484515053,
+          "spacing_px": 3.011594479194502,
+          "prediction_error_px": 2.7099343383749135,
+          "angle_deg": 130.4237379584742,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 33,
+      "options": [
+        {
+          "candidate": 1073,
+          "score": 0.5405115329614019,
+          "normal_miss_px": 0.4553262922947419,
+          "spacing_px": 6.081568314035523,
+          "prediction_error_px": 3.1801927966973738,
+          "angle_deg": 32.31438817004617,
+          "failures": [
+            "score"
+          ]
+        },
+        {
+          "candidate": 1074,
+          "score": 0.05682087245789268,
+          "normal_miss_px": 0.7024960291261879,
+          "spacing_px": 3.0841426574174053,
+          "prediction_error_px": 2.901375517338119,
+          "angle_deg": 125.44195685801843,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 34,
+      "options": [
+        {
+          "candidate": 1110,
+          "score": 0.5868112825660233,
+          "normal_miss_px": 0.5605609904717122,
+          "spacing_px": 6.984869949327732,
+          "prediction_error_px": 2.951508660580782,
+          "angle_deg": 29.86432648998034,
+          "failures": [
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 35,
+      "options": [
+        {
+          "candidate": 1147,
+          "score": 0.617668639244234,
+          "normal_miss_px": 0.6379565305728685,
+          "spacing_px": 7.001043972988465,
+          "prediction_error_px": 2.6764996856544214,
+          "angle_deg": 27.290843532667544,
+          "failures": [
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 36,
+      "options": [
+        {
+          "candidate": 1183,
+          "score": 0.640168082822475,
+          "normal_miss_px": 0.6980954539663385,
+          "spacing_px": 6.970021218068454,
+          "prediction_error_px": 2.4906337329659807,
+          "angle_deg": 25.071625636564104,
+          "failures": [
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 37,
+      "options": [
+        {
+          "candidate": 1222,
+          "score": 0.5103117552043489,
+          "normal_miss_px": 0.9100359266258771,
+          "spacing_px": 5.320949605830978,
+          "prediction_error_px": 3.9326242216092067,
+          "angle_deg": 28.23897740958548,
+          "failures": [
+            "ridge_orientation",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 38,
+      "options": [
+        {
+          "candidate": 1261,
+          "score": 0.5582863455680984,
+          "normal_miss_px": 0.730486605809148,
+          "spacing_px": 1.7909399921231495,
+          "prediction_error_px": 1.9814291800265058,
+          "angle_deg": 20.256486870301245,
+          "failures": [
+            "score"
+          ]
+        },
+        {
+          "candidate": 1260,
+          "score": 0.4652975446405232,
+          "normal_miss_px": 0.9803231366965209,
+          "spacing_px": 1.7909399921231495,
+          "prediction_error_px": 3.7723691721496198,
+          "angle_deg": 26.827578473129304,
+          "failures": [
+            "layer_order_ambiguity",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 39,
+      "options": [
+        {
+          "candidate": 1292,
+          "score": 0.5368744671023471,
+          "normal_miss_px": 1.0330398237655822,
+          "spacing_px": 5.2034059919734865,
+          "prediction_error_px": 3.57783978433541,
+          "angle_deg": 25.37997170032467,
+          "failures": [
+            "score"
+          ]
+        },
+        {
+          "candidate": 1293,
+          "score": 0.1330197979479679,
+          "normal_miss_px": 2.6355847883802936,
+          "spacing_px": 7.163711655035351,
+          "prediction_error_px": 3.5858718706999144,
+          "angle_deg": 90.53143564577654,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 40,
+      "options": [
+        {
+          "candidate": 1325,
+          "score": 0.5638502656312233,
+          "normal_miss_px": 1.0521471140760938,
+          "spacing_px": 5.336314874853121,
+          "prediction_error_px": 3.2554256896541163,
+          "angle_deg": 23.57905885476251,
+          "failures": [
+            "score"
+          ]
+        },
+        {
+          "candidate": 1326,
+          "score": 0.12710637874010447,
+          "normal_miss_px": 2.935987167048012,
+          "spacing_px": 7.080921319209251,
+          "prediction_error_px": 3.893940478849434,
+          "angle_deg": 88.62741934522774,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 41,
+      "options": [
+        {
+          "candidate": 1359,
+          "score": 0.5832700330075561,
+          "normal_miss_px": 1.0642385932409224,
+          "spacing_px": 5.304252121242873,
+          "prediction_error_px": 3.0146775840589757,
+          "angle_deg": 22.038092801102746,
+          "failures": [
+            "score"
+          ]
+        },
+        {
+          "candidate": 1360,
+          "score": 0.1444412043570542,
+          "normal_miss_px": 3.2331633000197497,
+          "spacing_px": 7.068934229331881,
+          "prediction_error_px": 4.093519303520327,
+          "angle_deg": 85.12067524045237,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "layer_order_ambiguity",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 42,
+      "options": [
+        {
+          "candidate": 1392,
+          "score": 0.7118903284533724,
+          "normal_miss_px": 0.8042778828658218,
+          "spacing_px": 6.187367174159848,
+          "prediction_error_px": 1.786643775045548,
+          "angle_deg": 16.232127336407032,
+          "failures": [],
+          "margin": 0.7118903284533724
+        },
+        {
+          "candidate": 1393,
+          "score": 0.12791927137570408,
+          "normal_miss_px": 3.529026902680152,
+          "spacing_px": 6.187367174159848,
+          "prediction_error_px": 4.400723399114298,
+          "angle_deg": 83.70002374842231,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "layer_order_ambiguity",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 43,
+      "options": [
+        {
+          "candidate": 1425,
+          "score": 0.7635807481083368,
+          "normal_miss_px": 0.13184045965858637,
+          "spacing_px": 6.100792257414276,
+          "prediction_error_px": 0.1362900508858075,
+          "angle_deg": 42.17263597606048,
+          "failures": [],
+          "margin": 0.7635807481083368
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 44,
+      "options": [
+        {
+          "candidate": 1456,
+          "score": 0.8753443981579487,
+          "normal_miss_px": 0.07563939673111188,
+          "spacing_px": 6.181606452974431,
+          "prediction_error_px": 0.07711595769569517,
+          "angle_deg": 26.18983600341065,
+          "failures": [],
+          "margin": 0.8753443981579487
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 45,
+      "options": [
+        {
+          "candidate": 1486,
+          "score": 0.9053073882052264,
+          "normal_miss_px": 0.057198971534941426,
+          "spacing_px": 6.206673657505513,
+          "prediction_error_px": 0.060333181413974625,
+          "angle_deg": 20.74483493011523,
+          "failures": [],
+          "margin": 0.9053073882052264
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 46,
+      "options": [
+        {
+          "candidate": 1514,
+          "score": 0.8153423053398352,
+          "normal_miss_px": 0.08767324737763245,
+          "spacing_px": 2.8142965948693877,
+          "prediction_error_px": 0.09495701414802302,
+          "angle_deg": 27.275582519029403,
+          "failures": [
+            "ridge_orientation"
+          ]
+        },
+        {
+          "candidate": 1513,
+          "score": 0.20033177077734526,
+          "normal_miss_px": 0.17311075809475007,
+          "spacing_px": 2.8142965948693877,
+          "prediction_error_px": 2.719339580721392,
+          "angle_deg": 81.66204662844247,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 47,
+      "options": [
+        {
+          "candidate": 1546,
+          "score": 0.9083111275077029,
+          "normal_miss_px": 0.07389061270372295,
+          "spacing_px": 2.3553726336695804,
+          "prediction_error_px": 0.07838433468382919,
+          "angle_deg": 15.089990516371504,
+          "failures": [],
+          "margin": 0.9083111275077029
+        },
+        {
+          "candidate": 1545,
+          "score": 0.21877370212723554,
+          "normal_miss_px": 0.34237034600190747,
+          "spacing_px": 2.6990775255028394,
+          "prediction_error_px": 2.777461860186645,
+          "angle_deg": 78.51429015018888,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        },
+        {
+          "candidate": 1547,
+          "score": 0.12882045682325988,
+          "normal_miss_px": 0.3535392473832063,
+          "spacing_px": 2.3553726336695804,
+          "prediction_error_px": 2.2769882989857795,
+          "angle_deg": 85.47276835248606,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 48,
+      "options": [
+        {
+          "candidate": 1577,
+          "score": 0.751794222748504,
+          "normal_miss_px": 0.11525234011607366,
+          "spacing_px": 2.7782024863002643,
+          "prediction_error_px": 0.2812438223972001,
+          "angle_deg": 33.943075579006894,
+          "failures": [],
+          "margin": 0.38960582352383355
+        },
+        {
+          "candidate": 1576,
+          "score": 0.3621883992246705,
+          "normal_miss_px": 0.16984600066734737,
+          "spacing_px": 2.8373246928320106,
+          "prediction_error_px": 3.1185685152292484,
+          "angle_deg": 55.01300567778555,
+          "failures": [
+            "score"
+          ]
+        },
+        {
+          "candidate": 1578,
+          "score": 0.10056211627711611,
+          "normal_miss_px": 0.18382638994646255,
+          "spacing_px": 2.7782024863002643,
+          "prediction_error_px": 2.4969586639030403,
+          "angle_deg": 117.6430188602398,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 49,
+      "options": [
+        {
+          "candidate": 1610,
+          "score": 0.6303888587800113,
+          "normal_miss_px": 0.3531677763184772,
+          "spacing_px": 3.189896574571124,
+          "prediction_error_px": 0.359344130551327,
+          "angle_deg": 54.88351787704824,
+          "failures": [
+            "score"
+          ]
+        },
+        {
+          "candidate": 1609,
+          "score": 0.5561944732887659,
+          "normal_miss_px": 0.153618284098534,
+          "spacing_px": 3.189896574571124,
+          "prediction_error_px": 2.8305524440197645,
+          "angle_deg": 21.36712082351396,
+          "failures": [
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 50,
+      "options": [
+        {
+          "candidate": 1641,
+          "score": 0.5868397001728282,
+          "normal_miss_px": 0.6665399061768552,
+          "spacing_px": 3.111532025011166,
+          "prediction_error_px": 0.6898949071764691,
+          "angle_deg": 50.28302753361437,
+          "failures": [
+            "score"
+          ]
+        },
+        {
+          "candidate": 1640,
+          "score": 0.5825781552500066,
+          "normal_miss_px": 0.2638422122912077,
+          "spacing_px": 3.111532025011166,
+          "prediction_error_px": 2.421637117834684,
+          "angle_deg": 18.511109901708476,
+          "failures": [
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 51,
+      "options": [
+        {
+          "candidate": 1667,
+          "score": 0.6845035717807387,
+          "normal_miss_px": 0.33292778740892104,
+          "spacing_px": 5.1904384467496225,
+          "prediction_error_px": 2.071920612404241,
+          "angle_deg": 15.80883533889365,
+          "failures": [],
+          "margin": 0.6845035717807387
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 52,
+      "options": [
+        {
+          "candidate": 1692,
+          "score": 0.5663901282183694,
+          "normal_miss_px": 0.14539863572837416,
+          "spacing_px": 5.3689619776948145,
+          "prediction_error_px": 4.799142721167157,
+          "angle_deg": 15.268671282725633,
+          "failures": [
+            "score"
+          ]
+        },
+        {
+          "candidate": 1693,
+          "score": 0.36943650371506126,
+          "normal_miss_px": 0.557769952977979,
+          "spacing_px": 5.3689619776948145,
+          "prediction_error_px": 0.5698192565276325,
+          "angle_deg": 84.79888890570263,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 53,
+      "options": [
+        {
+          "candidate": 1717,
+          "score": 0.5838537931584513,
+          "normal_miss_px": 0.26186324622764223,
+          "spacing_px": 5.547227726234111,
+          "prediction_error_px": 4.520465757659362,
+          "angle_deg": 13.976891774994321,
+          "failures": [
+            "score"
+          ]
+        },
+        {
+          "candidate": 1718,
+          "score": 0.4746932677343704,
+          "normal_miss_px": 1.0177097474412897,
+          "spacing_px": 5.357264705927762,
+          "prediction_error_px": 1.0267619685747227,
+          "angle_deg": 65.08842485557577,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 54,
+      "options": [
+        {
+          "candidate": 1745,
+          "score": 0.602954171385914,
+          "normal_miss_px": 0.35191033152418155,
+          "spacing_px": 5.725313212237937,
+          "prediction_error_px": 4.193719691222416,
+          "angle_deg": 12.779036823816886,
+          "failures": [
+            "score"
+          ]
+        },
+        {
+          "candidate": 1746,
+          "score": 0.4431108184621688,
+          "normal_miss_px": 1.5158123747857088,
+          "spacing_px": 5.725313212237937,
+          "prediction_error_px": 1.531593521015534,
+          "angle_deg": 64.17534040549289,
+          "failures": [
+            "ridge_orientation",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 55,
+      "options": [
+        {
+          "candidate": 1772,
+          "score": 0.6186632597533193,
+          "normal_miss_px": 0.4137174041012222,
+          "spacing_px": 5.523299648582164,
+          "prediction_error_px": 3.752451716961253,
+          "angle_deg": 11.559365671765038,
+          "failures": [
+            "score"
+          ]
+        },
+        {
+          "candidate": 1773,
+          "score": 0.572253441171028,
+          "normal_miss_px": 1.5493387795780564,
+          "spacing_px": 5.523299648582164,
+          "prediction_error_px": 1.7708479316209427,
+          "angle_deg": 43.14550086486376,
+          "failures": [
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 56,
+      "options": [
+        {
+          "candidate": 1800,
+          "score": 0.6354120412040842,
+          "normal_miss_px": 0.4470866564060143,
+          "spacing_px": 5.22095417631791,
+          "prediction_error_px": 3.269491865444027,
+          "angle_deg": 10.328247872072476,
+          "failures": [
+            "score"
+          ]
+        },
+        {
+          "candidate": 1801,
+          "score": 0.6243081180951682,
+          "normal_miss_px": 1.4755141209145013,
+          "spacing_px": 5.22095417631791,
+          "prediction_error_px": 1.9514623108739204,
+          "angle_deg": 30.934397951230185,
+          "failures": [
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 57,
+      "options": [
+        {
+          "candidate": 1828,
+          "score": 0.6625607808063722,
+          "normal_miss_px": 0.4467613518733391,
+          "spacing_px": 5.042223327451646,
+          "prediction_error_px": 2.71036163952646,
+          "angle_deg": 9.000650304299185,
+          "failures": [
+            "score"
+          ]
+        },
+        {
+          "candidate": 1829,
+          "score": 0.5960966056622492,
+          "normal_miss_px": 1.76253744876381,
+          "spacing_px": 5.042223327451646,
+          "prediction_error_px": 2.331861687925201,
+          "angle_deg": 30.611412653243665,
+          "failures": [
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 58,
+      "options": [
+        {
+          "candidate": 1853,
+          "score": 0.7002289705315581,
+          "normal_miss_px": 0.42278423561798256,
+          "spacing_px": 5.130633959313507,
+          "prediction_error_px": 2.2110289850690674,
+          "angle_deg": 7.767002817561076,
+          "failures": [],
+          "margin": 0.1666783185524734
+        },
+        {
+          "candidate": 1854,
+          "score": 0.5335506519790847,
+          "normal_miss_px": 2.4097818564071463,
+          "spacing_px": 5.130633959313507,
+          "prediction_error_px": 2.9196049742444123,
+          "angle_deg": 36.83621444547243,
+          "failures": [
+            "layer_order_ambiguity",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 59,
+      "options": [
+        {
+          "candidate": 1878,
+          "score": 0.9039191074095855,
+          "normal_miss_px": 0.08163873328179994,
+          "spacing_px": 5.22727098087382,
+          "prediction_error_px": 0.10686709226907712,
+          "angle_deg": 17.95917613215374,
+          "failures": [],
+          "margin": 0.9039191074095855
+        },
+        {
+          "candidate": 1879,
+          "score": 0.10494278993083553,
+          "normal_miss_px": 0.14347712636183982,
+          "spacing_px": 5.22727098087382,
+          "prediction_error_px": 5.334138073142918,
+          "angle_deg": 146.6061633050678,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 60,
+      "options": [
+        {
+          "candidate": 1902,
+          "score": 0.7941414308203654,
+          "normal_miss_px": 0.09898880906009289,
+          "spacing_px": 5.53675517281958,
+          "prediction_error_px": 0.3493269847938571,
+          "angle_deg": 33.656874338278726,
+          "failures": [],
+          "margin": 0.7941414308203654
+        },
+        {
+          "candidate": 1903,
+          "score": 0.10617753609569572,
+          "normal_miss_px": 0.1408884744270897,
+          "spacing_px": 5.314082715587526,
+          "prediction_error_px": 5.35061501228672,
+          "angle_deg": 128.37283687216635,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 61,
+      "options": [
+        {
+          "candidate": 1927,
+          "score": 0.9928894713638663,
+          "normal_miss_px": 0.008037712500633103,
+          "spacing_px": 5.27833343006044,
+          "prediction_error_px": 0.017996299483179712,
+          "angle_deg": 0.8461458952412354,
+          "failures": [],
+          "margin": 0.48428857269379955
+        },
+        {
+          "candidate": 1926,
+          "score": 0.5086008986700667,
+          "normal_miss_px": 0.12911453528683287,
+          "spacing_px": 5.27833343006044,
+          "prediction_error_px": 5.260337130577252,
+          "angle_deg": 24.275155575997818,
+          "failures": [
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 62,
+      "options": [
+        {
+          "candidate": 1951,
+          "score": 0.7811164197760101,
+          "normal_miss_px": 0.21103844314150716,
+          "spacing_px": 5.18596633640949,
+          "prediction_error_px": 0.23552228582680382,
+          "angle_deg": 37.37829769487319,
+          "failures": [],
+          "margin": 0.27194475903305004
+        },
+        {
+          "candidate": 1950,
+          "score": 0.50917166074296,
+          "normal_miss_px": 0.12791619826791073,
+          "spacing_px": 5.18596633640949,
+          "prediction_error_px": 4.950444050582686,
+          "angle_deg": 24.783958643868814,
+          "failures": [
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 63,
+      "options": [
+        {
+          "candidate": 1974,
+          "score": 0.9673063494227987,
+          "normal_miss_px": 0.029111977903792774,
+          "spacing_px": 4.953981854853955,
+          "prediction_error_px": 0.05272790620421404,
+          "angle_deg": 5.833084901478862,
+          "failures": [],
+          "margin": 0.4683997787719708
+        },
+        {
+          "candidate": 1973,
+          "score": 0.4989065706508279,
+          "normal_miss_px": 0.1295150518807448,
+          "spacing_px": 4.953981854853955,
+          "prediction_error_px": 4.90125394864971,
+          "angle_deg": 26.16508015613091,
+          "failures": [
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 64,
+      "options": [
+        {
+          "candidate": 1997,
+          "score": 0.9797925513732485,
+          "normal_miss_px": 0.021549613913249055,
+          "spacing_px": 4.76917331454345,
+          "prediction_error_px": 0.038311762179049115,
+          "angle_deg": 3.2114651781210783,
+          "failures": [],
+          "margin": 0.5290646389789686
+        },
+        {
+          "candidate": 1996,
+          "score": 0.45072791239427995,
+          "normal_miss_px": 0.12967478980584612,
+          "spacing_px": 4.76917331454345,
+          "prediction_error_px": 4.730861552364395,
+          "angle_deg": 35.86827398362862,
+          "failures": [
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 65,
+      "options": [
+        {
+          "candidate": 2023,
+          "score": 0.9707550135127276,
+          "normal_miss_px": 0.02326620421272849,
+          "spacing_px": 4.588893918161663,
+          "prediction_error_px": 0.0396427264587785,
+          "angle_deg": 5.422827000079093,
+          "failures": [],
+          "margin": 0.5539337311885344
+        },
+        {
+          "candidate": 2022,
+          "score": 0.41682128232419324,
+          "normal_miss_px": 0.12963427053334792,
+          "spacing_px": 3.8184924602575494,
+          "prediction_error_px": 4.549251191702916,
+          "angle_deg": 39.72705061445478,
+          "failures": [
+            "score"
+          ]
+        },
+        {
+          "candidate": 2024,
+          "score": 0.06834092534039349,
+          "normal_miss_px": 0.14229414944791596,
+          "spacing_px": 5.2054394457197155,
+          "prediction_error_px": 5.245082172178471,
+          "angle_deg": 137.08547144275914,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 66,
+      "options": [
+        {
+          "candidate": 2049,
+          "score": 0.9166325182657165,
+          "normal_miss_px": 0.07937959869346058,
+          "spacing_px": 4.78303063417934,
+          "prediction_error_px": 0.10255923117284746,
+          "angle_deg": 15.536866556010256,
+          "failures": [],
+          "margin": 0.47397530543375926
+        },
+        {
+          "candidate": 2048,
+          "score": 0.4426572128319572,
+          "normal_miss_px": 0.13015291229285642,
+          "spacing_px": 3.503103348249386,
+          "prediction_error_px": 4.680471403006478,
+          "angle_deg": 33.583024385446386,
+          "failures": [
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 67,
+      "options": [
+        {
+          "candidate": 2077,
+          "score": 0.8918657929472048,
+          "normal_miss_px": 0.08654753546990908,
+          "spacing_px": 4.992567676630707,
+          "prediction_error_px": 0.09917628218282092,
+          "angle_deg": 20.812775566134302,
+          "failures": [],
+          "margin": 0.4777864353258835
+        },
+        {
+          "candidate": 2076,
+          "score": 0.4140793576213213,
+          "normal_miss_px": 0.13179721741378508,
+          "spacing_px": 3.3135416521047243,
+          "prediction_error_px": 4.893391394447915,
+          "angle_deg": 38.41351225211319,
+          "failures": [
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 68,
+      "options": [
+        {
+          "candidate": 2103,
+          "score": 0.7041335007175191,
+          "normal_miss_px": 0.17247378749587897,
+          "spacing_px": 5.227838825817056,
+          "prediction_error_px": 0.17366054794200853,
+          "angle_deg": 48.586072735358435,
+          "failures": [
+            "ridge_orientation"
+          ]
+        },
+        {
+          "candidate": 2102,
+          "score": 0.3667575394214062,
+          "normal_miss_px": 0.13301730588905442,
+          "spacing_px": 3.1446046373400693,
+          "prediction_error_px": 5.054178277875031,
+          "angle_deg": 46.60800838260564,
+          "failures": [
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 69,
+      "options": [
+        {
+          "candidate": 2124,
+          "score": 0.8492219938962788,
+          "normal_miss_px": 0.21805245140346702,
+          "spacing_px": 5.280695551834291,
+          "prediction_error_px": 0.228505509184168,
+          "angle_deg": 24.158742603927895,
+          "failures": [],
+          "margin": 0.4774782199621781
+        },
+        {
+          "candidate": 2123,
+          "score": 0.37174377393410074,
+          "normal_miss_px": 0.2590069834066009,
+          "spacing_px": 2.9517158043302905,
+          "prediction_error_px": 5.052190042650154,
+          "angle_deg": 45.50537761052004,
+          "failures": [
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 70,
+      "options": [
+        {
+          "candidate": 2148,
+          "score": 0.9814904197065539,
+          "normal_miss_px": 0.012429388665476838,
+          "spacing_px": 5.266295978476456,
+          "prediction_error_px": 0.018699801327506534,
+          "angle_deg": 3.851436473902687,
+          "failures": [],
+          "margin": 0.9814904197065539
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 71,
+      "options": [
+        {
+          "candidate": 2173,
+          "score": 0.9301194181620863,
+          "normal_miss_px": 0.043176010797187546,
+          "spacing_px": 5.159466724063516,
+          "prediction_error_px": 0.08709876537036314,
+          "angle_deg": 12.27426401645726,
+          "failures": [],
+          "margin": 0.9301194181620863
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 72,
+      "options": [
+        {
+          "candidate": 2195,
+          "score": 0.9844718058704243,
+          "normal_miss_px": 0.006827572915574288,
+          "spacing_px": 5.078199096494562,
+          "prediction_error_px": 0.012488271450258173,
+          "angle_deg": 2.1458054010075474,
+          "failures": [],
+          "margin": 0.5290845208917566
+        },
+        {
+          "candidate": 2194,
+          "score": 0.45538728497866765,
+          "normal_miss_px": 0.1335665603331501,
+          "spacing_px": 5.078199096494562,
+          "prediction_error_px": 5.0906873679448665,
+          "angle_deg": 33.784538365177255,
+          "failures": [
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 73,
+      "options": [
+        {
+          "candidate": 2218,
+          "score": 0.8800953268591599,
+          "normal_miss_px": 0.10498707730988331,
+          "spacing_px": 5.090425181150998,
+          "prediction_error_px": 0.12316715261015324,
+          "angle_deg": 23.5818361035537,
+          "failures": [],
+          "margin": 0.4213825899720464
+        },
+        {
+          "candidate": 2217,
+          "score": 0.4587127368871135,
+          "normal_miss_px": 0.1331449827062244,
+          "spacing_px": 5.090425181150998,
+          "prediction_error_px": 4.9672580285408205,
+          "angle_deg": 33.35533101511528,
+          "failures": [
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 74,
+      "options": [
+        {
+          "candidate": 2242,
+          "score": 0.6325125903520145,
+          "normal_miss_px": 0.2063657656725738,
+          "spacing_px": 5.177335778037346,
+          "prediction_error_px": 0.2092305712145006,
+          "angle_deg": 61.16976228618299,
+          "failures": [
+            "score"
+          ]
+        },
+        {
+          "candidate": 2241,
+          "score": 0.4418560269694776,
+          "normal_miss_px": 0.13437584582487788,
+          "spacing_px": 5.177335778037346,
+          "prediction_error_px": 4.968105206822819,
+          "angle_deg": 36.77258475918569,
+          "failures": [
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 75,
+      "options": [
+        {
+          "candidate": 2267,
+          "score": 0.7498483046273196,
+          "normal_miss_px": 0.3154733132780805,
+          "spacing_px": 5.0893368015848806,
+          "prediction_error_px": 0.3205773421358075,
+          "angle_deg": 41.095001054415604,
+          "failures": [],
+          "margin": 0.2982524054288771
+        },
+        {
+          "candidate": 2266,
+          "score": 0.45159589919844245,
+          "normal_miss_px": 0.2595025328956115,
+          "spacing_px": 5.0893368015848806,
+          "prediction_error_px": 4.768759459449049,
+          "angle_deg": 35.54780487821835,
+          "failures": [
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 76,
+      "options": [
+        {
+          "candidate": 2291,
+          "score": 0.9475392922602014,
+          "normal_miss_px": 0.03164266385162134,
+          "spacing_px": 4.974251398974795,
+          "prediction_error_px": 0.04537808651094767,
+          "angle_deg": 10.751950667881466,
+          "failures": [],
+          "margin": 0.6039102782578123
+        },
+        {
+          "candidate": 2290,
+          "score": 0.3436290140023891,
+          "normal_miss_px": 0.1387620813863563,
+          "spacing_px": 4.974251398974795,
+          "prediction_error_px": 5.019629485485773,
+          "angle_deg": 53.379575983421866,
+          "failures": [
+            "ridge_orientation",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 77,
+      "options": [
+        {
+          "candidate": 2314,
+          "score": 0.9885566397820561,
+          "normal_miss_px": 0.005140641605112423,
+          "spacing_px": 4.782709768607497,
+          "prediction_error_px": 0.00757472466237048,
+          "angle_deg": 1.8237620587317924,
+          "failures": [],
+          "margin": 0.5856144476697597
+        },
+        {
+          "candidate": 2313,
+          "score": 0.4029421921122964,
+          "normal_miss_px": 0.1376961307610569,
+          "spacing_px": 4.782709768607497,
+          "prediction_error_px": 4.790284493269888,
+          "angle_deg": 42.91537774931009,
+          "failures": [
+            "ridge_orientation",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 78,
+      "options": [
+        {
+          "candidate": 2340,
+          "score": 0.9881156909996669,
+          "normal_miss_px": 0.008831655710144127,
+          "spacing_px": 4.686821873199116,
+          "prediction_error_px": 0.012302119581698374,
+          "angle_deg": 1.8899667156167808,
+          "failures": [],
+          "margin": 0.5835745521177096
+        },
+        {
+          "candidate": 2339,
+          "score": 0.40454113888195736,
+          "normal_miss_px": 0.13779147125603747,
+          "spacing_px": 4.686821873199116,
+          "prediction_error_px": 4.674519753617369,
+          "angle_deg": 42.30200409812466,
+          "failures": [
+            "ridge_orientation",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 79,
+      "options": [
+        {
+          "candidate": 2366,
+          "score": 0.9287418402711572,
+          "normal_miss_px": 0.055127917784985575,
+          "spacing_px": 4.541523124663377,
+          "prediction_error_px": 0.06388475352492169,
+          "angle_deg": 14.684785965711823,
+          "failures": [],
+          "margin": 0.5284297260511148
+        },
+        {
+          "candidate": 2365,
+          "score": 0.4003121142200425,
+          "normal_miss_px": 0.13810546930364218,
+          "spacing_px": 4.541523124663377,
+          "prediction_error_px": 4.47763837113843,
+          "angle_deg": 43.19464009077118,
+          "failures": [
+            "ridge_orientation",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 80,
+      "options": [
+        {
+          "candidate": 2392,
+          "score": 0.7985295031845338,
+          "normal_miss_px": 0.1273105662684215,
+          "spacing_px": 4.766359417988215,
+          "prediction_error_px": 0.12747697715012973,
+          "angle_deg": 37.6330142341873,
+          "failures": [],
+          "margin": 0.42814820876373394
+        },
+        {
+          "candidate": 2391,
+          "score": 0.3703812944207998,
+          "normal_miss_px": 0.13939922172916938,
+          "spacing_px": 4.766359417988215,
+          "prediction_error_px": 4.638882440838112,
+          "angle_deg": 47.71705395742401,
+          "failures": [
+            "ridge_orientation",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 81,
+      "options": [
+        {
+          "candidate": 2418,
+          "score": 0.9626393427904236,
+          "normal_miss_px": 0.054824422685720756,
+          "spacing_px": 4.971066680710344,
+          "prediction_error_px": 0.05868999492933856,
+          "angle_deg": 6.4294615347877375,
+          "failures": [],
+          "margin": 0.6791284878658193
+        },
+        {
+          "candidate": 2417,
+          "score": 0.28351085492460437,
+          "normal_miss_px": 0.14146881667764585,
+          "spacing_px": 4.971066680710344,
+          "prediction_error_px": 4.912376685781009,
+          "angle_deg": 61.00924651897297,
+          "failures": [
+            "ridge_orientation",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 82,
+      "options": [
+        {
+          "candidate": 2444,
+          "score": 0.8240159487719425,
+          "normal_miss_px": 0.055455232003507576,
+          "spacing_px": 5.014918675293759,
+          "prediction_error_px": 0.09196918042463051,
+          "angle_deg": 34.91134974215836,
+          "failures": [],
+          "margin": 0.8240159487719425
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 83,
+      "options": [
+        {
+          "candidate": 2469,
+          "score": 0.7925948563945899,
+          "normal_miss_px": 0.09105606035128289,
+          "spacing_px": 4.85903250948417,
+          "prediction_error_px": 0.21105876070044907,
+          "angle_deg": 34.62189814513483,
+          "failures": [],
+          "margin": 0.7925948563945899
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 84,
+      "options": [
+        {
+          "candidate": 2494,
+          "score": 0.896517732256079,
+          "normal_miss_px": 0.08117854175988702,
+          "spacing_px": 4.802657294719683,
+          "prediction_error_px": 0.1846689584150656,
+          "angle_deg": 12.829786842577594,
+          "failures": [],
+          "margin": 0.896517732256079
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 85,
+      "options": [
+        {
+          "candidate": 2522,
+          "score": 0.9376720467283522,
+          "normal_miss_px": 0.06571207049366747,
+          "spacing_px": 4.77893608990705,
+          "prediction_error_px": 0.15233034133904938,
+          "angle_deg": 3.9589900390848487,
+          "failures": [],
+          "margin": 0.9376720467283522
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 86,
+      "options": [
+        {
+          "candidate": 2547,
+          "score": 0.9574648596976745,
+          "normal_miss_px": 0.044460843382180766,
+          "spacing_px": 4.7312158545393785,
+          "prediction_error_px": 0.10436400316162078,
+          "angle_deg": 1.273020583406936,
+          "failures": [],
+          "margin": 0.4576917756252063
+        },
+        {
+          "candidate": 2546,
+          "score": 0.4997730840724682,
+          "normal_miss_px": 0.1384461102073514,
+          "spacing_px": 4.7312158545393785,
+          "prediction_error_px": 4.835579857700976,
+          "angle_deg": 24.84743275930797,
+          "failures": [
+            "low_orientation_coherence",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 87,
+      "options": [
+        {
+          "candidate": 2566,
+          "score": 0.9772333014616398,
+          "normal_miss_px": 0.008021247625068435,
+          "spacing_px": 4.599731091409734,
+          "prediction_error_px": 0.017114233615177676,
+          "angle_deg": 1.5730953242962464,
+          "failures": [],
+          "margin": 0.4691965572443402
+        },
+        {
+          "candidate": 2565,
+          "score": 0.5080367442172996,
+          "normal_miss_px": 0.1361348119553806,
+          "spacing_px": 4.599731091409734,
+          "prediction_error_px": 4.61684532502495,
+          "angle_deg": 24.68641502441006,
+          "failures": [
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 88,
+      "options": [
+        {
+          "candidate": 2584,
+          "score": 0.9765940875279274,
+          "normal_miss_px": 0.01066016372682275,
+          "spacing_px": 4.509208998494461,
+          "prediction_error_px": 0.022182559920369015,
+          "angle_deg": 1.7506921609440655,
+          "failures": [],
+          "margin": 0.9765940875279274
+        },
+        {
+          "candidate": 2585,
+          "score": 0.08283235125141146,
+          "normal_miss_px": 0.1527789626988126,
+          "spacing_px": 2.4146791232816534,
+          "prediction_error_px": 4.531391558414813,
+          "angle_deg": 151.09624471600722,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 89,
+      "options": [
+        {
+          "candidate": 2608,
+          "score": 0.9794726412886356,
+          "normal_miss_px": 0.0007277657177803866,
+          "spacing_px": 4.374495565611476,
+          "prediction_error_px": 0.0016467976664732292,
+          "angle_deg": 1.7840332968389065,
+          "failures": [],
+          "margin": 0.9794726412886356
+        },
+        {
+          "candidate": 2609,
+          "score": 0.08422423010758273,
+          "normal_miss_px": 0.15297950032496252,
+          "spacing_px": 2.8542088371692387,
+          "prediction_error_px": 4.3728487679450385,
+          "angle_deg": 149.98417616957562,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 90,
+      "options": [
+        {
+          "candidate": 2632,
+          "score": 0.9783533740864716,
+          "normal_miss_px": 0.0021645301930653055,
+          "spacing_px": 4.428769167393737,
+          "prediction_error_px": 0.004883512926780509,
+          "angle_deg": 2.0702926457441007,
+          "failures": [],
+          "margin": 0.9783533740864716
+        },
+        {
+          "candidate": 2633,
+          "score": 0.0863908067054013,
+          "normal_miss_px": 0.15209418972976435,
+          "spacing_px": 3.146419174954331,
+          "prediction_error_px": 4.423885654467001,
+          "angle_deg": 149.64918623959744,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 91,
+      "options": [
+        {
+          "candidate": 2654,
+          "score": 0.9822723268411047,
+          "normal_miss_px": 0.002041823724470152,
+          "spacing_px": 7.922807750326921,
+          "prediction_error_px": 0.0045703952578068936,
+          "angle_deg": 1.2978230682133454,
+          "failures": [],
+          "margin": 0.9822723268411047
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 92,
+      "options": [
+        {
+          "candidate": 2678,
+          "score": 0.9530161013217446,
+          "normal_miss_px": 0.045860853077378055,
+          "spacing_px": 8.475057626882425,
+          "prediction_error_px": 0.07891321299805505,
+          "angle_deg": 8.365772176888807,
+          "failures": [],
+          "margin": 0.9530161013217446
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 93,
+      "options": [
+        {
+          "candidate": 2698,
+          "score": 0.9597428618935507,
+          "normal_miss_px": 0.045859960267272626,
+          "spacing_px": 8.25561144071773,
+          "prediction_error_px": 0.07694365511208721,
+          "angle_deg": 6.802374392605984,
+          "failures": [],
+          "margin": 0.9597428618935507
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 94,
+      "options": [
+        {
+          "candidate": 2720,
+          "score": 0.9175282078450198,
+          "normal_miss_px": 0.04407999810930299,
+          "spacing_px": 7.802816815409903,
+          "prediction_error_px": 0.12652356194227082,
+          "angle_deg": 12.743784101367753,
+          "failures": [],
+          "margin": 0.9175282078450198
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 95,
+      "options": [],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 96,
+      "options": [],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 97,
+      "options": [
+        {
+          "candidate": 2790,
+          "score": 0.5467636374005954,
+          "normal_miss_px": 0.34098024036736135,
+          "spacing_px": 3.7615056860729994,
+          "prediction_error_px": 3.153079833810798,
+          "angle_deg": 24.282211038485848,
+          "failures": [
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 98,
+      "options": [
+        {
+          "candidate": 2813,
+          "score": 0.5250387575841999,
+          "normal_miss_px": 0.42104295991669843,
+          "spacing_px": 2.4160690783983783,
+          "prediction_error_px": 2.954135379164938,
+          "angle_deg": 22.730344214075938,
+          "failures": [
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 99,
+      "options": [
+        {
+          "candidate": 2833,
+          "score": 0.7515197720083777,
+          "normal_miss_px": 0.5718893889636849,
+          "spacing_px": 3.4653635567369196,
+          "prediction_error_px": 0.7164427123748918,
+          "angle_deg": 21.598499016783073,
+          "failures": [],
+          "margin": 0.21534291871885847
+        },
+        {
+          "candidate": 2832,
+          "score": 0.5361768532895193,
+          "normal_miss_px": 0.4846907124227752,
+          "spacing_px": 2.3524691122187904,
+          "prediction_error_px": 2.748920844362025,
+          "angle_deg": 21.207848749530182,
+          "failures": [
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 100,
+      "options": [
+        {
+          "candidate": 2857,
+          "score": 0.902317442474523,
+          "normal_miss_px": 0.058575889110612074,
+          "spacing_px": 3.3856154774319234,
+          "prediction_error_px": 0.061716062922253595,
+          "angle_deg": 18.69261157692369,
+          "failures": [],
+          "margin": 0.5239781194554374
+        },
+        {
+          "candidate": 2856,
+          "score": 0.3783393230190855,
+          "normal_miss_px": 0.1394816595109665,
+          "spacing_px": 2.391798802001494,
+          "prediction_error_px": 3.323899414509674,
+          "angle_deg": 50.54652572300617,
+          "failures": [
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 101,
+      "options": [
+        {
+          "candidate": 2879,
+          "score": 0.9859736928330525,
+          "normal_miss_px": 0.005745793947012585,
+          "spacing_px": 3.2960839253406395,
+          "prediction_error_px": 0.005989240082715596,
+          "angle_deg": 1.5145993016438553,
+          "failures": [],
+          "margin": 0.9859736928330525
+        },
+        {
+          "candidate": 2878,
+          "score": 0.2624585071277598,
+          "normal_miss_px": 0.14323460946375288,
+          "spacing_px": 2.4302263690850783,
+          "prediction_error_px": 3.2900946852579236,
+          "angle_deg": 69.59810513768693,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 102,
+      "options": [
+        {
+          "candidate": 2903,
+          "score": 0.9664932167671669,
+          "normal_miss_px": 0.015568117639063597,
+          "spacing_px": 3.318452904078001,
+          "prediction_error_px": 0.016971103151286672,
+          "angle_deg": 6.765289308878801,
+          "failures": [],
+          "margin": 0.9664932167671669
+        },
+        {
+          "candidate": 2902,
+          "score": 0.25441044499183413,
+          "normal_miss_px": 0.1446847687004499,
+          "spacing_px": 2.3427979194553146,
+          "prediction_error_px": 3.335424007229286,
+          "angle_deg": 70.81806775428663,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        },
+        {
+          "candidate": 2904,
+          "score": 0.1051573755421405,
+          "normal_miss_px": 0.14836832952491072,
+          "spacing_px": 4.344786986601332,
+          "prediction_error_px": 4.327815883450047,
+          "angle_deg": 104.73113571859719,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 103,
+      "options": [
+        {
+          "candidate": 2925,
+          "score": 0.9766065731954592,
+          "normal_miss_px": 0.010248670382791147,
+          "spacing_px": 3.3910479827070215,
+          "prediction_error_px": 0.01115157772684338,
+          "angle_deg": 4.64405692019345,
+          "failures": [],
+          "margin": 0.9766065731954592
+        },
+        {
+          "candidate": 2924,
+          "score": 0.26563355113529596,
+          "normal_miss_px": 0.14568644619225135,
+          "spacing_px": 2.227316848016348,
+          "prediction_error_px": 3.4021995604338824,
+          "angle_deg": 68.97498144848896,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        },
+        {
+          "candidate": 2926,
+          "score": 0.09987943930764108,
+          "normal_miss_px": 0.14985982199856235,
+          "spacing_px": 4.156982218686329,
+          "prediction_error_px": 4.145830640959458,
+          "angle_deg": 106.49926260482769,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 104,
+      "options": [
+        {
+          "candidate": 2944,
+          "score": 0.9902744579140764,
+          "normal_miss_px": 0.0031322010219028843,
+          "spacing_px": 3.549719796955189,
+          "prediction_error_px": 0.0033730711214884877,
+          "angle_deg": 1.5861619020691362,
+          "failures": [],
+          "margin": 0.9902744579140764
+        },
+        {
+          "candidate": 2943,
+          "score": 0.27367493289883266,
+          "normal_miss_px": 0.14684638863870536,
+          "spacing_px": 2.038788865532704,
+          "prediction_error_px": 3.553092868076687,
+          "angle_deg": 67.4336194996589,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        },
+        {
+          "candidate": 2945,
+          "score": 0.09701266124531505,
+          "normal_miss_px": 0.1513119049826171,
+          "spacing_px": 4.027046341889438,
+          "prediction_error_px": 4.0236732707679534,
+          "angle_deg": 108.04257894002413,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 105,
+      "options": [
+        {
+          "candidate": 2966,
+          "score": 0.8541775662731158,
+          "normal_miss_px": 0.07514186677388131,
+          "spacing_px": 3.5509704222384517,
+          "prediction_error_px": 0.11437067647476176,
+          "angle_deg": 27.042426078543453,
+          "failures": [],
+          "margin": 0.8541775662731158
+        },
+        {
+          "candidate": 2965,
+          "score": 0.2825355815135374,
+          "normal_miss_px": 0.14810666938841582,
+          "spacing_px": 1.9616139787921678,
+          "prediction_error_px": 3.6653410987132196,
+          "angle_deg": 65.79832170220169,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        },
+        {
+          "candidate": 2967,
+          "score": 0.0976089081347073,
+          "normal_miss_px": 0.15283141086176297,
+          "spacing_px": 3.8912732054893437,
+          "prediction_error_px": 3.776902529014594,
+          "angle_deg": 109.5667855232712,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 106,
+      "options": [
+        {
+          "candidate": 2991,
+          "score": 0.9756638455352784,
+          "normal_miss_px": 0.03159035200581356,
+          "spacing_px": 3.5903001845637363,
+          "prediction_error_px": 0.03911962748900355,
+          "angle_deg": 3.582026521690753,
+          "failures": [],
+          "margin": 0.6276313897223023
+        },
+        {
+          "candidate": 2990,
+          "score": 0.34803245581297615,
+          "normal_miss_px": 0.14793739594486474,
+          "spacing_px": 1.8921915340982876,
+          "prediction_error_px": 3.629419812052752,
+          "angle_deg": 55.10146764044258,
+          "failures": [
+            "score"
+          ]
+        },
+        {
+          "candidate": 2992,
+          "score": 0.09256502088195483,
+          "normal_miss_px": 0.15376184543490826,
+          "spacing_px": 3.776561773231194,
+          "prediction_error_px": 3.7374421457421945,
+          "angle_deg": 120.20460667063199,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 107,
+      "options": [
+        {
+          "candidate": 3015,
+          "score": 0.9816603861925869,
+          "normal_miss_px": 0.007575628696467748,
+          "spacing_px": 3.569436114955259,
+          "prediction_error_px": 0.008944276996316752,
+          "angle_deg": 4.196025211119639,
+          "failures": [],
+          "margin": 0.611695439135544
+        },
+        {
+          "candidate": 3014,
+          "score": 0.3699649470570428,
+          "normal_miss_px": 0.14815490607148113,
+          "spacing_px": 2.0163417823036043,
+          "prediction_error_px": 3.5783803919515766,
+          "angle_deg": 51.31585284653639,
+          "failures": [
+            "score"
+          ]
+        },
+        {
+          "candidate": 3016,
+          "score": 0.09101117888887233,
+          "normal_miss_px": 0.15548107433782696,
+          "spacing_px": 3.576770740498764,
+          "prediction_error_px": 3.5678264635024366,
+          "angle_deg": 123.81360026332241,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 108,
+      "options": [
+        {
+          "candidate": 3037,
+          "score": 0.8892428186331597,
+          "normal_miss_px": 0.07020449834952656,
+          "spacing_px": 3.498560473403368,
+          "prediction_error_px": 0.12407425254070174,
+          "angle_deg": 16.70266217767781,
+          "failures": [],
+          "margin": 0.5068407291523142
+        },
+        {
+          "candidate": 3036,
+          "score": 0.38240208948084553,
+          "normal_miss_px": 0.14871736108559497,
+          "spacing_px": 1.9675100535319552,
+          "prediction_error_px": 3.6226347259440685,
+          "angle_deg": 48.809583171247546,
+          "failures": [
+            "score"
+          ]
+        },
+        {
+          "candidate": 3038,
+          "score": 0.09437176208962454,
+          "normal_miss_px": 0.15727061508298554,
+          "spacing_px": 3.549960345178918,
+          "prediction_error_px": 3.425886092638197,
+          "angle_deg": 126.20645778490038,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 109,
+      "options": [
+        {
+          "candidate": 3061,
+          "score": 0.9848547794581465,
+          "normal_miss_px": 0.00642326509020968,
+          "spacing_px": 3.425482656194857,
+          "prediction_error_px": 0.008350552743087571,
+          "angle_deg": 2.5921955018255303,
+          "failures": [],
+          "margin": 0.583593532999841
+        },
+        {
+          "candidate": 3060,
+          "score": 0.40126124645830547,
+          "normal_miss_px": 0.14775661998603398,
+          "spacing_px": 1.8664851685674326,
+          "prediction_error_px": 3.531888867506179,
+          "angle_deg": 45.29245272964549,
+          "failures": [
+            "score"
+          ]
+        },
+        {
+          "candidate": 3062,
+          "score": 0.092160751156345,
+          "normal_miss_px": 0.15818095812945301,
+          "spacing_px": 3.425482656194857,
+          "prediction_error_px": 3.4171321034517788,
+          "angle_deg": 129.65667596123728,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 110,
+      "options": [
+        {
+          "candidate": 3086,
+          "score": 0.9712928799034732,
+          "normal_miss_px": 0.01203082275236309,
+          "spacing_px": 3.530799491790728,
+          "prediction_error_px": 0.015195637698076959,
+          "angle_deg": 5.578690408853894,
+          "failures": [],
+          "margin": 0.5669259174384234
+        },
+        {
+          "candidate": 3085,
+          "score": 0.4043669624650499,
+          "normal_miss_px": 0.1478705887426564,
+          "spacing_px": 1.844359768162454,
+          "prediction_error_px": 3.5156038540926637,
+          "angle_deg": 44.35802562560158,
+          "failures": [
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 111,
+      "options": [
+        {
+          "candidate": 3106,
+          "score": 0.8843854660172502,
+          "normal_miss_px": 0.07945443691753983,
+          "spacing_px": 5.469981076769631,
+          "prediction_error_px": 0.08450492775129458,
+          "angle_deg": 24.582554288115148,
+          "failures": [],
+          "margin": 0.8843854660172502
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 112,
+      "options": [
+        {
+          "candidate": 3127,
+          "score": 0.7441419491502754,
+          "normal_miss_px": 0.1645381541303897,
+          "spacing_px": 5.606405709873819,
+          "prediction_error_px": 0.16976400953456694,
+          "angle_deg": 46.38594136047497,
+          "failures": [],
+          "margin": 0.7441419491502754
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 113,
+      "options": [
+        {
+          "candidate": 3150,
+          "score": 0.8491012528604854,
+          "normal_miss_px": 0.14043639297652108,
+          "spacing_px": 5.806790837307756,
+          "prediction_error_px": 0.14388599244024958,
+          "angle_deg": 27.704813226272012,
+          "failures": [],
+          "margin": 0.8491012528604854
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 114,
+      "options": [
+        {
+          "candidate": 3169,
+          "score": 0.9739040352542012,
+          "normal_miss_px": 0.0777379543540401,
+          "spacing_px": 5.277892294778551,
+          "prediction_error_px": 0.07775268000758545,
+          "angle_deg": 2.2344173758388437,
+          "failures": [],
+          "margin": 0.9739040352542012
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 115,
+      "options": [],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 116,
+      "options": [],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 117,
+      "options": [
+        {
+          "candidate": 3229,
+          "score": 0.8474439801481964,
+          "normal_miss_px": 0.06523303896145895,
+          "spacing_px": 3.2203493847377103,
+          "prediction_error_px": 0.06900749032664233,
+          "angle_deg": 30.51418366085948,
+          "failures": [],
+          "margin": 0.8474439801481964
+        },
+        {
+          "candidate": 3230,
+          "score": 0.20614740823785893,
+          "normal_miss_px": 0.5039749237786018,
+          "spacing_px": 1.5507576306124915,
+          "prediction_error_px": 3.151341894411068,
+          "angle_deg": 69.3211079544889,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 118,
+      "options": [
+        {
+          "candidate": 3253,
+          "score": 0.7509264838371713,
+          "normal_miss_px": 0.10715317709175506,
+          "spacing_px": 3.127064613718316,
+          "prediction_error_px": 0.14854389509611912,
+          "angle_deg": 40.131928904398144,
+          "failures": [],
+          "margin": 0.7509264838371713
+        },
+        {
+          "candidate": 3254,
+          "score": 0.0762795870340748,
+          "normal_miss_px": 0.16767753772799043,
+          "spacing_px": 1.6237522079964717,
+          "prediction_error_px": 2.978520718622192,
+          "angle_deg": 90.47423607316934,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 119,
+      "options": [
+        {
+          "candidate": 3274,
+          "score": 0.9234661940445044,
+          "normal_miss_px": 0.026336215683646094,
+          "spacing_px": 3.1245418398322395,
+          "prediction_error_px": 0.041046201000354346,
+          "angle_deg": 6.814088630837877,
+          "failures": [
+            "ridge_orientation"
+          ]
+        },
+        {
+          "candidate": 3275,
+          "score": 0.07238568258298597,
+          "normal_miss_px": 0.17672475286625777,
+          "spacing_px": 3.1245418398322395,
+          "prediction_error_px": 3.083495638831897,
+          "angle_deg": 129.98730896208406,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 120,
+      "options": [
+        {
+          "candidate": 3294,
+          "score": 0.9078426279135163,
+          "normal_miss_px": 0.05729235165842774,
+          "spacing_px": 3.1282656177727115,
+          "prediction_error_px": 0.08958107720768466,
+          "angle_deg": 7.535921216287262,
+          "failures": [
+            "ridge_orientation"
+          ]
+        },
+        {
+          "candidate": 3295,
+          "score": 0.060433459001548714,
+          "normal_miss_px": 0.37428752702281637,
+          "spacing_px": 3.1282656177727115,
+          "prediction_error_px": 3.0386845405650322,
+          "angle_deg": 125.62983259002768,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 121,
+      "options": [
+        {
+          "candidate": 3316,
+          "score": 0.9087106333897752,
+          "normal_miss_px": 0.07598541372708223,
+          "spacing_px": 3.4104017199995686,
+          "prediction_error_px": 0.11578587681679793,
+          "angle_deg": 6.854876053413971,
+          "failures": [],
+          "margin": 0.9087106333897752
+        },
+        {
+          "candidate": 3317,
+          "score": 0.05520443238885191,
+          "normal_miss_px": 0.5856116640171974,
+          "spacing_px": 3.4104017199995686,
+          "prediction_error_px": 3.2946158431827914,
+          "angle_deg": 121.89139337175111,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 122,
+      "options": [
+        {
+          "candidate": 3339,
+          "score": 0.6838869368583863,
+          "normal_miss_px": 0.12839406476628967,
+          "spacing_px": 3.7246660272374768,
+          "prediction_error_px": 0.20314533196916648,
+          "angle_deg": 50.07664544277463,
+          "failures": [
+            "low_orientation_coherence"
+          ]
+        },
+        {
+          "candidate": 3340,
+          "score": 0.09102367197049598,
+          "normal_miss_px": 0.16843332271726974,
+          "spacing_px": 3.7246660272374768,
+          "prediction_error_px": 3.5215206952683173,
+          "angle_deg": 87.98177248663873,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 123,
+      "options": [
+        {
+          "candidate": 3361,
+          "score": 0.6989466387380424,
+          "normal_miss_px": 0.23437443047436857,
+          "spacing_px": 3.917765773005558,
+          "prediction_error_px": 0.3298099330624749,
+          "angle_deg": 44.580455314629596,
+          "failures": [
+            "low_orientation_coherence"
+          ]
+        },
+        {
+          "candidate": 3362,
+          "score": 0.10870834735563095,
+          "normal_miss_px": 0.33816537284065623,
+          "spacing_px": 3.917765773005558,
+          "prediction_error_px": 3.5879558399430977,
+          "angle_deg": 84.72479029694675,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 124,
+      "options": [
+        {
+          "candidate": 3381,
+          "score": 0.6912447815059148,
+          "normal_miss_px": 0.34178663683497823,
+          "spacing_px": 4.038445813674176,
+          "prediction_error_px": 0.46513204721524753,
+          "angle_deg": 43.17340302405288,
+          "failures": [
+            "low_orientation_coherence"
+          ]
+        },
+        {
+          "candidate": 3382,
+          "score": 0.12518872031284334,
+          "normal_miss_px": 0.5078336597901847,
+          "spacing_px": 4.038445813674176,
+          "prediction_error_px": 3.573313766458947,
+          "angle_deg": 81.3644481978989,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 125,
+      "options": [
+        {
+          "candidate": 3401,
+          "score": 0.6583208979759657,
+          "normal_miss_px": 0.47297945083201437,
+          "spacing_px": 4.220937939796536,
+          "prediction_error_px": 0.659229186394241,
+          "angle_deg": 45.22474836409893,
+          "failures": [
+            "low_orientation_coherence",
+            "score"
+          ]
+        },
+        {
+          "candidate": 3402,
+          "score": 0.143076868516208,
+          "normal_miss_px": 0.6760398538650607,
+          "spacing_px": 4.220937939796536,
+          "prediction_error_px": 3.56170875340229,
+          "angle_deg": 77.98741052996454,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 126,
+      "options": [
+        {
+          "candidate": 3420,
+          "score": 0.6472252235622052,
+          "normal_miss_px": 0.5834397631320228,
+          "spacing_px": 4.267135337059357,
+          "prediction_error_px": 0.796615435055749,
+          "angle_deg": 44.59709661502333,
+          "failures": [
+            "score"
+          ]
+        },
+        {
+          "candidate": 3421,
+          "score": 0.1813426687107482,
+          "normal_miss_px": 0.8403038450082412,
+          "spacing_px": 4.267135337059357,
+          "prediction_error_px": 3.470519902003589,
+          "angle_deg": 74.30301035939516,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 127,
+      "options": [
+        {
+          "candidate": 3441,
+          "score": 0.6380645342706861,
+          "normal_miss_px": 0.6864975148564261,
+          "spacing_px": 4.286142511154958,
+          "prediction_error_px": 0.9148349841727306,
+          "angle_deg": 43.68136473131239,
+          "failures": [
+            "score"
+          ]
+        },
+        {
+          "candidate": 3442,
+          "score": 0.21572790492103694,
+          "normal_miss_px": 0.9994302264871299,
+          "spacing_px": 4.326011495144628,
+          "prediction_error_px": 3.4111765109718863,
+          "angle_deg": 70.65622432252513,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 128,
+      "options": [
+        {
+          "candidate": 3457,
+          "score": 0.23520621459544386,
+          "normal_miss_px": 1.1602889861239989,
+          "spacing_px": 4.94102346566841,
+          "prediction_error_px": 3.5939762578169336,
+          "angle_deg": 68.2279829354247,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 129,
+      "options": [],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 130,
+      "options": [],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 131,
+      "options": [],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 132,
+      "options": [],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 133,
+      "options": [
+        {
+          "candidate": 3550,
+          "score": 0.7518820460386922,
+          "normal_miss_px": 0.7681674530470748,
+          "spacing_px": 5.009841813341342,
+          "prediction_error_px": 0.8150261474980008,
+          "angle_deg": 25.737652322572362,
+          "failures": [],
+          "margin": 0.7518820460386922
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 134,
+      "options": [
+        {
+          "candidate": 3569,
+          "score": 0.7355782267213506,
+          "normal_miss_px": 0.17409976633073324,
+          "spacing_px": 3.3328458869017346,
+          "prediction_error_px": 0.17409982135394103,
+          "angle_deg": 42.94565571438328,
+          "failures": [],
+          "margin": 0.7355782267213506
+        },
+        {
+          "candidate": 3570,
+          "score": 0.10819844707593966,
+          "normal_miss_px": 0.1955955066566981,
+          "spacing_px": 3.3328458869017346,
+          "prediction_error_px": 3.5069457082556794,
+          "angle_deg": 129.70284383257604,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 135,
+      "options": [
+        {
+          "candidate": 3589,
+          "score": 0.9202925060601035,
+          "normal_miss_px": 0.04375220726220579,
+          "spacing_px": 2.5765066881881182,
+          "prediction_error_px": 0.04498298962205353,
+          "angle_deg": 14.169674343889254,
+          "failures": [],
+          "margin": 0.9202925060601035
+        },
+        {
+          "candidate": 3590,
+          "score": 0.17769539848927784,
+          "normal_miss_px": 0.1880755137235451,
+          "spacing_px": 2.5765066881881182,
+          "prediction_error_px": 2.5315236985660827,
+          "angle_deg": 85.00351581095546,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 136,
+      "options": [
+        {
+          "candidate": 3609,
+          "score": 0.8860955980270934,
+          "normal_miss_px": 0.07501960835597626,
+          "spacing_px": 5.206199209111916,
+          "prediction_error_px": 0.08636266763284864,
+          "angle_deg": 23.902696593896778,
+          "failures": [],
+          "margin": 0.8860955980270934
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 137,
+      "options": [
+        {
+          "candidate": 3627,
+          "score": 0.8178976018613348,
+          "normal_miss_px": 0.09838771834242824,
+          "spacing_px": 2.458427598033609,
+          "prediction_error_px": 0.137474014360389,
+          "angle_deg": 30.470996923062128,
+          "failures": [],
+          "margin": 0.8178976018613348
+        },
+        {
+          "candidate": 3628,
+          "score": 0.14606597509004232,
+          "normal_miss_px": 0.19504513292607809,
+          "spacing_px": 2.458427598033609,
+          "prediction_error_px": 2.320953583673221,
+          "angle_deg": 99.00922927937222,
+          "failures": [
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 138,
+      "options": [
+        {
+          "candidate": 3646,
+          "score": 0.9782277971216404,
+          "normal_miss_px": 0.03646068613576775,
+          "spacing_px": 5.0740622111282665,
+          "prediction_error_px": 0.04345915207060743,
+          "angle_deg": 3.477710972339919,
+          "failures": [],
+          "margin": 0.9782277971216404
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 139,
+      "options": [
+        {
+          "candidate": 3665,
+          "score": 0.9749227216192723,
+          "normal_miss_px": 0.00913164718829247,
+          "spacing_px": 5.097352862762296,
+          "prediction_error_px": 0.010410984836096484,
+          "angle_deg": 6.066810221043679,
+          "failures": [],
+          "margin": 0.9749227216192723
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 140,
+      "options": [
+        {
+          "candidate": 3688,
+          "score": 0.9489900545825155,
+          "normal_miss_px": 0.019123100845444864,
+          "spacing_px": 5.10976287539553,
+          "prediction_error_px": 0.02067428437900976,
+          "angle_deg": 12.051445282690466,
+          "failures": [],
+          "margin": 0.9489900545825155
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 141,
+      "options": [
+        {
+          "candidate": 3709,
+          "score": 0.8993500417094911,
+          "normal_miss_px": 0.0620301587765044,
+          "spacing_px": 4.9829544025984465,
+          "prediction_error_px": 0.0893896556385891,
+          "angle_deg": 19.3971615649405,
+          "failures": [],
+          "margin": 0.8993500417094911
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 142,
+      "options": [
+        {
+          "candidate": 3728,
+          "score": 0.9680373713134106,
+          "normal_miss_px": 0.02797367222902722,
+          "spacing_px": 4.971140111757063,
+          "prediction_error_px": 0.030984310301528584,
+          "angle_deg": 6.777767938295712,
+          "failures": [],
+          "margin": 0.9680373713134106
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 143,
+      "options": [
+        {
+          "candidate": 3745,
+          "score": 0.9793925273018373,
+          "normal_miss_px": 0.0196996933905408,
+          "spacing_px": 4.968464201556877,
+          "prediction_error_px": 0.0220939752870704,
+          "angle_deg": 4.2823361558157185,
+          "failures": [],
+          "margin": 0.9793925273018373
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 144,
+      "options": [
+        {
+          "candidate": 3763,
+          "score": 0.917170606003276,
+          "normal_miss_px": 0.06643404326772324,
+          "spacing_px": 4.851233619199081,
+          "prediction_error_px": 0.09735908774593371,
+          "angle_deg": 14.596115069311827,
+          "failures": [],
+          "margin": 0.917170606003276
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 145,
+      "options": [
+        {
+          "candidate": 3782,
+          "score": 0.9601344952989569,
+          "normal_miss_px": 0.03011227790192861,
+          "spacing_px": 4.837846443457642,
+          "prediction_error_px": 0.033058691925996246,
+          "angle_deg": 8.606758810641248,
+          "failures": [],
+          "margin": 0.9601344952989569
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 146,
+      "options": [
+        {
+          "candidate": 3800,
+          "score": 0.9672185599221247,
+          "normal_miss_px": 0.027894835401777146,
+          "spacing_px": 4.808350637164533,
+          "prediction_error_px": 0.030946638205176565,
+          "angle_deg": 6.897458790981074,
+          "failures": [],
+          "margin": 0.9672185599221247
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 147,
+      "options": [
+        {
+          "candidate": 3817,
+          "score": 0.9710728540651233,
+          "normal_miss_px": 0.022232794608602526,
+          "spacing_px": 3.340030469328651,
+          "prediction_error_px": 0.027968789915023495,
+          "angle_deg": 5.258811066327535,
+          "failures": [],
+          "margin": 0.9710728540651233
+        },
+        {
+          "candidate": 3818,
+          "score": 0.0734101302558028,
+          "normal_miss_px": 0.20567063627263643,
+          "spacing_px": 3.340030469328651,
+          "prediction_error_px": 3.3120616794136457,
+          "angle_deg": 118.53380183649995,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 148,
+      "options": [
+        {
+          "candidate": 3839,
+          "score": 0.9430959114941704,
+          "normal_miss_px": 0.03430768047484425,
+          "spacing_px": 3.40557529280774,
+          "prediction_error_px": 0.04427491745672384,
+          "angle_deg": 11.260892063182006,
+          "failures": [],
+          "margin": 0.9430959114941704
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 149,
+      "options": [
+        {
+          "candidate": 3860,
+          "score": 0.9713892383783527,
+          "normal_miss_px": 0.019233117992546733,
+          "spacing_px": 3.3793845989350433,
+          "prediction_error_px": 0.021644818674524766,
+          "angle_deg": 5.595508302814473,
+          "failures": [],
+          "margin": 0.9713892383783527
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 150,
+      "options": [
+        {
+          "candidate": 3881,
+          "score": 0.9937427293965297,
+          "normal_miss_px": 0.00912392279193807,
+          "spacing_px": 3.3797404996592273,
+          "prediction_error_px": 0.010999110412033433,
+          "angle_deg": 0.6948967567027905,
+          "failures": [],
+          "margin": 0.9937427293965297
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 151,
+      "options": [
+        {
+          "candidate": 3901,
+          "score": 0.9958414012301586,
+          "normal_miss_px": 0.006153976245155885,
+          "spacing_px": 3.4088701749054158,
+          "prediction_error_px": 0.007271248383129614,
+          "angle_deg": 0.10265970943145718,
+          "failures": [],
+          "margin": 0.9958414012301586
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 152,
+      "options": [
+        {
+          "candidate": 3921,
+          "score": 0.9750826360165361,
+          "normal_miss_px": 0.02161777133762154,
+          "spacing_px": 3.40270702572965,
+          "prediction_error_px": 0.024113299232582784,
+          "angle_deg": 3.270301329433295,
+          "failures": [],
+          "margin": 0.9750826360165361
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 153,
+      "options": [
+        {
+          "candidate": 3938,
+          "score": 0.9722952843424092,
+          "normal_miss_px": 0.021195209933498015,
+          "spacing_px": 3.376087563825979,
+          "prediction_error_px": 0.023537631808718495,
+          "angle_deg": 3.4171896300063946,
+          "failures": [],
+          "margin": 0.9722952843424092
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 154,
+      "options": [
+        {
+          "candidate": 3956,
+          "score": 0.9792295997331207,
+          "normal_miss_px": 0.002817912685210584,
+          "spacing_px": 3.330816521040147,
+          "prediction_error_px": 0.003240816679253382,
+          "angle_deg": 3.1663137697303556,
+          "failures": [],
+          "margin": 0.9792295997331207
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 155,
+      "options": [
+        {
+          "candidate": 3977,
+          "score": 0.9760162172073847,
+          "normal_miss_px": 0.004281985826301197,
+          "spacing_px": 3.3415691759059802,
+          "prediction_error_px": 0.004869682055675817,
+          "angle_deg": 2.908945381167192,
+          "failures": [],
+          "margin": 0.9760162172073847
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 156,
+      "options": [
+        {
+          "candidate": 3996,
+          "score": 0.9632157425363892,
+          "normal_miss_px": 0.015318425318062021,
+          "spacing_px": 3.334926357576478,
+          "prediction_error_px": 0.016641700581948825,
+          "angle_deg": 3.2193123220283484,
+          "failures": [],
+          "margin": 0.9632157425363892
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 157,
+      "options": [
+        {
+          "candidate": 4014,
+          "score": 0.896978089821504,
+          "normal_miss_px": 0.0523970284932868,
+          "spacing_px": 3.2753792785089555,
+          "prediction_error_px": 0.053559162451535705,
+          "angle_deg": 13.341076096972012,
+          "failures": [
+            "ridge_orientation"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 158,
+      "options": [
+        {
+          "candidate": 4032,
+          "score": 0.9206770946650688,
+          "normal_miss_px": 0.0604783662148828,
+          "spacing_px": 3.2530864828944606,
+          "prediction_error_px": 0.06322934885732265,
+          "angle_deg": 7.437709749400608,
+          "failures": [],
+          "margin": 0.9206770946650688
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 159,
+      "options": [
+        {
+          "candidate": 4052,
+          "score": 0.7522983172064548,
+          "normal_miss_px": 0.12918255919891386,
+          "spacing_px": 3.131271954957908,
+          "prediction_error_px": 0.7497932940408017,
+          "angle_deg": 16.85229998131838,
+          "failures": [],
+          "margin": 0.7522983172064548
+        }
+      ],
+      "decision": "CONTINUE"
+    },
+    {
+      "station": 160,
+      "options": [
+        {
+          "candidate": 4070,
+          "score": 0.5510661028399055,
+          "normal_miss_px": 0.15142769562785663,
+          "spacing_px": 2.982452950484672,
+          "prediction_error_px": 2.578145473781713,
+          "angle_deg": 7.467070134130004,
+          "failures": [
+            "ridge_orientation",
+            "score"
+          ]
+        },
+        {
+          "candidate": 4071,
+          "score": 0.3595521829523423,
+          "normal_miss_px": 0.588485948845441,
+          "spacing_px": 3.1668836393393245,
+          "prediction_error_px": 0.58873816555762,
+          "angle_deg": 77.48853989764129,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 161,
+      "options": [
+        {
+          "candidate": 4091,
+          "score": 0.5839220011273475,
+          "normal_miss_px": 0.23515616928625477,
+          "spacing_px": 2.8458802072928995,
+          "prediction_error_px": 2.0221646648666947,
+          "angle_deg": 5.077053794118204,
+          "failures": [
+            "ridge_orientation",
+            "score"
+          ]
+        },
+        {
+          "candidate": 4092,
+          "score": 0.37952288543619006,
+          "normal_miss_px": 1.0648485457456862,
+          "spacing_px": 3.114831135499524,
+          "prediction_error_px": 1.0926664706328282,
+          "angle_deg": 65.28862211803873,
+          "failures": [
+            "ridge_orientation",
+            "turn_angle",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 162,
+      "options": [
+        {
+          "candidate": 4113,
+          "score": 0.6294154916536903,
+          "normal_miss_px": 0.2534815756087107,
+          "spacing_px": 2.6964360203518214,
+          "prediction_error_px": 1.470507252079868,
+          "angle_deg": 2.7570520431791765,
+          "failures": [
+            "ridge_orientation",
+            "score"
+          ]
+        },
+        {
+          "candidate": 4114,
+          "score": 0.34739643702178297,
+          "normal_miss_px": 1.5560973962562432,
+          "spacing_px": 3.0782187227785633,
+          "prediction_error_px": 1.6077114706987072,
+          "angle_deg": 62.75941065112735,
+          "failures": [
+            "ridge_orientation",
+            "layer_order_ambiguity",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 163,
+      "options": [
+        {
+          "candidate": 4134,
+          "score": 0.6984384266278046,
+          "normal_miss_px": 0.20925445070716486,
+          "spacing_px": 2.531775308914385,
+          "prediction_error_px": 0.9227775508981293,
+          "angle_deg": 0.511433104146073,
+          "failures": [
+            "ridge_orientation"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 164,
+      "options": [
+        {
+          "candidate": 4151,
+          "score": 0.8093582546216164,
+          "normal_miss_px": 0.10571760159853119,
+          "spacing_px": 2.34896985597674,
+          "prediction_error_px": 0.3785380176202529,
+          "angle_deg": 1.6571762126131018,
+          "failures": [
+            "ridge_orientation"
+          ]
+        },
+        {
+          "candidate": 4150,
+          "score": 0.5427031460345982,
+          "normal_miss_px": 0.4544199528099604,
+          "spacing_px": 2.34896985597674,
+          "prediction_error_px": 2.7275078735970015,
+          "angle_deg": 4.969423648767501,
+          "failures": [
+            "ridge_orientation",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 165,
+      "options": [
+        {
+          "candidate": 4170,
+          "score": 0.8695604713162539,
+          "normal_miss_px": 0.05365905434944168,
+          "spacing_px": 2.291115522647426,
+          "prediction_error_px": 0.16270547279741593,
+          "angle_deg": 3.747947149839939,
+          "failures": [
+            "ridge_orientation"
+          ]
+        },
+        {
+          "candidate": 4169,
+          "score": 0.5673176490438326,
+          "normal_miss_px": 0.4279422021818808,
+          "spacing_px": 2.291115522647426,
+          "prediction_error_px": 2.128410049849996,
+          "angle_deg": 3.909174206595251,
+          "failures": [
+            "ridge_orientation",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 166,
+      "options": [
+        {
+          "candidate": 4190,
+          "score": 0.7257047651659319,
+          "normal_miss_px": 0.2581070783119693,
+          "spacing_px": 2.2597792129086103,
+          "prediction_error_px": 0.6853003790612453,
+          "angle_deg": 5.662684440051852,
+          "failures": [
+            "ridge_orientation"
+          ]
+        },
+        {
+          "candidate": 4189,
+          "score": 0.6054425676549584,
+          "normal_miss_px": 0.3685507533307361,
+          "spacing_px": 2.2597792129086103,
+          "prediction_error_px": 1.5744788338473892,
+          "angle_deg": 2.9253481140637825,
+          "failures": [
+            "ridge_orientation",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 167,
+      "options": [
+        {
+          "candidate": 4209,
+          "score": 0.6685929070768377,
+          "normal_miss_px": 0.273957895197228,
+          "spacing_px": 2.233099986715826,
+          "prediction_error_px": 1.0274001255764895,
+          "angle_deg": 1.957699713809448,
+          "failures": [
+            "ridge_orientation",
+            "score"
+          ]
+        },
+        {
+          "candidate": 4210,
+          "score": 0.6418537558357564,
+          "normal_miss_px": 0.5077319291610257,
+          "spacing_px": 2.233099986715826,
+          "prediction_error_px": 1.2056998611393446,
+          "angle_deg": 7.481854064909901,
+          "failures": [
+            "ridge_orientation",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 168,
+      "options": [
+        {
+          "candidate": 4234,
+          "score": 0.7742569033417145,
+          "normal_miss_px": 0.1451270091640818,
+          "spacing_px": 2.2150476128786396,
+          "prediction_error_px": 0.48580767963938987,
+          "angle_deg": 1.0069166518760388,
+          "failures": [
+            "ridge_orientation"
+          ]
+        },
+        {
+          "candidate": 4235,
+          "score": 0.5909329459953143,
+          "normal_miss_px": 0.802060168151528,
+          "spacing_px": 2.2150476128786396,
+          "prediction_error_px": 1.7292399332392487,
+          "angle_deg": 9.245570258427529,
+          "failures": [
+            "ridge_orientation",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 169,
+      "options": [
+        {
+          "candidate": 4256,
+          "score": 0.9108672286132691,
+          "normal_miss_px": 0.016948274311358452,
+          "spacing_px": 2.1974283983474305,
+          "prediction_error_px": 0.051314751820283826,
+          "angle_deg": 0.07339990328787407,
+          "failures": [
+            "ridge_orientation"
+          ]
+        },
+        {
+          "candidate": 4257,
+          "score": 0.5600446757683946,
+          "normal_miss_px": 1.133441204912444,
+          "spacing_px": 2.1974283983474305,
+          "prediction_error_px": 2.248743150167719,
+          "angle_deg": 10.907978826782486,
+          "failures": [
+            "ridge_orientation",
+            "layer_order_ambiguity",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 170,
+      "options": [
+        {
+          "candidate": 4275,
+          "score": 0.7501084675134048,
+          "normal_miss_px": 0.2112498984610673,
+          "spacing_px": 2.1790823901065868,
+          "prediction_error_px": 0.5847661069094139,
+          "angle_deg": 0.8426149240344629,
+          "failures": [
+            "ridge_orientation"
+          ]
+        },
+        {
+          "candidate": 4276,
+          "score": 0.5409004245262328,
+          "normal_miss_px": 1.4971665106338237,
+          "spacing_px": 2.1790823901065868,
+          "prediction_error_px": 2.763848497016001,
+          "angle_deg": 12.464490385461838,
+          "failures": [
+            "ridge_orientation",
+            "layer_order_ambiguity",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 171,
+      "options": [
+        {
+          "candidate": 4294,
+          "score": 0.6544162333915938,
+          "normal_miss_px": 0.43914173236833604,
+          "spacing_px": 2.1533507119313615,
+          "prediction_error_px": 1.1204266460396926,
+          "angle_deg": 1.760836619827598,
+          "failures": [
+            "ridge_orientation",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 172,
+      "options": [
+        {
+          "candidate": 4309,
+          "score": 0.5988385123846051,
+          "normal_miss_px": 0.6939440797874938,
+          "spacing_px": 2.130794708665344,
+          "prediction_error_px": 1.646197149215006,
+          "angle_deg": 2.6337895312527424,
+          "failures": [
+            "ridge_orientation",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 173,
+      "options": [
+        {
+          "candidate": 4324,
+          "score": 0.5652547817226271,
+          "normal_miss_px": 0.9779793220262076,
+          "spacing_px": 2.077174073100662,
+          "prediction_error_px": 2.1708001752072,
+          "angle_deg": 3.4911578235094085,
+          "failures": [
+            "ridge_orientation",
+            "layer_order_ambiguity",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 174,
+      "options": [
+        {
+          "candidate": 4343,
+          "score": 0.5446564403182937,
+          "normal_miss_px": 1.2902463046473729,
+          "spacing_px": 2.065842469964987,
+          "prediction_error_px": 2.694579529486761,
+          "angle_deg": 4.332991727202751,
+          "failures": [
+            "ridge_orientation",
+            "layer_order_ambiguity",
+            "score"
+          ]
+        }
+      ],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 175,
+      "options": [],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 176,
+      "options": [],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 177,
+      "options": [],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 178,
+      "options": [],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 179,
+      "options": [],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 180,
+      "options": [],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 181,
+      "options": [],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 182,
+      "options": [],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 183,
+      "options": [],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 184,
+      "options": [],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 185,
+      "options": [],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 186,
+      "options": [],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 187,
+      "options": [],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 188,
+      "options": [],
+      "decision": "MASK_CANDIDATE"
+    },
+    {
+      "station": 189,
+      "options": [],
+      "decision": "MASK_CANDIDATE"
+    }
+  ],
+  "gaps": [
+    {
+      "from_point": 0,
+      "to_point": 1,
+      "from_station": 0,
+      "to_station": 4,
+      "placeholder_length_px": 1.2329093834063267,
+      "meaning": "straight-chord lower bound; unresolved connector never sampled"
+    },
+    {
+      "from_point": 4,
+      "to_point": 5,
+      "from_station": 7,
+      "to_station": 12,
+      "placeholder_length_px": 1.152123787718422,
+      "meaning": "straight-chord lower bound; unresolved connector never sampled"
+    },
+    {
+      "from_point": 12,
+      "to_point": 13,
+      "from_station": 19,
+      "to_station": 25,
+      "placeholder_length_px": 1.3256294290069282,
+      "meaning": "straight-chord lower bound; unresolved connector never sampled"
+    },
+    {
+      "from_point": 15,
+      "to_point": 16,
+      "from_station": 27,
+      "to_station": 30,
+      "placeholder_length_px": 0.5517041776847078,
+      "meaning": "straight-chord lower bound; unresolved connector never sampled"
+    },
+    {
+      "from_point": 16,
+      "to_point": 17,
+      "from_station": 30,
+      "to_station": 42,
+      "placeholder_length_px": 5.037266847081314,
+      "meaning": "straight-chord lower bound; unresolved connector never sampled"
+    },
+    {
+      "from_point": 20,
+      "to_point": 21,
+      "from_station": 45,
+      "to_station": 47,
+      "placeholder_length_px": 0.37201356172151406,
+      "meaning": "straight-chord lower bound; unresolved connector never sampled"
+    },
+    {
+      "from_point": 22,
+      "to_point": 23,
+      "from_station": 48,
+      "to_station": 51,
+      "placeholder_length_px": 3.2889699425770225,
+      "meaning": "straight-chord lower bound; unresolved connector never sampled"
+    },
+    {
+      "from_point": 23,
+      "to_point": 24,
+      "from_station": 51,
+      "to_station": 58,
+      "placeholder_length_px": 6.030705907092617,
+      "meaning": "straight-chord lower bound; unresolved connector never sampled"
+    },
+    {
+      "from_point": 33,
+      "to_point": 34,
+      "from_station": 67,
+      "to_station": 69,
+      "placeholder_length_px": 0.28871690427294405,
+      "meaning": "straight-chord lower bound; unresolved connector never sampled"
+    },
+    {
+      "from_point": 38,
+      "to_point": 39,
+      "from_station": 73,
+      "to_station": 75,
+      "placeholder_length_px": 0.2846475263082761,
+      "meaning": "straight-chord lower bound; unresolved connector never sampled"
+    },
+    {
+      "from_point": 58,
+      "to_point": 59,
+      "from_station": 94,
+      "to_station": 99,
+      "placeholder_length_px": 0.8991815115767561,
+      "meaning": "straight-chord lower bound; unresolved connector never sampled"
+    },
+    {
+      "from_point": 74,
+      "to_point": 75,
+      "from_station": 114,
+      "to_station": 117,
+      "placeholder_length_px": 0.5226929578430076,
+      "meaning": "straight-chord lower bound; unresolved connector never sampled"
+    },
+    {
+      "from_point": 76,
+      "to_point": 77,
+      "from_station": 118,
+      "to_station": 121,
+      "placeholder_length_px": 0.7772442207206938,
+      "meaning": "straight-chord lower bound; unresolved connector never sampled"
+    },
+    {
+      "from_point": 77,
+      "to_point": 78,
+      "from_station": 121,
+      "to_station": 133,
+      "placeholder_length_px": 2.300381941949503,
+      "meaning": "straight-chord lower bound; unresolved connector never sampled"
+    },
+    {
+      "from_point": 101,
+      "to_point": 102,
+      "from_station": 156,
+      "to_station": 158,
+      "placeholder_length_px": 0.42398590145723664,
+      "meaning": "straight-chord lower bound; unresolved connector never sampled"
+    }
+  ],
+  "summary": {
+    "recovered_arc_px": 20.774699317464744,
+    "gap_placeholder_arc_px": 24.48817400041727,
+    "angular_coverage_deg": 79.5,
+    "continuation_decisions": 16,
+    "accepted_gap_continuations": 15,
+    "interruptions": 16,
+    "accepted_local_steps": 88,
+    "stop_reason": "NO_CREDIBLE_CONTINUATION_WITHIN_15_DEG",
+    "candidate_count": 16857,
+    "seed_radius_px": 42.90241836628496,
+    "trace_points": 104,
+    "s_extent_px": 45.262873317882,
+    "native_row_width_samples": 92,
+    "within_native_row_masked_fraction": 0.5543478260869565
+  }
+}

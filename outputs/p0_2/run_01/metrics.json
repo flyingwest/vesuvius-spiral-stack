@@ -1,0 +1,144 @@
+{
+  "z_inclusive": [
+    137,
+    151
+  ],
+  "slices": 15,
+  "fragment_counts": [
+    {
+      "z": 137,
+      "fragments": 88,
+      "skeleton_pixels": 2529,
+      "removed_branch_nodes": 359,
+      "ridge_mask_pixels": 4263
+    },
+    {
+      "z": 138,
+      "fragments": 88,
+      "skeleton_pixels": 2457,
+      "removed_branch_nodes": 336,
+      "ridge_mask_pixels": 4289
+    },
+    {
+      "z": 139,
+      "fragments": 73,
+      "skeleton_pixels": 2437,
+      "removed_branch_nodes": 336,
+      "ridge_mask_pixels": 4332
+    },
+    {
+      "z": 140,
+      "fragments": 72,
+      "skeleton_pixels": 2432,
+      "removed_branch_nodes": 330,
+      "ridge_mask_pixels": 4292
+    },
+    {
+      "z": 141,
+      "fragments": 82,
+      "skeleton_pixels": 2453,
+      "removed_branch_nodes": 314,
+      "ridge_mask_pixels": 4348
+    },
+    {
+      "z": 142,
+      "fragments": 79,
+      "skeleton_pixels": 2398,
+      "removed_branch_nodes": 308,
+      "ridge_mask_pixels": 4384
+    },
+    {
+      "z": 143,
+      "fragments": 80,
+      "skeleton_pixels": 2464,
+      "removed_branch_nodes": 348,
+      "ridge_mask_pixels": 4314
+    },
+    {
+      "z": 144,
+      "fragments": 71,
+      "skeleton_pixels": 2382,
+      "removed_branch_nodes": 336,
+      "ridge_mask_pixels": 4345
+    },
+    {
+      "z": 145,
+      "fragments": 79,
+      "skeleton_pixels": 2433,
+      "removed_branch_nodes": 327,
+      "ridge_mask_pixels": 4298
+    },
+    {
+      "z": 146,
+      "fragments": 76,
+      "skeleton_pixels": 2428,
+      "removed_branch_nodes": 298,
+      "ridge_mask_pixels": 4296
+    },
+    {
+      "z": 147,
+      "fragments": 93,
+      "skeleton_pixels": 2415,
+      "removed_branch_nodes": 284,
+      "ridge_mask_pixels": 4273
+    },
+    {
+      "z": 148,
+      "fragments": 81,
+      "skeleton_pixels": 2461,
+      "removed_branch_nodes": 339,
+      "ridge_mask_pixels": 4319
+    },
+    {
+      "z": 149,
+      "fragments": 82,
+      "skeleton_pixels": 2460,
+      "removed_branch_nodes": 352,
+      "ridge_mask_pixels": 4353
+    },
+    {
+      "z": 150,
+      "fragments": 84,
+      "skeleton_pixels": 2461,
+      "removed_branch_nodes": 347,
+      "ridge_mask_pixels": 4280
+    },
+    {
+      "z": 151,
+      "fragments": 69,
+      "skeleton_pixels": 2391,
+      "removed_branch_nodes": 333,
+      "ridge_mask_pixels": 4273
+    }
+  ],
+  "total_fragments": 1197,
+  "adjacent_associations": {
+    "REJECTED": 1727,
+    "UNKNOWN": 419,
+    "ACCEPTED": 111
+  },
+  "gap_associations": {
+    "REJECTED": 1350,
+    "UNKNOWN": 320,
+    "ACCEPTED": 2
+  },
+  "association_total": 3929,
+  "tracks": 1084,
+  "track_length_histogram": {
+    "1": 1000,
+    "2": 68,
+    "3": 8,
+    "4": 5,
+    "5": 1,
+    "6": 2
+  },
+  "tracks_with_missing_slice": 2,
+  "control_pass_count": 0,
+  "control_count": 5,
+  "control_gate_met": false,
+  "endpoint_decisions": {
+    "UNKNOWN": 14
+  },
+  "true_false_association_rate": null,
+  "true_identity_oracle": "Unavailable; indicators are not ground truth"
+}

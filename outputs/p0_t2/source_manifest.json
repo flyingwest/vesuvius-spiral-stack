@@ -1,0 +1,20 @@
+{
+  "source": "outputs/orientation/ct_level4_zyx.npy",
+  "source_sha256": "da3a232b146e2fb6e9048ec118de63752f679c7487c86f497b367fb4b4bee3a4",
+  "scripts": {
+    "scripts/p0_t2_report.py": "6ab241626e4966ace6b9dc2c2d3f8483fc2e882052010a96855853d478bd5ebc",
+    "scripts/p0_t2_validate.py": "2b4784a32faa826ecade891f6f17550457a0fb1340b129c611ca45842367a941",
+    "scripts/p0_t2_papyrus_domain.py": "31beb54b5e0e3ea075baf098a3e320b4ddf96005ae43e6be85d80062c9b0d2c8",
+    "scripts/p0_t2_recovery.py": "62dca93cbde2ce1c5149405bebb7f49f7473c5da335beef341707a0bd264f449"
+  },
+  "python": "3.12.3 (main, Jul 15 2026, 23:46:41) [GCC 13.3.0]",
+  "versions": {
+    "numpy": "2.5.3",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2",
+    "pillow": "12.3.0"
+  },
+  "selected_run": "run_02",
+  "initial_run": "run_01",
+  "publication": "root slice outputs byte-identical to run_02"
+}
