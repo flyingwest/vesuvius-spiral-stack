@@ -1,0 +1,143 @@
+{
+  "experiment": "P0-T6 signal extraction ONLY",
+  "slices": [
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177
+  ],
+  "source": "outputs/orientation/ct_level4_zyx.npy",
+  "source_sha256": "da3a232b146e2fb6e9048ec118de63752f679c7487c86f497b367fb4b4bee3a4",
+  "frozen_paths": "outputs/p0_t5/slice_<z>/path_and_samples.npz",
+  "ds_um": 63.28,
+  "voxel_spacing_um": 126.56,
+  "normal_offsets_px": [
+    -4.0,
+    -2.0,
+    -1.0,
+    0.0,
+    1.0,
+    2.0,
+    4.0
+  ],
+  "normal_offsets_um": [
+    -506.24,
+    -253.12,
+    -126.56,
+    0.0,
+    126.56,
+    253.12,
+    506.24
+  ],
+  "tangent": "chord between s\u00b12px clipped to contiguous observed edge-run; fallback to containing edge if chord norm<1e-8; normal=(-ty,tx)",
+  "interpolation": "bilinear same-Z original CT, no Z neighbors; assert all offsets in bounds, no extrapolation",
+  "mask": "exact T5 mask and provenance; query CT only at samples1/3; never query inferred centers or fill bridges",
+  "features": {
+    "center_intensity": {
+      "definition": "P(0)",
+      "fixed_display_range": [
+        0,
+        255
+      ]
+    },
+    "profile_mean": {
+      "definition": "arithmetic mean of all7 profile samples; equal point weights, not spatial integral",
+      "fixed_display_range": [
+        0,
+        255
+      ]
+    },
+    "profile_std": {
+      "definition": "population standard deviation of all7 profile samples",
+      "fixed_display_range": [
+        0,
+        127.5
+      ]
+    },
+    "profile_range": {
+      "definition": "maximum minus minimum of all7 profile samples",
+      "fixed_display_range": [
+        0,
+        255
+      ]
+    },
+    "normal_gradient_abs": {
+      "definition": "abs(P(+1)-P(-1))/2, CT units/pixel",
+      "fixed_display_range": [
+        0,
+        127.5
+      ]
+    },
+    "ridge_curvature": {
+      "definition": "2P(0)-P(-1)-P(+1), negative normal second derivative, CT units/pixel^2",
+      "fixed_display_range": [
+        -510,
+        510
+      ]
+    },
+    "ridge_contrast": {
+      "definition": "P(0)-mean(P(-4),P(-2),P(+2),P(+4))",
+      "fixed_display_range": [
+        -255,
+        255
+      ]
+    },
+    "profile_asymmetry": {
+      "definition": "abs(mean(P(+1),P(+2),P(+4))-mean(P(-1),P(-2),P(-4)))",
+      "fixed_display_range": [
+        0,
+        255
+      ]
+    }
+  },
+  "evaluation": "49 pairs Pearson; 256-sample windows stride128 min64 valid; diagnostic lags\u00b164; 199 global circular controls; 19 local peak controls; no shifts applied",
+  "comparison": "paired gains vs center; circular moving-block bootstrap length5 adjacent pairs,2000 replicates fixed seed2606; descriptive95% intervals;8 features exploratory multiplicity",
+  "interpretation": "materiality guides: mean adjacent gain~0.03 or local mean gain~0.05 plus consistency across pairs/controls; not ink identification; no feature retuning",
+  "scope": "do not edit T5, no search, cross-Z geometry, learned model, OCR, text priors, mesh; freeze definitions before feature evidence"
+}

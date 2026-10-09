@@ -1,0 +1,64 @@
+{
+  "status": "PASS",
+  "features": [
+    {
+      "feature": "center_intensity",
+      "paired_bootstrap": "exact",
+      "local_zero_and_selected_peak_replay": "PASS",
+      "window_count": 1001,
+      "max_peak_error": 2.8449465006019636e-14
+    },
+    {
+      "feature": "profile_mean",
+      "paired_bootstrap": "exact",
+      "local_zero_and_selected_peak_replay": "PASS",
+      "window_count": 1001,
+      "max_peak_error": 3.136380044566067e-14
+    },
+    {
+      "feature": "profile_std",
+      "paired_bootstrap": "exact",
+      "local_zero_and_selected_peak_replay": "PASS",
+      "window_count": 1001,
+      "max_peak_error": 5.384581669432009e-15
+    },
+    {
+      "feature": "profile_range",
+      "paired_bootstrap": "exact",
+      "local_zero_and_selected_peak_replay": "PASS",
+      "window_count": 1001,
+      "max_peak_error": 5.218048215738236e-15
+    },
+    {
+      "feature": "normal_gradient_abs",
+      "paired_bootstrap": "exact",
+      "local_zero_and_selected_peak_replay": "PASS",
+      "window_count": 1001,
+      "max_peak_error": 9.71445146547012e-16
+    },
+    {
+      "feature": "ridge_curvature",
+      "paired_bootstrap": "exact",
+      "local_zero_and_selected_peak_replay": "PASS",
+      "window_count": 1001,
+      "max_peak_error": 5.828670879282072e-16
+    },
+    {
+      "feature": "ridge_contrast",
+      "paired_bootstrap": "exact",
+      "local_zero_and_selected_peak_replay": "PASS",
+      "window_count": 1001,
+      "max_peak_error": 1.7208456881689926e-15
+    },
+    {
+      "feature": "profile_asymmetry",
+      "paired_bootstrap": "exact",
+      "local_zero_and_selected_peak_replay": "PASS",
+      "window_count": 1001,
+      "max_peak_error": 1.942890293094024e-15
+    }
+  ],
+  "center_fixed_png_differing_pixels": 0,
+  "center_numeric_stack": "bit-identical as verified independently",
+  "interpretation": "local selected peaks checked, not independent reselection of all129 lags"
+}

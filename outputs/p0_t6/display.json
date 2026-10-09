@@ -1,0 +1,122 @@
+{
+  "center_intensity": {
+    "fixed_range": [
+      0,
+      255
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      54.19900999384547,
+      140.52678196598515
+    ],
+    "definition": "P(0)"
+  },
+  "profile_mean": {
+    "fixed_range": [
+      0,
+      255
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      38.28379367024213,
+      111.04444460153566
+    ],
+    "definition": "arithmetic mean of all7 profile samples; equal point weights, not spatial integral"
+  },
+  "profile_std": {
+    "fixed_range": [
+      0,
+      127.5
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      7.6150012391696,
+      41.97265182788102
+    ],
+    "definition": "population standard deviation of all7 profile samples"
+  },
+  "profile_range": {
+    "fixed_range": [
+      0,
+      255
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      22.55933575990565,
+      123.075063973067
+    ],
+    "definition": "maximum minus minimum of all7 profile samples"
+  },
+  "normal_gradient_abs": {
+    "fixed_range": [
+      0,
+      127.5
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      0.13827174973354828,
+      38.221951637826564
+    ],
+    "definition": "abs(P(+1)-P(-1))/2, CT units/pixel"
+  },
+  "ridge_curvature": {
+    "fixed_range": [
+      -510,
+      510
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      -61.15072098969577,
+      169.87720139370364
+    ],
+    "definition": "2P(0)-P(-1)-P(+1), negative normal second derivative, CT units/pixel^2"
+  },
+  "ridge_contrast": {
+    "fixed_range": [
+      -255,
+      255
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      -4.044022456881487,
+      82.08129191446301
+    ],
+    "definition": "P(0)-mean(P(-4),P(-2),P(+2),P(+4))"
+  },
+  "profile_asymmetry": {
+    "fixed_range": [
+      0,
+      255
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      0.2545640005409831,
+      61.62373182807761
+    ],
+    "definition": "abs(mean(P(+1),P(+2),P(+4))-mean(P(-1),P(-2),P(-4)))"
+  }
+}

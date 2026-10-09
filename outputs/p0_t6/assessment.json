@@ -1,0 +1,15 @@
+{
+  "P0_T6_COMPLETE": "YES",
+  "P0_T6_RESULT": "PASS",
+  "BEST_FEATURE": "profile_mean",
+  "READY_FOR_NEXT_STEP": "YES",
+  "meaning": "PASS only for reproducible adjacent-Z CT feature repeatability improvement; not ink sensitivity or broad reconstruction",
+  "decision": "A: bounded deterministic feature research; D: insufficient evidence for ink probability or choosing learned models; geometry not changed or disproved",
+  "visual_inspection": [
+    "profile_examples.png",
+    "normal_sampling_diagnostic.png",
+    "feature_comparison.png",
+    "feature_stack_overview.png"
+  ],
+  "visual_findings": "Profile mean emphasizes broad light/dark patches and smoother texture, not persistent manuscript-like fine structure. Other feature stacks remain largely irregular texture. Mask geometry is identical; no visible pattern is called text."
+}
