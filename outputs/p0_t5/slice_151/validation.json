@@ -1,0 +1,11 @@
+{
+  "geometry_continuity": "PASS",
+  "observed_lineage": "PASS",
+  "independent_bilinear": "PASS",
+  "topology": {
+    "proper_crossings": 0,
+    "nonadjacent_point_contacts": 1,
+    "collinear_overlaps": 0
+  },
+  "topology_clean": false
+}

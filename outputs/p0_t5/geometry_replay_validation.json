@@ -1,0 +1,706 @@
+{
+  "status": "PASS",
+  "meaning": "all recorded values reproduced, not a claim every topology is clean",
+  "slices": [
+    {
+      "z": 128,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 129,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 1,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 130,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 131,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 132,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 133,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 134,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 135,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 1,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 136,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 137,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 138,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 139,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 140,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 141,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 142,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 143,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 144,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 145,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 1,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 146,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 147,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 148,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 149,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 150,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 151,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 1,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 152,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 153,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 154,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 155,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 156,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 157,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 158,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 159,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 160,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 161,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 162,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 163,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 164,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 1,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 165,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 166,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 167,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 168,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 169,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 170,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 171,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 172,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 173,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 174,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 175,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 176,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    },
+    {
+      "z": 177,
+      "source_plane": "exact",
+      "ridge_graph_replay": "exact",
+      "correction_replay": "exact",
+      "XY_interpolation": "within1e-10",
+      "bilinear": "within1e-10",
+      "masks_and_provenance": "exact",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      }
+    }
+  ]
+}

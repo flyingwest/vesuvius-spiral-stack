@@ -1,0 +1,6743 @@
+{
+  "scope": "existing T5 files before this inventory/receipt/manifest; those three additional metadata files are included in Git",
+  "files": [
+    {
+      "path": "outputs/p0_t5/.gitignore",
+      "bytes": 105,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/ROWS_FINALIZED.json",
+      "bytes": 4903,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/adjacent_correlations.csv",
+      "bytes": 10861,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/adjacent_correlations.json",
+      "bytes": 30742,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/coherence_diagnostic.png",
+      "bytes": 354645,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/coverage.npy",
+      "bytes": 224228,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/dependency_versions.json",
+      "bytes": 112,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/diagnostic_lags.csv",
+      "bytes": 297783,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/diagnostic_validation.json",
+      "bytes": 272,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/diagnostic_validation.log",
+      "bytes": 116,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/display.json",
+      "bytes": 427,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/evaluation.log",
+      "bytes": 1670,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/geometry_replay_validation.json",
+      "bytes": 19025,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/geometry_validation.log",
+      "bytes": 140,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/lag_correlations.csv",
+      "bytes": 5203,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/lag_diagnostic.png",
+      "bytes": 274739,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/lag_evaluation.log",
+      "bytes": 2471,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/lag_metrics.json",
+      "bytes": 13561,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/local_lag_examples.png",
+      "bytes": 397757,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/local_lag_windows.csv",
+      "bytes": 158232,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/local_persistence.json",
+      "bytes": 3841,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/local_window_coherence.png",
+      "bytes": 161343,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/local_windows.csv",
+      "bytes": 52525,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/mask.npy",
+      "bytes": 224228,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/mask_stack.png",
+      "bytes": 11577,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/path_metrics.csv",
+      "bytes": 10989,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/physical_aspect_stack.png",
+      "bytes": 109634,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/plan.json",
+      "bytes": 6330,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/preservation.json",
+      "bytes": 106663,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/provenance.npy",
+      "bytes": 224228,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/provenance_stack.png",
+      "bytes": 21852,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/raw_stack.png",
+      "bytes": 108213,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/raw_stack_contrast.png",
+      "bytes": 130634,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/reconstruction_summary.json",
+      "bytes": 45034,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/report_measurements.json",
+      "bytes": 1369,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/row_extents.csv",
+      "bytes": 5071,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/run.log",
+      "bytes": 39127,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/s_um.npy",
+      "bytes": 35984,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/shift_controls.csv",
+      "bytes": 383775,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_128/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_128/complete_paths.json",
+      "bytes": 114144014,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_128/corrections.json",
+      "bytes": 1887,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_128/ct.png",
+      "bytes": 171122,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_128/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_128/geometry.png",
+      "bytes": 1158018,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_128/graph_input/outputs/p0_t1/slice_128_candidates.npz",
+      "bytes": 1825250,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_128/graph_input/outputs/p0_t1/slice_128_graph.json",
+      "bytes": 1748648,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_128/mask.npy",
+      "bytes": 2653,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_128/metrics.json",
+      "bytes": 838,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_128/oriented_chain_map.json",
+      "bytes": 60105,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_128/path_and_samples.npz",
+      "bytes": 67668,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_128/path_coordinates.csv",
+      "bytes": 71791,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_128/precleanup_path.npz",
+      "bytes": 4083,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_128/provenance.npy",
+      "bytes": 2653,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_128/row.npy",
+      "bytes": 20328,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_128/sample_provenance.csv",
+      "bytes": 167758,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_128/search_log.json",
+      "bytes": 30259,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_128/slice_128_domain.npz",
+      "bytes": 2731,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_128/top_paths.json",
+      "bytes": 13858,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_128/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_128/transitions.json",
+      "bytes": 11432,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_128/unwrapped_mask.png",
+      "bytes": 271,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_128/unwrapped_row.png",
+      "bytes": 1868,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_128/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_128/virtual_edges.npz",
+      "bytes": 8596817,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_129/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_129/complete_paths.json",
+      "bytes": 99375618,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_129/corrections.json",
+      "bytes": 6675,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_129/ct.png",
+      "bytes": 171050,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_129/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_129/geometry.png",
+      "bytes": 1169657,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_129/graph_input/outputs/p0_t1/slice_129_candidates.npz",
+      "bytes": 1825593,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_129/graph_input/outputs/p0_t1/slice_129_graph.json",
+      "bytes": 1721401,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_129/mask.npy",
+      "bytes": 3263,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_129/metrics.json",
+      "bytes": 866,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_129/oriented_chain_map.json",
+      "bytes": 58851,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_129/path_and_samples.npz",
+      "bytes": 83630,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_129/path_coordinates.csv",
+      "bytes": 92289,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_129/precleanup_path.npz",
+      "bytes": 5015,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_129/provenance.npy",
+      "bytes": 3263,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_129/row.npy",
+      "bytes": 25208,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_129/sample_provenance.csv",
+      "bytes": 209214,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_129/search_log.json",
+      "bytes": 30303,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_129/slice_129_domain.npz",
+      "bytes": 2730,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_129/top_paths.json",
+      "bytes": 17604,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_129/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_129/transitions.json",
+      "bytes": 16470,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_129/unwrapped_mask.png",
+      "bytes": 330,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_129/unwrapped_row.png",
+      "bytes": 2350,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_129/validation.json",
+      "bytes": 240,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_129/virtual_edges.npz",
+      "bytes": 8297391,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_130/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_130/complete_paths.json",
+      "bytes": 81275366,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_130/corrections.json",
+      "bytes": 13820,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_130/ct.png",
+      "bytes": 171601,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_130/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_130/geometry.png",
+      "bytes": 1186018,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_130/graph_input/outputs/p0_t1/slice_130_candidates.npz",
+      "bytes": 1825894,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_130/graph_input/outputs/p0_t1/slice_130_graph.json",
+      "bytes": 1714638,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_130/mask.npy",
+      "bytes": 4073,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_130/metrics.json",
+      "bytes": 839,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_130/oriented_chain_map.json",
+      "bytes": 59407,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_130/path_and_samples.npz",
+      "bytes": 107955,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_130/path_coordinates.csv",
+      "bytes": 113434,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_130/precleanup_path.npz",
+      "bytes": 6272,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_130/provenance.npy",
+      "bytes": 4073,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_130/row.npy",
+      "bytes": 31688,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_130/sample_provenance.csv",
+      "bytes": 266267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_130/search_log.json",
+      "bytes": 30299,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_130/slice_130_domain.npz",
+      "bytes": 2733,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_130/top_paths.json",
+      "bytes": 16541,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_130/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_130/transitions.json",
+      "bytes": 17145,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_130/unwrapped_mask.png",
+      "bytes": 399,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_130/unwrapped_row.png",
+      "bytes": 2897,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_130/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_130/virtual_edges.npz",
+      "bytes": 8641787,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_131/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_131/complete_paths.json",
+      "bytes": 104935286,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_131/corrections.json",
+      "bytes": 2758,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_131/ct.png",
+      "bytes": 170682,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_131/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_131/geometry.png",
+      "bytes": 1167663,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_131/graph_input/outputs/p0_t1/slice_131_candidates.npz",
+      "bytes": 1825243,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_131/graph_input/outputs/p0_t1/slice_131_graph.json",
+      "bytes": 1691438,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_131/mask.npy",
+      "bytes": 3289,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_131/metrics.json",
+      "bytes": 847,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_131/oriented_chain_map.json",
+      "bytes": 57279,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_131/path_and_samples.npz",
+      "bytes": 86176,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_131/path_coordinates.csv",
+      "bytes": 89843,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_131/precleanup_path.npz",
+      "bytes": 5009,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_131/provenance.npy",
+      "bytes": 3289,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_131/row.npy",
+      "bytes": 25416,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_131/sample_provenance.csv",
+      "bytes": 212902,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_131/search_log.json",
+      "bytes": 30291,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_131/slice_131_domain.npz",
+      "bytes": 2731,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_131/top_paths.json",
+      "bytes": 13984,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_131/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_131/transitions.json",
+      "bytes": 14499,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_131/unwrapped_mask.png",
+      "bytes": 324,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_131/unwrapped_row.png",
+      "bytes": 2334,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_131/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_131/virtual_edges.npz",
+      "bytes": 7991955,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_132/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_132/complete_paths.json",
+      "bytes": 78943975,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_132/corrections.json",
+      "bytes": 6374,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_132/ct.png",
+      "bytes": 171155,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_132/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_132/geometry.png",
+      "bytes": 1168311,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_132/graph_input/outputs/p0_t1/slice_132_candidates.npz",
+      "bytes": 1825505,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_132/graph_input/outputs/p0_t1/slice_132_graph.json",
+      "bytes": 1700013,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_132/mask.npy",
+      "bytes": 3221,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_132/metrics.json",
+      "bytes": 835,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_132/oriented_chain_map.json",
+      "bytes": 59449,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_132/path_and_samples.npz",
+      "bytes": 81929,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_132/path_coordinates.csv",
+      "bytes": 87330,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_132/precleanup_path.npz",
+      "bytes": 4938,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_132/provenance.npy",
+      "bytes": 3221,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_132/row.npy",
+      "bytes": 24872,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_132/sample_provenance.csv",
+      "bytes": 206234,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_132/search_log.json",
+      "bytes": 30357,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_132/slice_132_domain.npz",
+      "bytes": 2729,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_132/top_paths.json",
+      "bytes": 15374,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_132/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_132/transitions.json",
+      "bytes": 14069,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_132/unwrapped_mask.png",
+      "bytes": 316,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_132/unwrapped_row.png",
+      "bytes": 2189,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_132/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_132/virtual_edges.npz",
+      "bytes": 8556729,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_133/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_133/complete_paths.json",
+      "bytes": 87994731,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_133/corrections.json",
+      "bytes": 11769,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_133/ct.png",
+      "bytes": 170820,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_133/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_133/geometry.png",
+      "bytes": 1173779,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_133/graph_input/outputs/p0_t1/slice_133_candidates.npz",
+      "bytes": 1825103,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_133/graph_input/outputs/p0_t1/slice_133_graph.json",
+      "bytes": 1725180,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_133/mask.npy",
+      "bytes": 3603,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_133/metrics.json",
+      "bytes": 864,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_133/oriented_chain_map.json",
+      "bytes": 59601,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_133/path_and_samples.npz",
+      "bytes": 93625,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_133/path_coordinates.csv",
+      "bytes": 100722,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_133/precleanup_path.npz",
+      "bytes": 5504,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_133/provenance.npy",
+      "bytes": 3603,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_133/row.npy",
+      "bytes": 27928,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_133/sample_provenance.csv",
+      "bytes": 233692,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_133/search_log.json",
+      "bytes": 30222,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_133/slice_133_domain.npz",
+      "bytes": 2732,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_133/top_paths.json",
+      "bytes": 11373,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_133/topology_before.json",
+      "bytes": 91,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_133/transitions.json",
+      "bytes": 16281,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_133/unwrapped_mask.png",
+      "bytes": 359,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_133/unwrapped_row.png",
+      "bytes": 2559,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_133/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_133/virtual_edges.npz",
+      "bytes": 8577786,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_134/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_134/complete_paths.json",
+      "bytes": 131264398,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_134/corrections.json",
+      "bytes": 10398,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_134/ct.png",
+      "bytes": 170973,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_134/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_134/geometry.png",
+      "bytes": 1178496,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_134/graph_input/outputs/p0_t1/slice_134_candidates.npz",
+      "bytes": 1825431,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_134/graph_input/outputs/p0_t1/slice_134_graph.json",
+      "bytes": 1685729,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_134/mask.npy",
+      "bytes": 4066,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_134/metrics.json",
+      "bytes": 834,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_134/oriented_chain_map.json",
+      "bytes": 57973,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_134/path_and_samples.npz",
+      "bytes": 103355,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_134/path_coordinates.csv",
+      "bytes": 114478,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_134/precleanup_path.npz",
+      "bytes": 5995,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_134/provenance.npy",
+      "bytes": 4066,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_134/row.npy",
+      "bytes": 31632,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_134/sample_provenance.csv",
+      "bytes": 263575,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_134/search_log.json",
+      "bytes": 30284,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_134/slice_134_domain.npz",
+      "bytes": 2726,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_134/top_paths.json",
+      "bytes": 15593,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_134/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_134/transitions.json",
+      "bytes": 15902,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_134/unwrapped_mask.png",
+      "bytes": 370,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_134/unwrapped_row.png",
+      "bytes": 2846,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_134/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_134/virtual_edges.npz",
+      "bytes": 8139120,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_135/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_135/complete_paths.json",
+      "bytes": 146249188,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_135/corrections.json",
+      "bytes": 2639,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_135/ct.png",
+      "bytes": 170817,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_135/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_135/geometry.png",
+      "bytes": 1168166,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_135/graph_input/outputs/p0_t1/slice_135_candidates.npz",
+      "bytes": 1825373,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_135/graph_input/outputs/p0_t1/slice_135_graph.json",
+      "bytes": 1699379,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_135/mask.npy",
+      "bytes": 3385,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_135/metrics.json",
+      "bytes": 864,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_135/oriented_chain_map.json",
+      "bytes": 58833,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_135/path_and_samples.npz",
+      "bytes": 86877,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_135/path_coordinates.csv",
+      "bytes": 95118,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_135/precleanup_path.npz",
+      "bytes": 5304,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_135/provenance.npy",
+      "bytes": 3385,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_135/row.npy",
+      "bytes": 26184,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_135/sample_provenance.csv",
+      "bytes": 217784,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_135/search_log.json",
+      "bytes": 30265,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_135/slice_135_domain.npz",
+      "bytes": 2733,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_135/top_paths.json",
+      "bytes": 14720,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_135/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_135/transitions.json",
+      "bytes": 16771,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_135/unwrapped_mask.png",
+      "bytes": 322,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_135/unwrapped_row.png",
+      "bytes": 2361,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_135/validation.json",
+      "bytes": 240,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_135/virtual_edges.npz",
+      "bytes": 8425945,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_136/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_136/complete_paths.json",
+      "bytes": 111981406,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_136/corrections.json",
+      "bytes": 8978,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_136/ct.png",
+      "bytes": 171060,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_136/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_136/geometry.png",
+      "bytes": 1164421,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_136/graph_input/outputs/p0_t1/slice_136_candidates.npz",
+      "bytes": 1825862,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_136/graph_input/outputs/p0_t1/slice_136_graph.json",
+      "bytes": 1763865,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_136/mask.npy",
+      "bytes": 3130,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_136/metrics.json",
+      "bytes": 838,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_136/oriented_chain_map.json",
+      "bytes": 58223,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_136/path_and_samples.npz",
+      "bytes": 80033,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_136/path_coordinates.csv",
+      "bytes": 87315,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_136/precleanup_path.npz",
+      "bytes": 4875,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_136/provenance.npy",
+      "bytes": 3130,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_136/row.npy",
+      "bytes": 24144,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_136/sample_provenance.csv",
+      "bytes": 200451,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_136/search_log.json",
+      "bytes": 30319,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_136/slice_136_domain.npz",
+      "bytes": 2725,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_136/top_paths.json",
+      "bytes": 13347,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_136/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_136/transitions.json",
+      "bytes": 14255,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_136/unwrapped_mask.png",
+      "bytes": 343,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_136/unwrapped_row.png",
+      "bytes": 2247,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_136/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_136/virtual_edges.npz",
+      "bytes": 8189312,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_137/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_137/complete_paths.json",
+      "bytes": 121596988,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_137/corrections.json",
+      "bytes": 4820,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_137/ct.png",
+      "bytes": 171379,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_137/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_137/geometry.png",
+      "bytes": 1174086,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_137/graph_input/outputs/p0_t1/slice_137_candidates.npz",
+      "bytes": 1826042,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_137/graph_input/outputs/p0_t1/slice_137_graph.json",
+      "bytes": 1706007,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_137/mask.npy",
+      "bytes": 3693,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_137/metrics.json",
+      "bytes": 838,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_137/oriented_chain_map.json",
+      "bytes": 58509,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_137/path_and_samples.npz",
+      "bytes": 94325,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_137/path_coordinates.csv",
+      "bytes": 103554,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_137/precleanup_path.npz",
+      "bytes": 5584,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_137/provenance.npy",
+      "bytes": 3693,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_137/row.npy",
+      "bytes": 28648,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_137/sample_provenance.csv",
+      "bytes": 238035,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_137/search_log.json",
+      "bytes": 30299,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_137/slice_137_domain.npz",
+      "bytes": 2712,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_137/top_paths.json",
+      "bytes": 15740,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_137/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_137/transitions.json",
+      "bytes": 17694,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_137/unwrapped_mask.png",
+      "bytes": 343,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_137/unwrapped_row.png",
+      "bytes": 2614,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_137/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_137/virtual_edges.npz",
+      "bytes": 8247547,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_138/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_138/complete_paths.json",
+      "bytes": 99070231,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_138/corrections.json",
+      "bytes": 1113,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_138/ct.png",
+      "bytes": 171712,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_138/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_138/geometry.png",
+      "bytes": 1167884,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_138/graph_input/outputs/p0_t1/slice_138_candidates.npz",
+      "bytes": 1825898,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_138/graph_input/outputs/p0_t1/slice_138_graph.json",
+      "bytes": 1665361,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_138/mask.npy",
+      "bytes": 3255,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_138/metrics.json",
+      "bytes": 866,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_138/oriented_chain_map.json",
+      "bytes": 58071,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_138/path_and_samples.npz",
+      "bytes": 84607,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_138/path_coordinates.csv",
+      "bytes": 89835,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_138/precleanup_path.npz",
+      "bytes": 5034,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_138/provenance.npy",
+      "bytes": 3255,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_138/row.npy",
+      "bytes": 25144,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_138/sample_provenance.csv",
+      "bytes": 209625,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_138/search_log.json",
+      "bytes": 30318,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_138/slice_138_domain.npz",
+      "bytes": 2715,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_138/top_paths.json",
+      "bytes": 13563,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_138/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_138/transitions.json",
+      "bytes": 15321,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_138/unwrapped_mask.png",
+      "bytes": 337,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_138/unwrapped_row.png",
+      "bytes": 2301,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_138/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_138/virtual_edges.npz",
+      "bytes": 8226318,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_139/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_139/complete_paths.json",
+      "bytes": 124249936,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_139/corrections.json",
+      "bytes": 3,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_139/ct.png",
+      "bytes": 170825,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_139/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_139/geometry.png",
+      "bytes": 1168534,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_139/graph_input/outputs/p0_t1/slice_139_candidates.npz",
+      "bytes": 1825765,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_139/graph_input/outputs/p0_t1/slice_139_graph.json",
+      "bytes": 1704358,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_139/mask.npy",
+      "bytes": 3261,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_139/metrics.json",
+      "bytes": 825,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_139/oriented_chain_map.json",
+      "bytes": 58997,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_139/path_and_samples.npz",
+      "bytes": 84226,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_139/path_coordinates.csv",
+      "bytes": 92200,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_139/precleanup_path.npz",
+      "bytes": 5124,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_139/provenance.npy",
+      "bytes": 25192,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_139/row.npy",
+      "bytes": 25192,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_139/sample_provenance.csv",
+      "bytes": 210032,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_139/search_log.json",
+      "bytes": 30297,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_139/slice_139_domain.npz",
+      "bytes": 2723,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_139/top_paths.json",
+      "bytes": 14562,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_139/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_139/transitions.json",
+      "bytes": 15678,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_139/unwrapped_mask.png",
+      "bytes": 341,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_139/unwrapped_row.png",
+      "bytes": 2345,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_139/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_139/virtual_edges.npz",
+      "bytes": 8391929,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_140/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_140/complete_paths.json",
+      "bytes": 117270474,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_140/corrections.json",
+      "bytes": 11397,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_140/ct.png",
+      "bytes": 172276,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_140/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_140/geometry.png",
+      "bytes": 1178669,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_140/graph_input/outputs/p0_t1/slice_140_candidates.npz",
+      "bytes": 1826806,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_140/graph_input/outputs/p0_t1/slice_140_graph.json",
+      "bytes": 1718916,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_140/mask.npy",
+      "bytes": 3783,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_140/metrics.json",
+      "bytes": 840,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_140/oriented_chain_map.json",
+      "bytes": 58209,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_140/path_and_samples.npz",
+      "bytes": 97755,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_140/path_coordinates.csv",
+      "bytes": 106110,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_140/precleanup_path.npz",
+      "bytes": 5800,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_140/provenance.npy",
+      "bytes": 3783,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_140/row.npy",
+      "bytes": 29368,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_140/sample_provenance.csv",
+      "bytes": 244384,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_140/search_log.json",
+      "bytes": 30351,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_140/slice_140_domain.npz",
+      "bytes": 2716,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_140/top_paths.json",
+      "bytes": 14838,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_140/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_140/transitions.json",
+      "bytes": 17659,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_140/unwrapped_mask.png",
+      "bytes": 391,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_140/unwrapped_row.png",
+      "bytes": 2705,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_140/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_140/virtual_edges.npz",
+      "bytes": 8222132,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_141/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_141/complete_paths.json",
+      "bytes": 71641164,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_141/corrections.json",
+      "bytes": 3,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_141/ct.png",
+      "bytes": 171409,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_141/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_141/geometry.png",
+      "bytes": 1148093,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_141/graph_input/outputs/p0_t1/slice_141_candidates.npz",
+      "bytes": 1826186,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_141/graph_input/outputs/p0_t1/slice_141_graph.json",
+      "bytes": 1711203,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_141/mask.npy",
+      "bytes": 2227,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_141/metrics.json",
+      "bytes": 823,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_141/oriented_chain_map.json",
+      "bytes": 59975,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_141/path_and_samples.npz",
+      "bytes": 57788,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_141/path_coordinates.csv",
+      "bytes": 60871,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_141/precleanup_path.npz",
+      "bytes": 3773,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_141/provenance.npy",
+      "bytes": 16920,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_141/row.npy",
+      "bytes": 16920,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_141/sample_provenance.csv",
+      "bytes": 140215,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_141/search_log.json",
+      "bytes": 30376,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_141/slice_141_domain.npz",
+      "bytes": 2718,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_141/top_paths.json",
+      "bytes": 10827,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_141/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_141/transitions.json",
+      "bytes": 10549,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_141/unwrapped_mask.png",
+      "bytes": 238,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_141/unwrapped_row.png",
+      "bytes": 1568,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_141/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_141/virtual_edges.npz",
+      "bytes": 8658945,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_142/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_142/complete_paths.json",
+      "bytes": 113350222,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_142/corrections.json",
+      "bytes": 1128,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_142/ct.png",
+      "bytes": 171205,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_142/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_142/geometry.png",
+      "bytes": 1142956,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_142/graph_input/outputs/p0_t1/slice_142_candidates.npz",
+      "bytes": 1825967,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_142/graph_input/outputs/p0_t1/slice_142_graph.json",
+      "bytes": 1723200,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_142/mask.npy",
+      "bytes": 2040,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_142/metrics.json",
+      "bytes": 838,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_142/oriented_chain_map.json",
+      "bytes": 59511,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_142/path_and_samples.npz",
+      "bytes": 51733,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_142/path_coordinates.csv",
+      "bytes": 54816,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_142/precleanup_path.npz",
+      "bytes": 3280,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_142/provenance.npy",
+      "bytes": 2040,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_142/row.npy",
+      "bytes": 15424,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_142/sample_provenance.csv",
+      "bytes": 127005,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_142/search_log.json",
+      "bytes": 30351,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_142/slice_142_domain.npz",
+      "bytes": 2709,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_142/top_paths.json",
+      "bytes": 9265,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_142/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_142/transitions.json",
+      "bytes": 8765,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_142/unwrapped_mask.png",
+      "bytes": 235,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_142/unwrapped_row.png",
+      "bytes": 1471,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_142/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_142/virtual_edges.npz",
+      "bytes": 8655877,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_143/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_143/complete_paths.json",
+      "bytes": 45456423,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_143/corrections.json",
+      "bytes": 7675,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_143/ct.png",
+      "bytes": 170933,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_143/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_143/geometry.png",
+      "bytes": 1165094,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_143/graph_input/outputs/p0_t1/slice_143_candidates.npz",
+      "bytes": 1825618,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_143/graph_input/outputs/p0_t1/slice_143_graph.json",
+      "bytes": 1704758,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_143/mask.npy",
+      "bytes": 3246,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_143/metrics.json",
+      "bytes": 866,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_143/oriented_chain_map.json",
+      "bytes": 59241,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_143/path_and_samples.npz",
+      "bytes": 85772,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_143/path_coordinates.csv",
+      "bytes": 90484,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_143/precleanup_path.npz",
+      "bytes": 5215,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_143/provenance.npy",
+      "bytes": 3246,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_143/row.npy",
+      "bytes": 25072,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_143/sample_provenance.csv",
+      "bytes": 209442,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_143/search_log.json",
+      "bytes": 30222,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_143/slice_143_domain.npz",
+      "bytes": 2723,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_143/top_paths.json",
+      "bytes": 13044,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_143/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_143/transitions.json",
+      "bytes": 12231,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_143/unwrapped_mask.png",
+      "bytes": 316,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_143/unwrapped_row.png",
+      "bytes": 2328,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_143/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_143/virtual_edges.npz",
+      "bytes": 8603518,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_144/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_144/complete_paths.json",
+      "bytes": 78167833,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_144/corrections.json",
+      "bytes": 3,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_144/ct.png",
+      "bytes": 170797,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_144/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_144/geometry.png",
+      "bytes": 1172628,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_144/graph_input/outputs/p0_t1/slice_144_candidates.npz",
+      "bytes": 1825468,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_144/graph_input/outputs/p0_t1/slice_144_graph.json",
+      "bytes": 1683259,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_144/mask.npy",
+      "bytes": 3900,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_144/metrics.json",
+      "bytes": 825,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_144/oriented_chain_map.json",
+      "bytes": 58859,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_144/path_and_samples.npz",
+      "bytes": 100593,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_144/path_coordinates.csv",
+      "bytes": 108362,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_144/precleanup_path.npz",
+      "bytes": 5843,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_144/provenance.npy",
+      "bytes": 30304,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_144/row.npy",
+      "bytes": 30304,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_144/sample_provenance.csv",
+      "bytes": 252488,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_144/search_log.json",
+      "bytes": 30220,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_144/slice_144_domain.npz",
+      "bytes": 2725,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_144/top_paths.json",
+      "bytes": 16608,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_144/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_144/transitions.json",
+      "bytes": 17607,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_144/unwrapped_mask.png",
+      "bytes": 377,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_144/unwrapped_row.png",
+      "bytes": 2744,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_144/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_144/virtual_edges.npz",
+      "bytes": 8422853,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_145/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_145/complete_paths.json",
+      "bytes": 58400544,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_145/corrections.json",
+      "bytes": 3,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_145/ct.png",
+      "bytes": 170818,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_145/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_145/geometry.png",
+      "bytes": 1186910,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_145/graph_input/outputs/p0_t1/slice_145_candidates.npz",
+      "bytes": 1825468,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_145/graph_input/outputs/p0_t1/slice_145_graph.json",
+      "bytes": 1706535,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_145/mask.npy",
+      "bytes": 4610,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_145/metrics.json",
+      "bytes": 847,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_145/oriented_chain_map.json",
+      "bytes": 58629,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_145/path_and_samples.npz",
+      "bytes": 118396,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_145/path_coordinates.csv",
+      "bytes": 126410,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_145/precleanup_path.npz",
+      "bytes": 6468,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_145/provenance.npy",
+      "bytes": 35984,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_145/row.npy",
+      "bytes": 35984,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_145/sample_provenance.csv",
+      "bytes": 301813,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_145/search_log.json",
+      "bytes": 30397,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_145/slice_145_domain.npz",
+      "bytes": 2725,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_145/top_paths.json",
+      "bytes": 14219,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_145/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_145/transitions.json",
+      "bytes": 17614,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_145/unwrapped_mask.png",
+      "bytes": 355,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_145/unwrapped_row.png",
+      "bytes": 3155,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_145/validation.json",
+      "bytes": 240,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_145/virtual_edges.npz",
+      "bytes": 8331056,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_146/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_146/complete_paths.json",
+      "bytes": 63121344,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_146/corrections.json",
+      "bytes": 13188,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_146/ct.png",
+      "bytes": 170835,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_146/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_146/geometry.png",
+      "bytes": 1170093,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_146/graph_input/outputs/p0_t1/slice_146_candidates.npz",
+      "bytes": 1825279,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_146/graph_input/outputs/p0_t1/slice_146_graph.json",
+      "bytes": 1695144,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_146/mask.npy",
+      "bytes": 3670,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_146/metrics.json",
+      "bytes": 839,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_146/oriented_chain_map.json",
+      "bytes": 59123,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_146/path_and_samples.npz",
+      "bytes": 93673,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_146/path_coordinates.csv",
+      "bytes": 102767,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_146/precleanup_path.npz",
+      "bytes": 5507,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_146/provenance.npy",
+      "bytes": 3670,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_146/row.npy",
+      "bytes": 28464,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_146/sample_provenance.csv",
+      "bytes": 236615,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_146/search_log.json",
+      "bytes": 30553,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_146/slice_146_domain.npz",
+      "bytes": 2729,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_146/top_paths.json",
+      "bytes": 16884,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_146/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_146/transitions.json",
+      "bytes": 16089,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_146/unwrapped_mask.png",
+      "bytes": 352,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_146/unwrapped_row.png",
+      "bytes": 2639,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_146/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_146/virtual_edges.npz",
+      "bytes": 8464561,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_147/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_147/complete_paths.json",
+      "bytes": 75544875,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_147/corrections.json",
+      "bytes": 3,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_147/ct.png",
+      "bytes": 170519,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_147/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_147/geometry.png",
+      "bytes": 1140859,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_147/graph_input/outputs/p0_t1/slice_147_candidates.npz",
+      "bytes": 1825266,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_147/graph_input/outputs/p0_t1/slice_147_graph.json",
+      "bytes": 1670988,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_147/mask.npy",
+      "bytes": 1859,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_147/metrics.json",
+      "bytes": 832,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_147/oriented_chain_map.json",
+      "bytes": 58333,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_147/path_and_samples.npz",
+      "bytes": 49455,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_147/path_coordinates.csv",
+      "bytes": 49336,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_147/precleanup_path.npz",
+      "bytes": 3203,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_147/provenance.npy",
+      "bytes": 13976,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_147/row.npy",
+      "bytes": 13976,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_147/sample_provenance.csv",
+      "bytes": 116533,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_147/search_log.json",
+      "bytes": 30246,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_147/slice_147_domain.npz",
+      "bytes": 2734,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_147/top_paths.json",
+      "bytes": 10764,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_147/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_147/transitions.json",
+      "bytes": 7449,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_147/unwrapped_mask.png",
+      "bytes": 200,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_147/unwrapped_row.png",
+      "bytes": 1353,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_147/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_147/virtual_edges.npz",
+      "bytes": 8349265,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_148/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_148/complete_paths.json",
+      "bytes": 91175955,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_148/corrections.json",
+      "bytes": 1670,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_148/ct.png",
+      "bytes": 170706,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_148/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_148/geometry.png",
+      "bytes": 1162337,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_148/graph_input/outputs/p0_t1/slice_148_candidates.npz",
+      "bytes": 1825550,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_148/graph_input/outputs/p0_t1/slice_148_graph.json",
+      "bytes": 1677873,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_148/mask.npy",
+      "bytes": 3174,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_148/metrics.json",
+      "bytes": 838,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_148/oriented_chain_map.json",
+      "bytes": 57655,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_148/path_and_samples.npz",
+      "bytes": 82913,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_148/path_coordinates.csv",
+      "bytes": 84833,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_148/precleanup_path.npz",
+      "bytes": 4757,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_148/provenance.npy",
+      "bytes": 3174,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_148/row.npy",
+      "bytes": 24496,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_148/sample_provenance.csv",
+      "bytes": 204843,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_148/search_log.json",
+      "bytes": 30281,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_148/slice_148_domain.npz",
+      "bytes": 2725,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_148/top_paths.json",
+      "bytes": 12370,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_148/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_148/transitions.json",
+      "bytes": 13082,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_148/unwrapped_mask.png",
+      "bytes": 299,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_148/unwrapped_row.png",
+      "bytes": 2234,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_148/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_148/virtual_edges.npz",
+      "bytes": 8082232,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_149/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_149/complete_paths.json",
+      "bytes": 109368233,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_149/corrections.json",
+      "bytes": 2678,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_149/ct.png",
+      "bytes": 170469,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_149/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_149/geometry.png",
+      "bytes": 1146845,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_149/graph_input/outputs/p0_t1/slice_149_candidates.npz",
+      "bytes": 1825092,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_149/graph_input/outputs/p0_t1/slice_149_graph.json",
+      "bytes": 1688779,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_149/mask.npy",
+      "bytes": 2389,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_149/metrics.json",
+      "bytes": 822,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_149/oriented_chain_map.json",
+      "bytes": 57593,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_149/path_and_samples.npz",
+      "bytes": 61092,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_149/path_coordinates.csv",
+      "bytes": 64641,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_149/precleanup_path.npz",
+      "bytes": 3756,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_149/provenance.npy",
+      "bytes": 2389,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_149/row.npy",
+      "bytes": 18216,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_149/sample_provenance.csv",
+      "bytes": 150535,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_149/search_log.json",
+      "bytes": 30221,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_149/slice_149_domain.npz",
+      "bytes": 2729,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_149/top_paths.json",
+      "bytes": 9826,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_149/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_149/transitions.json",
+      "bytes": 8053,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_149/unwrapped_mask.png",
+      "bytes": 242,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_149/unwrapped_row.png",
+      "bytes": 1688,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_149/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_149/virtual_edges.npz",
+      "bytes": 8086485,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_150/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_150/complete_paths.json",
+      "bytes": 103646671,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_150/corrections.json",
+      "bytes": 1471,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_150/ct.png",
+      "bytes": 170850,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_150/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_150/geometry.png",
+      "bytes": 1153774,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_150/graph_input/outputs/p0_t1/slice_150_candidates.npz",
+      "bytes": 1824946,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_150/graph_input/outputs/p0_t1/slice_150_graph.json",
+      "bytes": 1674850,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_150/mask.npy",
+      "bytes": 2584,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_150/metrics.json",
+      "bytes": 836,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_150/oriented_chain_map.json",
+      "bytes": 58131,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_150/path_and_samples.npz",
+      "bytes": 66457,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_150/path_coordinates.csv",
+      "bytes": 71714,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_150/precleanup_path.npz",
+      "bytes": 4144,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_150/provenance.npy",
+      "bytes": 2584,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_150/row.npy",
+      "bytes": 19776,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_150/sample_provenance.csv",
+      "bytes": 164346,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_150/search_log.json",
+      "bytes": 30264,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_150/slice_150_domain.npz",
+      "bytes": 2718,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_150/top_paths.json",
+      "bytes": 11450,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_150/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_150/transitions.json",
+      "bytes": 11511,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_150/unwrapped_mask.png",
+      "bytes": 279,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_150/unwrapped_row.png",
+      "bytes": 1836,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_150/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_150/virtual_edges.npz",
+      "bytes": 8243027,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_151/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_151/complete_paths.json",
+      "bytes": 75656760,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_151/corrections.json",
+      "bytes": 14069,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_151/ct.png",
+      "bytes": 171039,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_151/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_151/geometry.png",
+      "bytes": 1165753,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_151/graph_input/outputs/p0_t1/slice_151_candidates.npz",
+      "bytes": 1825267,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_151/graph_input/outputs/p0_t1/slice_151_graph.json",
+      "bytes": 1752264,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_151/mask.npy",
+      "bytes": 3384,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_151/metrics.json",
+      "bytes": 864,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_151/oriented_chain_map.json",
+      "bytes": 59073,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_151/path_and_samples.npz",
+      "bytes": 87350,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_151/path_coordinates.csv",
+      "bytes": 93499,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_151/precleanup_path.npz",
+      "bytes": 5253,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_151/provenance.npy",
+      "bytes": 3384,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_151/row.npy",
+      "bytes": 26176,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_151/sample_provenance.csv",
+      "bytes": 218341,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_151/search_log.json",
+      "bytes": 30285,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_151/slice_151_domain.npz",
+      "bytes": 2724,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_151/top_paths.json",
+      "bytes": 16390,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_151/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_151/transitions.json",
+      "bytes": 16276,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_151/unwrapped_mask.png",
+      "bytes": 310,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_151/unwrapped_row.png",
+      "bytes": 2376,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_151/validation.json",
+      "bytes": 240,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_151/virtual_edges.npz",
+      "bytes": 8503896,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_152/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_152/complete_paths.json",
+      "bytes": 124456629,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_152/corrections.json",
+      "bytes": 9128,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_152/ct.png",
+      "bytes": 170616,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_152/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_152/geometry.png",
+      "bytes": 1170699,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_152/graph_input/outputs/p0_t1/slice_152_candidates.npz",
+      "bytes": 1824971,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_152/graph_input/outputs/p0_t1/slice_152_graph.json",
+      "bytes": 1674829,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_152/mask.npy",
+      "bytes": 3921,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_152/metrics.json",
+      "bytes": 840,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_152/oriented_chain_map.json",
+      "bytes": 60067,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_152/path_and_samples.npz",
+      "bytes": 99469,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_152/path_coordinates.csv",
+      "bytes": 109159,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_152/precleanup_path.npz",
+      "bytes": 5826,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_152/provenance.npy",
+      "bytes": 3921,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_152/row.npy",
+      "bytes": 30472,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_152/sample_provenance.csv",
+      "bytes": 252587,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_152/search_log.json",
+      "bytes": 30277,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_152/slice_152_domain.npz",
+      "bytes": 2729,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_152/top_paths.json",
+      "bytes": 15772,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_152/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_152/transitions.json",
+      "bytes": 17471,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_152/unwrapped_mask.png",
+      "bytes": 367,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_152/unwrapped_row.png",
+      "bytes": 2743,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_152/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_152/virtual_edges.npz",
+      "bytes": 8617208,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_153/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_153/complete_paths.json",
+      "bytes": 101731979,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_153/corrections.json",
+      "bytes": 6976,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_153/ct.png",
+      "bytes": 170886,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_153/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_153/geometry.png",
+      "bytes": 1163143,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_153/graph_input/outputs/p0_t1/slice_153_candidates.npz",
+      "bytes": 1825294,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_153/graph_input/outputs/p0_t1/slice_153_graph.json",
+      "bytes": 1702928,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_153/mask.npy",
+      "bytes": 3423,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_153/metrics.json",
+      "bytes": 823,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_153/oriented_chain_map.json",
+      "bytes": 59141,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_153/path_and_samples.npz",
+      "bytes": 88350,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_153/path_coordinates.csv",
+      "bytes": 95946,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_153/precleanup_path.npz",
+      "bytes": 5311,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_153/provenance.npy",
+      "bytes": 3423,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_153/row.npy",
+      "bytes": 26488,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_153/sample_provenance.csv",
+      "bytes": 220859,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_153/search_log.json",
+      "bytes": 30307,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_153/slice_153_domain.npz",
+      "bytes": 2728,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_153/top_paths.json",
+      "bytes": 11198,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_153/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_153/transitions.json",
+      "bytes": 15923,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_153/unwrapped_mask.png",
+      "bytes": 329,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_153/unwrapped_row.png",
+      "bytes": 2434,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_153/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_153/virtual_edges.npz",
+      "bytes": 8602064,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_154/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_154/complete_paths.json",
+      "bytes": 89333880,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_154/corrections.json",
+      "bytes": 5979,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_154/ct.png",
+      "bytes": 170346,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_154/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_154/geometry.png",
+      "bytes": 1159886,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_154/graph_input/outputs/p0_t1/slice_154_candidates.npz",
+      "bytes": 1824551,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_154/graph_input/outputs/p0_t1/slice_154_graph.json",
+      "bytes": 1655797,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_154/mask.npy",
+      "bytes": 3321,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_154/metrics.json",
+      "bytes": 838,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_154/oriented_chain_map.json",
+      "bytes": 59339,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_154/path_and_samples.npz",
+      "bytes": 84635,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_154/path_coordinates.csv",
+      "bytes": 94187,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_154/precleanup_path.npz",
+      "bytes": 5133,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_154/provenance.npy",
+      "bytes": 3321,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_154/row.npy",
+      "bytes": 25672,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_154/sample_provenance.csv",
+      "bytes": 213376,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_154/search_log.json",
+      "bytes": 30317,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_154/slice_154_domain.npz",
+      "bytes": 2713,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_154/top_paths.json",
+      "bytes": 15363,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_154/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_154/transitions.json",
+      "bytes": 16935,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_154/unwrapped_mask.png",
+      "bytes": 335,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_154/unwrapped_row.png",
+      "bytes": 2413,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_154/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_154/virtual_edges.npz",
+      "bytes": 8538903,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_155/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_155/complete_paths.json",
+      "bytes": 41229789,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_155/corrections.json",
+      "bytes": 16482,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_155/ct.png",
+      "bytes": 170584,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_155/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_155/geometry.png",
+      "bytes": 1165961,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_155/graph_input/outputs/p0_t1/slice_155_candidates.npz",
+      "bytes": 1825268,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_155/graph_input/outputs/p0_t1/slice_155_graph.json",
+      "bytes": 1663890,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_155/mask.npy",
+      "bytes": 3939,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_155/metrics.json",
+      "bytes": 848,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_155/oriented_chain_map.json",
+      "bytes": 58469,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_155/path_and_samples.npz",
+      "bytes": 99030,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_155/path_coordinates.csv",
+      "bytes": 110135,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_155/precleanup_path.npz",
+      "bytes": 5794,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_155/provenance.npy",
+      "bytes": 3939,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_155/row.npy",
+      "bytes": 30616,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_155/sample_provenance.csv",
+      "bytes": 252719,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_155/search_log.json",
+      "bytes": 30791,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_155/slice_155_domain.npz",
+      "bytes": 2714,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_155/top_paths.json",
+      "bytes": 16000,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_155/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_155/transitions.json",
+      "bytes": 17438,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_155/unwrapped_mask.png",
+      "bytes": 382,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_155/unwrapped_row.png",
+      "bytes": 2754,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_155/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_155/virtual_edges.npz",
+      "bytes": 8321194,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_156/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_156/complete_paths.json",
+      "bytes": 110388827,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_156/corrections.json",
+      "bytes": 12850,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_156/ct.png",
+      "bytes": 170853,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_156/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_156/geometry.png",
+      "bytes": 1162416,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_156/graph_input/outputs/p0_t1/slice_156_candidates.npz",
+      "bytes": 1825403,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_156/graph_input/outputs/p0_t1/slice_156_graph.json",
+      "bytes": 1685608,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_156/mask.npy",
+      "bytes": 3505,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_156/metrics.json",
+      "bytes": 837,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_156/oriented_chain_map.json",
+      "bytes": 57367,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_156/path_and_samples.npz",
+      "bytes": 91152,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_156/path_coordinates.csv",
+      "bytes": 96934,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_156/precleanup_path.npz",
+      "bytes": 5450,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_156/provenance.npy",
+      "bytes": 3505,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_156/row.npy",
+      "bytes": 27144,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_156/sample_provenance.csv",
+      "bytes": 225781,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_156/search_log.json",
+      "bytes": 30292,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_156/slice_156_domain.npz",
+      "bytes": 2715,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_156/top_paths.json",
+      "bytes": 14716,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_156/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_156/transitions.json",
+      "bytes": 15159,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_156/unwrapped_mask.png",
+      "bytes": 362,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_156/unwrapped_row.png",
+      "bytes": 2502,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_156/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_156/virtual_edges.npz",
+      "bytes": 7918725,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_157/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_157/complete_paths.json",
+      "bytes": 75480165,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_157/corrections.json",
+      "bytes": 9514,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_157/ct.png",
+      "bytes": 172232,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_157/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_157/geometry.png",
+      "bytes": 1158326,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_157/graph_input/outputs/p0_t1/slice_157_candidates.npz",
+      "bytes": 1826698,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_157/graph_input/outputs/p0_t1/slice_157_graph.json",
+      "bytes": 1662792,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_157/mask.npy",
+      "bytes": 3640,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_157/metrics.json",
+      "bytes": 848,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_157/oriented_chain_map.json",
+      "bytes": 58587,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_157/path_and_samples.npz",
+      "bytes": 91255,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_157/path_coordinates.csv",
+      "bytes": 102503,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_157/precleanup_path.npz",
+      "bytes": 5414,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_157/provenance.npy",
+      "bytes": 3640,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_157/row.npy",
+      "bytes": 28224,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_157/sample_provenance.csv",
+      "bytes": 233847,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_157/search_log.json",
+      "bytes": 30308,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_157/slice_157_domain.npz",
+      "bytes": 2720,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_157/top_paths.json",
+      "bytes": 16530,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_157/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_157/transitions.json",
+      "bytes": 17634,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_157/unwrapped_mask.png",
+      "bytes": 363,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_157/unwrapped_row.png",
+      "bytes": 2609,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_157/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_157/virtual_edges.npz",
+      "bytes": 8394020,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_158/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_158/complete_paths.json",
+      "bytes": 121101155,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_158/corrections.json",
+      "bytes": 3,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_158/ct.png",
+      "bytes": 170995,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_158/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_158/geometry.png",
+      "bytes": 1145854,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_158/graph_input/outputs/p0_t1/slice_158_candidates.npz",
+      "bytes": 1825723,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_158/graph_input/outputs/p0_t1/slice_158_graph.json",
+      "bytes": 1647891,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_158/mask.npy",
+      "bytes": 3163,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_158/metrics.json",
+      "bytes": 823,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_158/oriented_chain_map.json",
+      "bytes": 56099,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_158/path_and_samples.npz",
+      "bytes": 80289,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_158/path_coordinates.csv",
+      "bytes": 88795,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_158/precleanup_path.npz",
+      "bytes": 4852,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_158/provenance.npy",
+      "bytes": 24408,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_158/row.npy",
+      "bytes": 24408,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_158/sample_provenance.csv",
+      "bytes": 202133,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_158/search_log.json",
+      "bytes": 30309,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_158/slice_158_domain.npz",
+      "bytes": 2715,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_158/top_paths.json",
+      "bytes": 12792,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_158/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_158/transitions.json",
+      "bytes": 14560,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_158/unwrapped_mask.png",
+      "bytes": 315,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_158/unwrapped_row.png",
+      "bytes": 2250,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_158/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_158/virtual_edges.npz",
+      "bytes": 7657609,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_159/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_159/complete_paths.json",
+      "bytes": 66180577,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_159/corrections.json",
+      "bytes": 4285,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_159/ct.png",
+      "bytes": 170576,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_159/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_159/geometry.png",
+      "bytes": 1145291,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_159/graph_input/outputs/p0_t1/slice_159_candidates.npz",
+      "bytes": 1825202,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_159/graph_input/outputs/p0_t1/slice_159_graph.json",
+      "bytes": 1646346,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_159/mask.npy",
+      "bytes": 2992,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_159/metrics.json",
+      "bytes": 837,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_159/oriented_chain_map.json",
+      "bytes": 58059,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_159/path_and_samples.npz",
+      "bytes": 76676,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_159/path_coordinates.csv",
+      "bytes": 80835,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_159/precleanup_path.npz",
+      "bytes": 4641,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_159/provenance.npy",
+      "bytes": 2992,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_159/row.npy",
+      "bytes": 23040,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_159/sample_provenance.csv",
+      "bytes": 190996,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_159/search_log.json",
+      "bytes": 30358,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_159/slice_159_domain.npz",
+      "bytes": 2703,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_159/top_paths.json",
+      "bytes": 11034,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_159/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_159/transitions.json",
+      "bytes": 14543,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_159/unwrapped_mask.png",
+      "bytes": 306,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_159/unwrapped_row.png",
+      "bytes": 2094,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_159/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_159/virtual_edges.npz",
+      "bytes": 8163121,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_160/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_160/complete_paths.json",
+      "bytes": 98474902,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_160/corrections.json",
+      "bytes": 2747,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_160/ct.png",
+      "bytes": 170522,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_160/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_160/geometry.png",
+      "bytes": 1140440,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_160/graph_input/outputs/p0_t1/slice_160_candidates.npz",
+      "bytes": 1825020,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_160/graph_input/outputs/p0_t1/slice_160_graph.json",
+      "bytes": 1732839,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_160/mask.npy",
+      "bytes": 2776,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_160/metrics.json",
+      "bytes": 839,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_160/oriented_chain_map.json",
+      "bytes": 58241,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_160/path_and_samples.npz",
+      "bytes": 70854,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_160/path_coordinates.csv",
+      "bytes": 77259,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_160/precleanup_path.npz",
+      "bytes": 4422,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_160/provenance.npy",
+      "bytes": 2776,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_160/row.npy",
+      "bytes": 21312,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_160/sample_provenance.csv",
+      "bytes": 176640,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_160/search_log.json",
+      "bytes": 30230,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_160/slice_160_domain.npz",
+      "bytes": 2709,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_160/top_paths.json",
+      "bytes": 14888,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_160/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_160/transitions.json",
+      "bytes": 12872,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_160/unwrapped_mask.png",
+      "bytes": 269,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_160/unwrapped_row.png",
+      "bytes": 2005,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_160/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_160/virtual_edges.npz",
+      "bytes": 8152818,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_161/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_161/complete_paths.json",
+      "bytes": 72628197,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_161/corrections.json",
+      "bytes": 9842,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_161/ct.png",
+      "bytes": 170440,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_161/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_161/geometry.png",
+      "bytes": 1145339,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_161/graph_input/outputs/p0_t1/slice_161_candidates.npz",
+      "bytes": 1825122,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_161/graph_input/outputs/p0_t1/slice_161_graph.json",
+      "bytes": 1641014,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_161/mask.npy",
+      "bytes": 3326,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_161/metrics.json",
+      "bytes": 838,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_161/oriented_chain_map.json",
+      "bytes": 58523,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_161/path_and_samples.npz",
+      "bytes": 84274,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_161/path_coordinates.csv",
+      "bytes": 94706,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_161/precleanup_path.npz",
+      "bytes": 5173,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_161/provenance.npy",
+      "bytes": 3326,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_161/row.npy",
+      "bytes": 25712,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_161/sample_provenance.csv",
+      "bytes": 213202,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_161/search_log.json",
+      "bytes": 30279,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_161/slice_161_domain.npz",
+      "bytes": 2702,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_161/top_paths.json",
+      "bytes": 14486,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_161/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_161/transitions.json",
+      "bytes": 16950,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_161/unwrapped_mask.png",
+      "bytes": 329,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_161/unwrapped_row.png",
+      "bytes": 2375,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_161/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_161/virtual_edges.npz",
+      "bytes": 8260647,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_162/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_162/complete_paths.json",
+      "bytes": 72119514,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_162/corrections.json",
+      "bytes": 9800,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_162/ct.png",
+      "bytes": 170259,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_162/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_162/geometry.png",
+      "bytes": 1150006,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_162/graph_input/outputs/p0_t1/slice_162_candidates.npz",
+      "bytes": 1824961,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_162/graph_input/outputs/p0_t1/slice_162_graph.json",
+      "bytes": 1678818,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_162/mask.npy",
+      "bytes": 3677,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_162/metrics.json",
+      "bytes": 841,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_162/oriented_chain_map.json",
+      "bytes": 57787,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_162/path_and_samples.npz",
+      "bytes": 92055,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_162/path_coordinates.csv",
+      "bytes": 104244,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_162/precleanup_path.npz",
+      "bytes": 5512,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_162/provenance.npy",
+      "bytes": 3677,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_162/row.npy",
+      "bytes": 28520,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_162/sample_provenance.csv",
+      "bytes": 235920,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_162/search_log.json",
+      "bytes": 30313,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_162/slice_162_domain.npz",
+      "bytes": 2695,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_162/top_paths.json",
+      "bytes": 14084,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_162/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_162/transitions.json",
+      "bytes": 17688,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_162/unwrapped_mask.png",
+      "bytes": 366,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_162/unwrapped_row.png",
+      "bytes": 2593,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_162/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_162/virtual_edges.npz",
+      "bytes": 8089164,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_163/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_163/complete_paths.json",
+      "bytes": 101123028,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_163/corrections.json",
+      "bytes": 9857,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_163/ct.png",
+      "bytes": 170195,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_163/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_163/geometry.png",
+      "bytes": 1141203,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_163/graph_input/outputs/p0_t1/slice_163_candidates.npz",
+      "bytes": 1824835,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_163/graph_input/outputs/p0_t1/slice_163_graph.json",
+      "bytes": 1642525,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_163/mask.npy",
+      "bytes": 3263,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_163/metrics.json",
+      "bytes": 839,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_163/oriented_chain_map.json",
+      "bytes": 59075,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_163/path_and_samples.npz",
+      "bytes": 81433,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_163/path_coordinates.csv",
+      "bytes": 94575,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_163/precleanup_path.npz",
+      "bytes": 5022,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_163/provenance.npy",
+      "bytes": 3263,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_163/row.npy",
+      "bytes": 25208,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_163/sample_provenance.csv",
+      "bytes": 208931,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_163/search_log.json",
+      "bytes": 30285,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_163/slice_163_domain.npz",
+      "bytes": 2718,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_163/top_paths.json",
+      "bytes": 15737,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_163/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_163/transitions.json",
+      "bytes": 16343,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_163/unwrapped_mask.png",
+      "bytes": 288,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_163/unwrapped_row.png",
+      "bytes": 2301,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_163/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_163/virtual_edges.npz",
+      "bytes": 8417808,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_164/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_164/complete_paths.json",
+      "bytes": 135148955,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_164/corrections.json",
+      "bytes": 13767,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_164/ct.png",
+      "bytes": 169929,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_164/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_164/geometry.png",
+      "bytes": 1150562,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_164/graph_input/outputs/p0_t1/slice_164_candidates.npz",
+      "bytes": 1824544,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_164/graph_input/outputs/p0_t1/slice_164_graph.json",
+      "bytes": 1683326,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_164/mask.npy",
+      "bytes": 3909,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_164/metrics.json",
+      "bytes": 862,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_164/oriented_chain_map.json",
+      "bytes": 58773,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_164/path_and_samples.npz",
+      "bytes": 98621,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_164/path_coordinates.csv",
+      "bytes": 109028,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_164/precleanup_path.npz",
+      "bytes": 5711,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_164/provenance.npy",
+      "bytes": 3909,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_164/row.npy",
+      "bytes": 30376,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_164/sample_provenance.csv",
+      "bytes": 252089,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_164/search_log.json",
+      "bytes": 30302,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_164/slice_164_domain.npz",
+      "bytes": 2720,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_164/top_paths.json",
+      "bytes": 18490,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_164/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_164/transitions.json",
+      "bytes": 17683,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_164/unwrapped_mask.png",
+      "bytes": 361,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_164/unwrapped_row.png",
+      "bytes": 2719,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_164/validation.json",
+      "bytes": 240,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_164/virtual_edges.npz",
+      "bytes": 8295412,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_165/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_165/complete_paths.json",
+      "bytes": 97286169,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_165/corrections.json",
+      "bytes": 13082,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_165/ct.png",
+      "bytes": 170221,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_165/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_165/geometry.png",
+      "bytes": 1143773,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_165/graph_input/outputs/p0_t1/slice_165_candidates.npz",
+      "bytes": 1824846,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_165/graph_input/outputs/p0_t1/slice_165_graph.json",
+      "bytes": 1653578,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_165/mask.npy",
+      "bytes": 3691,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_165/metrics.json",
+      "bytes": 846,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_165/oriented_chain_map.json",
+      "bytes": 58625,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_165/path_and_samples.npz",
+      "bytes": 91840,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_165/path_coordinates.csv",
+      "bytes": 104146,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_165/precleanup_path.npz",
+      "bytes": 5517,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_165/provenance.npy",
+      "bytes": 3691,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_165/row.npy",
+      "bytes": 28632,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_165/sample_provenance.csv",
+      "bytes": 235773,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_165/search_log.json",
+      "bytes": 30307,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_165/slice_165_domain.npz",
+      "bytes": 2724,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_165/top_paths.json",
+      "bytes": 14171,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_165/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_165/transitions.json",
+      "bytes": 16924,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_165/unwrapped_mask.png",
+      "bytes": 347,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_165/unwrapped_row.png",
+      "bytes": 2548,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_165/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_165/virtual_edges.npz",
+      "bytes": 8298587,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_166/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_166/complete_paths.json",
+      "bytes": 70894455,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_166/corrections.json",
+      "bytes": 3,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_166/ct.png",
+      "bytes": 169915,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_166/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_166/geometry.png",
+      "bytes": 1117841,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_166/graph_input/outputs/p0_t1/slice_166_candidates.npz",
+      "bytes": 1825120,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_166/graph_input/outputs/p0_t1/slice_166_graph.json",
+      "bytes": 1676519,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_166/mask.npy",
+      "bytes": 2263,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_166/metrics.json",
+      "bytes": 824,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_166/oriented_chain_map.json",
+      "bytes": 60137,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_166/path_and_samples.npz",
+      "bytes": 57280,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_166/path_coordinates.csv",
+      "bytes": 63549,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_166/precleanup_path.npz",
+      "bytes": 3707,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_166/provenance.npy",
+      "bytes": 17208,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_166/row.npy",
+      "bytes": 17208,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_166/sample_provenance.csv",
+      "bytes": 141709,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_166/search_log.json",
+      "bytes": 30255,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_166/slice_166_domain.npz",
+      "bytes": 2741,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_166/top_paths.json",
+      "bytes": 12350,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_166/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_166/transitions.json",
+      "bytes": 10001,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_166/unwrapped_mask.png",
+      "bytes": 238,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_166/unwrapped_row.png",
+      "bytes": 1621,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_166/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_166/virtual_edges.npz",
+      "bytes": 8483651,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_167/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_167/complete_paths.json",
+      "bytes": 85515083,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_167/corrections.json",
+      "bytes": 3,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_167/ct.png",
+      "bytes": 169972,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_167/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_167/geometry.png",
+      "bytes": 1114452,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_167/graph_input/outputs/p0_t1/slice_167_candidates.npz",
+      "bytes": 1824994,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_167/graph_input/outputs/p0_t1/slice_167_graph.json",
+      "bytes": 1705325,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_167/mask.npy",
+      "bytes": 2203,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_167/metrics.json",
+      "bytes": 824,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_167/oriented_chain_map.json",
+      "bytes": 59669,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_167/path_and_samples.npz",
+      "bytes": 54679,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_167/path_coordinates.csv",
+      "bytes": 61898,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_167/precleanup_path.npz",
+      "bytes": 3595,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_167/provenance.npy",
+      "bytes": 16728,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_167/row.npy",
+      "bytes": 16728,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_167/sample_provenance.csv",
+      "bytes": 136990,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_167/search_log.json",
+      "bytes": 30282,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_167/slice_167_domain.npz",
+      "bytes": 2724,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_167/top_paths.json",
+      "bytes": 11267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_167/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_167/transitions.json",
+      "bytes": 10202,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_167/unwrapped_mask.png",
+      "bytes": 230,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_167/unwrapped_row.png",
+      "bytes": 1554,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_167/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_167/virtual_edges.npz",
+      "bytes": 8545701,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_168/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_168/complete_paths.json",
+      "bytes": 102613242,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_168/corrections.json",
+      "bytes": 5727,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_168/ct.png",
+      "bytes": 169440,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_168/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_168/geometry.png",
+      "bytes": 1142657,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_168/graph_input/outputs/p0_t1/slice_168_candidates.npz",
+      "bytes": 1824580,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_168/graph_input/outputs/p0_t1/slice_168_graph.json",
+      "bytes": 1678675,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_168/mask.npy",
+      "bytes": 3783,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_168/metrics.json",
+      "bytes": 839,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_168/oriented_chain_map.json",
+      "bytes": 58139,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_168/path_and_samples.npz",
+      "bytes": 93270,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_168/path_coordinates.csv",
+      "bytes": 106930,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_168/precleanup_path.npz",
+      "bytes": 5598,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_168/provenance.npy",
+      "bytes": 3783,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_168/row.npy",
+      "bytes": 29368,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_168/sample_provenance.csv",
+      "bytes": 242102,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_168/search_log.json",
+      "bytes": 30238,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_168/slice_168_domain.npz",
+      "bytes": 2724,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_168/top_paths.json",
+      "bytes": 15549,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_168/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_168/transitions.json",
+      "bytes": 17743,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_168/unwrapped_mask.png",
+      "bytes": 376,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_168/unwrapped_row.png",
+      "bytes": 2593,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_168/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_168/virtual_edges.npz",
+      "bytes": 8113388,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_169/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_169/complete_paths.json",
+      "bytes": 63788911,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_169/corrections.json",
+      "bytes": 2807,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_169/ct.png",
+      "bytes": 169891,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_169/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_169/geometry.png",
+      "bytes": 1111594,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_169/graph_input/outputs/p0_t1/slice_169_candidates.npz",
+      "bytes": 1824590,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_169/graph_input/outputs/p0_t1/slice_169_graph.json",
+      "bytes": 1647683,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_169/mask.npy",
+      "bytes": 2283,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_169/metrics.json",
+      "bytes": 838,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_169/oriented_chain_map.json",
+      "bytes": 57995,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_169/path_and_samples.npz",
+      "bytes": 55763,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_169/path_coordinates.csv",
+      "bytes": 62117,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_169/precleanup_path.npz",
+      "bytes": 3473,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_169/provenance.npy",
+      "bytes": 2283,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_169/row.npy",
+      "bytes": 17368,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_169/sample_provenance.csv",
+      "bytes": 142397,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_169/search_log.json",
+      "bytes": 30250,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_169/slice_169_domain.npz",
+      "bytes": 2726,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_169/top_paths.json",
+      "bytes": 12947,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_169/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_169/transitions.json",
+      "bytes": 9553,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_169/unwrapped_mask.png",
+      "bytes": 236,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_169/unwrapped_row.png",
+      "bytes": 1579,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_169/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_169/virtual_edges.npz",
+      "bytes": 8020968,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_170/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_170/complete_paths.json",
+      "bytes": 67030011,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_170/corrections.json",
+      "bytes": 3,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_170/ct.png",
+      "bytes": 169741,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_170/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_170/geometry.png",
+      "bytes": 1129427,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_170/graph_input/outputs/p0_t1/slice_170_candidates.npz",
+      "bytes": 1824709,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_170/graph_input/outputs/p0_t1/slice_170_graph.json",
+      "bytes": 1647102,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_170/mask.npy",
+      "bytes": 3224,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_170/metrics.json",
+      "bytes": 821,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_170/oriented_chain_map.json",
+      "bytes": 58329,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_170/path_and_samples.npz",
+      "bytes": 79154,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_170/path_coordinates.csv",
+      "bytes": 93031,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_170/precleanup_path.npz",
+      "bytes": 5046,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_170/provenance.npy",
+      "bytes": 24896,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_170/row.npy",
+      "bytes": 24896,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_170/sample_provenance.csv",
+      "bytes": 204280,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_170/search_log.json",
+      "bytes": 30292,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_170/slice_170_domain.npz",
+      "bytes": 2719,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_170/top_paths.json",
+      "bytes": 15433,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_170/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_170/transitions.json",
+      "bytes": 15180,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_170/unwrapped_mask.png",
+      "bytes": 315,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_170/unwrapped_row.png",
+      "bytes": 2255,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_170/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_170/virtual_edges.npz",
+      "bytes": 8165717,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_171/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_171/complete_paths.json",
+      "bytes": 65397473,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_171/corrections.json",
+      "bytes": 3,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_171/ct.png",
+      "bytes": 170011,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_171/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_171/geometry.png",
+      "bytes": 1125145,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_171/graph_input/outputs/p0_t1/slice_171_candidates.npz",
+      "bytes": 1825129,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_171/graph_input/outputs/p0_t1/slice_171_graph.json",
+      "bytes": 1647786,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_171/mask.npy",
+      "bytes": 2963,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_171/metrics.json",
+      "bytes": 825,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_171/oriented_chain_map.json",
+      "bytes": 58337,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_171/path_and_samples.npz",
+      "bytes": 73565,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_171/path_coordinates.csv",
+      "bytes": 84250,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_171/precleanup_path.npz",
+      "bytes": 4582,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_171/provenance.npy",
+      "bytes": 22808,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_171/row.npy",
+      "bytes": 22808,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_171/sample_provenance.csv",
+      "bytes": 187473,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_171/search_log.json",
+      "bytes": 30453,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_171/slice_171_domain.npz",
+      "bytes": 2740,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_171/top_paths.json",
+      "bytes": 11405,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_171/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_171/transitions.json",
+      "bytes": 13866,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_171/unwrapped_mask.png",
+      "bytes": 287,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_171/unwrapped_row.png",
+      "bytes": 2069,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_171/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_171/virtual_edges.npz",
+      "bytes": 8049786,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_172/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_172/complete_paths.json",
+      "bytes": 55943195,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_172/corrections.json",
+      "bytes": 3,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_172/ct.png",
+      "bytes": 169973,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_172/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_172/geometry.png",
+      "bytes": 1137986,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_172/graph_input/outputs/p0_t1/slice_172_candidates.npz",
+      "bytes": 1824615,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_172/graph_input/outputs/p0_t1/slice_172_graph.json",
+      "bytes": 1614847,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_172/mask.npy",
+      "bytes": 3633,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_172/metrics.json",
+      "bytes": 823,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_172/oriented_chain_map.json",
+      "bytes": 56999,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_172/path_and_samples.npz",
+      "bytes": 91381,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_172/path_coordinates.csv",
+      "bytes": 103412,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_172/precleanup_path.npz",
+      "bytes": 5443,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_172/provenance.npy",
+      "bytes": 28168,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_172/row.npy",
+      "bytes": 28168,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_172/sample_provenance.csv",
+      "bytes": 233463,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_172/search_log.json",
+      "bytes": 30344,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_172/slice_172_domain.npz",
+      "bytes": 2710,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_172/top_paths.json",
+      "bytes": 13427,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_172/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_172/transitions.json",
+      "bytes": 17228,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_172/unwrapped_mask.png",
+      "bytes": 340,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_172/unwrapped_row.png",
+      "bytes": 2512,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_172/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_172/virtual_edges.npz",
+      "bytes": 7820585,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_173/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_173/complete_paths.json",
+      "bytes": 91951103,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_173/corrections.json",
+      "bytes": 5779,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_173/ct.png",
+      "bytes": 170653,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_173/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_173/geometry.png",
+      "bytes": 1125069,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_173/graph_input/outputs/p0_t1/slice_173_candidates.npz",
+      "bytes": 1825146,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_173/graph_input/outputs/p0_t1/slice_173_graph.json",
+      "bytes": 1651121,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_173/mask.npy",
+      "bytes": 2977,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_173/metrics.json",
+      "bytes": 838,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_173/oriented_chain_map.json",
+      "bytes": 58293,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_173/path_and_samples.npz",
+      "bytes": 73606,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_173/path_coordinates.csv",
+      "bytes": 85251,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_173/precleanup_path.npz",
+      "bytes": 4577,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_173/provenance.npy",
+      "bytes": 2977,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_173/row.npy",
+      "bytes": 22920,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_173/sample_provenance.csv",
+      "bytes": 189481,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_173/search_log.json",
+      "bytes": 30278,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_173/slice_173_domain.npz",
+      "bytes": 2729,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_173/top_paths.json",
+      "bytes": 13417,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_173/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_173/transitions.json",
+      "bytes": 13384,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_173/unwrapped_mask.png",
+      "bytes": 262,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_173/unwrapped_row.png",
+      "bytes": 2030,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_173/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_173/virtual_edges.npz",
+      "bytes": 8054970,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_174/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_174/complete_paths.json",
+      "bytes": 73479966,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_174/corrections.json",
+      "bytes": 13233,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_174/ct.png",
+      "bytes": 170365,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_174/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_174/geometry.png",
+      "bytes": 1134325,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_174/graph_input/outputs/p0_t1/slice_174_candidates.npz",
+      "bytes": 1824837,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_174/graph_input/outputs/p0_t1/slice_174_graph.json",
+      "bytes": 1628312,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_174/mask.npy",
+      "bytes": 3442,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_174/metrics.json",
+      "bytes": 838,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_174/oriented_chain_map.json",
+      "bytes": 57481,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_174/path_and_samples.npz",
+      "bytes": 86629,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_174/path_coordinates.csv",
+      "bytes": 99493,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_174/precleanup_path.npz",
+      "bytes": 5276,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_174/provenance.npy",
+      "bytes": 3442,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_174/row.npy",
+      "bytes": 26640,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_174/sample_provenance.csv",
+      "bytes": 221167,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_174/search_log.json",
+      "bytes": 30229,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_174/slice_174_domain.npz",
+      "bytes": 2715,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_174/top_paths.json",
+      "bytes": 14844,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_174/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_174/transitions.json",
+      "bytes": 15407,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_174/unwrapped_mask.png",
+      "bytes": 309,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_174/unwrapped_row.png",
+      "bytes": 2397,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_174/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_174/virtual_edges.npz",
+      "bytes": 7901675,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_175/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_175/complete_paths.json",
+      "bytes": 110523621,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_175/corrections.json",
+      "bytes": 2024,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_175/ct.png",
+      "bytes": 170897,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_175/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_175/geometry.png",
+      "bytes": 1123856,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_175/graph_input/outputs/p0_t1/slice_175_candidates.npz",
+      "bytes": 1825323,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_175/graph_input/outputs/p0_t1/slice_175_graph.json",
+      "bytes": 1635551,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_175/mask.npy",
+      "bytes": 2915,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_175/metrics.json",
+      "bytes": 834,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_175/oriented_chain_map.json",
+      "bytes": 59297,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_175/path_and_samples.npz",
+      "bytes": 71189,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_175/path_coordinates.csv",
+      "bytes": 81627,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_175/precleanup_path.npz",
+      "bytes": 4314,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_175/provenance.npy",
+      "bytes": 2915,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_175/row.npy",
+      "bytes": 22424,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_175/sample_provenance.csv",
+      "bytes": 184575,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_175/search_log.json",
+      "bytes": 30243,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_175/slice_175_domain.npz",
+      "bytes": 2716,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_175/top_paths.json",
+      "bytes": 11759,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_175/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_175/transitions.json",
+      "bytes": 14200,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_175/unwrapped_mask.png",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_175/unwrapped_row.png",
+      "bytes": 2016,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_175/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_175/virtual_edges.npz",
+      "bytes": 8192190,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_176/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_176/complete_paths.json",
+      "bytes": 69746941,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_176/corrections.json",
+      "bytes": 2296,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_176/ct.png",
+      "bytes": 171015,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_176/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_176/geometry.png",
+      "bytes": 1141340,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_176/graph_input/outputs/p0_t1/slice_176_candidates.npz",
+      "bytes": 1825460,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_176/graph_input/outputs/p0_t1/slice_176_graph.json",
+      "bytes": 1675799,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_176/mask.npy",
+      "bytes": 3713,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_176/metrics.json",
+      "bytes": 874,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_176/oriented_chain_map.json",
+      "bytes": 60279,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_176/path_and_samples.npz",
+      "bytes": 92122,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_176/path_coordinates.csv",
+      "bytes": 106800,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_176/precleanup_path.npz",
+      "bytes": 5603,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_176/provenance.npy",
+      "bytes": 3713,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_176/row.npy",
+      "bytes": 28808,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_176/sample_provenance.csv",
+      "bytes": 237811,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_176/search_log.json",
+      "bytes": 30317,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_176/slice_176_domain.npz",
+      "bytes": 2733,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_176/top_paths.json",
+      "bytes": 15221,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_176/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_176/transitions.json",
+      "bytes": 16959,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_176/unwrapped_mask.png",
+      "bytes": 338,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_176/unwrapped_row.png",
+      "bytes": 2555,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_176/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_176/virtual_edges.npz",
+      "bytes": 8553802,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_177/FINALIZED.json",
+      "bytes": 2565,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_177/complete_paths.json",
+      "bytes": 68801244,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_177/corrections.json",
+      "bytes": 3,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_177/ct.png",
+      "bytes": 171479,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_177/edge_columns.json",
+      "bytes": 267,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_177/geometry.png",
+      "bytes": 1118165,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_177/graph_input/outputs/p0_t1/slice_177_candidates.npz",
+      "bytes": 1825320,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_177/graph_input/outputs/p0_t1/slice_177_graph.json",
+      "bytes": 1660927,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_177/mask.npy",
+      "bytes": 2434,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_177/metrics.json",
+      "bytes": 820,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_177/oriented_chain_map.json",
+      "bytes": 58647,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_177/path_and_samples.npz",
+      "bytes": 60401,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_177/path_coordinates.csv",
+      "bytes": 67568,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_177/precleanup_path.npz",
+      "bytes": 3817,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_177/provenance.npy",
+      "bytes": 18576,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_177/row.npy",
+      "bytes": 18576,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_177/sample_provenance.csv",
+      "bytes": 152827,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_177/search_log.json",
+      "bytes": 30336,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_177/slice_177_domain.npz",
+      "bytes": 2712,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/slice_177/top_paths.json",
+      "bytes": 12594,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_177/topology_before.json",
+      "bytes": 90,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_177/transitions.json",
+      "bytes": 11014,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_177/unwrapped_mask.png",
+      "bytes": 233,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_177/unwrapped_row.png",
+      "bytes": 1690,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_177/validation.json",
+      "bytes": 239,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/slice_177/virtual_edges.npz",
+      "bytes": 8249460,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/stack.npy",
+      "bytes": 1792928,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/stack_inspection.png",
+      "bytes": 577449,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/stack_metrics.json",
+      "bytes": 1670,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/stack_validation.log",
+      "bytes": 399,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/verification.json",
+      "bytes": 745,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/visual_assessment.json",
+      "bytes": 2179,
+      "git": "milestone inclusion"
+    },
+    {
+      "path": "outputs/p0_t5/z_indices.npy",
+      "bytes": 528,
+      "git": "excluded; retained locally"
+    },
+    {
+      "path": "outputs/p0_t5/z_relative_um.npy",
+      "bytes": 528,
+      "git": "excluded; retained locally"
+    }
+  ],
+  "included_bytes": 175078228,
+  "excluded_local_bytes": 5051175997,
+  "note": "Git clone is not full replay package; all excluded artifacts remain local and are sealed by SHA256SUMS"
+}

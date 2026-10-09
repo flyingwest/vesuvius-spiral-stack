@@ -1,0 +1,69 @@
+{
+  "row_count": 50,
+  "numeric_rows": 50,
+  "topology_clean_rows": 45,
+  "exterior_rows": 50,
+  "clean_exterior_rows": 45,
+  "shape": [
+    50,
+    4482
+  ],
+  "ds_um": 63.28,
+  "dz_um": 126.56,
+  "z_center_span_mm": 6.201440000000001,
+  "common_last_s_mm": 283.55768,
+  "all_native_overlap_last_s_mm": 109.4744,
+  "valid_samples": 130629,
+  "valid_fraction": 0.582904953145917,
+  "masked_fraction": 0.417095046854083,
+  "bridge_fraction": 0.09353413654618474,
+  "padding_fraction": 0.3050557786702365,
+  "native_unresolved_fraction": 0.018505131637661758,
+  "low_confidence_fraction": 0.13962962962962963,
+  "valid_fraction_native": 0.8387794807913341,
+  "all50_joint_valid_columns": 1,
+  "mean_adjacent_r": 0.05151607447146728,
+  "median_adjacent_r": 0.05924450839147593,
+  "positive_adjacent_fraction": 0.7755102040816326,
+  "raw_r_quantiles": [
+    -0.18063346633892205,
+    -0.0870811439888676,
+    0.012209831920736314,
+    0.05924450839147593,
+    0.12089770373601827,
+    0.1539774327465262,
+    0.20058396059649786
+  ],
+  "mean_difference_r": 0.0013149847600156114,
+  "pairs_above_shift95": 9,
+  "clean_pair_count": 39,
+  "clean_pair_mean_r": 0.05043590776166491,
+  "local_window_count": 1001,
+  "local_positive_fraction": 0.5154845154845155,
+  "max_local_pair_run_r_ge_0_2": 3,
+  "length_mm_quantiles": [
+    109.49578123359647,
+    179.5852200289864,
+    199.18406982844695,
+    224.4547573053341,
+    283.5685450143878
+  ],
+  "observed_retention_range": [
+    0.9968983464355091,
+    1.0
+  ],
+  "topology_defective_z": [
+    129,
+    135,
+    145,
+    151,
+    164
+  ],
+  "lag_samples_quantiles": [
+    -64.0,
+    -36.0,
+    -11.0,
+    34.0,
+    64.0
+  ]
+}

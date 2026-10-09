@@ -1,0 +1,229 @@
+{
+  "slices": [
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177
+  ],
+  "spacing_um": 126.56,
+  "ds_um": 63.28,
+  "source": "outputs/orientation/ct_level4_zyx.npy",
+  "source_sha256": "da3a232b146e2fb6e9048ec118de63752f679c7487c86f497b367fb4b4bee3a4",
+  "T1": {
+    "slices": [
+      128,
+      144,
+      146,
+      160,
+      170
+    ],
+    "source": "outputs/orientation/ct_level4_zyx.npy",
+    "z_origin": 128,
+    "spacing_um": 126.56,
+    "ds_px": 0.5,
+    "roi_xy": [
+      25,
+      475,
+      25,
+      325
+    ],
+    "seed_reference_xy": [
+      246,
+      112
+    ],
+    "interior_reference_xy": [
+      240,
+      140
+    ],
+    "detection": "DoG sigma 0.6 minus 2, threshold >3; skeleton; maximal graph chains; no branch removal",
+    "seed": "nearest point to reference on chain >=20 px; direction toward farther endpoint from interior reference",
+    "continuation": "endpoints within 8 px; score .3 tangent + .25 chord + .2 proximity + .15 normal consistency + .1 ridge strength",
+    "gates": "score >=.72; margin >=.08 among eligible; tangent cosine >=.5; chord cosines >=.65 for nonzero gaps; normal miss <=.45 local layer spacing; no intervening skeleton crossing",
+    "scope": "exploratory fixed-parameter 2D geometry; no physical identity oracle; no cross-Z input",
+    "gap": "all nonzero connectors masked; chord length is lower bound, not true missing arc",
+    "limit": "200 chains; revisits forbidden; terminal unknown one masked sample, not estimated remaining sheet length"
+  },
+  "T2": {
+    "hypothesis": "Maximum-recovery continuous inferred XY thread with local uncertainty and honest CT provenance",
+    "slices": [
+      128,
+      144,
+      146,
+      160,
+      170
+    ],
+    "source": "outputs/orientation/ct_level4_zyx.npy",
+    "z_origin": 128,
+    "spacing_um": 126.56,
+    "ds_px": 0.5,
+    "input_graph": "unchanged P0-T1 maximal skeleton chains; retain arc >=3px plus seed chain",
+    "seed": "exact P0-T1 seed, explore both directions on its parent chain",
+    "exterior_target_xy": [
+      430,
+      460,
+      150,
+      210
+    ],
+    "target_meaning": "right peripheral papyrus band, not outermost material boundary; fixed using existing CT context",
+    "max_bridge_px": 12.0,
+    "min_tangent_cos": -0.5,
+    "min_connector_cos": -0.35,
+    "beam_width": 256,
+    "max_chain_depth": 180,
+    "outgoing_cap": 12,
+    "objective": "observed arc - bridge penalty + 1.5*(initial target distance-current target distance)",
+    "bridge_penalty": "2*d + 3*turn + 2*required_bend + 4*normal_miss/spacing + 3*crossing_proxy + 2*(1-gap_ridge_support)",
+    "low_confidence": "turn cosine<.7, normal miss>.45spacing, crossing proxy>0, local penalty margin<1, or within 5px of T1 suspect zone",
+    "constraints": "no repeated chain; no repeated observed pixel except immediate shared endpoint; no bridge crossing prior sampled geometry",
+    "search": "diverse beam by endpoint 12px cell/orientation quadrant, then top score fill; top3 distinct complete paths if available",
+    "provenance": {
+      "0": "unresolved/no usable data",
+      "1": "observed CT-supported",
+      "2": "inferred bridge (always unsampled)",
+      "3": "low-confidence observed, CT sampled only if ridge-supported"
+    },
+    "scope": "exploratory bounded search, no claim of global optimum, no observed-percentage gate"
+  },
+  "domain_polygon": [
+    [
+      50,
+      80
+    ],
+    [
+      95,
+      52
+    ],
+    [
+      135,
+      72
+    ],
+    [
+      180,
+      65
+    ],
+    [
+      245,
+      25
+    ],
+    [
+      280,
+      33
+    ],
+    [
+      350,
+      65
+    ],
+    [
+      415,
+      115
+    ],
+    [
+      465,
+      150
+    ],
+    [
+      470,
+      200
+    ],
+    [
+      435,
+      235
+    ],
+    [
+      375,
+      280
+    ],
+    [
+      300,
+      310
+    ],
+    [
+      230,
+      320
+    ],
+    [
+      165,
+      300
+    ],
+    [
+      120,
+      250
+    ],
+    [
+      90,
+      220
+    ],
+    [
+      50,
+      165
+    ]
+  ],
+  "T3": {
+    "method": "two-edge uncrossing: replace crossing A->B,C->D by A->C,B->D; reverse intervening edges; preserve their provenance",
+    "selection": "at each step choose strict decrease in proper crossing count, then minimum lost observed length, then minimum new bridge length; max20 corrections",
+    "scope": "only four original T2 crossings; no detection, ideal spiral, new CT, Z tracking or downstream masking",
+    "gap": "both replacement edges labeled2 and unsampled even if they touch bright CT",
+    "uncertainty": "observed edges within5px along path on either side of each new bridge relabeled3 locally",
+    "arc_sampling_px": 0.5,
+    "spacing_um": 126.56,
+    "amendment": "Existing-archive alternatives lose31-48% observed length on three slices; loop diagnosis shows96-682px intervening arc; preserve both findings, apply local two-edge exchange instead of loop deletion"
+  },
+  "T3_contact_amendment": "inclusive nonparallel contact exchange, same final run04 method",
+  "scope_override": "50 independent slices; no restriction to original five or four defects",
+  "parameters": "unchanged graph, seed, target, bridge, beam, depth, scoring, max20 exchanges; historical Z146/Z160 low-confidence zones retained",
+  "failure_policy": "preserve capped/unresolvable topology as negative evidence; no retuning; retain row and report defects",
+  "independence": "each worker sees only its XY plane and fixed constants; no other reconstructed slice supplied; comparisons only after 50 final receipts and row hashes",
+  "coordinate": "unchanged seed-relative s, no shifts/stretch/reversal during stacking",
+  "evaluation": "all49 raw/difference Pearson; 256-sample windows stride128 min64 valid; 199 circular-shift controls; lag \u00b164 diagnostic only",
+  "environment": {
+    "python": "3.12.3 (main, Jul 15 2026, 23:46:41) [GCC 13.3.0]",
+    "numpy": "2.5.3",
+    "platform": "Linux-6.17.0-1031-nvidia-aarch64-with-glibc2.39"
+  }
+}

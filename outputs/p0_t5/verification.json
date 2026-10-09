@@ -1,0 +1,41 @@
+{
+  "status": "PASS",
+  "prior_preservation": "PASS",
+  "all50_finalization_hashes": "PASS",
+  "stack_replay": "exact; no tracing rerun",
+  "mask_provenance": "PASS",
+  "physical_aspect_png": "PASS",
+  "all49_correlations": "exact recomputation",
+  "historical_T3_replay": [
+    {
+      "z": 128,
+      "row": true,
+      "mask": true,
+      "provenance": true
+    },
+    {
+      "z": 144,
+      "row": true,
+      "mask": true,
+      "provenance": true
+    },
+    {
+      "z": 146,
+      "row": true,
+      "mask": true,
+      "provenance": true
+    },
+    {
+      "z": 160,
+      "row": true,
+      "mask": true,
+      "provenance": true
+    },
+    {
+      "z": 170,
+      "row": true,
+      "mask": true,
+      "provenance": true
+    }
+  ]
+}

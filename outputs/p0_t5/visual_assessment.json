@@ -1,0 +1,15 @@
+{
+  "result": "PARTIAL",
+  "conclusion": "A valid 50-row consecutive-Z raster preserves maximum-recovery contour data, inferred gaps and uncertainty. Some localized CT correspondence survives small-lag diagnostics, but substantial path-length/order instability and irregular misregistration prevent broad fine-scale coherence. This is neither a PASS nor evidence that every neighboring row is unrelated.",
+  "visual_observations": "The authoritative raw and globally contrasted overviews show short patches of approximately vertical or diagonal intensity agreement, but predominantly interrupted, row-specific texture rather than long persistent fine structures. Right-tail coverage changes abruptly between rows. The zero-shift local map alternates positive and negative regions. Local best-lag plots show stronger selected correspondence, including shared broad valleys/peaks in the disclosed examples, but the lag map is irregular and matched-control exceedances are sparse. No stable global shear is apparent. Missing CT remains visibly masked; neither bridge filling nor a registered raster was created.",
+  "inspected": [
+    "stack_inspection.png",
+    "coherence_diagnostic.png",
+    "lag_diagnostic.png",
+    "local_window_coherence.png",
+    "local_lag_examples.png",
+    "slice_129/geometry.png"
+  ],
+  "limitations": "The fixed coarse ridge graph can fuse or switch apparent layers; high observed-ridge utilization is not certification of physical sheet identity. Forty-five rows are topology-clean; five retain one residual defect and are flagged rather than repaired post hoc. Independent seed positions, branch choices, different path orders, and inferred distances can all disturb s correspondence. Diagnostics cannot uniquely attribute every discontinuity to one cause. Strong windows were selected after evaluation and are not typical performance. The learned/3-D alternatives and text readability were not tested.",
+  "next_proposed": "A separately authorized bounded investigation of per-slice seed/order and topology robustness would be more informative than immediately extending the unchanged method to a larger Z span. No such follow-up was performed."
+}

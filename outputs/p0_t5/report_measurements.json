@@ -1,0 +1,60 @@
+{
+  "total_topology_before": {
+    "proper_crossings": 51,
+    "nonadjacent_point_contacts": 48,
+    "collinear_overlaps": 1
+  },
+  "total_topology_after": {
+    "proper_crossings": 4,
+    "nonadjacent_point_contacts": 1,
+    "collinear_overlaps": 0
+  },
+  "residual_defects": [
+    {
+      "z": 129,
+      "proper": 1,
+      "contacts": 0,
+      "overlap": 0,
+      "reason": "no crossing-decreasing exchange"
+    },
+    {
+      "z": 135,
+      "proper": 1,
+      "contacts": 0,
+      "overlap": 0,
+      "reason": "no crossing-decreasing exchange"
+    },
+    {
+      "z": 145,
+      "proper": 1,
+      "contacts": 0,
+      "overlap": 0,
+      "reason": "no crossing-decreasing exchange"
+    },
+    {
+      "z": 151,
+      "proper": 0,
+      "contacts": 1,
+      "overlap": 0,
+      "reason": "no crossing-decreasing exchange"
+    },
+    {
+      "z": 164,
+      "proper": 1,
+      "contacts": 0,
+      "overlap": 0,
+      "reason": "no crossing-decreasing exchange"
+    }
+  ],
+  "total_corrections": 66,
+  "zero_edges_removed": 10,
+  "columns_valid_in_at_least25rows": 3106,
+  "columns_valid_in_at_least40rows": 1716,
+  "median_abs_adjacent_length_change_mm": 34.80214463651464,
+  "max_abs_adjacent_length_change_mm": 114.64038722875945,
+  "median_abs_diagnostic_lag_um": 2214.8,
+  "observed_utilization_minmax": [
+    0.8364643538318711,
+    0.8924245623751036
+  ]
+}
