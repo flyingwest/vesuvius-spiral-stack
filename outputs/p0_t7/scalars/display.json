@@ -1,0 +1,422 @@
+{
+  "center_intensity": {
+    "fixed_range": [
+      0,
+      255
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      54.19900999384547,
+      140.52678196598515
+    ],
+    "definition": "P(0)"
+  },
+  "mean_narrow": {
+    "fixed_range": [
+      0,
+      255
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      41.76439034274385,
+      123.14456137852655
+    ],
+    "definition": "mean of selected offsets; width=narrow;R=1.0px"
+  },
+  "median_narrow": {
+    "fixed_range": [
+      0,
+      255
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      29.63213407173417,
+      125.48130484207951
+    ],
+    "definition": "median of selected offsets; width=narrow;R=1.0px"
+  },
+  "std_narrow": {
+    "fixed_range": [
+      0,
+      127.5
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      1.5258920218053944,
+      43.95155115292012
+    ],
+    "definition": "population standard deviation; width=narrow;R=1.0px"
+  },
+  "range_narrow": {
+    "fixed_range": [
+      0,
+      255
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      3.5436265568188237,
+      101.87451382110149
+    ],
+    "definition": "max minus min; width=narrow;R=1.0px"
+  },
+  "center_minus_mean_narrow": {
+    "fixed_range": [
+      -255,
+      255
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      -20.383573663231928,
+      56.62573379790121
+    ],
+    "definition": "P0 minus selected profile mean; width=narrow;R=1.0px"
+  },
+  "asymmetry_narrow": {
+    "fixed_range": [
+      0,
+      255
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      0.27654349946709655,
+      76.44390327565313
+    ],
+    "definition": "absolute difference of mean positive versus negative offset values; width=narrow;R=1.0px"
+  },
+  "gradient_abs_narrow": {
+    "fixed_range": [
+      0,
+      127.5
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      0.13827174973354828,
+      38.221951637826564
+    ],
+    "definition": "abs(P(+R)-P(-R))/(2R); width=narrow;R=1.0px"
+  },
+  "curvature_narrow": {
+    "fixed_range": [
+      -510.0,
+      510.0
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      -61.15072098969577,
+      169.87720139370364
+    ],
+    "definition": "(2P0-P(-R)-P(+R))/R^2; width=narrow;R=1.0px"
+  },
+  "ridge_proxy_narrow": {
+    "fixed_range": [
+      -255,
+      255
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      -30.575360494847885,
+      84.93860069685182
+    ],
+    "definition": "P0 minus mean selected points with abs(offset)>=R/2; width=narrow;R=1.0px"
+  },
+  "mean_medium": {
+    "fixed_range": [
+      0,
+      255
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      35.970610804178236,
+      115.08740796384936
+    ],
+    "definition": "mean of selected offsets; width=medium;R=2.0px"
+  },
+  "median_medium": {
+    "fixed_range": [
+      0,
+      255
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      25.09091373519944,
+      118.38905264827173
+    ],
+    "definition": "median of selected offsets; width=medium;R=2.0px"
+  },
+  "std_medium": {
+    "fixed_range": [
+      0,
+      127.5
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      5.405278987060098,
+      42.94051933845076
+    ],
+    "definition": "population standard deviation; width=medium;R=2.0px"
+  },
+  "range_medium": {
+    "fixed_range": [
+      0,
+      255
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      14.756200981194814,
+      117.75019642854996
+    ],
+    "definition": "max minus min; width=medium;R=2.0px"
+  },
+  "center_minus_mean_medium": {
+    "fixed_range": [
+      -255,
+      255
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      -10.099899244705119,
+      66.95484960295767
+    ],
+    "definition": "P0 minus selected profile mean; width=medium;R=2.0px"
+  },
+  "asymmetry_medium": {
+    "fixed_range": [
+      0,
+      255
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      0.25450837813068916,
+      63.15578807660616
+    ],
+    "definition": "absolute difference of mean positive versus negative offset values; width=medium;R=2.0px"
+  },
+  "gradient_abs_medium": {
+    "fixed_range": [
+      0,
+      63.75
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      0.09827197195767155,
+      22.265068670337897
+    ],
+    "definition": "abs(P(+R)-P(-R))/(2R); width=medium;R=2.0px"
+  },
+  "curvature_medium": {
+    "fixed_range": [
+      -127.5,
+      127.5
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      -3.810297178382536,
+      47.12424345377023
+    ],
+    "definition": "(2P0-P(-R)-P(+R))/R^2; width=medium;R=2.0px"
+  },
+  "ridge_proxy_medium": {
+    "fixed_range": [
+      -255,
+      255
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      -12.6248740558814,
+      83.69356200369708
+    ],
+    "definition": "P0 minus mean selected points with abs(offset)>=R/2; width=medium;R=2.0px"
+  },
+  "mean_wide": {
+    "fixed_range": [
+      0,
+      255
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      38.28379367024213,
+      111.04444460153566
+    ],
+    "definition": "mean of selected offsets; width=wide;R=4.0px"
+  },
+  "median_wide": {
+    "fixed_range": [
+      0,
+      255
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      28.951007768668994,
+      114.83050774625312
+    ],
+    "definition": "median of selected offsets; width=wide;R=4.0px"
+  },
+  "std_wide": {
+    "fixed_range": [
+      0,
+      127.5
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      7.6150012391696,
+      41.97265182788102
+    ],
+    "definition": "population standard deviation; width=wide;R=4.0px"
+  },
+  "range_wide": {
+    "fixed_range": [
+      0,
+      255
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      22.55933575990565,
+      123.075063973067
+    ],
+    "definition": "max minus min; width=wide;R=4.0px"
+  },
+  "center_minus_mean_wide": {
+    "fixed_range": [
+      -255,
+      255
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      -6.930366282167894,
+      67.06111789462527
+    ],
+    "definition": "P0 minus selected profile mean; width=wide;R=4.0px"
+  },
+  "asymmetry_wide": {
+    "fixed_range": [
+      0,
+      255
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      0.2545640005409831,
+      61.62373182807761
+    ],
+    "definition": "absolute difference of mean positive versus negative offset values; width=wide;R=4.0px"
+  },
+  "gradient_abs_wide": {
+    "fixed_range": [
+      0,
+      31.875
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      0.05555129403155583,
+      12.49195848451162
+    ],
+    "definition": "abs(P(+R)-P(-R))/(2R); width=wide;R=4.0px"
+  },
+  "curvature_wide": {
+    "fixed_range": [
+      -31.875,
+      31.875
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      -2.6559348479750935,
+      10.491657848104857
+    ],
+    "definition": "(2P0-P(-R)-P(+R))/R^2; width=wide;R=4.0px"
+  },
+  "ridge_proxy_wide": {
+    "fixed_range": [
+      -255,
+      255
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      -4.044022456881487,
+      82.08129191446301
+    ],
+    "definition": "P0 minus mean selected points with abs(offset)>=R/2; width=wide;R=4.0px"
+  }
+}

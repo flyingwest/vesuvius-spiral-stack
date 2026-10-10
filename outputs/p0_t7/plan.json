@@ -1,0 +1,316 @@
+{
+  "experiment": "P0-T7 bounded deterministic profile summaries",
+  "source": "exact outputs/p0_t6/slice_<z>_profiles.npz; no CT queries or geometry modifications",
+  "slices": [
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177
+  ],
+  "ds_um": 63.28,
+  "spacing_um": 126.56,
+  "widths": {
+    "narrow": [
+      -1.0,
+      0.0,
+      1.0
+    ],
+    "medium": [
+      -2.0,
+      -1.0,
+      0.0,
+      1.0,
+      2.0
+    ],
+    "wide": [
+      -4.0,
+      -2.0,
+      -1.0,
+      0.0,
+      1.0,
+      2.0,
+      4.0
+    ]
+  },
+  "scalar_count": 28,
+  "features": {
+    "center_intensity": {
+      "definition": "P(0)",
+      "display_range": [
+        0,
+        255
+      ],
+      "fixed_normalization_scale": 255.0
+    },
+    "mean_narrow": {
+      "definition": "mean of selected offsets; width=narrow;R=1.0px",
+      "display_range": [
+        0,
+        255
+      ],
+      "fixed_normalization_scale": 255.0
+    },
+    "median_narrow": {
+      "definition": "median of selected offsets; width=narrow;R=1.0px",
+      "display_range": [
+        0,
+        255
+      ],
+      "fixed_normalization_scale": 255.0
+    },
+    "std_narrow": {
+      "definition": "population standard deviation; width=narrow;R=1.0px",
+      "display_range": [
+        0,
+        127.5
+      ],
+      "fixed_normalization_scale": 127.5
+    },
+    "range_narrow": {
+      "definition": "max minus min; width=narrow;R=1.0px",
+      "display_range": [
+        0,
+        255
+      ],
+      "fixed_normalization_scale": 255.0
+    },
+    "center_minus_mean_narrow": {
+      "definition": "P0 minus selected profile mean; width=narrow;R=1.0px",
+      "display_range": [
+        -255,
+        255
+      ],
+      "fixed_normalization_scale": 255.0
+    },
+    "asymmetry_narrow": {
+      "definition": "absolute difference of mean positive versus negative offset values; width=narrow;R=1.0px",
+      "display_range": [
+        0,
+        255
+      ],
+      "fixed_normalization_scale": 255.0
+    },
+    "gradient_abs_narrow": {
+      "definition": "abs(P(+R)-P(-R))/(2R); width=narrow;R=1.0px",
+      "display_range": [
+        0,
+        127.5
+      ],
+      "fixed_normalization_scale": 127.5
+    },
+    "curvature_narrow": {
+      "definition": "(2P0-P(-R)-P(+R))/R^2; width=narrow;R=1.0px",
+      "display_range": [
+        -510.0,
+        510.0
+      ],
+      "fixed_normalization_scale": 510.0
+    },
+    "ridge_proxy_narrow": {
+      "definition": "P0 minus mean selected points with abs(offset)>=R/2; width=narrow;R=1.0px",
+      "display_range": [
+        -255,
+        255
+      ],
+      "fixed_normalization_scale": 255.0
+    },
+    "mean_medium": {
+      "definition": "mean of selected offsets; width=medium;R=2.0px",
+      "display_range": [
+        0,
+        255
+      ],
+      "fixed_normalization_scale": 255.0
+    },
+    "median_medium": {
+      "definition": "median of selected offsets; width=medium;R=2.0px",
+      "display_range": [
+        0,
+        255
+      ],
+      "fixed_normalization_scale": 255.0
+    },
+    "std_medium": {
+      "definition": "population standard deviation; width=medium;R=2.0px",
+      "display_range": [
+        0,
+        127.5
+      ],
+      "fixed_normalization_scale": 127.5
+    },
+    "range_medium": {
+      "definition": "max minus min; width=medium;R=2.0px",
+      "display_range": [
+        0,
+        255
+      ],
+      "fixed_normalization_scale": 255.0
+    },
+    "center_minus_mean_medium": {
+      "definition": "P0 minus selected profile mean; width=medium;R=2.0px",
+      "display_range": [
+        -255,
+        255
+      ],
+      "fixed_normalization_scale": 255.0
+    },
+    "asymmetry_medium": {
+      "definition": "absolute difference of mean positive versus negative offset values; width=medium;R=2.0px",
+      "display_range": [
+        0,
+        255
+      ],
+      "fixed_normalization_scale": 255.0
+    },
+    "gradient_abs_medium": {
+      "definition": "abs(P(+R)-P(-R))/(2R); width=medium;R=2.0px",
+      "display_range": [
+        0,
+        63.75
+      ],
+      "fixed_normalization_scale": 63.75
+    },
+    "curvature_medium": {
+      "definition": "(2P0-P(-R)-P(+R))/R^2; width=medium;R=2.0px",
+      "display_range": [
+        -127.5,
+        127.5
+      ],
+      "fixed_normalization_scale": 127.5
+    },
+    "ridge_proxy_medium": {
+      "definition": "P0 minus mean selected points with abs(offset)>=R/2; width=medium;R=2.0px",
+      "display_range": [
+        -255,
+        255
+      ],
+      "fixed_normalization_scale": 255.0
+    },
+    "mean_wide": {
+      "definition": "mean of selected offsets; width=wide;R=4.0px",
+      "display_range": [
+        0,
+        255
+      ],
+      "fixed_normalization_scale": 255.0
+    },
+    "median_wide": {
+      "definition": "median of selected offsets; width=wide;R=4.0px",
+      "display_range": [
+        0,
+        255
+      ],
+      "fixed_normalization_scale": 255.0
+    },
+    "std_wide": {
+      "definition": "population standard deviation; width=wide;R=4.0px",
+      "display_range": [
+        0,
+        127.5
+      ],
+      "fixed_normalization_scale": 127.5
+    },
+    "range_wide": {
+      "definition": "max minus min; width=wide;R=4.0px",
+      "display_range": [
+        0,
+        255
+      ],
+      "fixed_normalization_scale": 255.0
+    },
+    "center_minus_mean_wide": {
+      "definition": "P0 minus selected profile mean; width=wide;R=4.0px",
+      "display_range": [
+        -255,
+        255
+      ],
+      "fixed_normalization_scale": 255.0
+    },
+    "asymmetry_wide": {
+      "definition": "absolute difference of mean positive versus negative offset values; width=wide;R=4.0px",
+      "display_range": [
+        0,
+        255
+      ],
+      "fixed_normalization_scale": 255.0
+    },
+    "gradient_abs_wide": {
+      "definition": "abs(P(+R)-P(-R))/(2R); width=wide;R=4.0px",
+      "display_range": [
+        0,
+        31.875
+      ],
+      "fixed_normalization_scale": 31.875
+    },
+    "curvature_wide": {
+      "definition": "(2P0-P(-R)-P(+R))/R^2; width=wide;R=4.0px",
+      "display_range": [
+        -31.875,
+        31.875
+      ],
+      "fixed_normalization_scale": 31.875
+    },
+    "ridge_proxy_wide": {
+      "definition": "P0 minus mean selected points with abs(offset)>=R/2; width=wide;R=4.0px",
+      "display_range": [
+        -255,
+        255
+      ],
+      "fixed_normalization_scale": 255.0
+    }
+  },
+  "evaluation": "unchanged T6 evaluator:49 zero-shift pairs,1001 windows,\u00b164 diagnostic lags,199 global and19 local circular controls,paired block bootstrap5pairs/2000 seed2606",
+  "regions": "five fixed starting-Z groups128..137,138..147,148..157,158..167,168..176; pair assigned by first Z",
+  "joint_selection": "equal-weight rank percentiles of mean adjacent r,mean local zero r,local peak control-exceedance fraction,number of5regions improving BOTH adjacent/local versus mean_wide; tie by name",
+  "baseline_in_ranking": "mean_wide remains eligible; center reference excluded from candidate ranking; do not claim winner if no improvement",
+  "combinations": "after scalar evaluation, choose top3 distinct normalized-signal candidates by joint rank; test only their3 unordered pair means, each0.5*(A/scaleA+B/scaleB); no fitted weights or normalization from correlations",
+  "broad_gain_guide": "relative to mean_wide: adjacent gain>=0.02,local gain>=0.01,at least30/49 pairs improve,at least4/5 regions improve BOTH,local peak-control fraction not worse; descriptive operational guide fixed before evidence",
+  "classification": "A broad guide satisfied with reproducibility; B smaller consistent gains but guide not met; C no meaningful joint improvement beyond T6; disclose tradeoffs rather than single-metric winner",
+  "limits": "28 scalar stacks +<=3 actual combinations; no iterative expansions; no learning,OCR,letters,ink claims,geometry changes"
+}

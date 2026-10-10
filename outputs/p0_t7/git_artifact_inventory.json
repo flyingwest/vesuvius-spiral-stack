@@ -1,0 +1,1960 @@
+{
+  "files": [
+    {
+      "path": "outputs/p0_t7/baseline_center_stack.png",
+      "bytes": 130634,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/baseline_profile_mean_stack.png",
+      "bytes": 114137,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/best_combined_feature_stack.png",
+      "bytes": 114141,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/best_individual_feature_stack.png",
+      "bytes": 115615,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/coherence_comparison.png",
+      "bytes": 710232,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combination_metrics.csv",
+      "bytes": 2236,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combination_metrics.json",
+      "bytes": 4317,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combination_plan.json",
+      "bytes": 2241,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combination_region_metrics.csv",
+      "bytes": 2762,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/FEATURES_FINALIZED.json",
+      "bytes": 991,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/bootstrap_pair_indices.npy",
+      "bytes": 784128,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/center_intensity_adjacent.csv",
+      "bytes": 6850,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/center_intensity_coherence.png",
+      "bytes": 225084,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/center_intensity_evaluation.json",
+      "bytes": 18025,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/center_intensity_lags.csv",
+      "bytes": 206680,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/center_intensity_local_peak_controls.csv",
+      "bytes": 621317,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/center_intensity_local_windows.csv",
+      "bytes": 95066,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/center_intensity_shift_controls.csv",
+      "bytes": 286248,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/center_intensity_stack.npy",
+      "bytes": 1792928,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/center_intensity_stack.png",
+      "bytes": 108213,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/center_intensity_stack_contrast.png",
+      "bytes": 130634,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/combo_1_2_adjacent.csv",
+      "bytes": 6826,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/combo_1_2_coherence.png",
+      "bytes": 241486,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/combo_1_2_evaluation.json",
+      "bytes": 18093,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/combo_1_2_lags.csv",
+      "bytes": 204910,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/combo_1_2_local_peak_controls.csv",
+      "bytes": 619794,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/combo_1_2_local_windows.csv",
+      "bytes": 94258,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/combo_1_2_shift_controls.csv",
+      "bytes": 283744,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/combo_1_2_stack.npy",
+      "bytes": 1792928,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/combo_1_2_stack.png",
+      "bytes": 75537,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/combo_1_2_stack_contrast.png",
+      "bytes": 117779,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/combo_1_3_adjacent.csv",
+      "bytes": 6810,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/combo_1_3_coherence.png",
+      "bytes": 243496,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/combo_1_3_evaluation.json",
+      "bytes": 18077,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/combo_1_3_lags.csv",
+      "bytes": 204964,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/combo_1_3_local_peak_controls.csv",
+      "bytes": 619297,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/combo_1_3_local_windows.csv",
+      "bytes": 94202,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/combo_1_3_shift_controls.csv",
+      "bytes": 283734,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/combo_1_3_stack.npy",
+      "bytes": 1792928,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/combo_1_3_stack.png",
+      "bytes": 71468,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/combo_1_3_stack_contrast.png",
+      "bytes": 114141,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/combo_2_3_adjacent.csv",
+      "bytes": 6804,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/combo_2_3_coherence.png",
+      "bytes": 239480,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/combo_2_3_evaluation.json",
+      "bytes": 18069,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/combo_2_3_lags.csv",
+      "bytes": 204880,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/combo_2_3_local_peak_controls.csv",
+      "bytes": 619795,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/combo_2_3_local_windows.csv",
+      "bytes": 94265,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/combo_2_3_shift_controls.csv",
+      "bytes": 283563,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/combo_2_3_stack.npy",
+      "bytes": 1792928,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/combo_2_3_stack.png",
+      "bytes": 75133,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/combo_2_3_stack_contrast.png",
+      "bytes": 117964,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/coverage.npy",
+      "bytes": 224228,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/display.json",
+      "bytes": 1353,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/evaluation.log",
+      "bytes": 4430,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/feature_comparison.png",
+      "bytes": 196820,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/feature_metrics.csv",
+      "bytes": 2260,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/feature_metrics.json",
+      "bytes": 4893,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/feature_stack_overview.png",
+      "bytes": 1143009,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/mask.npy",
+      "bytes": 224228,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/mean_wide_adjacent.csv",
+      "bytes": 6812,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/mean_wide_coherence.png",
+      "bytes": 241888,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/mean_wide_evaluation.json",
+      "bytes": 18083,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/mean_wide_lags.csv",
+      "bytes": 204776,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/mean_wide_local_peak_controls.csv",
+      "bytes": 619380,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/mean_wide_local_windows.csv",
+      "bytes": 94213,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/mean_wide_shift_controls.csv",
+      "bytes": 283650,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/mean_wide_stack.npy",
+      "bytes": 1792928,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/mean_wide_stack.png",
+      "bytes": 86188,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/mean_wide_stack_contrast.png",
+      "bytes": 114137,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/provenance.npy",
+      "bytes": 224228,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/rankings.json",
+      "bytes": 197,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/s_um.npy",
+      "bytes": 35984,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/z_indices.npy",
+      "bytes": 528,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/combinations/z_relative_um.npy",
+      "bytes": 528,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/coverage.npy",
+      "bytes": 224228,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/decision.json",
+      "bytes": 3979,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/environment.json",
+      "bytes": 219,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/extraction.log",
+      "bytes": 98,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/feature_comparison.png",
+      "bytes": 132312,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/feature_metrics.csv",
+      "bytes": 16143,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/feature_metrics.json",
+      "bytes": 40678,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/mask.npy",
+      "bytes": 224228,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/per_z_comparison.png",
+      "bytes": 454794,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/plan.json",
+      "bytes": 8225,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/preservation.json",
+      "bytes": 282806,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/provenance.npy",
+      "bytes": 224228,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/s_um.npy",
+      "bytes": 35984,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalar_region_metrics.csv",
+      "bytes": 16433,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/FEATURES_FINALIZED.json",
+      "bytes": 3286,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/asymmetry_medium_adjacent.csv",
+      "bytes": 6904,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/asymmetry_medium_coherence.png",
+      "bytes": 233304,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/asymmetry_medium_evaluation.json",
+      "bytes": 18190,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/asymmetry_medium_lags.csv",
+      "bytes": 210812,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/asymmetry_medium_local_peak_controls.csv",
+      "bytes": 621246,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/asymmetry_medium_local_windows.csv",
+      "bytes": 95228,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/asymmetry_medium_shift_controls.csv",
+      "bytes": 289064,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/asymmetry_medium_stack.npy",
+      "bytes": 1792928,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/asymmetry_medium_stack.png",
+      "bytes": 99945,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/asymmetry_medium_stack_contrast.png",
+      "bytes": 133329,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/asymmetry_narrow_adjacent.csv",
+      "bytes": 6905,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/asymmetry_narrow_coherence.png",
+      "bytes": 225128,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/asymmetry_narrow_evaluation.json",
+      "bytes": 18193,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/asymmetry_narrow_lags.csv",
+      "bytes": 211752,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/asymmetry_narrow_local_peak_controls.csv",
+      "bytes": 621911,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/asymmetry_narrow_local_windows.csv",
+      "bytes": 95325,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/asymmetry_narrow_shift_controls.csv",
+      "bytes": 290520,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/asymmetry_narrow_stack.npy",
+      "bytes": 1792928,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/asymmetry_narrow_stack.png",
+      "bytes": 108069,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/asymmetry_narrow_stack_contrast.png",
+      "bytes": 136281,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/asymmetry_wide_adjacent.csv",
+      "bytes": 6892,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/asymmetry_wide_coherence.png",
+      "bytes": 238468,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/asymmetry_wide_evaluation.json",
+      "bytes": 18173,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/asymmetry_wide_lags.csv",
+      "bytes": 209524,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/asymmetry_wide_local_peak_controls.csv",
+      "bytes": 620957,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/asymmetry_wide_local_windows.csv",
+      "bytes": 95160,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/asymmetry_wide_shift_controls.csv",
+      "bytes": 287797,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/asymmetry_wide_stack.npy",
+      "bytes": 1792928,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/asymmetry_wide_stack.png",
+      "bytes": 96182,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/asymmetry_wide_stack_contrast.png",
+      "bytes": 130352,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/bootstrap_pair_indices.npy",
+      "bytes": 784128,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_intensity_adjacent.csv",
+      "bytes": 6850,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_intensity_coherence.png",
+      "bytes": 225084,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_intensity_evaluation.json",
+      "bytes": 18025,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_intensity_lags.csv",
+      "bytes": 206680,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_intensity_local_peak_controls.csv",
+      "bytes": 621317,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_intensity_local_windows.csv",
+      "bytes": 95066,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_intensity_shift_controls.csv",
+      "bytes": 286248,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_intensity_stack.npy",
+      "bytes": 1792928,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_intensity_stack.png",
+      "bytes": 108213,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_intensity_stack_contrast.png",
+      "bytes": 130634,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_minus_mean_medium_adjacent.csv",
+      "bytes": 6895,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_minus_mean_medium_coherence.png",
+      "bytes": 239921,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_minus_mean_medium_evaluation.json",
+      "bytes": 18190,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_minus_mean_medium_lags.csv",
+      "bytes": 210374,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_minus_mean_medium_local_peak_controls.csv",
+      "bytes": 621064,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_minus_mean_medium_local_windows.csv",
+      "bytes": 95144,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_minus_mean_medium_shift_controls.csv",
+      "bytes": 289160,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_minus_mean_medium_stack.npy",
+      "bytes": 1792928,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_minus_mean_medium_stack.png",
+      "bytes": 88460,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_minus_mean_medium_stack_contrast.png",
+      "bytes": 131514,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_minus_mean_narrow_adjacent.csv",
+      "bytes": 6907,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_minus_mean_narrow_coherence.png",
+      "bytes": 242102,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_minus_mean_narrow_evaluation.json",
+      "bytes": 18201,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_minus_mean_narrow_lags.csv",
+      "bytes": 210722,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_minus_mean_narrow_local_peak_controls.csv",
+      "bytes": 620942,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_minus_mean_narrow_local_windows.csv",
+      "bytes": 95134,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_minus_mean_narrow_shift_controls.csv",
+      "bytes": 289285,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_minus_mean_narrow_stack.npy",
+      "bytes": 1792928,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_minus_mean_narrow_stack.png",
+      "bytes": 87287,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_minus_mean_narrow_stack_contrast.png",
+      "bytes": 130855,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_minus_mean_wide_adjacent.csv",
+      "bytes": 6931,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_minus_mean_wide_coherence.png",
+      "bytes": 237120,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_minus_mean_wide_evaluation.json",
+      "bytes": 18226,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_minus_mean_wide_lags.csv",
+      "bytes": 210469,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_minus_mean_wide_local_peak_controls.csv",
+      "bytes": 621296,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_minus_mean_wide_local_windows.csv",
+      "bytes": 95180,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_minus_mean_wide_shift_controls.csv",
+      "bytes": 289526,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_minus_mean_wide_stack.npy",
+      "bytes": 1792928,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_minus_mean_wide_stack.png",
+      "bytes": 88847,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/center_minus_mean_wide_stack_contrast.png",
+      "bytes": 132493,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/coverage.npy",
+      "bytes": 224228,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/curvature_medium_adjacent.csv",
+      "bytes": 6897,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/curvature_medium_coherence.png",
+      "bytes": 237398,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/curvature_medium_evaluation.json",
+      "bytes": 18183,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/curvature_medium_lags.csv",
+      "bytes": 210224,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/curvature_medium_local_peak_controls.csv",
+      "bytes": 620985,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/curvature_medium_local_windows.csv",
+      "bytes": 95178,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/curvature_medium_shift_controls.csv",
+      "bytes": 288687,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/curvature_medium_stack.npy",
+      "bytes": 1792928,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/curvature_medium_stack.png",
+      "bytes": 95383,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/curvature_medium_stack_contrast.png",
+      "bytes": 130831,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/curvature_narrow_adjacent.csv",
+      "bytes": 6910,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/curvature_narrow_coherence.png",
+      "bytes": 242255,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/curvature_narrow_evaluation.json",
+      "bytes": 18201,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/curvature_narrow_lags.csv",
+      "bytes": 210767,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/curvature_narrow_local_peak_controls.csv",
+      "bytes": 621172,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/curvature_narrow_local_windows.csv",
+      "bytes": 95129,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/curvature_narrow_shift_controls.csv",
+      "bytes": 289333,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/curvature_narrow_stack.npy",
+      "bytes": 1792928,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/curvature_narrow_stack.png",
+      "bytes": 97618,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/curvature_narrow_stack_contrast.png",
+      "bytes": 130855,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/curvature_wide_adjacent.csv",
+      "bytes": 6913,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/curvature_wide_coherence.png",
+      "bytes": 238416,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/curvature_wide_evaluation.json",
+      "bytes": 18198,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/curvature_wide_lags.csv",
+      "bytes": 210370,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/curvature_wide_local_peak_controls.csv",
+      "bytes": 620831,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/curvature_wide_local_windows.csv",
+      "bytes": 95145,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/curvature_wide_shift_controls.csv",
+      "bytes": 288790,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/curvature_wide_stack.npy",
+      "bytes": 1792928,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/curvature_wide_stack.png",
+      "bytes": 96485,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/curvature_wide_stack_contrast.png",
+      "bytes": 131702,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/display.json",
+      "bytes": 8177,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/evaluation.log",
+      "bytes": 25405,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/feature_comparison.png",
+      "bytes": 338052,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/feature_metrics.csv",
+      "bytes": 11643,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/feature_metrics.json",
+      "bytes": 28237,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/feature_stack_overview.png",
+      "bytes": 6994430,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/gradient_abs_medium_adjacent.csv",
+      "bytes": 6899,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/gradient_abs_medium_coherence.png",
+      "bytes": 228778,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/gradient_abs_medium_evaluation.json",
+      "bytes": 18191,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/gradient_abs_medium_lags.csv",
+      "bytes": 210584,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/gradient_abs_medium_local_peak_controls.csv",
+      "bytes": 621261,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/gradient_abs_medium_local_windows.csv",
+      "bytes": 95168,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/gradient_abs_medium_shift_controls.csv",
+      "bytes": 288842,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/gradient_abs_medium_stack.npy",
+      "bytes": 1792928,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/gradient_abs_medium_stack.png",
+      "bytes": 109230,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/gradient_abs_medium_stack_contrast.png",
+      "bytes": 133783,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/gradient_abs_narrow_adjacent.csv",
+      "bytes": 6905,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/gradient_abs_narrow_coherence.png",
+      "bytes": 225455,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/gradient_abs_narrow_evaluation.json",
+      "bytes": 18196,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/gradient_abs_narrow_lags.csv",
+      "bytes": 211752,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/gradient_abs_narrow_local_peak_controls.csv",
+      "bytes": 621911,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/gradient_abs_narrow_local_windows.csv",
+      "bytes": 95325,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/gradient_abs_narrow_shift_controls.csv",
+      "bytes": 290520,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/gradient_abs_narrow_stack.npy",
+      "bytes": 1792928,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/gradient_abs_narrow_stack.png",
+      "bytes": 108069,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/gradient_abs_narrow_stack_contrast.png",
+      "bytes": 136281,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/gradient_abs_wide_adjacent.csv",
+      "bytes": 6869,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/gradient_abs_wide_coherence.png",
+      "bytes": 244980,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/gradient_abs_wide_evaluation.json",
+      "bytes": 18150,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/gradient_abs_wide_lags.csv",
+      "bytes": 209597,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/gradient_abs_wide_local_peak_controls.csv",
+      "bytes": 620916,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/gradient_abs_wide_local_windows.csv",
+      "bytes": 95141,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/gradient_abs_wide_shift_controls.csv",
+      "bytes": 288440,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/gradient_abs_wide_stack.npy",
+      "bytes": 1792928,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/gradient_abs_wide_stack.png",
+      "bytes": 111401,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/gradient_abs_wide_stack_contrast.png",
+      "bytes": 133104,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/mask.npy",
+      "bytes": 224228,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/mean_medium_adjacent.csv",
+      "bytes": 6829,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/mean_medium_coherence.png",
+      "bytes": 245943,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/mean_medium_evaluation.json",
+      "bytes": 18100,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/mean_medium_lags.csv",
+      "bytes": 205299,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/mean_medium_local_peak_controls.csv",
+      "bytes": 619475,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/mean_medium_local_windows.csv",
+      "bytes": 94226,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/mean_medium_shift_controls.csv",
+      "bytes": 283896,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/mean_medium_stack.npy",
+      "bytes": 1792928,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/mean_medium_stack.png",
+      "bytes": 89731,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/mean_medium_stack_contrast.png",
+      "bytes": 115615,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/mean_narrow_adjacent.csv",
+      "bytes": 6848,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/mean_narrow_coherence.png",
+      "bytes": 254456,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/mean_narrow_evaluation.json",
+      "bytes": 18123,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/mean_narrow_lags.csv",
+      "bytes": 205598,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/mean_narrow_local_peak_controls.csv",
+      "bytes": 620319,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/mean_narrow_local_windows.csv",
+      "bytes": 94489,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/mean_narrow_shift_controls.csv",
+      "bytes": 284228,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/mean_narrow_stack.npy",
+      "bytes": 1792928,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/mean_narrow_stack.png",
+      "bytes": 94987,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/mean_narrow_stack_contrast.png",
+      "bytes": 119657,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/mean_wide_adjacent.csv",
+      "bytes": 6812,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/mean_wide_coherence.png",
+      "bytes": 241888,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/mean_wide_evaluation.json",
+      "bytes": 18083,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/mean_wide_lags.csv",
+      "bytes": 204776,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/mean_wide_local_peak_controls.csv",
+      "bytes": 619380,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/mean_wide_local_windows.csv",
+      "bytes": 94213,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/mean_wide_shift_controls.csv",
+      "bytes": 283650,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/mean_wide_stack.npy",
+      "bytes": 1792928,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/mean_wide_stack.png",
+      "bytes": 86188,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/mean_wide_stack_contrast.png",
+      "bytes": 114137,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/median_medium_adjacent.csv",
+      "bytes": 6842,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/median_medium_coherence.png",
+      "bytes": 240867,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/median_medium_evaluation.json",
+      "bytes": 18113,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/median_medium_lags.csv",
+      "bytes": 205553,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/median_medium_local_peak_controls.csv",
+      "bytes": 620418,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/median_medium_local_windows.csv",
+      "bytes": 94424,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/median_medium_shift_controls.csv",
+      "bytes": 284328,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/median_medium_stack.npy",
+      "bytes": 1792928,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/median_medium_stack.png",
+      "bytes": 102668,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/median_medium_stack_contrast.png",
+      "bytes": 123776,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/median_narrow_adjacent.csv",
+      "bytes": 6832,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/median_narrow_coherence.png",
+      "bytes": 256120,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/median_narrow_evaluation.json",
+      "bytes": 18104,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/median_narrow_lags.csv",
+      "bytes": 206109,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/median_narrow_local_peak_controls.csv",
+      "bytes": 620934,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/median_narrow_local_windows.csv",
+      "bytes": 94660,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/median_narrow_shift_controls.csv",
+      "bytes": 284775,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/median_narrow_stack.npy",
+      "bytes": 1792928,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/median_narrow_stack.png",
+      "bytes": 104738,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/median_narrow_stack_contrast.png",
+      "bytes": 125018,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/median_wide_adjacent.csv",
+      "bytes": 6813,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/median_wide_coherence.png",
+      "bytes": 239117,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/median_wide_evaluation.json",
+      "bytes": 18086,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/median_wide_lags.csv",
+      "bytes": 204975,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/median_wide_local_peak_controls.csv",
+      "bytes": 620571,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/median_wide_local_windows.csv",
+      "bytes": 94400,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/median_wide_shift_controls.csv",
+      "bytes": 283806,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/median_wide_stack.npy",
+      "bytes": 1792928,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/median_wide_stack.png",
+      "bytes": 100440,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/median_wide_stack_contrast.png",
+      "bytes": 123503,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/provenance.npy",
+      "bytes": 224228,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/range_medium_adjacent.csv",
+      "bytes": 6907,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/range_medium_coherence.png",
+      "bytes": 237950,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/range_medium_evaluation.json",
+      "bytes": 18190,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/range_medium_lags.csv",
+      "bytes": 209723,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/range_medium_local_peak_controls.csv",
+      "bytes": 621159,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/range_medium_local_windows.csv",
+      "bytes": 95038,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/range_medium_shift_controls.csv",
+      "bytes": 287628,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/range_medium_stack.npy",
+      "bytes": 1792928,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/range_medium_stack.png",
+      "bytes": 112989,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/range_medium_stack_contrast.png",
+      "bytes": 132300,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/range_narrow_adjacent.csv",
+      "bytes": 6905,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/range_narrow_coherence.png",
+      "bytes": 239330,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/range_narrow_evaluation.json",
+      "bytes": 18187,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/range_narrow_lags.csv",
+      "bytes": 210318,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/range_narrow_local_peak_controls.csv",
+      "bytes": 621246,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/range_narrow_local_windows.csv",
+      "bytes": 95237,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/range_narrow_shift_controls.csv",
+      "bytes": 288844,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/range_narrow_stack.npy",
+      "bytes": 1792928,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/range_narrow_stack.png",
+      "bytes": 112557,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/range_narrow_stack_contrast.png",
+      "bytes": 134146,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/range_wide_adjacent.csv",
+      "bytes": 6887,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/range_wide_coherence.png",
+      "bytes": 252862,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/range_wide_evaluation.json",
+      "bytes": 18170,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/range_wide_lags.csv",
+      "bytes": 209333,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/range_wide_local_peak_controls.csv",
+      "bytes": 621226,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/range_wide_local_windows.csv",
+      "bytes": 95029,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/range_wide_shift_controls.csv",
+      "bytes": 287149,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/range_wide_stack.npy",
+      "bytes": 1792928,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/range_wide_stack.png",
+      "bytes": 113374,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/range_wide_stack_contrast.png",
+      "bytes": 132326,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/rankings.json",
+      "bytes": 197,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/ridge_proxy_medium_adjacent.csv",
+      "bytes": 6893,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/ridge_proxy_medium_coherence.png",
+      "bytes": 240710,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/ridge_proxy_medium_evaluation.json",
+      "bytes": 18180,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/ridge_proxy_medium_lags.csv",
+      "bytes": 210303,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/ridge_proxy_medium_local_peak_controls.csv",
+      "bytes": 621016,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/ridge_proxy_medium_local_windows.csv",
+      "bytes": 95147,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/ridge_proxy_medium_shift_controls.csv",
+      "bytes": 289205,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/ridge_proxy_medium_stack.npy",
+      "bytes": 1792928,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/ridge_proxy_medium_stack.png",
+      "bytes": 94204,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/ridge_proxy_medium_stack_contrast.png",
+      "bytes": 131514,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/ridge_proxy_narrow_adjacent.csv",
+      "bytes": 6911,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/ridge_proxy_narrow_coherence.png",
+      "bytes": 242668,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/ridge_proxy_narrow_evaluation.json",
+      "bytes": 18201,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/ridge_proxy_narrow_lags.csv",
+      "bytes": 210694,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/ridge_proxy_narrow_local_peak_controls.csv",
+      "bytes": 621054,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/ridge_proxy_narrow_local_windows.csv",
+      "bytes": 95191,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/ridge_proxy_narrow_shift_controls.csv",
+      "bytes": 289216,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/ridge_proxy_narrow_stack.npy",
+      "bytes": 1792928,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/ridge_proxy_narrow_stack.png",
+      "bytes": 97618,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/ridge_proxy_narrow_stack_contrast.png",
+      "bytes": 130855,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/ridge_proxy_wide_adjacent.csv",
+      "bytes": 6916,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/ridge_proxy_wide_coherence.png",
+      "bytes": 236667,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/ridge_proxy_wide_evaluation.json",
+      "bytes": 18203,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/ridge_proxy_wide_lags.csv",
+      "bytes": 210207,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/ridge_proxy_wide_local_peak_controls.csv",
+      "bytes": 621274,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/ridge_proxy_wide_local_windows.csv",
+      "bytes": 95179,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/ridge_proxy_wide_shift_controls.csv",
+      "bytes": 289087,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/ridge_proxy_wide_stack.npy",
+      "bytes": 1792928,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/ridge_proxy_wide_stack.png",
+      "bytes": 92881,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/ridge_proxy_wide_stack_contrast.png",
+      "bytes": 132117,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/s_um.npy",
+      "bytes": 35984,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/std_medium_adjacent.csv",
+      "bytes": 6891,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/std_medium_coherence.png",
+      "bytes": 239560,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/std_medium_evaluation.json",
+      "bytes": 18169,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/std_medium_lags.csv",
+      "bytes": 209666,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/std_medium_local_peak_controls.csv",
+      "bytes": 620908,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/std_medium_local_windows.csv",
+      "bytes": 95075,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/std_medium_shift_controls.csv",
+      "bytes": 287571,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/std_medium_stack.npy",
+      "bytes": 1792928,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/std_medium_stack.png",
+      "bytes": 103736,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/std_medium_stack_contrast.png",
+      "bytes": 131232,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/std_narrow_adjacent.csv",
+      "bytes": 6899,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/std_narrow_coherence.png",
+      "bytes": 240148,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/std_narrow_evaluation.json",
+      "bytes": 18175,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/std_narrow_lags.csv",
+      "bytes": 210235,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/std_narrow_local_peak_controls.csv",
+      "bytes": 621302,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/std_narrow_local_windows.csv",
+      "bytes": 95187,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/std_narrow_shift_controls.csv",
+      "bytes": 288915,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/std_narrow_stack.npy",
+      "bytes": 1792928,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/std_narrow_stack.png",
+      "bytes": 108283,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/std_narrow_stack_contrast.png",
+      "bytes": 133914,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/std_wide_adjacent.csv",
+      "bytes": 6893,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/std_wide_coherence.png",
+      "bytes": 254167,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/std_wide_evaluation.json",
+      "bytes": 18176,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/std_wide_lags.csv",
+      "bytes": 209212,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/std_wide_local_peak_controls.csv",
+      "bytes": 620994,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/std_wide_local_windows.csv",
+      "bytes": 94960,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/std_wide_shift_controls.csv",
+      "bytes": 286771,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/std_wide_stack.npy",
+      "bytes": 1792928,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/std_wide_stack.png",
+      "bytes": 101063,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/std_wide_stack_contrast.png",
+      "bytes": 129719,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/z_indices.npy",
+      "bytes": 528,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/scalars/z_relative_um.npy",
+      "bytes": 528,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/selected_region_comparison.csv",
+      "bytes": 2211,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/selection.log",
+      "bytes": 1562,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/summary.log",
+      "bytes": 3979,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/verification.json",
+      "bytes": 8301,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/verification.log",
+      "bytes": 125,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/visual_assessment.json",
+      "bytes": 498,
+      "git": "included"
+    },
+    {
+      "path": "outputs/p0_t7/z_indices.npy",
+      "bytes": 528,
+      "git": "excluded, preserved locally"
+    },
+    {
+      "path": "outputs/p0_t7/z_relative_um.npy",
+      "bytes": 528,
+      "git": "excluded, preserved locally"
+    }
+  ],
+  "note": "Inventory, receipt and manifest are additionally included; all excluded numeric arrays/logs remain locally sealed"
+}

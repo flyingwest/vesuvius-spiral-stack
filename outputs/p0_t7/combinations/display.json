@@ -1,0 +1,77 @@
+{
+  "center_intensity": {
+    "fixed_range": [
+      0,
+      255
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      54.19900999384547,
+      140.52678196598515
+    ],
+    "definition": "P(0)"
+  },
+  "mean_wide": {
+    "fixed_range": [
+      0,
+      255
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      38.28379367024213,
+      111.04444460153566
+    ],
+    "definition": "mean of selected offsets; width=wide;R=4.0px"
+  },
+  "combo_1_2": {
+    "fixed_range": [
+      -1,
+      1
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      0.13474397913374592,
+      0.44739514983800427
+    ],
+    "definition": "0.5*(mean_medium/255.0 + median_wide/255.0)"
+  },
+  "combo_1_3": {
+    "fixed_range": [
+      -1,
+      1
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      0.14883980402722702,
+      0.44114746719857667
+    ],
+    "definition": "0.5*(mean_medium/255.0 + mean_wide/255.0)"
+  },
+  "combo_2_3": {
+    "fixed_range": [
+      -1,
+      1
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      0.13528224732866215,
+      0.4394326340329007
+    ],
+    "definition": "0.5*(median_wide/255.0 + mean_wide/255.0)"
+  }
+}

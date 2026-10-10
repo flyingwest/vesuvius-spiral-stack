@@ -1,0 +1,111 @@
+{
+  "policy": "three pairwise fixed equal-weight means of joint-ranked top3 non-affine-equivalent signals; no further search",
+  "ranked_scalars": [
+    "mean_medium",
+    "median_wide",
+    "mean_wide",
+    "mean_narrow",
+    "median_medium",
+    "median_narrow",
+    "center_minus_mean_medium",
+    "ridge_proxy_medium",
+    "ridge_proxy_narrow",
+    "gradient_abs_wide",
+    "std_narrow",
+    "curvature_wide",
+    "curvature_narrow",
+    "center_minus_mean_narrow",
+    "range_medium",
+    "range_narrow",
+    "asymmetry_medium",
+    "asymmetry_wide",
+    "curvature_medium",
+    "range_wide",
+    "gradient_abs_medium",
+    "asymmetry_narrow",
+    "gradient_abs_narrow",
+    "std_medium",
+    "ridge_proxy_wide",
+    "std_wide",
+    "center_minus_mean_wide"
+  ],
+  "selected": [
+    "mean_medium",
+    "median_wide",
+    "mean_wide"
+  ],
+  "affine_duplicate_skips": [],
+  "best_individual": "mean_medium",
+  "combinations": [
+    {
+      "name": "combo_1_2",
+      "a": "mean_medium",
+      "b": "median_wide",
+      "scale_a": 255.0,
+      "scale_b": 255.0,
+      "weights": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "name": "combo_1_3",
+      "a": "mean_medium",
+      "b": "mean_wide",
+      "scale_a": 255.0,
+      "scale_b": 255.0,
+      "weights": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "name": "combo_2_3",
+      "a": "median_wide",
+      "b": "mean_wide",
+      "scale_a": 255.0,
+      "scale_b": 255.0,
+      "weights": [
+        0.5,
+        0.5
+      ]
+    }
+  ],
+  "specifications": {
+    "center_intensity": {
+      "definition": "P(0)",
+      "display_range": [
+        0,
+        255
+      ]
+    },
+    "mean_wide": {
+      "definition": "mean of selected offsets; width=wide;R=4.0px",
+      "display_range": [
+        0,
+        255
+      ]
+    },
+    "combo_1_2": {
+      "definition": "0.5*(mean_medium/255.0 + median_wide/255.0)",
+      "display_range": [
+        -1,
+        1
+      ]
+    },
+    "combo_1_3": {
+      "definition": "0.5*(mean_medium/255.0 + mean_wide/255.0)",
+      "display_range": [
+        -1,
+        1
+      ]
+    },
+    "combo_2_3": {
+      "definition": "0.5*(median_wide/255.0 + mean_wide/255.0)",
+      "display_range": [
+        -1,
+        1
+      ]
+    }
+  }
+}
