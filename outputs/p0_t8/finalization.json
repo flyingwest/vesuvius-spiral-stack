@@ -1,0 +1,15 @@
+{
+  "pre_finalization_state": "B: numerical analysis and replay complete; reporting/sealing incomplete",
+  "no_active_T8_worker_at_audit": true,
+  "analysis_rerun": false,
+  "pretrained_model_experiment_run": false,
+  "visual_review": "Distributions strongly overlap; registration overlay aligns official label strokes to IR; final split shown separately.",
+  "empirical_highest_feature": "range_wide",
+  "result": "C",
+  "ready_for_next_step": "YES, research decision only",
+  "debug_notes": [
+    "Initial documentation HTTP403 retained.",
+    "Binary labels are0/1; initial0/255 assertion corrected before evaluation.",
+    "Original top/bottom annotation retained; final left/right amendment frozen before feature metrics."
+  ]
+}

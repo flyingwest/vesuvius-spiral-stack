@@ -1,0 +1,4044 @@
+{
+  "records": [
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/surface_volume/meta.json",
+      "status": 200,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:55:34 GMT",
+        "Content-Type": "application/json",
+        "Content-Length": "215",
+        "Last-Modified": "Tue, 04 Jun 2024 17:40:57 GMT",
+        "Connection": "close",
+        "ETag": "\"665f51a9-d7\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Accept-Ranges": "bytes"
+      },
+      "range_half_open": null,
+      "bytes": 215,
+      "path": "data/raw/p0_t8/surface_volume_meta.json",
+      "sha256": "4ee01953fb2e683703fbd0c2f976f39f80560a36a4070a05ab5d536ba8543559"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/inklabels.png",
+      "status": 200,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:55:34 GMT",
+        "Content-Type": "image/png",
+        "Content-Length": "63677",
+        "Last-Modified": "Wed, 15 Mar 2023 08:00:29 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b1d-f8bd\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Accept-Ranges": "bytes"
+      },
+      "range_half_open": null,
+      "bytes": 63677,
+      "path": "data/raw/p0_t8/inklabels.png",
+      "sha256": "c2e716a716a9f9208fc4c26e4ecf25fb10a30824fce7709771658068af472d95"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/mask.png",
+      "status": 200,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:55:35 GMT",
+        "Content-Type": "image/png",
+        "Content-Length": "40713",
+        "Last-Modified": "Wed, 15 Mar 2023 08:00:29 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b1d-9f09\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Accept-Ranges": "bytes"
+      },
+      "range_half_open": null,
+      "bytes": 40713,
+      "path": "data/raw/p0_t8/mask.png",
+      "sha256": "f77c33cef758ffb17f63af0624aac5b04e93020a71e5103fa8370347427a87d8"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/ir.png",
+      "status": 200,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:55:35 GMT",
+        "Content-Type": "image/png",
+        "Content-Length": "7931111",
+        "Last-Modified": "Wed, 15 Mar 2023 08:00:30 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b1e-7904e7\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Accept-Ranges": "bytes"
+      },
+      "range_half_open": null,
+      "bytes": 7931111,
+      "path": "data/raw/p0_t8/ir.png",
+      "sha256": "7d72ea4cbc33588fe406726cd108c90cbfa5f0b12d70bee26ca829b85e150b04"
+    },
+    {
+      "url": "https://arxiv.org/html/2304.02084v1",
+      "status": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "178095",
+        "content-type": "text/html; charset=utf-8",
+        "access-control-allow-origin": "*",
+        "via": "1.1 google, 1.1 varnish, 1.1 varnish, 1.1 varnish",
+        "link": "<https://arxiv.org/html/2304.02084>; rel='canonical'",
+        "etag": "\"CJ/D2NmAupYDEAE=\"",
+        "x-robots-tag": "nofollow",
+        "server": "Google Frontend",
+        "last-modified": "Mon, 24 Aug 2026 19:32:16 GMT",
+        "Accept-Ranges": "bytes",
+        "Age": "284117",
+        "Date": "Sat, 10 Oct 2026 00:55:39 GMT",
+        "X-Served-By": "cache-lga-kjfk8660030-LGA, cache-lga-kjfk8660030-LGA, cache-lga-kjfk8660059-LGA, cache-dfw-kdal2120129-DFW",
+        "X-Cache": "MISS, MISS, HIT",
+        "X-Timer": "S1791593740.618048,VS0,VE2"
+      },
+      "range_half_open": null,
+      "bytes": 178095,
+      "path": "outputs/p0_t8/dataset_paper.html",
+      "sha256": "9852380de889958c82205c4265c9cfdf2166bdde7cdfc129fb2702bfc4c57f9e"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/surface_volume/28.tif",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:55:40 GMT",
+        "Content-Type": "image/tiff",
+        "Content-Length": "8",
+        "Last-Modified": "Wed, 15 Mar 2023 08:00:43 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b2b-4c26225\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 0-7/79847973"
+      },
+      "range_half_open": [
+        0,
+        8
+      ],
+      "bytes": 8,
+      "path": "data/raw/p0_t8/28_header.bin",
+      "sha256": "89d1164cd807c8db8830eab351fd76228dd37b465ad2d8b6db7899eaa58a752b"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/surface_volume/28.tif",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:55:40 GMT",
+        "Content-Type": "image/tiff",
+        "Content-Length": "177",
+        "Last-Modified": "Wed, 15 Mar 2023 08:00:43 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b2b-4c26225\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 79847796-79847972/79847973"
+      },
+      "range_half_open": [
+        79847796,
+        79847973
+      ],
+      "bytes": 177,
+      "path": "data/raw/p0_t8/28_ifd.bin",
+      "sha256": "4c28e276e87e1da47a498be03098d5a4c9f2b2fe4ccd911238a8751664c72bfd"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/surface_volume/30.tif",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:55:40 GMT",
+        "Content-Type": "image/tiff",
+        "Content-Length": "8",
+        "Last-Modified": "Wed, 15 Mar 2023 08:00:43 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b2b-4c26225\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 0-7/79847973"
+      },
+      "range_half_open": [
+        0,
+        8
+      ],
+      "bytes": 8,
+      "path": "data/raw/p0_t8/30_header.bin",
+      "sha256": "89d1164cd807c8db8830eab351fd76228dd37b465ad2d8b6db7899eaa58a752b"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/surface_volume/30.tif",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:55:40 GMT",
+        "Content-Type": "image/tiff",
+        "Content-Length": "177",
+        "Last-Modified": "Wed, 15 Mar 2023 08:00:43 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b2b-4c26225\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 79847796-79847972/79847973"
+      },
+      "range_half_open": [
+        79847796,
+        79847973
+      ],
+      "bytes": 177,
+      "path": "data/raw/p0_t8/30_ifd.bin",
+      "sha256": "4c28e276e87e1da47a498be03098d5a4c9f2b2fe4ccd911238a8751664c72bfd"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/surface_volume/31.tif",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:55:41 GMT",
+        "Content-Type": "image/tiff",
+        "Content-Length": "8",
+        "Last-Modified": "Wed, 15 Mar 2023 08:00:43 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b2b-4c26225\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 0-7/79847973"
+      },
+      "range_half_open": [
+        0,
+        8
+      ],
+      "bytes": 8,
+      "path": "data/raw/p0_t8/31_header.bin",
+      "sha256": "89d1164cd807c8db8830eab351fd76228dd37b465ad2d8b6db7899eaa58a752b"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/surface_volume/31.tif",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:55:41 GMT",
+        "Content-Type": "image/tiff",
+        "Content-Length": "177",
+        "Last-Modified": "Wed, 15 Mar 2023 08:00:43 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b2b-4c26225\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 79847796-79847972/79847973"
+      },
+      "range_half_open": [
+        79847796,
+        79847973
+      ],
+      "bytes": 177,
+      "path": "data/raw/p0_t8/31_ifd.bin",
+      "sha256": "4c28e276e87e1da47a498be03098d5a4c9f2b2fe4ccd911238a8751664c72bfd"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/surface_volume/32.tif",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:55:41 GMT",
+        "Content-Type": "image/tiff",
+        "Content-Length": "8",
+        "Last-Modified": "Wed, 15 Mar 2023 08:00:50 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b32-4c26225\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 0-7/79847973"
+      },
+      "range_half_open": [
+        0,
+        8
+      ],
+      "bytes": 8,
+      "path": "data/raw/p0_t8/32_header.bin",
+      "sha256": "89d1164cd807c8db8830eab351fd76228dd37b465ad2d8b6db7899eaa58a752b"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/surface_volume/32.tif",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:55:41 GMT",
+        "Content-Type": "image/tiff",
+        "Content-Length": "177",
+        "Last-Modified": "Wed, 15 Mar 2023 08:00:50 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b32-4c26225\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 79847796-79847972/79847973"
+      },
+      "range_half_open": [
+        79847796,
+        79847973
+      ],
+      "bytes": 177,
+      "path": "data/raw/p0_t8/32_ifd.bin",
+      "sha256": "4c28e276e87e1da47a498be03098d5a4c9f2b2fe4ccd911238a8751664c72bfd"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/surface_volume/33.tif",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:55:42 GMT",
+        "Content-Type": "image/tiff",
+        "Content-Length": "8",
+        "Last-Modified": "Wed, 15 Mar 2023 08:00:45 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b2d-4c26225\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 0-7/79847973"
+      },
+      "range_half_open": [
+        0,
+        8
+      ],
+      "bytes": 8,
+      "path": "data/raw/p0_t8/33_header.bin",
+      "sha256": "89d1164cd807c8db8830eab351fd76228dd37b465ad2d8b6db7899eaa58a752b"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/surface_volume/33.tif",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:55:42 GMT",
+        "Content-Type": "image/tiff",
+        "Content-Length": "177",
+        "Last-Modified": "Wed, 15 Mar 2023 08:00:45 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b2d-4c26225\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 79847796-79847972/79847973"
+      },
+      "range_half_open": [
+        79847796,
+        79847973
+      ],
+      "bytes": 177,
+      "path": "data/raw/p0_t8/33_ifd.bin",
+      "sha256": "4c28e276e87e1da47a498be03098d5a4c9f2b2fe4ccd911238a8751664c72bfd"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/surface_volume/34.tif",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:55:42 GMT",
+        "Content-Type": "image/tiff",
+        "Content-Length": "8",
+        "Last-Modified": "Wed, 15 Mar 2023 08:00:46 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b2e-4c26225\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 0-7/79847973"
+      },
+      "range_half_open": [
+        0,
+        8
+      ],
+      "bytes": 8,
+      "path": "data/raw/p0_t8/34_header.bin",
+      "sha256": "89d1164cd807c8db8830eab351fd76228dd37b465ad2d8b6db7899eaa58a752b"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/surface_volume/34.tif",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:55:42 GMT",
+        "Content-Type": "image/tiff",
+        "Content-Length": "177",
+        "Last-Modified": "Wed, 15 Mar 2023 08:00:46 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b2e-4c26225\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 79847796-79847972/79847973"
+      },
+      "range_half_open": [
+        79847796,
+        79847973
+      ],
+      "bytes": 177,
+      "path": "data/raw/p0_t8/34_ifd.bin",
+      "sha256": "4c28e276e87e1da47a498be03098d5a4c9f2b2fe4ccd911238a8751664c72bfd"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/surface_volume/36.tif",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:55:43 GMT",
+        "Content-Type": "image/tiff",
+        "Content-Length": "8",
+        "Last-Modified": "Wed, 15 Mar 2023 08:00:45 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b2d-4c26225\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 0-7/79847973"
+      },
+      "range_half_open": [
+        0,
+        8
+      ],
+      "bytes": 8,
+      "path": "data/raw/p0_t8/36_header.bin",
+      "sha256": "89d1164cd807c8db8830eab351fd76228dd37b465ad2d8b6db7899eaa58a752b"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/surface_volume/36.tif",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:55:43 GMT",
+        "Content-Type": "image/tiff",
+        "Content-Length": "177",
+        "Last-Modified": "Wed, 15 Mar 2023 08:00:45 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b2d-4c26225\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 79847796-79847972/79847973"
+      },
+      "range_half_open": [
+        79847796,
+        79847973
+      ],
+      "bytes": 177,
+      "path": "data/raw/p0_t8/36_ifd.bin",
+      "sha256": "4c28e276e87e1da47a498be03098d5a4c9f2b2fe4ccd911238a8751664c72bfd"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:55:43 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "200",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 0-199/1916346985"
+      },
+      "range_half_open": [
+        0,
+        200
+      ],
+      "bytes": 200,
+      "path": "data/raw/p0_t8/ppm_header.bin",
+      "sha256": "c0afe8cee850928521444571977fc39408fecb61fa67ea85da8bb4191bc131f4"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/surface_volume/28.tif",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:55:43 GMT",
+        "Content-Type": "image/tiff",
+        "Content-Length": "21499904",
+        "Last-Modified": "Wed, 15 Mar 2023 08:00:43 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b2b-4c26225\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 29226440-50726343/79847973"
+      },
+      "range_half_open": [
+        29226440,
+        50726344
+      ],
+      "bytes": 21499904,
+      "path": "data/raw/p0_t8/28_rows.bin",
+      "sha256": "b4e33ad9a409f82d4358e518cdcdc8166be91b19e8f58b355b752eea84d836b1"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/surface_volume/30.tif",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:55:43 GMT",
+        "Content-Type": "image/tiff",
+        "Content-Length": "21499904",
+        "Last-Modified": "Wed, 15 Mar 2023 08:00:43 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b2b-4c26225\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 29226440-50726343/79847973"
+      },
+      "range_half_open": [
+        29226440,
+        50726344
+      ],
+      "bytes": 21499904,
+      "path": "data/raw/p0_t8/30_rows.bin",
+      "sha256": "f57dc7c3b674ecec6207ea99f03e70e4bf2607f2a06dd01d893676004541708f"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/surface_volume/31.tif",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:55:43 GMT",
+        "Content-Type": "image/tiff",
+        "Content-Length": "21499904",
+        "Last-Modified": "Wed, 15 Mar 2023 08:00:43 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b2b-4c26225\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 29226440-50726343/79847973"
+      },
+      "range_half_open": [
+        29226440,
+        50726344
+      ],
+      "bytes": 21499904,
+      "path": "data/raw/p0_t8/31_rows.bin",
+      "sha256": "e3839e98147fc5927e5d601c0c3794f3327c8bb78497e9502a2bf443af499bd3"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/surface_volume/32.tif",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:55:43 GMT",
+        "Content-Type": "image/tiff",
+        "Content-Length": "21499904",
+        "Last-Modified": "Wed, 15 Mar 2023 08:00:50 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b32-4c26225\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 29226440-50726343/79847973"
+      },
+      "range_half_open": [
+        29226440,
+        50726344
+      ],
+      "bytes": 21499904,
+      "path": "data/raw/p0_t8/32_rows.bin",
+      "sha256": "ccc28ab2770df1591a68d9513dc75140bc98415f9dc8e09a457fe74eff56627b"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/surface_volume/33.tif",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:56:30 GMT",
+        "Content-Type": "image/tiff",
+        "Content-Length": "21499904",
+        "Last-Modified": "Wed, 15 Mar 2023 08:00:45 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b2d-4c26225\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 29226440-50726343/79847973"
+      },
+      "range_half_open": [
+        29226440,
+        50726344
+      ],
+      "bytes": 21499904,
+      "path": "data/raw/p0_t8/33_rows.bin",
+      "sha256": "174a490d46c88b4764ba7cee12a9aeb0b826ed5e79ca45b07acfa19dd5afe6bc"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/surface_volume/34.tif",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:56:35 GMT",
+        "Content-Type": "image/tiff",
+        "Content-Length": "21499904",
+        "Last-Modified": "Wed, 15 Mar 2023 08:00:46 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b2e-4c26225\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 29226440-50726343/79847973"
+      },
+      "range_half_open": [
+        29226440,
+        50726344
+      ],
+      "bytes": 21499904,
+      "path": "data/raw/p0_t8/34_rows.bin",
+      "sha256": "30d2d09aa322f9bf550d5add098e8787424f92566e773ed4e577da9a28545292"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/surface_volume/36.tif",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:56:36 GMT",
+        "Content-Type": "image/tiff",
+        "Content-Length": "21499904",
+        "Last-Modified": "Wed, 15 Mar 2023 08:00:45 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b2d-4c26225\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 29226440-50726343/79847973"
+      },
+      "range_half_open": [
+        29226440,
+        50726344
+      ],
+      "bytes": 21499904,
+      "path": "data/raw/p0_t8/36_rows.bin",
+      "sha256": "016239c01f48649634d60a5b4fdb40f36e5fef0286608a5ed0dbefedcba96585"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:56:36 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 703526857-703625160/1916346985"
+      },
+      "range_half_open": [
+        703526857,
+        703625161
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_2792.bin",
+      "sha256": "5ec7206b1f15f3986935b43174f7ada5948bfa5a65f628894e189d37115d8a52"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:56:38 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 707558089-707656392/1916346985"
+      },
+      "range_half_open": [
+        707558089,
+        707656393
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_2808.bin",
+      "sha256": "eb5715c87ece491e4e99e3db54b8209ebcb806def0e3f63b7006c249d56570cd"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:56:40 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 711589321-711687624/1916346985"
+      },
+      "range_half_open": [
+        711589321,
+        711687625
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_2824.bin",
+      "sha256": "2436077a6e3ebf052094cebf9e4e6fa39147660029386b731b435d603379cd21"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:56:43 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 715620553-715718856/1916346985"
+      },
+      "range_half_open": [
+        715620553,
+        715718857
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_2840.bin",
+      "sha256": "c223fe35a9221ecdcdefba15d1f468728f622c17f7ef1e6d479707ac3069accc"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:56:48 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 719651785-719750088/1916346985"
+      },
+      "range_half_open": [
+        719651785,
+        719750089
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_2856.bin",
+      "sha256": "192306f4782eaae980ac24fcc1e7ae5fc706814e17df6ff2ef497869e0a61309"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:00 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 723683017-723781320/1916346985"
+      },
+      "range_half_open": [
+        723683017,
+        723781321
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_2872.bin",
+      "sha256": "49533fca1072c528e26d50032b2fa6c3edb8179a542fe2e06365c86fda6e321f"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:04 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 727714249-727812552/1916346985"
+      },
+      "range_half_open": [
+        727714249,
+        727812553
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_2888.bin",
+      "sha256": "0a941bdacc5066c33fa1a7fa28c559412b8133086d68262a0db3fee6f0fec301"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:10 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 731745481-731843784/1916346985"
+      },
+      "range_half_open": [
+        731745481,
+        731843785
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_2904.bin",
+      "sha256": "916739f954e6df6ad8574d921c97c32971e38de615ddd773c2c5daf11db9a327"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:11 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 735776713-735875016/1916346985"
+      },
+      "range_half_open": [
+        735776713,
+        735875017
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_2920.bin",
+      "sha256": "6d760cfd8574b81ad61977fb15f083a639c97feafbba748d0d1808ec6cdc86de"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:11 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 739807945-739906248/1916346985"
+      },
+      "range_half_open": [
+        739807945,
+        739906249
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_2936.bin",
+      "sha256": "eabd7c6f51f554b7c3e77912cf42f0553ad154d28d9f4c1d576f76b05a8e8062"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:11 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 743839177-743937480/1916346985"
+      },
+      "range_half_open": [
+        743839177,
+        743937481
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_2952.bin",
+      "sha256": "1c18093661b7946c732b1fe0363e3901c161ad2d73f519548e5da3fb088831af"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:11 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 747870409-747968712/1916346985"
+      },
+      "range_half_open": [
+        747870409,
+        747968713
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_2968.bin",
+      "sha256": "56f5878b7e77bacf72a6084d4da5f08f928547ed98ac0741f13e69b9613a07c8"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:12 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 751901641-751999944/1916346985"
+      },
+      "range_half_open": [
+        751901641,
+        751999945
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_2984.bin",
+      "sha256": "d2ac6e2dd86431c40cc2fbe036d093ecd7237e8f1d7d849d868d68f389625b46"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:12 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 755932873-756031176/1916346985"
+      },
+      "range_half_open": [
+        755932873,
+        756031177
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3000.bin",
+      "sha256": "e6a66082e1151e7f10dcc90535a2e2a5dc71a758ed1ff5f2dcdcd307b6e0109f"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:12 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 759964105-760062408/1916346985"
+      },
+      "range_half_open": [
+        759964105,
+        760062409
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3016.bin",
+      "sha256": "85d729c5ea85cebb98a03714458b7189b3116c3527dd4b21a8c6ae828dfec513"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:12 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 763995337-764093640/1916346985"
+      },
+      "range_half_open": [
+        763995337,
+        764093641
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3032.bin",
+      "sha256": "8bb29bba60ede96416d01214536b3e204e75660ff54ef0d20e5aa00c1ef38968"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:12 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 768026569-768124872/1916346985"
+      },
+      "range_half_open": [
+        768026569,
+        768124873
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3048.bin",
+      "sha256": "186f6c4bfc6eea7fbfc981e38c30edbc5dba87a6f2ab8cfba8b34e98e2ffcdd3"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:12 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 772057801-772156104/1916346985"
+      },
+      "range_half_open": [
+        772057801,
+        772156105
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3064.bin",
+      "sha256": "af2d6f766d8d506f7adaede17dbdcb90161d25041c893b343cf5ff7fe683f76c"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:12 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 776089033-776187336/1916346985"
+      },
+      "range_half_open": [
+        776089033,
+        776187337
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3080.bin",
+      "sha256": "f6b5420167c80698e07b6db226646009c180a1085e0d73bbe65f90fd5393ed75"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:12 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 780120265-780218568/1916346985"
+      },
+      "range_half_open": [
+        780120265,
+        780218569
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3096.bin",
+      "sha256": "533e14faf1995c691fb14a5378a7e64e51b50e3a3e1cd8f12e40dd352b1d7ff1"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:12 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 784151497-784249800/1916346985"
+      },
+      "range_half_open": [
+        784151497,
+        784249801
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3112.bin",
+      "sha256": "f6d5a1dcd04e6f2af421cd4e107faa6dd541abcc412e8e3a7680200276b69997"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:12 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 788182729-788281032/1916346985"
+      },
+      "range_half_open": [
+        788182729,
+        788281033
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3128.bin",
+      "sha256": "f157de2d62d71cd1ab3cb629e3b30b98b66d4e68d139d0377260a502f279071d"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:12 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 792213961-792312264/1916346985"
+      },
+      "range_half_open": [
+        792213961,
+        792312265
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3144.bin",
+      "sha256": "1baa3e25c056f2699e11700600f9a2ceb1b79b0464ae2866a385357569bbb375"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:13 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 796245193-796343496/1916346985"
+      },
+      "range_half_open": [
+        796245193,
+        796343497
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3160.bin",
+      "sha256": "f4a847168ea03aab6c55a91eda4850afc7192b7cf1e3f8e48e2fc52fe1f5035d"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:13 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 800276425-800374728/1916346985"
+      },
+      "range_half_open": [
+        800276425,
+        800374729
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3176.bin",
+      "sha256": "6e8576e8b0857e9aef4e7d461690cab01fbed41e77bcba0a995c39ad6a06e359"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:13 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 804307657-804405960/1916346985"
+      },
+      "range_half_open": [
+        804307657,
+        804405961
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3192.bin",
+      "sha256": "923074d91f1b6149322e05177d7ac1fcfcab64a09bcd08ccdb857871522987f9"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:13 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 808338889-808437192/1916346985"
+      },
+      "range_half_open": [
+        808338889,
+        808437193
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3208.bin",
+      "sha256": "bd5d7c499cd6ca101f921887432331f0619dc32c26cd12f7fc0d920d9a875bf5"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:13 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 812370121-812468424/1916346985"
+      },
+      "range_half_open": [
+        812370121,
+        812468425
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3224.bin",
+      "sha256": "87372174ffaab4565405b9fc42fa61b68579a2612772979c949059670605f664"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:13 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 816401353-816499656/1916346985"
+      },
+      "range_half_open": [
+        816401353,
+        816499657
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3240.bin",
+      "sha256": "0edaadf561133e7b691594c29621fa20e32a6a34a9b9a6ce8a77ed68178d5a3a"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:13 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 820432585-820530888/1916346985"
+      },
+      "range_half_open": [
+        820432585,
+        820530889
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3256.bin",
+      "sha256": "9bd4cf18ac1b1a355863ae47930e8d414888c94139be38cb4fe440afc2919846"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:13 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 824463817-824562120/1916346985"
+      },
+      "range_half_open": [
+        824463817,
+        824562121
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3272.bin",
+      "sha256": "329abe15584f8e01c335c938967630f4ec18e8761efd8f5602e4fbf37209eaa5"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:13 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 828495049-828593352/1916346985"
+      },
+      "range_half_open": [
+        828495049,
+        828593353
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3288.bin",
+      "sha256": "843c72777f2af8df916855be2994782ae8f53df14fe0b41d7323cb5b5ab2492b"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:13 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 832526281-832624584/1916346985"
+      },
+      "range_half_open": [
+        832526281,
+        832624585
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3304.bin",
+      "sha256": "030b0137cd5eeec15c1b95a2962bc51e873dd909aa9bd5a46744ef326dcd7e0a"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:13 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 836557513-836655816/1916346985"
+      },
+      "range_half_open": [
+        836557513,
+        836655817
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3320.bin",
+      "sha256": "cecf4334506c8c9084acc123ef1f94e2c81c34ac842a164a3092b8245b4ca7d5"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:13 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 840588745-840687048/1916346985"
+      },
+      "range_half_open": [
+        840588745,
+        840687049
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3336.bin",
+      "sha256": "2a428f46d063b44acf1d28da04a128eb17b890474a6326a919a70ac02c55f6b4"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:14 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 844619977-844718280/1916346985"
+      },
+      "range_half_open": [
+        844619977,
+        844718281
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3352.bin",
+      "sha256": "26e08c388840fff5d7c9e57406b2af84537edd0f495b89c6bb93eafc5376c9ea"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:14 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 848651209-848749512/1916346985"
+      },
+      "range_half_open": [
+        848651209,
+        848749513
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3368.bin",
+      "sha256": "1cdb63aec6b348a63f83bd5c19737362eef9ee97c9d54e5b96903c6ada331842"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:14 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 852682441-852780744/1916346985"
+      },
+      "range_half_open": [
+        852682441,
+        852780745
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3384.bin",
+      "sha256": "49be885ad9c37a59507a611923e4f0d9605e92cd13c66c50ab808ad8534a3df0"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:14 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 856713673-856811976/1916346985"
+      },
+      "range_half_open": [
+        856713673,
+        856811977
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3400.bin",
+      "sha256": "ac67e999422d33e718819634044b52ed7f32f323f7799d5814741b3cd83ee321"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:14 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 860744905-860843208/1916346985"
+      },
+      "range_half_open": [
+        860744905,
+        860843209
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3416.bin",
+      "sha256": "66ff388e62e7d2ea25de9dfa6661097173d701fa0cc2a835570db8c0af5e8107"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:14 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 864776137-864874440/1916346985"
+      },
+      "range_half_open": [
+        864776137,
+        864874441
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3432.bin",
+      "sha256": "02fce888d938ca5d65b1a067534f8a875f6d7b8a372531237c1b554027768ba0"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:14 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 868807369-868905672/1916346985"
+      },
+      "range_half_open": [
+        868807369,
+        868905673
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3448.bin",
+      "sha256": "3731fb0b141c093368ae7811248c5384d3af2dd554fac4f189bf9c56220c2152"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:14 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 872838601-872936904/1916346985"
+      },
+      "range_half_open": [
+        872838601,
+        872936905
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3464.bin",
+      "sha256": "e21e30b9035329d085029095de7151ecaa275a6d28cc6dd2fe43a98008a840ef"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:14 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 876869833-876968136/1916346985"
+      },
+      "range_half_open": [
+        876869833,
+        876968137
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3480.bin",
+      "sha256": "2ad2790b46ef0f645b06b05d0b375a6bb1b7caafdaf40661ad310906ea106d24"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:14 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 880901065-880999368/1916346985"
+      },
+      "range_half_open": [
+        880901065,
+        880999369
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3496.bin",
+      "sha256": "0305f599552c043c78b2358af8a78fd208c7d4c7c21dc46d56e0104dda18d6d1"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:14 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 884932297-885030600/1916346985"
+      },
+      "range_half_open": [
+        884932297,
+        885030601
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3512.bin",
+      "sha256": "4c03ad70323b612fd2f61f06168dc12512e35caec512dbcfc1125d0b1ad4a150"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:14 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 888963529-889061832/1916346985"
+      },
+      "range_half_open": [
+        888963529,
+        889061833
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3528.bin",
+      "sha256": "e1a5cdf471e443a2bf5830b6eaa098337c7aa67a2fbf01d5fdfa962df05c107a"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:15 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 892994761-893093064/1916346985"
+      },
+      "range_half_open": [
+        892994761,
+        893093065
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3544.bin",
+      "sha256": "214d6270192316957c1078fd6f4d153ef2aa032f6acee833cacf834977f3f1d0"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:15 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 897025993-897124296/1916346985"
+      },
+      "range_half_open": [
+        897025993,
+        897124297
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3560.bin",
+      "sha256": "acf69a4afef62fa55f914c88df61b13ac3a7505dd01955466e872a77efd19c11"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:15 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 901057225-901155528/1916346985"
+      },
+      "range_half_open": [
+        901057225,
+        901155529
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3576.bin",
+      "sha256": "69e9dfb5ad6bacb8e028daef1309fd9f97e5b943b6c680b616f4f1d0646d91b5"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:15 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 905088457-905186760/1916346985"
+      },
+      "range_half_open": [
+        905088457,
+        905186761
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3592.bin",
+      "sha256": "53fdfbff9f57d29f4e7ace337d1bff020f2650956f3dc6f7a7494b4b3f2c51dd"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:15 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 909119689-909217992/1916346985"
+      },
+      "range_half_open": [
+        909119689,
+        909217993
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3608.bin",
+      "sha256": "49c291360d0f0755ed5471aa76f8b9d4517a6f5e9a4fea9cedac80d7385b6bbb"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:15 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 913150921-913249224/1916346985"
+      },
+      "range_half_open": [
+        913150921,
+        913249225
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3624.bin",
+      "sha256": "cd5d70c8b55c162790a59f472bb1e4fda0e84863f784d69aee7773d65fc93f9e"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:15 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 917182153-917280456/1916346985"
+      },
+      "range_half_open": [
+        917182153,
+        917280457
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3640.bin",
+      "sha256": "46278724645f403b48866e9faa43747fffb27da2b1d554487b875fd8b2f2fe92"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:15 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 921213385-921311688/1916346985"
+      },
+      "range_half_open": [
+        921213385,
+        921311689
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3656.bin",
+      "sha256": "d5c4395ea057c73db5b84544908bd2dd371ffba470f2a058394cb9b0f2616554"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:15 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 925244617-925342920/1916346985"
+      },
+      "range_half_open": [
+        925244617,
+        925342921
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3672.bin",
+      "sha256": "f51d4e0519316bcc1c774534e71bb80f87bd0672a71c38f9fee66a2b931e42a9"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:15 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 929275849-929374152/1916346985"
+      },
+      "range_half_open": [
+        929275849,
+        929374153
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3688.bin",
+      "sha256": "7c68cef616aa08af4c4fea1d8cb9ce4775278aa18f2991e8a5dc756603f7d8e8"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:15 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 933307081-933405384/1916346985"
+      },
+      "range_half_open": [
+        933307081,
+        933405385
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3704.bin",
+      "sha256": "36fe5729b5bbc137327bf8704b195718437cdc875a4dc762a7aee71222fdd689"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:15 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 937338313-937436616/1916346985"
+      },
+      "range_half_open": [
+        937338313,
+        937436617
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3720.bin",
+      "sha256": "6225c03efb8907bcc49775a5e90b43f483387d654554bf6390b0cd59c9aac4c9"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:16 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 941369545-941467848/1916346985"
+      },
+      "range_half_open": [
+        941369545,
+        941467849
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3736.bin",
+      "sha256": "fffc71b6e7935a8963466a7f1e2065088d47bc4cb4a2f147476b99b58b427e61"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:16 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 945400777-945499080/1916346985"
+      },
+      "range_half_open": [
+        945400777,
+        945499081
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3752.bin",
+      "sha256": "49fc58791d2e06809aca6840dd060d02158eb5e1bac55e24eb1f25633a3625ca"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:16 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 949432009-949530312/1916346985"
+      },
+      "range_half_open": [
+        949432009,
+        949530313
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3768.bin",
+      "sha256": "3d19194c449e8887d9dbbe17a69d2c0f54d623b968a9b30433589703b88f6a3c"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:16 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 953463241-953561544/1916346985"
+      },
+      "range_half_open": [
+        953463241,
+        953561545
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3784.bin",
+      "sha256": "b52f7ac610f4ccb9bc0983c019da1d6c430b0ab55003f3980680c998d90a6d37"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:16 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 957494473-957592776/1916346985"
+      },
+      "range_half_open": [
+        957494473,
+        957592777
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3800.bin",
+      "sha256": "30daa412515fb571d4b4648464c4950dd1e8d255cbacdb87a2b944e64409f6f0"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:16 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 961525705-961624008/1916346985"
+      },
+      "range_half_open": [
+        961525705,
+        961624009
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3816.bin",
+      "sha256": "75a40b7ac46aa001426315051d7fde984af11f5640d897566ab868a618dbe435"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:16 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 965556937-965655240/1916346985"
+      },
+      "range_half_open": [
+        965556937,
+        965655241
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3832.bin",
+      "sha256": "c9be615b6e97fc7bdc5c24bf4655ad0bb678250d0515e98f1ff25a5e958758dd"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:16 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 969588169-969686472/1916346985"
+      },
+      "range_half_open": [
+        969588169,
+        969686473
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3848.bin",
+      "sha256": "b3c3fa3bbd0e2d65505352ad1f6d408f8e7b8d65790394d4b8f562d8ddf352a3"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:16 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 973619401-973717704/1916346985"
+      },
+      "range_half_open": [
+        973619401,
+        973717705
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3864.bin",
+      "sha256": "d6942b5cb8f23b3f1a76ec065f1aaabf986418e3730d3b7fbcb596d76b76dc92"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:17 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 977650633-977748936/1916346985"
+      },
+      "range_half_open": [
+        977650633,
+        977748937
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3880.bin",
+      "sha256": "651d6a8fe018b61f1f503182ebf323e70f6fe08920569413d6c290c41149f12d"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:17 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 981681865-981780168/1916346985"
+      },
+      "range_half_open": [
+        981681865,
+        981780169
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3896.bin",
+      "sha256": "88654b1146b35e5b501d662cbc76270ad06814bb23a58e8802aaf2d6b75890eb"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:17 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 985713097-985811400/1916346985"
+      },
+      "range_half_open": [
+        985713097,
+        985811401
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3912.bin",
+      "sha256": "23082b735463285d4ee4a37c790a3cc6de1ae6f01e8272d70a13181cf10a9021"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:17 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 989744329-989842632/1916346985"
+      },
+      "range_half_open": [
+        989744329,
+        989842633
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3928.bin",
+      "sha256": "92e10e7a2fd1d956a22d3a813c8b5f5cd2e628c3bdfdd4eda095241d87ea3dd2"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:17 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 993775561-993873864/1916346985"
+      },
+      "range_half_open": [
+        993775561,
+        993873865
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3944.bin",
+      "sha256": "97f292be02621ef17379cd732ac602afe972b817f3657c4aabb0790d039f9dac"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:17 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 997806793-997905096/1916346985"
+      },
+      "range_half_open": [
+        997806793,
+        997905097
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3960.bin",
+      "sha256": "5a104121654e790cfde069afa7c3781d91b6960a5979d4b21908e8eb3c12b856"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:17 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1001838025-1001936328/1916346985"
+      },
+      "range_half_open": [
+        1001838025,
+        1001936329
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3976.bin",
+      "sha256": "71dacf9d278ac913265f1ffb1c08596d3faced4b91ca6f51fd2f40fb816f67f4"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:17 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1005869257-1005967560/1916346985"
+      },
+      "range_half_open": [
+        1005869257,
+        1005967561
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_3992.bin",
+      "sha256": "b2b0f37ce755fe22c27fce46f21034705d2f6acf6485c9e2f1992a1b65522eab"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:17 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1009900489-1009998792/1916346985"
+      },
+      "range_half_open": [
+        1009900489,
+        1009998793
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4008.bin",
+      "sha256": "acf7801e6d0fc3d37943965961e731abd47708b781ce08ee2a9adf6077a701b6"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:17 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1013931721-1014030024/1916346985"
+      },
+      "range_half_open": [
+        1013931721,
+        1014030025
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4024.bin",
+      "sha256": "94c6f5cabecf110b1e17ee04d7801335bed1ea67ea529987fe915653da37eb16"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:17 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1017962953-1018061256/1916346985"
+      },
+      "range_half_open": [
+        1017962953,
+        1018061257
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4040.bin",
+      "sha256": "f4838c990547a10829bc295f110c546f1c8a79c5ae2b5ec45a4656c608e40976"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:18 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1021994185-1022092488/1916346985"
+      },
+      "range_half_open": [
+        1021994185,
+        1022092489
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4056.bin",
+      "sha256": "463b836adaaa0c71ded38bf82c6b8cb5738897ddde5e3622a2abbb86a99dc4c4"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:18 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1026025417-1026123720/1916346985"
+      },
+      "range_half_open": [
+        1026025417,
+        1026123721
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4072.bin",
+      "sha256": "210e1a5d0e65bbfe86084c04868e45f5e85f95eb569211b572fc7c0ff9d5aaae"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:18 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1030056649-1030154952/1916346985"
+      },
+      "range_half_open": [
+        1030056649,
+        1030154953
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4088.bin",
+      "sha256": "37143891bb8bdb04af665229b8c83999c789fdcb872f9bce65e7c470d3f34989"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:18 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1034087881-1034186184/1916346985"
+      },
+      "range_half_open": [
+        1034087881,
+        1034186185
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4104.bin",
+      "sha256": "ab40fc250c1d3b854de6d7662c35bfbd7c01b25118000d4a2be623f2e90b5e30"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:18 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1038119113-1038217416/1916346985"
+      },
+      "range_half_open": [
+        1038119113,
+        1038217417
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4120.bin",
+      "sha256": "7cd4940fd2bd7fe27288d77108095a48d4937ff178935ecca56d1b86abeb0857"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:18 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1042150345-1042248648/1916346985"
+      },
+      "range_half_open": [
+        1042150345,
+        1042248649
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4136.bin",
+      "sha256": "a2592a9652b9158c022137cbd321dfdad642637bc8908eab3bf887da7f2037a6"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:18 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1046181577-1046279880/1916346985"
+      },
+      "range_half_open": [
+        1046181577,
+        1046279881
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4152.bin",
+      "sha256": "11c3a191e558e90e1bbb491d74dc7bfe9c186d69f35c459a6849344494a346a9"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:18 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1050212809-1050311112/1916346985"
+      },
+      "range_half_open": [
+        1050212809,
+        1050311113
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4168.bin",
+      "sha256": "0f84997ab7171743e5962a7ccc136b24b5b0933dfd799363bd9ebd4d2b3c54a2"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:18 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1054244041-1054342344/1916346985"
+      },
+      "range_half_open": [
+        1054244041,
+        1054342345
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4184.bin",
+      "sha256": "7e967cbccd79b1e7700e2d7745289d2a4dbd36599a89953799cc472728254ac9"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:18 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1058275273-1058373576/1916346985"
+      },
+      "range_half_open": [
+        1058275273,
+        1058373577
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4200.bin",
+      "sha256": "058eb0f1573602da6d346f25ff7fc0bd41b2c5b589332ed7393ed0a5bbc91805"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:18 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1062306505-1062404808/1916346985"
+      },
+      "range_half_open": [
+        1062306505,
+        1062404809
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4216.bin",
+      "sha256": "813846ed08eec9c04eb5b4ce9dcde7326e1492025d5ff4bd544a3ca5c9d715b7"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:18 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1066337737-1066436040/1916346985"
+      },
+      "range_half_open": [
+        1066337737,
+        1066436041
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4232.bin",
+      "sha256": "e806a8464ebd1d7b48fc6b8ef23b55a68c9843e669cf7a26f65a1a39af2eb081"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:19 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1070368969-1070467272/1916346985"
+      },
+      "range_half_open": [
+        1070368969,
+        1070467273
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4248.bin",
+      "sha256": "8b4607abb50f0ca06e0fa1671ce6c63e467dab3a84b258040fa7cc91406ed439"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:19 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1074400201-1074498504/1916346985"
+      },
+      "range_half_open": [
+        1074400201,
+        1074498505
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4264.bin",
+      "sha256": "2b8991c233a9a0d7d6d0445f33e71ebf35c32855a3645926deda0997d2ee4721"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:19 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1078431433-1078529736/1916346985"
+      },
+      "range_half_open": [
+        1078431433,
+        1078529737
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4280.bin",
+      "sha256": "4320f66f6f30c90d8e133259cbb244cc6f89b08d5229c3a98c7f34c36d103609"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:19 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1082462665-1082560968/1916346985"
+      },
+      "range_half_open": [
+        1082462665,
+        1082560969
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4296.bin",
+      "sha256": "47758f97cc0dec7f97067d6ebce5821aac74ddbc28d13081dd29406ef7622947"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:19 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1086493897-1086592200/1916346985"
+      },
+      "range_half_open": [
+        1086493897,
+        1086592201
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4312.bin",
+      "sha256": "e3d9d3f07df337389334bd74750235779d0244265c72a5e2e0745be46bca94f5"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:19 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1090525129-1090623432/1916346985"
+      },
+      "range_half_open": [
+        1090525129,
+        1090623433
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4328.bin",
+      "sha256": "a82ef2b091b3d19c9cc4b400fbe18cf7c6d32dcd28445d92e79b2a641c62dc77"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:19 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1094556361-1094654664/1916346985"
+      },
+      "range_half_open": [
+        1094556361,
+        1094654665
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4344.bin",
+      "sha256": "d51856a08a5c7d37bcac7a2e5e0e0bd3ed2ddc1db980e5095a78bfacec19fcc9"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:19 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1098587593-1098685896/1916346985"
+      },
+      "range_half_open": [
+        1098587593,
+        1098685897
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4360.bin",
+      "sha256": "1b3994c2bfde2a5a109c0ebdbf8e74c7e03386f6d3f39367e2b9035e91155c2d"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:19 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1102618825-1102717128/1916346985"
+      },
+      "range_half_open": [
+        1102618825,
+        1102717129
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4376.bin",
+      "sha256": "8a2e953a80fddce7c5522b020c8e86fdf9aefaf32801ae22cbf4293fc74d9ab4"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:19 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1106650057-1106748360/1916346985"
+      },
+      "range_half_open": [
+        1106650057,
+        1106748361
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4392.bin",
+      "sha256": "50e1ac219480fe21841e6edcee2915c8dcc897b2f5f2158559998c16924ddd06"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:19 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1110681289-1110779592/1916346985"
+      },
+      "range_half_open": [
+        1110681289,
+        1110779593
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4408.bin",
+      "sha256": "824411a3718d8b8f1e726c332a6c14d7e4e4db250eae5007e1421cede9ebceed"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:20 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1114712521-1114810824/1916346985"
+      },
+      "range_half_open": [
+        1114712521,
+        1114810825
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4424.bin",
+      "sha256": "a025987d66f0f03fdbf4783b40b5005200da6395f64b47d6753946d51253aa7a"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:20 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1118743753-1118842056/1916346985"
+      },
+      "range_half_open": [
+        1118743753,
+        1118842057
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4440.bin",
+      "sha256": "56f0f3a7c038e7599574a5b1822d950ac0dfbd520ed806b0ef09151383f8a1b1"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:20 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1122774985-1122873288/1916346985"
+      },
+      "range_half_open": [
+        1122774985,
+        1122873289
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4456.bin",
+      "sha256": "a2560aaf8c7dbdc5de182beed9ddbc1fd05485d4baeee7b67341480493788fdd"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:20 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1126806217-1126904520/1916346985"
+      },
+      "range_half_open": [
+        1126806217,
+        1126904521
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4472.bin",
+      "sha256": "fb23f8383a34ceab3073d2dc915294f4d33e820dacc17a517816449e0f3787cc"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:20 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1130837449-1130935752/1916346985"
+      },
+      "range_half_open": [
+        1130837449,
+        1130935753
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4488.bin",
+      "sha256": "c11ebe0c5cc98dc49eb80330c20d0efe33741e3abfadaa1b18e7bacc9f6f6706"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:20 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1134868681-1134966984/1916346985"
+      },
+      "range_half_open": [
+        1134868681,
+        1134966985
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4504.bin",
+      "sha256": "faecf612e9ecc6a54ad98c86a7a4a30f8ce861e041e2ca2dd16ff833f682f1c3"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:20 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1138899913-1138998216/1916346985"
+      },
+      "range_half_open": [
+        1138899913,
+        1138998217
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4520.bin",
+      "sha256": "b012092025d43d07c20998b79629a7af32dd4e50a9c10bfdda46eb9e4a0ffe80"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:20 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1142931145-1143029448/1916346985"
+      },
+      "range_half_open": [
+        1142931145,
+        1143029449
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4536.bin",
+      "sha256": "068a84647487e89b5ed4e113ac9289fe82cce6560d79a91eb9c5a376a770dce7"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:20 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1146962377-1147060680/1916346985"
+      },
+      "range_half_open": [
+        1146962377,
+        1147060681
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4552.bin",
+      "sha256": "1aa1a6086a76828d196368fa61d1ec2392f46f4a0c4f4c69f940079c139372a3"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:20 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1150993609-1151091912/1916346985"
+      },
+      "range_half_open": [
+        1150993609,
+        1151091913
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4568.bin",
+      "sha256": "3f0775378f6cad7ea21f397d63a5c536eeb98f24aafe22bb0899167c19e46748"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:21 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1155024841-1155123144/1916346985"
+      },
+      "range_half_open": [
+        1155024841,
+        1155123145
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4584.bin",
+      "sha256": "4a5917477ba576183b4e201e6c562ccabebc45ff4e76af85a0ea0e7474c92ce2"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:21 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1159056073-1159154376/1916346985"
+      },
+      "range_half_open": [
+        1159056073,
+        1159154377
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4600.bin",
+      "sha256": "5699b9379e252beca516ca9b9306dbefd3fb48303a0ccf8924184708a67998e3"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:21 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1163087305-1163185608/1916346985"
+      },
+      "range_half_open": [
+        1163087305,
+        1163185609
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4616.bin",
+      "sha256": "2f97f2d2a3796becc38d03d96d53f5150a227c69256df49f5c1da00d41c7679e"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:21 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1167118537-1167216840/1916346985"
+      },
+      "range_half_open": [
+        1167118537,
+        1167216841
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4632.bin",
+      "sha256": "da3de26fafdeab8e67ebfcedaaaeb324312926caeda7369d30ec20deba2c0c0b"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:21 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1171149769-1171248072/1916346985"
+      },
+      "range_half_open": [
+        1171149769,
+        1171248073
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4648.bin",
+      "sha256": "ef2a5b84bdbf64fd5fa43739ec166f2d8f6186e53c45bfcfd1eee16d0fe072af"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:21 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1175181001-1175279304/1916346985"
+      },
+      "range_half_open": [
+        1175181001,
+        1175279305
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4664.bin",
+      "sha256": "51c79c795a5d048496d6600eaf67a84308373e2c260baab5336411c9e1d1d370"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:21 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1179212233-1179310536/1916346985"
+      },
+      "range_half_open": [
+        1179212233,
+        1179310537
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4680.bin",
+      "sha256": "3c80345b0ea9052f7190e08e74b8a12439e473b437a8af5ef216a2197b0e5ff9"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:21 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1183243465-1183341768/1916346985"
+      },
+      "range_half_open": [
+        1183243465,
+        1183341769
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4696.bin",
+      "sha256": "194cdb55fab24299bcf8ee453668e655f678d52f56db46403df73e39b6a30b59"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:21 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1187274697-1187373000/1916346985"
+      },
+      "range_half_open": [
+        1187274697,
+        1187373001
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4712.bin",
+      "sha256": "b4075c31cfdf8510e2c6ffe8d5ac61f89ac3623fd464d0ef02a76e0c43c9e924"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:21 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1191305929-1191404232/1916346985"
+      },
+      "range_half_open": [
+        1191305929,
+        1191404233
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4728.bin",
+      "sha256": "547b5dcc27e6db58c61b3099081abca9fbe26ed6e1072c442224cbaea9149b33"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:21 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1195337161-1195435464/1916346985"
+      },
+      "range_half_open": [
+        1195337161,
+        1195435465
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4744.bin",
+      "sha256": "92f76b6d11e13502bbf87a02ed22879458745a55ab5fe34bcc861a7e6d032312"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:22 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1199368393-1199466696/1916346985"
+      },
+      "range_half_open": [
+        1199368393,
+        1199466697
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4760.bin",
+      "sha256": "55ee36ced85674f16ba8f4e0147b49c0962fb40e5a4a6f9e7f8bb9d466d9e07f"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:22 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1203399625-1203497928/1916346985"
+      },
+      "range_half_open": [
+        1203399625,
+        1203497929
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4776.bin",
+      "sha256": "28da019016d2ed185f02270b64bbb841580bbc9be58b8e2f875a139f49bd87c0"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:22 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1207430857-1207529160/1916346985"
+      },
+      "range_half_open": [
+        1207430857,
+        1207529161
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4792.bin",
+      "sha256": "597fcbd611bd032a3c612167b1eb2908a348181ad7c8896dfb06dece71c568f3"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:22 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1211462089-1211560392/1916346985"
+      },
+      "range_half_open": [
+        1211462089,
+        1211560393
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4808.bin",
+      "sha256": "74db93c6304ce2f5544833a608b753110ec3937196415e70618157cca65f5465"
+    },
+    {
+      "url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/result.ppm",
+      "status": 206,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Sat, 10 Oct 2026 00:57:22 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "98304",
+        "Last-Modified": "Wed, 15 Mar 2023 08:01:28 GMT",
+        "Connection": "close",
+        "ETag": "\"64117b58-72392269\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Content-Range": "bytes 1215493321-1215591624/1916346985"
+      },
+      "range_half_open": [
+        1215493321,
+        1215591625
+      ],
+      "bytes": 98304,
+      "path": "data/raw/p0_t8/ppm_row_4824.bin",
+      "sha256": "62f4494d73903b1a290e614e50c377632e8c874c060deae77e3d205e27ed7251"
+    }
+  ],
+  "network_payload_bytes": 171297546,
+  "crop_shape": [
+    7,
+    2048,
+    2048
+  ],
+  "grid_geometry_shape": [
+    128,
+    128,
+    6
+  ],
+  "data_hashes": {
+    "data/raw/p0_t8/28_metadata.tif": "3a4edd88a4a70b5ed56fdbfb5f1feea48f1f74043b1c10328f6173a3f43fc7f9",
+    "data/raw/p0_t8/ppm_row_4360.bin": "1b3994c2bfde2a5a109c0ebdbf8e74c7e03386f6d3f39367e2b9035e91155c2d",
+    "data/raw/p0_t8/32_metadata.tif": "3a4edd88a4a70b5ed56fdbfb5f1feea48f1f74043b1c10328f6173a3f43fc7f9",
+    "data/raw/p0_t8/ppm_row_4344.bin": "d51856a08a5c7d37bcac7a2e5e0e0bd3ed2ddc1db980e5095a78bfacec19fcc9",
+    "data/raw/p0_t8/ppm_row_3128.bin": "f157de2d62d71cd1ab3cb629e3b30b98b66d4e68d139d0377260a502f279071d",
+    "data/raw/p0_t8/ppm_row_2840.bin": "c223fe35a9221ecdcdefba15d1f468728f622c17f7ef1e6d479707ac3069accc",
+    "data/raw/p0_t8/ppm_row_3720.bin": "6225c03efb8907bcc49775a5e90b43f483387d654554bf6390b0cd59c9aac4c9",
+    "data/raw/p0_t8/ppm_row_4728.bin": "547b5dcc27e6db58c61b3099081abca9fbe26ed6e1072c442224cbaea9149b33",
+    "data/raw/p0_t8/ppm_row_4200.bin": "058eb0f1573602da6d346f25ff7fc0bd41b2c5b589332ed7393ed0a5bbc91805",
+    "data/raw/p0_t8/30_header.bin": "89d1164cd807c8db8830eab351fd76228dd37b465ad2d8b6db7899eaa58a752b",
+    "data/raw/p0_t8/ppm_row_4264.bin": "2b8991c233a9a0d7d6d0445f33e71ebf35c32855a3645926deda0997d2ee4721",
+    "data/raw/p0_t8/ppm_row_3928.bin": "92e10e7a2fd1d956a22d3a813c8b5f5cd2e628c3bdfdd4eda095241d87ea3dd2",
+    "data/raw/p0_t8/ppm_row_3192.bin": "923074d91f1b6149322e05177d7ac1fcfcab64a09bcd08ccdb857871522987f9",
+    "data/raw/p0_t8/33_rows.bin": "174a490d46c88b4764ba7cee12a9aeb0b826ed5e79ca45b07acfa19dd5afe6bc",
+    "data/raw/p0_t8/ppm_row_3160.bin": "f4a847168ea03aab6c55a91eda4850afc7192b7cf1e3f8e48e2fc52fe1f5035d",
+    "data/raw/p0_t8/ppm_row_4312.bin": "e3d9d3f07df337389334bd74750235779d0244265c72a5e2e0745be46bca94f5",
+    "data/raw/p0_t8/ppm_row_3752.bin": "49fc58791d2e06809aca6840dd060d02158eb5e1bac55e24eb1f25633a3625ca",
+    "data/raw/p0_t8/30_metadata.tif": "3a4edd88a4a70b5ed56fdbfb5f1feea48f1f74043b1c10328f6173a3f43fc7f9",
+    "data/raw/p0_t8/ppm_header.bin": "c0afe8cee850928521444571977fc39408fecb61fa67ea85da8bb4191bc131f4",
+    "data/raw/p0_t8/ppm_row_4520.bin": "b012092025d43d07c20998b79629a7af32dd4e50a9c10bfdda46eb9e4a0ffe80",
+    "data/raw/p0_t8/ppm_row_3672.bin": "f51d4e0519316bcc1c774534e71bb80f87bd0672a71c38f9fee66a2b931e42a9",
+    "data/raw/p0_t8/ppm_row_3480.bin": "2ad2790b46ef0f645b06b05d0b375a6bb1b7caafdaf40661ad310906ea106d24",
+    "data/raw/p0_t8/ppm_row_3416.bin": "66ff388e62e7d2ea25de9dfa6661097173d701fa0cc2a835570db8c0af5e8107",
+    "data/raw/p0_t8/ppm_row_3864.bin": "d6942b5cb8f23b3f1a76ec065f1aaabf986418e3730d3b7fbcb596d76b76dc92",
+    "data/raw/p0_t8/ppm_row_3352.bin": "26e08c388840fff5d7c9e57406b2af84537edd0f495b89c6bb93eafc5376c9ea",
+    "data/raw/p0_t8/36_header.bin": "89d1164cd807c8db8830eab351fd76228dd37b465ad2d8b6db7899eaa58a752b",
+    "data/raw/p0_t8/ppm_row_4328.bin": "a82ef2b091b3d19c9cc4b400fbe18cf7c6d32dcd28445d92e79b2a641c62dc77",
+    "data/raw/p0_t8/ppm_row_4104.bin": "ab40fc250c1d3b854de6d7662c35bfbd7c01b25118000d4a2be623f2e90b5e30",
+    "data/raw/p0_t8/ppm_row_4648.bin": "ef2a5b84bdbf64fd5fa43739ec166f2d8f6186e53c45bfcfd1eee16d0fe072af",
+    "data/raw/p0_t8/ppm_row_4824.bin": "62f4494d73903b1a290e614e50c377632e8c874c060deae77e3d205e27ed7251",
+    "data/raw/p0_t8/ppm_row_3176.bin": "6e8576e8b0857e9aef4e7d461690cab01fbed41e77bcba0a995c39ad6a06e359",
+    "data/raw/p0_t8/ppm_row_4456.bin": "a2560aaf8c7dbdc5de182beed9ddbc1fd05485d4baeee7b67341480493788fdd",
+    "data/raw/p0_t8/ppm_row_3608.bin": "49c291360d0f0755ed5471aa76f8b9d4517a6f5e9a4fea9cedac80d7385b6bbb",
+    "data/raw/p0_t8/ppm_row_3944.bin": "97f292be02621ef17379cd732ac602afe972b817f3657c4aabb0790d039f9dac",
+    "data/raw/p0_t8/ppm_row_4152.bin": "11c3a191e558e90e1bbb491d74dc7bfe9c186d69f35c459a6849344494a346a9",
+    "data/raw/p0_t8/31_ifd.bin": "4c28e276e87e1da47a498be03098d5a4c9f2b2fe4ccd911238a8751664c72bfd",
+    "data/raw/p0_t8/28_header.bin": "89d1164cd807c8db8830eab351fd76228dd37b465ad2d8b6db7899eaa58a752b",
+    "data/raw/p0_t8/ppm_row_3800.bin": "30daa412515fb571d4b4648464c4950dd1e8d255cbacdb87a2b944e64409f6f0",
+    "data/raw/p0_t8/ppm_row_2888.bin": "0a941bdacc5066c33fa1a7fa28c559412b8133086d68262a0db3fee6f0fec301",
+    "data/raw/p0_t8/ppm_row_3096.bin": "533e14faf1995c691fb14a5378a7e64e51b50e3a3e1cd8f12e40dd352b1d7ff1",
+    "data/raw/p0_t8/ppm_row_4296.bin": "47758f97cc0dec7f97067d6ebce5821aac74ddbc28d13081dd29406ef7622947",
+    "data/raw/p0_t8/ppm_row_3960.bin": "5a104121654e790cfde069afa7c3781d91b6960a5979d4b21908e8eb3c12b856",
+    "data/raw/p0_t8/ppm_row_3016.bin": "85d729c5ea85cebb98a03714458b7189b3116c3527dd4b21a8c6ae828dfec513",
+    "data/raw/p0_t8/ppm_row_4072.bin": "210e1a5d0e65bbfe86084c04868e45f5e85f95eb569211b572fc7c0ff9d5aaae",
+    "data/raw/p0_t8/32_ifd.bin": "4c28e276e87e1da47a498be03098d5a4c9f2b2fe4ccd911238a8751664c72bfd",
+    "data/raw/p0_t8/34_rows.bin": "30d2d09aa322f9bf550d5add098e8787424f92566e773ed4e577da9a28545292",
+    "data/raw/p0_t8/ppm_row_3432.bin": "02fce888d938ca5d65b1a067534f8a875f6d7b8a372531237c1b554027768ba0",
+    "data/raw/p0_t8/ppm_row_4024.bin": "94c6f5cabecf110b1e17ee04d7801335bed1ea67ea529987fe915653da37eb16",
+    "data/raw/p0_t8/ppm_row_4424.bin": "a025987d66f0f03fdbf4783b40b5005200da6395f64b47d6753946d51253aa7a",
+    "data/raw/p0_t8/ppm_row_4504.bin": "faecf612e9ecc6a54ad98c86a7a4a30f8ce861e041e2ca2dd16ff833f682f1c3",
+    "data/raw/p0_t8/31_rows.bin": "e3839e98147fc5927e5d601c0c3794f3327c8bb78497e9502a2bf443af499bd3",
+    "data/raw/p0_t8/ppm_row_3704.bin": "36fe5729b5bbc137327bf8704b195718437cdc875a4dc762a7aee71222fdd689",
+    "data/raw/p0_t8/ppm_row_4280.bin": "4320f66f6f30c90d8e133259cbb244cc6f89b08d5229c3a98c7f34c36d103609",
+    "data/raw/p0_t8/ppm_row_3112.bin": "f6d5a1dcd04e6f2af421cd4e107faa6dd541abcc412e8e3a7680200276b69997",
+    "data/raw/p0_t8/33_header.bin": "89d1164cd807c8db8830eab351fd76228dd37b465ad2d8b6db7899eaa58a752b",
+    "data/raw/p0_t8/ppm_row_2968.bin": "56f5878b7e77bacf72a6084d4da5f08f928547ed98ac0741f13e69b9613a07c8",
+    "data/raw/p0_t8/grid_geometry.npy": "4394d1406025c421a948ea370df81f34ed58d57df0ecb50c7366c4fbfb882d95",
+    "data/raw/p0_t8/ppm_row_4488.bin": "c11ebe0c5cc98dc49eb80330c20d0efe33741e3abfadaa1b18e7bacc9f6f6706",
+    "data/raw/p0_t8/ppm_row_3544.bin": "214d6270192316957c1078fd6f4d153ef2aa032f6acee833cacf834977f3f1d0",
+    "data/raw/p0_t8/ppm_row_3656.bin": "d5c4395ea057c73db5b84544908bd2dd371ffba470f2a058394cb9b0f2616554",
+    "data/raw/p0_t8/ppm_row_4040.bin": "f4838c990547a10829bc295f110c546f1c8a79c5ae2b5ec45a4656c608e40976",
+    "data/raw/p0_t8/ppm_row_3768.bin": "3d19194c449e8887d9dbbe17a69d2c0f54d623b968a9b30433589703b88f6a3c",
+    "data/raw/p0_t8/ppm_row_3144.bin": "1baa3e25c056f2699e11700600f9a2ceb1b79b0464ae2866a385357569bbb375",
+    "data/raw/p0_t8/mask.png": "f77c33cef758ffb17f63af0624aac5b04e93020a71e5103fa8370347427a87d8",
+    "data/raw/p0_t8/ppm_row_3912.bin": "23082b735463285d4ee4a37c790a3cc6de1ae6f01e8272d70a13181cf10a9021",
+    "data/raw/p0_t8/ppm_row_4552.bin": "1aa1a6086a76828d196368fa61d1ec2392f46f4a0c4f4c69f940079c139372a3",
+    "data/raw/p0_t8/ppm_row_3080.bin": "f6b5420167c80698e07b6db226646009c180a1085e0d73bbe65f90fd5393ed75",
+    "data/raw/p0_t8/34_header.bin": "89d1164cd807c8db8830eab351fd76228dd37b465ad2d8b6db7899eaa58a752b",
+    "data/raw/p0_t8/ppm_row_4232.bin": "e806a8464ebd1d7b48fc6b8ef23b55a68c9843e669cf7a26f65a1a39af2eb081",
+    "data/raw/p0_t8/ppm_row_4696.bin": "194cdb55fab24299bcf8ee453668e655f678d52f56db46403df73e39b6a30b59",
+    "data/raw/p0_t8/ppm_row_3896.bin": "88654b1146b35e5b501d662cbc76270ad06814bb23a58e8802aaf2d6b75890eb",
+    "data/raw/p0_t8/ppm_row_2952.bin": "1c18093661b7946c732b1fe0363e3901c161ad2d73f519548e5da3fb088831af",
+    "data/raw/p0_t8/31_metadata.tif": "3a4edd88a4a70b5ed56fdbfb5f1feea48f1f74043b1c10328f6173a3f43fc7f9",
+    "data/raw/p0_t8/ppm_row_3528.bin": "e1a5cdf471e443a2bf5830b6eaa098337c7aa67a2fbf01d5fdfa962df05c107a",
+    "data/raw/p0_t8/30_rows.bin": "f57dc7c3b674ecec6207ea99f03e70e4bf2607f2a06dd01d893676004541708f",
+    "data/raw/p0_t8/36_metadata.tif": "3a4edd88a4a70b5ed56fdbfb5f1feea48f1f74043b1c10328f6173a3f43fc7f9",
+    "data/raw/p0_t8/ppm_row_3560.bin": "acf69a4afef62fa55f914c88df61b13ac3a7505dd01955466e872a77efd19c11",
+    "data/raw/p0_t8/34_ifd.bin": "4c28e276e87e1da47a498be03098d5a4c9f2b2fe4ccd911238a8751664c72bfd",
+    "data/raw/p0_t8/ppm_row_4744.bin": "92f76b6d11e13502bbf87a02ed22879458745a55ab5fe34bcc861a7e6d032312",
+    "data/raw/p0_t8/34_metadata.tif": "3a4edd88a4a70b5ed56fdbfb5f1feea48f1f74043b1c10328f6173a3f43fc7f9",
+    "data/raw/p0_t8/ppm_row_2824.bin": "2436077a6e3ebf052094cebf9e4e6fa39147660029386b731b435d603379cd21",
+    "data/raw/p0_t8/ppm_row_3848.bin": "b3c3fa3bbd0e2d65505352ad1f6d408f8e7b8d65790394d4b8f562d8ddf352a3",
+    "data/raw/p0_t8/ppm_row_3816.bin": "75a40b7ac46aa001426315051d7fde984af11f5640d897566ab868a618dbe435",
+    "data/raw/p0_t8/ppm_row_4760.bin": "55ee36ced85674f16ba8f4e0147b49c0962fb40e5a4a6f9e7f8bb9d466d9e07f",
+    "data/raw/p0_t8/ppm_row_3576.bin": "69e9dfb5ad6bacb8e028daef1309fd9f97e5b943b6c680b616f4f1d0646d91b5",
+    "data/raw/p0_t8/ppm_row_3384.bin": "49be885ad9c37a59507a611923e4f0d9605e92cd13c66c50ab808ad8534a3df0",
+    "data/raw/p0_t8/ppm_row_3880.bin": "651d6a8fe018b61f1f503182ebf323e70f6fe08920569413d6c290c41149f12d",
+    "data/raw/p0_t8/30_ifd.bin": "4c28e276e87e1da47a498be03098d5a4c9f2b2fe4ccd911238a8751664c72bfd",
+    "data/raw/p0_t8/ppm_row_3224.bin": "87372174ffaab4565405b9fc42fa61b68579a2612772979c949059670605f664",
+    "data/raw/p0_t8/inklabels.png": "c2e716a716a9f9208fc4c26e4ecf25fb10a30824fce7709771658068af472d95",
+    "data/raw/p0_t8/ppm_row_3336.bin": "2a428f46d063b44acf1d28da04a128eb17b890474a6326a919a70ac02c55f6b4",
+    "data/raw/p0_t8/ppm_row_2856.bin": "192306f4782eaae980ac24fcc1e7ae5fc706814e17df6ff2ef497869e0a61309",
+    "data/raw/p0_t8/ppm_row_3064.bin": "af2d6f766d8d506f7adaede17dbdcb90161d25041c893b343cf5ff7fe683f76c",
+    "data/raw/p0_t8/36_rows.bin": "016239c01f48649634d60a5b4fdb40f36e5fef0286608a5ed0dbefedcba96585",
+    "data/raw/p0_t8/ppm_row_3400.bin": "ac67e999422d33e718819634044b52ed7f32f323f7799d5814741b3cd83ee321",
+    "data/raw/p0_t8/ppm_row_3688.bin": "7c68cef616aa08af4c4fea1d8cb9ce4775278aa18f2991e8a5dc756603f7d8e8",
+    "data/raw/p0_t8/ppm_row_3736.bin": "fffc71b6e7935a8963466a7f1e2065088d47bc4cb4a2f147476b99b58b427e61",
+    "data/raw/p0_t8/ppm_row_2984.bin": "d2ac6e2dd86431c40cc2fbe036d093ecd7237e8f1d7d849d868d68f389625b46",
+    "data/raw/p0_t8/ppm_row_4216.bin": "813846ed08eec9c04eb5b4ce9dcde7326e1492025d5ff4bd544a3ca5c9d715b7",
+    "data/raw/p0_t8/ppm_row_4184.bin": "7e967cbccd79b1e7700e2d7745289d2a4dbd36599a89953799cc472728254ac9",
+    "data/raw/p0_t8/ppm_row_4248.bin": "8b4607abb50f0ca06e0fa1671ce6c63e467dab3a84b258040fa7cc91406ed439",
+    "data/raw/p0_t8/ppm_row_3368.bin": "1cdb63aec6b348a63f83bd5c19737362eef9ee97c9d54e5b96903c6ada331842",
+    "data/raw/p0_t8/ppm_row_3784.bin": "b52f7ac610f4ccb9bc0983c019da1d6c430b0ab55003f3980680c998d90a6d37",
+    "data/raw/p0_t8/ppm_row_4584.bin": "4a5917477ba576183b4e201e6c562ccabebc45ff4e76af85a0ea0e7474c92ce2",
+    "data/raw/p0_t8/ppm_row_3208.bin": "bd5d7c499cd6ca101f921887432331f0619dc32c26cd12f7fc0d920d9a875bf5",
+    "data/raw/p0_t8/ppm_row_4136.bin": "a2592a9652b9158c022137cbd321dfdad642637bc8908eab3bf887da7f2037a6",
+    "data/raw/p0_t8/ppm_row_4536.bin": "068a84647487e89b5ed4e113ac9289fe82cce6560d79a91eb9c5a376a770dce7",
+    "data/raw/p0_t8/surface_volume_meta.json": "4ee01953fb2e683703fbd0c2f976f39f80560a36a4070a05ab5d536ba8543559",
+    "data/raw/p0_t8/ppm_row_2920.bin": "6d760cfd8574b81ad61977fb15f083a639c97feafbba748d0d1808ec6cdc86de",
+    "data/raw/p0_t8/ppm_row_3304.bin": "030b0137cd5eeec15c1b95a2962bc51e873dd909aa9bd5a46744ef326dcd7e0a",
+    "data/raw/p0_t8/ppm_row_4600.bin": "5699b9379e252beca516ca9b9306dbefd3fb48303a0ccf8924184708a67998e3",
+    "data/raw/p0_t8/ppm_row_4664.bin": "51c79c795a5d048496d6600eaf67a84308373e2c260baab5336411c9e1d1d370",
+    "data/raw/p0_t8/ppm_row_3496.bin": "0305f599552c043c78b2358af8a78fd208c7d4c7c21dc46d56e0104dda18d6d1",
+    "data/raw/p0_t8/ppm_row_3288.bin": "843c72777f2af8df916855be2994782ae8f53df14fe0b41d7323cb5b5ab2492b",
+    "data/raw/p0_t8/ppm_row_4616.bin": "2f97f2d2a3796becc38d03d96d53f5150a227c69256df49f5c1da00d41c7679e",
+    "data/raw/p0_t8/32_rows.bin": "ccc28ab2770df1591a68d9513dc75140bc98415f9dc8e09a457fe74eff56627b",
+    "data/raw/p0_t8/ppm_row_2936.bin": "eabd7c6f51f554b7c3e77912cf42f0553ad154d28d9f4c1d576f76b05a8e8062",
+    "data/raw/p0_t8/ppm_row_3240.bin": "0edaadf561133e7b691594c29621fa20e32a6a34a9b9a6ce8a77ed68178d5a3a",
+    "data/raw/p0_t8/28_ifd.bin": "4c28e276e87e1da47a498be03098d5a4c9f2b2fe4ccd911238a8751664c72bfd",
+    "data/raw/p0_t8/ppm_row_4632.bin": "da3de26fafdeab8e67ebfcedaaaeb324312926caeda7369d30ec20deba2c0c0b",
+    "data/raw/p0_t8/33_metadata.tif": "3a4edd88a4a70b5ed56fdbfb5f1feea48f1f74043b1c10328f6173a3f43fc7f9",
+    "data/raw/p0_t8/ppm_row_3048.bin": "186f6c4bfc6eea7fbfc981e38c30edbc5dba87a6f2ab8cfba8b34e98e2ffcdd3",
+    "data/raw/p0_t8/ppm_row_4808.bin": "74db93c6304ce2f5544833a608b753110ec3937196415e70618157cca65f5465",
+    "data/raw/p0_t8/ppm_row_4376.bin": "8a2e953a80fddce7c5522b020c8e86fdf9aefaf32801ae22cbf4293fc74d9ab4",
+    "data/raw/p0_t8/ppm_row_4712.bin": "b4075c31cfdf8510e2c6ffe8d5ac61f89ac3623fd464d0ef02a76e0c43c9e924",
+    "data/raw/p0_t8/ppm_row_4120.bin": "7cd4940fd2bd7fe27288d77108095a48d4937ff178935ecca56d1b86abeb0857",
+    "data/raw/p0_t8/ppm_row_4408.bin": "824411a3718d8b8f1e726c332a6c14d7e4e4db250eae5007e1421cede9ebceed",
+    "data/raw/p0_t8/ppm_row_4440.bin": "56f0f3a7c038e7599574a5b1822d950ac0dfbd520ed806b0ef09151383f8a1b1",
+    "data/raw/p0_t8/ppm_row_3624.bin": "cd5d70c8b55c162790a59f472bb1e4fda0e84863f784d69aee7773d65fc93f9e",
+    "data/raw/p0_t8/ppm_row_3320.bin": "cecf4334506c8c9084acc123ef1f94e2c81c34ac842a164a3092b8245b4ca7d5",
+    "data/raw/p0_t8/ppm_row_2904.bin": "916739f954e6df6ad8574d921c97c32971e38de615ddd773c2c5daf11db9a327",
+    "data/raw/p0_t8/ppm_row_3640.bin": "46278724645f403b48866e9faa43747fffb27da2b1d554487b875fd8b2f2fe92",
+    "data/raw/p0_t8/ppm_row_2808.bin": "eb5715c87ece491e4e99e3db54b8209ebcb806def0e3f63b7006c249d56570cd",
+    "data/raw/p0_t8/ppm_row_3512.bin": "4c03ad70323b612fd2f61f06168dc12512e35caec512dbcfc1125d0b1ad4a150",
+    "data/raw/p0_t8/ppm_row_3000.bin": "e6a66082e1151e7f10dcc90535a2e2a5dc71a758ed1ff5f2dcdcd307b6e0109f",
+    "data/raw/p0_t8/ppm_row_3256.bin": "9bd4cf18ac1b1a355863ae47930e8d414888c94139be38cb4fe440afc2919846",
+    "data/raw/p0_t8/28_rows.bin": "b4e33ad9a409f82d4358e518cdcdc8166be91b19e8f58b355b752eea84d836b1",
+    "data/raw/p0_t8/ppm_row_3448.bin": "3731fb0b141c093368ae7811248c5384d3af2dd554fac4f189bf9c56220c2152",
+    "data/raw/p0_t8/ppm_row_3464.bin": "e21e30b9035329d085029095de7151ecaa275a6d28cc6dd2fe43a98008a840ef",
+    "data/raw/p0_t8/32_header.bin": "89d1164cd807c8db8830eab351fd76228dd37b465ad2d8b6db7899eaa58a752b",
+    "data/raw/p0_t8/ppm_row_4776.bin": "28da019016d2ed185f02270b64bbb841580bbc9be58b8e2f875a139f49bd87c0",
+    "data/raw/p0_t8/ppm_row_4680.bin": "3c80345b0ea9052f7190e08e74b8a12439e473b437a8af5ef216a2197b0e5ff9",
+    "data/raw/p0_t8/ppm_row_4792.bin": "597fcbd611bd032a3c612167b1eb2908a348181ad7c8896dfb06dece71c568f3",
+    "data/raw/p0_t8/ppm_row_3032.bin": "8bb29bba60ede96416d01214536b3e204e75660ff54ef0d20e5aa00c1ef38968",
+    "data/raw/p0_t8/ppm_row_2792.bin": "5ec7206b1f15f3986935b43174f7ada5948bfa5a65f628894e189d37115d8a52",
+    "data/raw/p0_t8/ct_profiles_dyx.npy": "6570c115a7c7e616a9dd77884f47599b05ca22689d803fa525bcf838f1c1730a",
+    "data/raw/p0_t8/33_ifd.bin": "4c28e276e87e1da47a498be03098d5a4c9f2b2fe4ccd911238a8751664c72bfd",
+    "data/raw/p0_t8/ppm_row_4008.bin": "acf7801e6d0fc3d37943965961e731abd47708b781ce08ee2a9adf6077a701b6",
+    "data/raw/p0_t8/ppm_row_3272.bin": "329abe15584f8e01c335c938967630f4ec18e8761efd8f5602e4fbf37209eaa5",
+    "data/raw/p0_t8/ppm_row_4472.bin": "fb23f8383a34ceab3073d2dc915294f4d33e820dacc17a517816449e0f3787cc",
+    "data/raw/p0_t8/31_header.bin": "89d1164cd807c8db8830eab351fd76228dd37b465ad2d8b6db7899eaa58a752b",
+    "data/raw/p0_t8/ppm_row_4088.bin": "37143891bb8bdb04af665229b8c83999c789fdcb872f9bce65e7c470d3f34989",
+    "data/raw/p0_t8/ppm_row_4392.bin": "50e1ac219480fe21841e6edcee2915c8dcc897b2f5f2158559998c16924ddd06",
+    "data/raw/p0_t8/ir.png": "7d72ea4cbc33588fe406726cd108c90cbfa5f0b12d70bee26ca829b85e150b04",
+    "data/raw/p0_t8/ppm_row_4568.bin": "3f0775378f6cad7ea21f397d63a5c536eeb98f24aafe22bb0899167c19e46748",
+    "data/raw/p0_t8/ppm_row_3992.bin": "b2b0f37ce755fe22c27fce46f21034705d2f6acf6485c9e2f1992a1b65522eab",
+    "data/raw/p0_t8/ppm_row_2872.bin": "49533fca1072c528e26d50032b2fa6c3edb8179a542fe2e06365c86fda6e321f",
+    "data/raw/p0_t8/ppm_row_4168.bin": "0f84997ab7171743e5962a7ccc136b24b5b0933dfd799363bd9ebd4d2b3c54a2",
+    "data/raw/p0_t8/ppm_row_3832.bin": "c9be615b6e97fc7bdc5c24bf4655ad0bb678250d0515e98f1ff25a5e958758dd",
+    "data/raw/p0_t8/ppm_row_4056.bin": "463b836adaaa0c71ded38bf82c6b8cb5738897ddde5e3622a2abbb86a99dc4c4",
+    "data/raw/p0_t8/ppm_row_3976.bin": "71dacf9d278ac913265f1ffb1c08596d3faced4b91ca6f51fd2f40fb816f67f4",
+    "data/raw/p0_t8/36_ifd.bin": "4c28e276e87e1da47a498be03098d5a4c9f2b2fe4ccd911238a8751664c72bfd",
+    "data/raw/p0_t8/ppm_row_3592.bin": "53fdfbff9f57d29f4e7ace337d1bff020f2650956f3dc6f7a7494b4b3f2c51dd"
+  }
+}

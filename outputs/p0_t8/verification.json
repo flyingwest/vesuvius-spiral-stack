@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "prior_files_unchanged": 2857,
+  "source_files_hash_verified": 163,
+  "ct_crop_replayed_exact": true,
+  "all_sample_profiles_replayed_exact": true,
+  "ten_feature_formulas_replayed_exact": true,
+  "all_labels_xy_replayed_exact": true,
+  "metric_cohorts_independently_replayed": 40,
+  "bootstrap_replicates_independently_replayed": 400,
+  "all_saved_bootstrap_confidence_intervals_verified": true,
+  "bootstrap_scope": "10/2000 draws per feature/cohort independently regenerated; all saved draw quantiles checked",
+  "matched_constraints_verified": true,
+  "plan_and_source_formula_hashes_verified": true,
+  "no_T5_geometry_or_rows_modified": true,
+  "limitations": "Registration subpixel error not independently measured. C is lack of established signal, not proof of equivalence to chance."
+}

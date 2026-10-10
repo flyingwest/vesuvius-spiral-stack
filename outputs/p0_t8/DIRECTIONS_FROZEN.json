@@ -1,0 +1,16 @@
+{
+  "signs": {
+    "center_intensity": 1,
+    "gradient_abs_narrow": 1,
+    "curvature_narrow": 1,
+    "mean_wide": 1,
+    "median_wide": 1,
+    "std_wide": 1,
+    "range_wide": 1,
+    "center_minus_mean_wide": 1,
+    "asymmetry_wide": 1,
+    "ridge_proxy_wide": 1
+  },
+  "discovery_only": true,
+  "plan_sha256": "81614cef9a738d2445866f8e77f2bf8b7de3d8d001d0b786ea724f41d1ef98c9"
+}

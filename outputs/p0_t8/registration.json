@@ -1,0 +1,27 @@
+{
+  "global_shape": [
+    7606,
+    5249
+  ],
+  "crop_shape": [
+    2048,
+    2048
+  ],
+  "same_xy_registration": "official shared surface-volume/inklabels/ir/mask coordinates, no flips/rotations/crop offsets fitted",
+  "label_positive_pixels": 3172483,
+  "positive_outside_mask": 48,
+  "crop_positive_pixels": 701399,
+  "crop_mask_pixels": 4194304,
+  "usable_grid_samples": 16179,
+  "normal_norm_range_on_usable_grid": [
+    0.9999999999999997,
+    1.0000000000000002
+  ],
+  "ir_median_positive": 134.0,
+  "ir_median_negative": 152.0,
+  "ct_nonzero_fraction_inside_mask": 0.9999946526118687,
+  "registered_depth": 32,
+  "depth_spacing_um": 3.24,
+  "physical_ink_depth": "not independently established; fixed nominal surface, not chosen using labels",
+  "subpixel_registration_error": "not measured; two-pixel class-boundary exclusion does not guarantee complete removal of original alignment error"
+}

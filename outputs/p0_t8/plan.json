@@ -1,0 +1,53 @@
+{
+  "dataset": "EduceLab-Scrolls Frag3 PHercParis1Fr34; 54keV exposed surface; uuid20230301213423",
+  "base_url": "https://dl.ash2txt.org/fragments/Frag3/PHercParis1Fr34.volpkg/working/54keV_exposed_surface/",
+  "shape_dyx": [
+    65,
+    7606,
+    5249
+  ],
+  "voxel_um": 3.24,
+  "crop_yx_half_open": [
+    [
+      2784,
+      4832
+    ],
+    [
+      1600,
+      3648
+    ]
+  ],
+  "center_depth": 32,
+  "offsets": [
+    -4,
+    -2,
+    -1,
+    0,
+    1,
+    2,
+    4
+  ],
+  "max_payload_bytes": 220000000,
+  "features": [
+    "center_intensity",
+    "mean_wide",
+    "median_wide",
+    "std_wide",
+    "range_wide",
+    "center_minus_mean_wide",
+    "asymmetry_wide",
+    "gradient_abs_narrow",
+    "curvature_narrow",
+    "ridge_proxy_wide"
+  ],
+  "definitions": "unchanged scripts/p0_t7_family.py compute; gradient/curvature narrow reproduce T6; intensity native uint16 without label-based normalization; same pixel offsets not same physical scale as T5",
+  "grid": "16px pitch, centers at crop+8; exclude papyrus mask distance<=16 and either class-boundary distance<=2; nonink = label0 inside mask, potentially incomplete labels",
+  "discovery": "top1024 crop rows; only select score sign per feature by AUC; no fitted formula, cutoff, depth or feature selection for confirmatory tests",
+  "confirmation": "bottom1024 crop rows; evaluate every feature with discovery sign; four fixed512x512 subregions",
+  "matching": "greedy deterministic positive grid order, negative without replacement, same discovery/confirmation half and same256x256 tile, distance<=128px; second match additionally normals dot>=0.98, baseline gap<=0.25 pooled SD, ridge-strength gap<=0.5 pooled SD; closest eligible",
+  "nuisances": "source result.ppm surface normals; baseline Gaussian sigma32 center image; spatial gradient magnitude Gaussian sigma2 center image; controls only not new features",
+  "metrics": "ROC AUC, average precision (step-integral PR AUC), standardized mean difference pooled SD, class quantiles; matched paired direction concordance and matched-pool ROC/AP; spatial tile bootstrap256px 2000 seed2808, 95%CI and99.5%CI for10-feature Bonferroni family; no iid pixel confidence intervals",
+  "registration": "documented official surface registration, exact dimensions/meta, label containment, IR overlay, mask support; quantify IR darkness contrast sanity check only, no registration optimization against CT/ink metrics",
+  "decision": "A: discovery-direction confirmation AUC>=0.60 with99.5% lowerCI>0.5, at least3/4 confirm regions above chance, nuisance-matched concordance95%lower>0.5; B: same significance/region/control support but effect below0.60; C: no feature meets replicated controlled evidence. Insufficient sampling/registration blocks completion rather than being biological C.",
+  "limitations": "single fragment; chosen surface depth may miss ink; original label registration uncertainty; no inference about T5 coarsened geometry or actual ink chemistry; no neural training"
+}
