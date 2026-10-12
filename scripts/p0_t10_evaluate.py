@@ -65,7 +65,7 @@ def main():
     axs[1].imshow(p,cmap='gray',vmin=.25,vmax=.75);axs[1].set_title('Fixed model display [.25,.75]')
     axs[2].hist(negative,bins=np.linspace(0,1,51),density=True,alpha=.6,label='non-ink');axs[2].hist(positive,bins=np.linspace(0,1,51),density=True,alpha=.6,label='ink');axs[2].legend();axs[2].set_title(f'AUC={auc:.3f}, AP={ap:.3f}')
     fig.tight_layout();fig.savefig(OUT/'registered_control_comparison.png',dpi=140);plt.close(fig)
-    if passed:
+    if result['status'] == 'PASS':
         volume=np.load(OUT/'official_input.npy');fig,axs=plt.subplots(3,6,figsize=(18,8))
         for row,(z,start) in enumerate(zip([128,152,177],[128,192,256])):
             control=volume[:,start:start+128,start:start+128]
