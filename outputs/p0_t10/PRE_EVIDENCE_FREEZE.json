@@ -1,0 +1,18 @@
+{
+  "stage": "pre-control-inference",
+  "source_sha256": {
+    "scripts/p0_t10_memory_retry.py": "a335413eb73f59695fb260e01ca29df4142f43534a89742ae043bf0bc93670ec",
+    "scripts/p0_t10_acquire.py": "8e7c602ebbe3c03a8865ce4a2ecbdea09e60318751e0bd315af010e3d93d109e",
+    "scripts/p0_t10_scout.py": "79ee276dd95b9121ba7c071c256d87e9f0559f1e7909cc657868d150ac5ef774",
+    "scripts/p0_t10_evaluate.py": "c4db4b2c7fb71408d3a079ad25cedfb77939e71435cd9ac3b9646b89481a694c",
+    "scripts/p0_t10_infer.py": "5a55441c403b36e2a58ec26a310681cbf6d34b91d090559c9e4b95e1fc2a8841",
+    "docs/p0_t10_plan.md": "75ed88a322f1cee837546b922c0e13191443e201298c38141d0e3e563e19b57a"
+  },
+  "official_villa_revision": "fb8c2c4c2705746eefb42e9bb359560906f391e2",
+  "review": "independent agent, same model/provider; no local LLM; APPROVE-FOR-EVIDENCE, not final scientific verdict",
+  "review_findings": {
+    "major_geometry": "OPEN until measured surface-frame/placement audit; methods alone insufficient for A",
+    "minor_reference": "DISCLOSED: shared model/helpers test API conformance; labels establish ink sensitivity",
+    "minor_degeneracy": "FIXED pre-evidence: invalid bootstrap yields INCONCLUSIVE, zero pooled SD effect=0"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "selected": {
+    "y0": 4096,
+    "x0": 5248,
+    "size": 512,
+    "supervised": 145587,
+    "positive": 43032,
+    "negative": 102555
+  },
+  "rule": "first fixed center-out512crop with >=1024positives, >=1024negatives, >=50%supervision; labels only, no CT/predictions",
+  "candidate_order_yx": [
+    [
+      4096,
+      5248
+    ],
+    [
+      3072,
+      4224
+    ],
+    [
+      3072,
+      6272
+    ],
+    [
+      5120,
+      4224
+    ],
+    [
+      5120,
+      6272
+    ]
+  ],
+  "candidates_inspected": [
+    {
+      "y0": 4096,
+      "x0": 5248,
+      "size": 512,
+      "supervised": 145587,
+      "positive": 43032,
+      "negative": 102555
+    }
+  ],
+  "label_values": {
+    "inklabels": [
+      0,
+      1
+    ],
+    "supervision_mask": [
+      0,
+      1
+    ]
+  }
+}

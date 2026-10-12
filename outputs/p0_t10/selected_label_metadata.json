@@ -1,0 +1,122 @@
+{
+  "inklabels/.zattrs": {
+    "annotation_center_channel": 10,
+    "annotation_source_results": "results-fixed",
+    "case": "phercparis4-w02",
+    "format": "aligned-public-level2-zmean4-21slice-v1",
+    "mapping_validity_policy": "relaxed >=128, additions gated to within 128 pooled px of strict (==255) supervision coverage, then cleaned (min_blob=16, max_hole_mask=512, max_hole_ink=16, min_island=1024)",
+    "online_validation": false,
+    "output_channels": 21,
+    "output_resolution_um_zyx": [
+      9.6,
+      9.6,
+      9.6
+    ],
+    "rebuilt_from": "/scratch/elian/new-ink-pipeline/data/aligned-public-21slice-v2/phercparis4-w02",
+    "source_manifest": "/scratch/elian/mask-align/open-data-training-manifest-v1.json",
+    "source_resolution_um_zyx": [
+      2.4,
+      9.6,
+      9.6
+    ],
+    "source_shape_zyx": [
+      109,
+      8545,
+      11005
+    ],
+    "source_surface_volume": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/segments/20231031143852/surface-volumes/2.4um-0.22m-78keV-volume-20260411134726.zarr",
+    "source_surface_volume_level": 2,
+    "source_z_slice": [
+      13,
+      97
+    ],
+    "z_pool": "21 complete means of 4 source planes"
+  },
+  "inklabels/0/.zarray": {
+    "chunks": [
+      21,
+      128,
+      128
+    ],
+    "compressor": {
+      "blocksize": 0,
+      "clevel": 5,
+      "cname": "zstd",
+      "id": "blosc",
+      "shuffle": 2
+    },
+    "dtype": "|u1",
+    "fill_value": 0,
+    "filters": null,
+    "order": "C",
+    "shape": [
+      21,
+      8545,
+      11005
+    ],
+    "zarr_format": 2
+  },
+  "inklabels/3/.zarray": {
+    "error": "HTTP Error 404: Not Found"
+  },
+  "supervision_mask/.zattrs": {
+    "annotation_center_channel": 10,
+    "annotation_source_results": "results-fixed",
+    "case": "phercparis4-w02",
+    "format": "aligned-public-level2-zmean4-21slice-v1",
+    "mapping_validity_policy": "relaxed >=128, additions gated to within 128 pooled px of strict (==255) supervision coverage, then cleaned (min_blob=16, max_hole_mask=512, max_hole_ink=16, min_island=1024)",
+    "online_validation": false,
+    "output_channels": 21,
+    "output_resolution_um_zyx": [
+      9.6,
+      9.6,
+      9.6
+    ],
+    "rebuilt_from": "/scratch/elian/new-ink-pipeline/data/aligned-public-21slice-v2/phercparis4-w02",
+    "source_manifest": "/scratch/elian/mask-align/open-data-training-manifest-v1.json",
+    "source_resolution_um_zyx": [
+      2.4,
+      9.6,
+      9.6
+    ],
+    "source_shape_zyx": [
+      109,
+      8545,
+      11005
+    ],
+    "source_surface_volume": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/segments/20231031143852/surface-volumes/2.4um-0.22m-78keV-volume-20260411134726.zarr",
+    "source_surface_volume_level": 2,
+    "source_z_slice": [
+      13,
+      97
+    ],
+    "z_pool": "21 complete means of 4 source planes"
+  },
+  "supervision_mask/0/.zarray": {
+    "chunks": [
+      21,
+      128,
+      128
+    ],
+    "compressor": {
+      "blocksize": 0,
+      "clevel": 5,
+      "cname": "zstd",
+      "id": "blosc",
+      "shuffle": 2
+    },
+    "dtype": "|u1",
+    "fill_value": 0,
+    "filters": null,
+    "order": "C",
+    "shape": [
+      21,
+      8545,
+      11005
+    ],
+    "zarr_format": 2
+  },
+  "supervision_mask/3/.zarray": {
+    "error": "HTTP Error 404: Not Found"
+  }
+}
