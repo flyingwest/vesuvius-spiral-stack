@@ -1,0 +1,62 @@
+{
+  "status": "PASS",
+  "checkpoint": "scrollprize/ink_9um/hybrid_3d2d-seed42/step-075000.pth",
+  "cuda_free_before_load_bytes": 102990659584,
+  "cuda_total_bytes": 130662940672,
+  "device": "NVIDIA GB10",
+  "cuda_version": "13.4",
+  "system_meminfo_before": "MemTotal:       127600528 kB\nMemFree:        100576816 kB\nMemAvailable:   118783820 kB\nBuffers:          255876 kB\nCached:         19051136 kB\nSwapCached:       632392 kB\nActive:          3343696 kB\nInactive:       19652676 kB\nActive(anon):    2016588 kB\nInactive(anon):  1851256 kB\nActive(file):    1327108 kB\nInactive(file): 17801420 kB\nUnevictable:       36124 kB\nMlocked:           28024 kB\nSwapTotal:      16777212 kB\nSwapFree:       14762336 kB\nZswap:                 0 kB\nZswapped:              0 kB\nDirty:              7080 kB\nWriteback:             0 kB\nAnonPages:       3707396 kB\nMapped:          1370424 kB\nShmem:            173980 kB\nKReclaimable:     905272 kB\nSlab:            1447600 kB\nSReclaimable:     905272 kB\nSUnreclaim:       542328 kB\nKernelStack:       26608 kB\nShadowCallStack:    6736 kB\nPageTables:        67336 kB\nSecPageTables:     29656 kB\nNFS_Unstable:          0 kB\nBounce:                0 kB\nWritebackTmp:          0 kB\nCommitLimit:    80577476 kB\nCommitted_AS:   22648876 kB\nVmallocTotal:   135288315904 kB\nVmallocUsed:      136392 kB\nVmallocChunk:          0 kB\nPercpu:            28960 kB\nHardwareCorrupted:     0 kB\nAnonHugePages:         0 kB\nShmemHugePages:        0 kB\nShmemPmdMapped:        0 kB\nFileHugePages:    436224 kB\nFilePmdMapped:         0 kB\nCmaTotal:         131072 kB\nCmaFree:           69320 kB\nBalloon:               0 kB\nHugePages_Total:       0\nHugePages_Free:        0\nHugePages_Rsvd:        0\nHugePages_Surp:        0\nHugepagesize:       2048 kB\nHugetlb:               0 kB\n",
+  "gpu_before": "Mon Oct 12 19:32:30 2026       \n+-----------------------------------------------------------------------------------------+\n| NVIDIA-SMI 580.173.02             Driver Version: 580.173.02     CUDA Version: 13.4     |\n+-----------------------------------------+------------------------+----------------------+\n| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |\n| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |\n|                                         |                        |               MIG M. |\n|=========================================+========================+======================|\n|   0  NVIDIA GB10                    On  |   0000000F:01:00.0  On |                  N/A |\n| N/A   43C    P0             11W /  N/A  | Not Supported          |      0%      Default |\n|                                         |                        |                  N/A |\n+-----------------------------------------+------------------------+----------------------+\n\n+-----------------------------------------------------------------------------------------+\n| Processes:                                                                              |\n|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |\n|        ID   ID                                                               Usage      |\n|=========================================================================================|\n|    0   N/A  N/A               1      C   python                                  170MiB |\n+-----------------------------------------------------------------------------------------+\n",
+  "sealed_smoke_sha256": "33a41264c5c1baf2ba36e238d69fb3f98b3a9c851706e4c3d967cfc6b2a379f7",
+  "output_redirect_only": true,
+  "full_T9_rerun": false,
+  "local_llm_dependency": "NONE",
+  "smoke": {
+    "status": "PASS",
+    "download_files_verified": 5523,
+    "checkpoint_hash_verified": true,
+    "shape": [
+      17,
+      128,
+      128
+    ],
+    "model_spacing_um": 9.6,
+    "native_spacing_um": 7.91,
+    "probes": [
+      {
+        "z": 128,
+        "sample_index": 0,
+        "ct_min": 0,
+        "ct_max": 248,
+        "prob_min": 0.2538610100746155,
+        "prob_max": 0.6127732396125793,
+        "prob_center": 0.3057094216346741,
+        "independent_interpolation_max_uint8_error": 0
+      },
+      {
+        "z": 152,
+        "sample_index": 1868,
+        "ct_min": 0,
+        "ct_max": 248,
+        "prob_min": 0.24689629673957825,
+        "prob_max": 0.45786386728286743,
+        "prob_center": 0.2728067934513092,
+        "independent_interpolation_max_uint8_error": 0
+      },
+      {
+        "z": 177,
+        "sample_index": 2305,
+        "ct_min": 0,
+        "ct_max": 248,
+        "prob_min": 0.23074638843536377,
+        "prob_max": 0.8161134123802185,
+        "prob_center": 0.33126258850097656,
+        "independent_interpolation_max_uint8_error": 0
+      }
+    ],
+    "warning": "Finite outputs establish runtime compatibility, not ink localization or correct physical surface placement."
+  },
+  "gpu_after": "Mon Oct 12 19:32:35 2026       \n+-----------------------------------------------------------------------------------------+\n| NVIDIA-SMI 580.173.02             Driver Version: 580.173.02     CUDA Version: 13.4     |\n+-----------------------------------------+------------------------+----------------------+\n| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |\n| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |\n|                                         |                        |               MIG M. |\n|=========================================+========================+======================|\n|   0  NVIDIA GB10                    On  |   0000000F:01:00.0  On |                  N/A |\n| N/A   44C    P0             11W /  N/A  | Not Supported          |      1%      Default |\n|                                         |                        |                  N/A |\n+-----------------------------------------+------------------------+----------------------+\n\n+-----------------------------------------------------------------------------------------+\n| Processes:                                                                              |\n|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |\n|        ID   ID                                                               Usage      |\n|=========================================================================================|\n|    0   N/A  N/A               1      C   python                                  410MiB |\n+-----------------------------------------------------------------------------------------+\n",
+  "system_meminfo_after": "MemTotal:       127600528 kB\nMemFree:        98994680 kB\nMemAvailable:   117436912 kB\nBuffers:          256352 kB\nCached:         19291748 kB\nSwapCached:       632392 kB\nActive:          4650784 kB\nInactive:       19676228 kB\nActive(anon):    3112732 kB\nInactive(anon):  1851256 kB\nActive(file):    1538052 kB\nInactive(file): 17824972 kB\nUnevictable:       36124 kB\nMlocked:           28024 kB\nSwapTotal:      16777212 kB\nSwapFree:       14762336 kB\nZswap:                 0 kB\nZswapped:              0 kB\nDirty:              8960 kB\nWriteback:             0 kB\nAnonPages:       4797212 kB\nMapped:          1540880 kB\nShmem:            180520 kB\nKReclaimable:     906732 kB\nSlab:            1453192 kB\nSReclaimable:     906732 kB\nSUnreclaim:       546460 kB\nKernelStack:       27136 kB\nShadowCallStack:    6868 kB\nPageTables:        71276 kB\nSecPageTables:     30504 kB\nNFS_Unstable:          0 kB\nBounce:                0 kB\nWritebackTmp:          0 kB\nCommitLimit:    80577476 kB\nCommitted_AS:   23799636 kB\nVmallocTotal:   135288315904 kB\nVmallocUsed:      137164 kB\nVmallocChunk:          0 kB\nPercpu:            28960 kB\nHardwareCorrupted:     0 kB\nAnonHugePages:    327680 kB\nShmemHugePages:        0 kB\nShmemPmdMapped:        0 kB\nFileHugePages:    436224 kB\nFilePmdMapped:         0 kB\nCmaTotal:         131072 kB\nCmaFree:           69320 kB\nBalloon:               0 kB\nHugePages_Total:       0\nHugePages_Free:        0\nHugePages_Rsvd:        0\nHugePages_Surp:        0\nHugepagesize:       2048 kB\nHugetlb:               0 kB\n",
+  "causal_scope": "Absence of the old OOM under current resources, not proof that Nemotron was the sole historical cause."
+}

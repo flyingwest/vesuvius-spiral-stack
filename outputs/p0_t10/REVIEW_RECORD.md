@@ -36,3 +36,17 @@ at `9b8c7e25ce2542715b1900dec047c19f3030d818`, still APPROVE-FOR-EVIDENCE.
 Residual MINOR fixed before inference: conditional patch audit now checks
 `result['status'] == 'PASS'`, not the numerical-gates-only `passed` variable,
 so an INCONCLUSIVE bootstrap cannot enter the pass-only branch.
+
+Post-evidence review: APPROVE scientific conclusion A with causal limits.
+MAJOR CLOSED: reviewer independently recomputed median |normal Z|=0.349152
+over10,712 trusted-grid points, checked all finite-difference neighbors and
+nondegenerate cross products, and confirmed median V tilt25.03degrees versus
+T9's enforced scan-Z direction and nz=0. Identically displayed patches show
+repeated cross-cut bands/empty regions in T9. Control passes all frozen gates;
+all49patches and pooling replay exactly, probability maximum error0.
+
+Limits retained: different locations/scans; not true normals at T9 centers;
+producer sign/interpolation flags unavailable; intensity maxima not an oracle
+for ink or seating; training-corpus control; API comparison shares helpers.
+Geometry is implicated, not established as the sole cause. No new scientific
+blocker. Preservation/checksum/Git checks are separate from review approval.

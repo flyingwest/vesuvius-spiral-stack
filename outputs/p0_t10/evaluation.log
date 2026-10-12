@@ -1,0 +1,60 @@
+{
+  "status": "PASS",
+  "invalid_bootstrap_draws": 0,
+  "constant_probability_effect_convention": "d=0 if pooled within-class SD is zero",
+  "shape": [
+    512,
+    512
+  ],
+  "evaluated_pixels": 101188,
+  "ink_pixels": 29245,
+  "nonink_pixels": 71943,
+  "prevalence": 0.2890164841680832,
+  "ROC_AUC": 0.9921294972775162,
+  "PR_AUC_average_precision": 0.9826163152432944,
+  "ROC_AUC_spatial_bootstrap95": [
+    0.982957387599444,
+    0.9982971156156691
+  ],
+  "AP_spatial_bootstrap95": [
+    0.9567837873030408,
+    0.9954990616215842
+  ],
+  "effect_size_d": 4.870368957519531,
+  "positive_probability_quantiles": [
+    0.24824130535125732,
+    0.6018274903297425,
+    0.697845995426178,
+    0.7640852928161621,
+    0.7805448770523071,
+    0.793560528755188,
+    0.8241240382194519
+  ],
+  "negative_probability_quantiles": [
+    0.20842383801937103,
+    0.2221973031759262,
+    0.2356257289648056,
+    0.24369707703590393,
+    0.26968058943748474,
+    0.5596155047416685,
+    0.7614615559577942
+  ],
+  "positive_mean": 0.7320910692214966,
+  "negative_mean": 0.28405922651290894,
+  "threshold": 0.5,
+  "TP": 28470,
+  "FP": 5065,
+  "FN": 775,
+  "TN": 66878,
+  "IoU": 0.8297872340425532,
+  "Dice": 0.9069767441860465,
+  "gates": {
+    "auc_at_least_075": true,
+    "AP_above_prevalence_by_015": true,
+    "effect_above_05": true,
+    "spatial_bootstrap_auc_lower_above_chance": true
+  },
+  "evaluation_mask": "supervision;64pixel crop border excluded; distance to opposite class>2px",
+  "bootstrap": "1000 draws of64x64spatial blocks, seed2910; same-crop uncertainty only",
+  "scope": "training-corpus positive control; not held-out generalization or causal proof about T9"
+}

@@ -1,0 +1,13 @@
+{
+  "T9_MEMORY_RETRY": "PASS",
+  "P0_T10_COMPLETE": "YES",
+  "P0_T10_RESULT": "A",
+  "decision": "MODEL_PIPELINE_VALID_GEOMETRY_MISMATCH",
+  "PREFLIGHT": "CLEAR_WITH_NOTED_DIFFERENCES",
+  "OFFICIAL_CONTROL": "PASS",
+  "MODEL_PIPELINE_VALID": "YES",
+  "THREAD_GEOMETRY_IMPLICATED": "YES",
+  "LOCAL_LLM_DEPENDENCY": "NONE",
+  "READY_FOR_CORRECTION_EXPERIMENT": "YES",
+  "scope": "Training-corpus positive control validates ink sensitivity; measured representation differences implicate geometry, not a sole cause. No correction performed; T9 FAIL unchanged."
+}

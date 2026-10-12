@@ -1,0 +1,553 @@
+Mon Oct 12 14:32:24 2026       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 580.173.02             Driver Version: 580.173.02     CUDA Version: 13.0     |
++-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA GB10                    On  |   0000000F:01:00.0  On |                  N/A |
+| N/A   43C    P0             10W /  N/A  | Not Supported          |      0%      Default |
+|                                         |                        |                  N/A |
++-----------------------------------------+------------------------+----------------------+
+
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|    0   N/A  N/A           50197      G   /usr/lib/xorg/Xorg                      127MiB |
+|    0   N/A  N/A           50283    C+G   ...c/gnome-remote-desktop-daemon        322MiB |
+|    0   N/A  N/A           50351      G   /usr/bin/gnome-shell                    165MiB |
+|    0   N/A  N/A         2471943      G   /usr/bin/gnome-text-editor               33MiB |
+|    0   N/A  N/A         3792080      G   ...rack-uuid=3190708988185955192         63MiB |
++-----------------------------------------------------------------------------------------+
+MemTotal:       127600528 kB
+MemFree:        102136528 kB
+MemAvailable:   119813072 kB
+Buffers:          253872 kB
+Cached:         18480636 kB
+SwapCached:       632392 kB
+Active:          2405932 kB
+Inactive:       19583788 kB
+Active(anon):    1539260 kB
+Inactive(anon):  1851268 kB
+Active(file):     866672 kB
+Inactive(file): 17732520 kB
+Unevictable:       36124 kB
+Mlocked:           28024 kB
+SwapTotal:      16777212 kB
+SwapFree:       14762336 kB
+Zswap:                 0 kB
+Zswapped:              0 kB
+Dirty:              2212 kB
+Writeback:             0 kB
+AnonPages:       3273388 kB
+Mapped:           988704 kB
+Shmem:            130792 kB
+KReclaimable:     903020 kB
+Slab:            1443380 kB
+SReclaimable:     903020 kB
+SUnreclaim:       540360 kB
+KernelStack:       25632 kB
+ShadowCallStack:    6492 kB
+PageTables:        64424 kB
+SecPageTables:     29668 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:    80577476 kB
+Committed_AS:   19987856 kB
+VmallocTotal:   135288315904 kB
+VmallocUsed:      134088 kB
+VmallocChunk:          0 kB
+Percpu:            28960 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:    436224 kB
+FilePmdMapped:         0 kB
+CmaTotal:         131072 kB
+CmaFree:           69320 kB
+Balloon:               0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+CONTAINER ID   IMAGE                                 COMMAND                  CREATED       STATUS                  PORTS                                         NAMES
+b40ee786f10f   ghcr.io/open-webui/open-webui:main    "bash start.sh"          4 days ago    Up 4 days (healthy)     0.0.0.0:3000->8080/tcp, [::]:3000->8080/tcp   open-webui
+59c056573afd   vllm/vllm-openai:v0.24.0-ubuntu2404   "vllm serve nvidia/Q…"   6 weeks ago   Exited (1) 8 days ago                                                 qwen-vllm
+    PID COMMAND           RSS %CPU
+ 989680 python3         568284 0.3
+2982022 hermes          356316 0.4
+  50351 gnome-shell     335356 0.8
+  50283 gnome-remote-de 304284 0.9
+3925196 hermes          297724 0.3
+3757343 hermes          289524 0.3
+3925428 codex           243892 0.1
+ 680327 codex           233348 0.6
+ 648238 codex           222568 0.2
+3792080 chrome          204620 1.1
+3792032 chrome          201988 0.0
+ 648380 python3         193008 0.0
+3925575 python3         190308 0.0
+ 680486 python3         189388 0.1
+3792125 chrome          173584 0.7
+1092924 chrome          154512 0.0
+2080447 codex           122112 0.0
+3792113 chrome          117840 0.0
+3792082 chrome          104808 0.0
+1364482 chrome          70132  0.0
+  51206 gnome-terminal- 61204  0.1
+3792053 chrome          60276  0.0
+   2699 dockerd         58160  0.0
+3792052 chrome          56688  0.0
+3792096 chrome          52048  0.0
+2471943 gnome-text-edit 50888  0.0
+ 189235 codex           49224  0.0
+  50197 Xorg            38024  0.1
+  50995 gjs             38012  0.0
+3320588 fwupd           37036  0.0
+3438435 snapd           35952  0.0
+   2480 containerd      30888  0.1
+ 488001 python3         28656  0.0
+ 687396 python3         27716 96.7
+  50560 evolution-alarm 26064  0.0
+3792201 chrome          25988  0.0
+    688 multipathd      24020  0.0
+ 108269 cups-browsed    23788  0.0
+  50902 xdg-desktop-por 21892  0.0
+3320538 systemd-journal 21080  0.0
+ 483806 NetworkManager  19872  0.0
+   1826 dashboard-servi 18248  0.0
+  50814 tracker-miner-f 17644  0.0
+ 680587 codex-code-mode 17376  0.0
+  50451 evolution-sourc 17104  0.0
+ 492865 gnome-calendar  17076  0.0
+  50499 gsd-power       17040  0.0
+3792055 chrome          16872  0.0
+  50494 gsd-media-keys  16832  0.0
+3925661 codex-code-mode 16704  0.0
+  50561 ibus-extension- 16372  0.0
+  50513 gsd-wacom       16220  0.0
+  50517 gsd-xsettings   16160  0.0
+  50772 evolution-addre 16116  0.0
+  50493 gsd-keyboard    15788  0.0
+ 648663 codex-code-mode 15572  0.0
+   2376 nvidia-dgx-tele 14888  0.0
+  50743 evolution-calen 14616  0.0
+  50486 gsd-color       13428  0.0
+      1 systemd         13168  0.0
+  50917 xdg-desktop-por 12808  0.0
+   1846 polkitd         12464  0.0
+ 108266 cupsd           12452  0.0
+   1825 dashboard-admin 12324  0.0
+  50481 ibus-daemon     12216  0.0
+  50408 mutter-x11-fram 12104  0.0
+1784426 tmux: server    12040  0.0
+  49976 pipewire        11888  0.6
+1375757 python3         11728  0.0
+3149498 python3         11724  0.0
+  49980 pipewire-pulse  11580  0.0
+  49966 systemd         11468  0.0
+  49979 wireplumber     11308  0.0
+  50569 ibus-x11        11240  0.0
+ 989656 containerd-shim 11216  0.0
+  50896 xdg-desktop-por 10364  0.0
+  50319 gnome-session-b 10156  0.0
+  50661 goa-daemon      10124  0.0
+3320551 udisksd          9772  0.0
+   2009 wpa_supplicant   9648  0.0
+   4583 colord           9472  0.0
+3320539 gnome-remote-de  9324  0.0
+  49982 gnome-keyring-d  9020  0.0
+  51154 snapd-desktop-i  8916  0.0
+  50507 gsd-sharing      8904  0.0
+  50524 gvfs-udisks2-vo  8792  0.0
+3631461 gvfsd-dnssd      8340  0.0
+ 493518 snap             8268  0.0
+3320541 systemd-resolve  8260  0.0
+3631450 gvfsd-network    8104  0.0
+  50500 gsd-print-notif  7960  0.0
+  50457 gjs              7764  0.0
+  50873 gvfsd-trash      7712  0.0
+   1899 systemd-logind   7680  0.0
+3320581 upowerd          7676  0.0
+  50781 gjs              7648  0.0
+  50488 gsd-datetime     7452  0.0
+3320597 systemd-udevd    7360  0.0
+3320609 systemd-network  7300  0.0
+  49952 gdm-session-wor  7240  0.0
+   2079 ModemManager     7148  0.0
+   1824 dbus-daemon      7080  0.0
+  50491 gsd-housekeepin  6844  0.0
+1415148 gvfsd-http       6796  0.0
+1963016 gvfsd-recent     6708  0.0
+   2559 gdm3             6608  0.0
+  50411 at-spi2-registr  6504  0.0
+  50305 gvfsd            6484  0.0
+   1820 accounts-daemon  6456  0.0
+  50038 xdg-document-po  6252  0.0
+ 108318 dbus             6244  0.0
+  50511 gsd-sound        6184  0.0
+  50819 ibus-engine-sim  6172  0.0
+ 108317 dbus             6140  0.0
+  50438 gnome-shell-cal  6128  0.0
+3320542 systemd-timesyn  6000  0.0
+ 989747 docker-proxy     5856  0.0
+  50751 gvfs-afc-volume  5792  0.0
+  50649 gvfs-gphoto2-vo  5740  0.0
+  50576 gsd-disk-utilit  5628  0.0
+  49993 dbus-daemon      5616  0.0
+  50270 at-spi-bus-laun  5604  0.0
+  50668 gvfs-mtp-volume  5580  0.0
+  50502 gsd-rfkill       5572  0.0
+  50316 gvfsd-fuse       5452  0.0
+  50220 gnome-session-b  5432  0.0
+   2011 rsyslogd         5268  0.0
+  50510 gsd-smartcard    5248  0.0
+  51049 gvfsd-metadata   5232  0.0
+  50577 ibus-portal      5216  0.0
+   1823 bluetoothd       5184  0.0
+  50483 gsd-a11y-settin  5172  0.0
+  50744 gvfs-goa-volume  5148  0.0
+  50505 gsd-screensaver  5024  0.0
+  50446 dconf-service    4956  0.0
+  50042 xdg-permission-  4816  0.0
+3320543 sshd             4784  0.0
+  50674 gsd-printer      4688  0.0
+   1886 switcheroo-cont  4664  0.0
+  50726 goa-identity-se  4488  0.0
+1093371 bash             4196  0.0
+   1822 avahi-daemon     4060  0.0
+   1877 smartd           3988  0.0
+ 687421 ps               3964  0.0
+3608017 bash             3760  0.0
+  50277 dbus-daemon      3716  0.0
+2124761 bash             3616  0.0
+1898277 ssh-agent        3552  0.0
+ 536131 bash             3548  0.0
+4108056 bash             3384  0.0
+ 687395 bash             3096  0.0
+1784789 tmux: client     2964  0.0
+   2765 rtkit-daemon     2824  0.0
+1784427 bash             2824  0.0
+  50282 gcr-ssh-agent    2756  0.0
+ 494578 bash             2668  0.0
+  50284 gnome-session-c  2624  0.0
+  51217 bash             2560  0.0
+  50558 ibus-dconf       2556  0.0
+3320577 lldpd            2552  0.0
+ 989740 docker-proxy     2520  0.0
+3792044 chrome_crashpad  2284  0.0
+3320594 lldpd            2252  0.0
+  49977 pipewire         2196  0.0
+  50194 gdm-x-session    2184  0.0
+   2421 cron             2128  0.0
+3792046 chrome_crashpad  1992  0.0
+   1859 rasdaemon        1940  0.0
+3792042 cat              1604  0.0
+3792041 cat              1588  0.0
+   1851 nvidia-persiste  1360  0.0
+1474742 bash             1292  0.0
+   4946 agetty           1064  0.0
+   1972 avahi-daemon      508  0.0
+  50049 fusermount3       500  0.0
+  49967 (sd-pam)          420  0.0
+  51091 user-session-he    20  0.0
+      2 kthreadd            0  0.0
+      3 pool_workqueue_     0  0.0
+      4 kworker/R-rcu_g     0  0.0
+      5 kworker/R-sync_     0  0.0
+      6 kworker/R-kvfre     0  0.0
+      7 kworker/R-slub_     0  0.0
+      8 kworker/R-netns     0  0.0
+     10 kworker/0:0H-ev     0  0.0
+     13 kworker/R-mm_pe     0  0.0
+     14 ksoftirqd/0         0  0.0
+     15 rcu_preempt         0  0.0
+     16 rcu_exp_par_gp_     0  0.0
+     17 rcu_exp_gp_kthr     0  0.0
+     18 migration/0         0  0.0
+     19 idle_inject/0       0  0.0
+     20 cpuhp/0             0  0.0
+     21 cpuhp/1             0  0.0
+     22 idle_inject/1       0  0.0
+     23 migration/1         0  0.0
+     24 ksoftirqd/1         0  0.0
+     26 kworker/1:0H-ev     0  0.0
+     27 cpuhp/2             0  0.0
+     28 idle_inject/2       0  0.0
+     29 migration/2         0  0.0
+     30 ksoftirqd/2         0  0.0
+     32 kworker/2:0H-ev     0  0.0
+     33 cpuhp/3             0  0.0
+     34 idle_inject/3       0  0.0
+     35 migration/3         0  0.0
+     36 ksoftirqd/3         0  0.0
+     38 kworker/3:0H-ev     0  0.0
+     39 cpuhp/4             0  0.0
+     40 idle_inject/4       0  0.0
+     41 migration/4         0  0.0
+     42 ksoftirqd/4         0  0.0
+     44 kworker/4:0H-ev     0  0.0
+     45 cpuhp/5             0  0.0
+     46 idle_inject/5       0  0.0
+     47 migration/5         0  0.0
+     48 ksoftirqd/5         0  0.0
+     50 kworker/5:0H-ev     0  0.0
+     51 cpuhp/6             0  0.0
+     52 idle_inject/6       0  0.0
+     53 migration/6         0  0.0
+     54 ksoftirqd/6         0  0.0
+     56 kworker/6:0H-ev     0  0.0
+     57 cpuhp/7             0  0.0
+     58 idle_inject/7       0  0.0
+     59 migration/7         0  0.0
+     60 ksoftirqd/7         0  0.0
+     62 kworker/7:0H-ev     0  0.0
+     63 cpuhp/8             0  0.0
+     64 idle_inject/8       0  0.0
+     65 migration/8         0  0.0
+     66 ksoftirqd/8         0  0.0
+     68 kworker/8:0H-ev     0  0.0
+     69 cpuhp/9             0  0.0
+     70 idle_inject/9       0  0.0
+     71 migration/9         0  0.0
+     72 ksoftirqd/9         0  0.0
+     74 kworker/9:0H-ev     0  0.0
+     75 cpuhp/10            0  0.0
+     76 idle_inject/10      0  0.0
+     77 migration/10        0  0.0
+     78 ksoftirqd/10        0  0.0
+     80 kworker/10:0H-e     0  0.0
+     81 rcu_exp_par_gp_     0  0.0
+     82 cpuhp/11            0  0.0
+     83 idle_inject/11      0  0.0
+     84 migration/11        0  0.0
+     85 ksoftirqd/11        0  0.0
+     87 kworker/11:0H-e     0  0.0
+     88 cpuhp/12            0  0.0
+     89 idle_inject/12      0  0.0
+     90 migration/12        0  0.0
+     91 ksoftirqd/12        0  0.0
+     93 kworker/12:0H-e     0  0.0
+     94 cpuhp/13            0  0.0
+     95 idle_inject/13      0  0.0
+     96 migration/13        0  0.0
+     97 ksoftirqd/13        0  0.0
+     99 kworker/13:0H-e     0  0.0
+    100 cpuhp/14            0  0.0
+    101 idle_inject/14      0  0.0
+    102 migration/14        0  0.0
+    103 ksoftirqd/14        0  0.0
+    105 kworker/14:0H-e     0  0.0
+    106 cpuhp/15            0  0.0
+    107 idle_inject/15      0  0.0
+    108 migration/15        0  0.0
+    109 ksoftirqd/15        0  0.0
+    111 kworker/15:0H-e     0  0.0
+    112 cpuhp/16            0  0.0
+    113 idle_inject/16      0  0.0
+    114 migration/16        0  0.0
+    115 ksoftirqd/16        0  0.0
+    117 kworker/16:0H-e     0  0.0
+    118 cpuhp/17            0  0.0
+    119 idle_inject/17      0  0.0
+    120 migration/17        0  0.0
+    121 ksoftirqd/17        0  0.0
+    123 kworker/17:0H-e     0  0.0
+    124 cpuhp/18            0  0.0
+    125 idle_inject/18      0  0.0
+    126 migration/18        0  0.0
+    127 ksoftirqd/18        0  0.0
+    129 kworker/18:0H-e     0  0.0
+    130 cpuhp/19            0  0.0
+    131 idle_inject/19      0  0.0
+    132 migration/19        0  0.0
+    133 ksoftirqd/19        0  0.0
+    135 kworker/19:0H-e     0  0.0
+    139 kdevtmpfs           0  0.0
+    140 kworker/R-inet_     0  0.0
+    141 rcu_tasks_kthre     0  0.0
+    142 rcu_tasks_rude_     0  0.0
+    143 rcu_tasks_trace     0  0.0
+    144 kauditd             0  0.0
+    145 khungtaskd          0  0.0
+    146 oom_reaper          0  0.0
+    148 kworker/R-write     0  0.0
+    149 kcompactd0          0  0.0
+    150 ksmd                0  0.0
+    151 khugepaged          0  0.0
+    152 kworker/R-kbloc     0  0.0
+    153 kworker/R-blkcg     0  0.0
+    154 kworker/R-kinte     0  0.0
+    157 kworker/u83:0-h     0  0.0
+    158 kworker/R-tpm_d     0  0.0
+    159 kworker/R-ata_s     0  0.0
+    160 kworker/R-md        0  0.0
+    161 kworker/R-md_bi     0  0.0
+    162 kworker/R-edac-     0  0.0
+    164 kworker/R-devfr     0  0.0
+    165 watchdogd           0  0.0
+    167 kworker/R-quota     0  0.0
+    169 kworker/R-ffa_p     0  0.0
+    170 kworker/14:1H-k     0  0.0
+    171 kswapd0             0  0.0
+    172 ecryptfs-kthrea     0  0.0
+    173 kworker/R-kthro     0  0.0
+    174 kworker/R-acpi_     0  0.0
+    176 irq/29-arm-smmu     0  0.0
+    177 irq/30-arm-smmu     0  0.0
+    179 irq/33-arm-smmu     0  0.0
+    180 irq/34-arm-smmu     0  0.0
+    181 irq/37-arm-smmu     0  0.0
+    182 kworker/R-mld       0  0.0
+    185 kworker/R-ipv6_     0  0.0
+    186 kworker/15:1H-k     0  0.0
+    187 kworker/R-kstrp     0  0.0
+    196 kworker/u84:0       0  0.0
+    197 kworker/u85:0       0  0.0
+    201 irq/277-aerdrv      0  0.0
+    202 irq/280-aerdrv      0  0.0
+    203 irq/283-aerdrv      0  0.0
+    204 irq/282-pciehp      0  0.0
+    205 irq/286-aerdrv      0  0.0
+    206 irq/285-pciehp      0  0.0
+    207 irq/289-aerdrv      0  0.0
+    208 irq/288-pciehp      0  0.0
+    209 irq/292-aerdrv      0  0.0
+    210 kworker/R-charg     0  0.0
+    211 kworker/0:1H-kb     0  0.0
+    239 kworker/19:1H-k     0  0.0
+    255 kworker/8:1H-kb     0  0.0
+    257 kworker/4:1H-kb     0  0.0
+    259 kworker/6:1H-kb     0  0.0
+    260 kworker/1:1H-kb     0  0.0
+    276 kworker/5:1H-kb     0  0.0
+    277 kworker/10:1H-k     0  0.0
+    278 kworker/3:1H-kb     0  0.0
+    279 kworker/16:1H-k     0  0.0
+    280 kworker/12:1H-k     0  0.0
+    281 kworker/13:1H-k     0  0.0
+    282 kworker/17:1H-k     0  0.0
+    283 kworker/18:1H-k     0  0.0
+    286 kworker/2:1H-kb     0  0.0
+    288 kworker/11:1H-k     0  0.0
+    289 kworker/7:1H-kb     0  0.0
+    318 hwrng               0  0.0
+    325 kworker/R-tls-s     0  0.0
+    326 kworker/9:1H-kb     0  0.0
+    337 kworker/R-nvme-     0  0.0
+    338 kworker/R-nvme-     0  0.0
+    339 kworker/R-nvme-     0  0.0
+    340 kworker/R-nvme-     0  0.0
+    485 kworker/R-ib-co     0  0.0
+    486 kworker/R-ib-co     0  0.0
+    487 kworker/R-ib_mc     0  0.0
+    488 kworker/R-ib_nl     0  0.0
+    524 kworker/R-raid5     0  0.0
+    577 jbd2/nvme0n1p2-     0  0.0
+    578 kworker/R-ext4-     0  0.0
+    676 kworker/R-ipmi-     0  0.0
+    678 kworker/R-kmpat     0  0.0
+    679 kworker/R-kmpat     0  0.0
+   1008 irq/147-pcie_ho     0  0.0
+   1009 irq/148-pcie_ho     0  0.0
+   1010 cppc_fie            0  0.0
+   1091 kworker/R-cfg80     0  0.0
+   1190 kworker/R-iw_cm     0  0.0
+   1240 kworker/R-rdma_     0  0.0
+   1372 kworker/R-iscsi     0  0.0
+   1392 nv_queue            0  0.0
+   1393 nv_queue            0  0.0
+   1400 nv_open_q           0  0.0
+   1515 kworker/R-rpcio     0  0.0
+   1516 kworker/R-xprti     0  0.0
+   1518 napi/phy0-0         0  0.1
+   1519 napi/phy0-0         0  0.1
+   2319 mt76-tx phy0        0  0.0
+   2332 irq/429-nvidia      0  0.0
+   2334 irq/430-nvidia      0  0.0
+   2335 irq/431-nvidia      0  0.0
+   2336 irq/432-nvidia      0  0.0
+   2337 irq/433-nvidia      0  0.0
+   2338 irq/434-nvidia      0  0.0
+   2339 irq/435-nvidia      0  0.0
+   2340 irq/436-nvidia      0  0.0
+   2341 nvidia              0  0.0
+   2342 nv_queue            0  0.0
+   2343 nvidia-modeset/     0  0.2
+   2344 nvidia-modeset/     0  0.0
+   2478 UVM global queu     0  0.0
+   2487 UVM deferred re     0  0.0
+   2488 UVM Tools Event     0  0.0
+   2852 krfcommd            0  0.0
+   7330 vidmem lazy fre     0  0.0
+   7426 UVM GPU1 BH         0  0.0
+   7428 UVM GPU1 KC         0  0.0
+  50192 kworker/u83:1-h     0  0.0
+ 411315 kworker/17:1-cg     0  0.0
+ 484573 kworker/4:2-cgr     0  0.0
+ 489810 kworker/19:0-ev     0  0.0
+ 562962 kworker/16:0-ev     0  0.0
+ 600470 kworker/6:0-eve     0  0.0
+ 639957 kworker/u80:1-m     0  0.0
+ 640956 kworker/u82:2-k     0  0.0
+ 641707 kworker/18:0-mm     0  0.0
+ 643096 kworker/14:0-cg     0  0.0
+ 644388 kworker/3:2-mm_     0  0.0
+ 645949 kworker/12:1-ev     0  0.0
+ 646087 kworker/9:1-eve     0  0.0
+ 646097 kworker/18:2-ev     0  0.0
+ 646387 kworker/6:1-eve     0  0.0
+ 646586 kworker/u80:3-m     0  0.0
+ 646670 kworker/15:1-mm     0  0.0
+ 646716 kworker/10:1-ev     0  0.0
+ 646974 kworker/8:2-mm_     0  0.0
+ 647556 psimon              0  0.0
+ 648655 kworker/1:0-eve     0  0.0
+ 649267 kworker/2:0-eve     0  0.0
+ 649444 kworker/u81:0-e     0  0.0
+ 649885 kworker/13:0        0  0.0
+ 650458 kworker/14:1-mm     0  0.0
+ 650499 kworker/16:1-mm     0  0.0
+ 650909 kworker/12:2-ev     0  0.0
+ 651002 kworker/11:0-mm     0  0.0
+ 651289 kworker/2:2         0  0.0
+ 651498 kworker/8:1-mm_     0  0.0
+ 651564 kworker/u82:4-k     0  0.0
+ 651707 kworker/9:0-eve     0  0.0
+ 678405 kworker/13:1-mm     0  0.0
+ 678450 kworker/1:2-mm_     0  0.0
+ 679170 kworker/0:2-eve     0  0.0
+ 679179 kworker/4:0-mm_     0  0.0
+ 680024 kworker/5:0-cgr     0  0.0
+ 680223 kworker/7:1-mm_     0  0.0
+ 680732 kworker/0:1-mm_     0  0.0
+ 680870 kworker/3:1-mm_     0  0.0
+ 682108 kworker/u82:5-k     0  0.0
+ 682113 kworker/u82:10-     0  0.0
+ 682240 kworker/17:0-mm     0  0.0
+ 682393 kworker/7:3-mm_     0  0.0
+ 682408 kworker/u81:5-f     0  0.0
+ 682411 kworker/u81:8-k     0  0.0
+ 682417 kworker/u81:11-     0  0.0
+ 684309 kworker/5:1-mm_     0  0.0
+ 684407 kworker/19:2-ev     0  0.0
+ 685904 kworker/15:2-ev     0  0.0
+ 686090 kworker/11:1-ev     0  0.0
+ 686141 kworker/10:0-mm     0  0.0
+ 686168 kworker/9:2-eve     0  0.0
+ 686465 kworker/12:0-ev     0  0.0
+ 686798 kworker/6:2-mm_     0  0.0
+ 686803 kworker/0:0-eve     0  0.0
+ 687088 kworker/u82:0       0  0.0
+ 687298 kworker/1:1-mm_     0  0.0
+ 687327 kworker/19:1-ev     0  0.0
+ 687392 kworker/u80:0       0  0.0
+2779595 codex               0  0.0
+3320604 psimon              0  0.0

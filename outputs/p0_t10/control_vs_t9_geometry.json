@@ -1,0 +1,255 @@
+{
+  "official_surface": {
+    "point": "producer tifxyz curved XYZ map in2.4um scan coordinates",
+    "tangent_frame": "varies over both U and V; measured finite differences of trusted grid",
+    "normal": "full3D cross(U,V); delivered render sign used unchanged",
+    "depth": "producer109planes, nominal center54; source[13,97) pooled4; selected pooled[2,19)",
+    "model_depth_center": "pooled10 averages source53..56; nominal center54.5, +1.2um relative to plane54",
+    "mapping": "XYmean pyramidlevel2 + depthmean4; metadata2.4um ->9.6um",
+    "interpolation": "consume exact producer-rendered CT; current reference renderer uses trilinear CT sampling; production interpolation/flip flags not recorded",
+    "normalization": "same official robust_mad/tifxyz_robust function as T9",
+    "patch": [
+      17,
+      128,
+      128
+    ],
+    "sampling": "contiguous curved-surface pixels at9.6um; stride64, Hann blend"
+  },
+  "T9": {
+    "point": "independently traced transverse CT contour on126.56um grid, mapped native=16*level4",
+    "tangent_frame": "single fixed XYtangent per patch; other in-plane axis exactly scanZ",
+    "normal": "saved(-ty,tx,0), constant per patch; no out-of-plane normal component",
+    "depth": "17symmetric offsets -8..8; center exactly saved trace point",
+    "model_depth_center": "index8 at frozen trace; actual papyrus seating uncalibrated",
+    "mapping": "native7.91um trilinear sample step9.6/7.91; no native high-resolution averaging",
+    "interpolation": "scipy order1 float32; half-even round to uint8",
+    "normalization": "same official robust_mad/tifxyz_robust function as control",
+    "patch": [
+      17,
+      128,
+      128
+    ],
+    "sampling": "one center probability per63.28um s and126.56um scanZ; no cross-Z alignment"
+  },
+  "measured_official_frame": {
+    "grid_region_yx": [
+      819,
+      922,
+      1049,
+      1153
+    ],
+    "valid_grid_points": 10712,
+    "surface_normal_abs_z_quantiles": [
+      0.0001553444476351677,
+      0.34915223199256795,
+      0.7236006229075634,
+      0.9022529279913442
+    ],
+    "U_tangent_abs_z_quantiles": [
+      9.636403154075692e-05,
+      0.2240524292714026,
+      0.30071413460310786,
+      0.36544249892038216
+    ],
+    "V_deviation_from_scanZ_degrees_quantiles": [
+      0.20938587153869231,
+      25.03442976341932,
+      48.86870913134599,
+      67.52921094285146
+    ],
+    "normal_variation_about_mean_degrees_quantiles": [
+      0.15707833296792267,
+      28.216764489316276,
+      57.708130805319016,
+      110.26805314390668
+    ],
+    "convention": "geometric diagnostic N=dP/dU cross dP/dV; delivered depth sign preserved, producer flip flag not recorded in source attrs",
+    "coordinate_caveat": "approximate grid bounds from documented scale; not an independent subpixel registration or rerender"
+  },
+  "confounders": [
+    "different scan: control78keV2.4um vs T9 54keV7.91um",
+    "training-corpus control, not generalization",
+    "control locations do not coincide with T9 samples",
+    "T9 sparse raster and independently traced paths vs contiguous surface coordinates"
+  ],
+  "causal_limit": "These differences implicate geometric representation if control is positive; they do not isolate a sole cause or establish a repair.",
+  "fixed_patch_audit": [
+    {
+      "T9_z": 128,
+      "control_origin_yx": [
+        128,
+        128
+      ],
+      "control": {
+        "mean_intensity_by_depth": [
+          97.48968505859375,
+          97.11322021484375,
+          97.63580322265625,
+          99.5250244140625,
+          101.40704345703125,
+          100.4068603515625,
+          97.69671630859375,
+          92.40936279296875,
+          86.0413818359375,
+          81.88201904296875,
+          78.84783935546875,
+          76.19586181640625,
+          75.41973876953125,
+          76.1094970703125,
+          79.1182861328125,
+          81.97833251953125,
+          82.15460205078125
+        ],
+        "mean_profile_peak_index": 4,
+        "column_peak_at_depth_edge_fraction": 0.15435791015625,
+        "column_peak_within_center2_fraction": 0.263916015625,
+        "zero_voxel_fraction": 0.0,
+        "warning": "Intensity peaks are CT occupancy diagnostics, not ink labels or an oracle surface."
+      },
+      "T9": {
+        "mean_intensity_by_depth": [
+          48.32965087890625,
+          49.100341796875,
+          52.70458984375,
+          58.22882080078125,
+          64.8326416015625,
+          71.72747802734375,
+          78.0543212890625,
+          82.61016845703125,
+          83.88311767578125,
+          82.13134765625,
+          79.015869140625,
+          76.702392578125,
+          77.37225341796875,
+          81.37310791015625,
+          87.60076904296875,
+          94.147705078125,
+          99.68408203125
+        ],
+        "mean_profile_peak_index": 16,
+        "column_peak_at_depth_edge_fraction": 0.251220703125,
+        "column_peak_within_center2_fraction": 0.3115234375,
+        "zero_voxel_fraction": 0.16252585018382354,
+        "warning": "Intensity peaks are CT occupancy diagnostics, not ink labels or an oracle surface."
+      }
+    },
+    {
+      "T9_z": 152,
+      "control_origin_yx": [
+        192,
+        192
+      ],
+      "control": {
+        "mean_intensity_by_depth": [
+          84.17340087890625,
+          83.32843017578125,
+          84.76361083984375,
+          87.43133544921875,
+          87.80206298828125,
+          84.0390625,
+          80.9146728515625,
+          78.07147216796875,
+          74.85528564453125,
+          72.69647216796875,
+          70.3380126953125,
+          68.15753173828125,
+          67.7767333984375,
+          69.33526611328125,
+          71.0107421875,
+          70.8546142578125,
+          69.34527587890625
+        ],
+        "mean_profile_peak_index": 4,
+        "column_peak_at_depth_edge_fraction": 0.1756591796875,
+        "column_peak_within_center2_fraction": 0.194091796875,
+        "zero_voxel_fraction": 0.0,
+        "warning": "Intensity peaks are CT occupancy diagnostics, not ink labels or an oracle surface."
+      },
+      "T9": {
+        "mean_intensity_by_depth": [
+          67.2803955078125,
+          67.26220703125,
+          66.9329833984375,
+          66.38311767578125,
+          65.89520263671875,
+          65.5147705078125,
+          65.60833740234375,
+          65.8465576171875,
+          65.8106689453125,
+          65.36126708984375,
+          64.37261962890625,
+          62.9825439453125,
+          61.30035400390625,
+          59.83209228515625,
+          58.86749267578125,
+          58.10443115234375,
+          57.3731689453125
+        ],
+        "mean_profile_peak_index": 0,
+        "column_peak_at_depth_edge_fraction": 0.261962890625,
+        "column_peak_within_center2_fraction": 0.258544921875,
+        "zero_voxel_fraction": 0.24715288947610295,
+        "warning": "Intensity peaks are CT occupancy diagnostics, not ink labels or an oracle surface."
+      }
+    },
+    {
+      "T9_z": 177,
+      "control_origin_yx": [
+        256,
+        256
+      ],
+      "control": {
+        "mean_intensity_by_depth": [
+          67.63409423828125,
+          71.75689697265625,
+          79.0892333984375,
+          83.6044921875,
+          85.47088623046875,
+          83.59613037109375,
+          78.77642822265625,
+          73.24066162109375,
+          67.80401611328125,
+          63.852783203125,
+          61.805419921875,
+          60.8502197265625,
+          60.52197265625,
+          60.870849609375,
+          60.6328125,
+          60.87591552734375,
+          62.08465576171875
+        ],
+        "mean_profile_peak_index": 4,
+        "column_peak_at_depth_edge_fraction": 0.06793212890625,
+        "column_peak_within_center2_fraction": 0.306640625,
+        "zero_voxel_fraction": 0.0,
+        "warning": "Intensity peaks are CT occupancy diagnostics, not ink labels or an oracle surface."
+      },
+      "T9": {
+        "mean_intensity_by_depth": [
+          79.7547607421875,
+          79.79510498046875,
+          80.18902587890625,
+          80.9373779296875,
+          81.720703125,
+          82.34161376953125,
+          83.01348876953125,
+          84.1644287109375,
+          85.66925048828125,
+          87.35906982421875,
+          88.659912109375,
+          89.6473388671875,
+          90.49072265625,
+          91.26873779296875,
+          92.2510986328125,
+          93.038818359375,
+          93.71380615234375
+        ],
+        "mean_profile_peak_index": 16,
+        "column_peak_at_depth_edge_fraction": 0.251220703125,
+        "column_peak_within_center2_fraction": 0.26043701171875,
+        "zero_voxel_fraction": 0.09951602711397059,
+        "warning": "Intensity peaks are CT occupancy diagnostics, not ink labels or an oracle surface."
+      }
+    }
+  ]
+}
