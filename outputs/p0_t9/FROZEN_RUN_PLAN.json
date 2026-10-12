@@ -1,0 +1,19 @@
+{
+  "source_revision": "fb8c2c4c2705746eefb42e9bb359560906f391e2",
+  "container_digest": "nvcr.io/nvidia/pytorch@sha256:3becd068f49bd2ad38f90db5f9a4803019a76933a24e63d821376c44e7a9200a",
+  "model_revision": "7109667e2607db1b90c37c8b09cb876ea7fe7bb1",
+  "checkpoint_sha256": "e635558ae6a1a807a7e5ec1e83adfd45bc3c0ac53883ea43f1d4e085d62a9cab",
+  "input_normalization": "official robust_mad; no fitted preprocessing",
+  "geometry_scale": "metadata scale-only16; no hidden half-voxel correction",
+  "inference_scope": "all130629 valid centers, only one checkpoint, 96 fixed orientation/depth sensitivity probes",
+  "evaluation": "unchangedT6/T7 correlation and local-window controls; components above raw0.5 with4-connectivity;199 independently row-shifted controls; visuals use official clip((p-.25)/.5)",
+  "interpretation": "pass requires persistent structure plus visual evidence, not correlation alone; overlapping native contexts induce dependence; Paris4 is in official training corpus, not an independent held-out-scroll claim",
+  "code_hashes": {
+    "scripts/p0_t9_infer.py": "3980c0e1f12dfb9cd5e0cb98f2d01ac04427af56b83dc52bbc2ac95b5bb80fc8",
+    "scripts/p0_t9_acquire.py": "06e4f8e363e3dbc7d6772804cfe2832139a33e2e0db9d74318a38899eb1d0460",
+    "scripts/p0_t9_runtime_check.py": "81c39d12d2bb3df30e5d3bbbe6896e37facad63f0f692bd9666bc177d197de41",
+    "scripts/p0_t9_evaluate.py": "2acb8f4da00d8a92795539e537c60f80fa6bf1f060253826b90f3e1e500b4dc1",
+    "scripts/p0_t9_smoke.py": "33a41264c5c1baf2ba36e238d69fb3f98b3a9c851706e4c3d967cfc6b2a379f7",
+    "scripts/p0_t9_preflight.py": "84e31162012fbf02438100e1cd42bac2e2958add75ab157967db77c39c1083d6"
+  }
+}

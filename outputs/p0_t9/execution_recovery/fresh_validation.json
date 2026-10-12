@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "utc": "2026-10-11T19:55:12.182446+00:00",
+  "backend": "exec_command require_escalated local shell; sandbox bypassed",
+  "chunks": 5523,
+  "bytes": 4443682806,
+  "representative_hashes_checked": 33,
+  "acquisition_manifest_sha256": "62a330398bf2d4c6657e91e8ac91418f23a1b7dc20ebb51c5c45329b3e5ce6b9",
+  "native_chunk_budget_sha256": "153c65ea185ed8bc3c29f6d51122a03c95d8da24e4aa41c9e8b399de5f529a42",
+  "checkpoint_hash_verified": true,
+  "frozen_code_hashes_verified": true,
+  "prior_files_preserved": 2892
+}

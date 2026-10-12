@@ -1,0 +1,18 @@
+{
+  "reverse": {
+    "mean_absolute_difference": 0.07654965156689286,
+    "max_absolute_difference": 0.4123246669769287,
+    "pearson_r": 0.31989835507997033
+  },
+  "minus2": {
+    "mean_absolute_difference": 0.0481314769325157,
+    "max_absolute_difference": 0.2624945342540741,
+    "pearson_r": 0.7420362227896482
+  },
+  "plus2": {
+    "mean_absolute_difference": 0.03812450294693311,
+    "max_absolute_difference": 0.32143259048461914,
+    "pearson_r": 0.7782460626594565
+  },
+  "probes": 96
+}

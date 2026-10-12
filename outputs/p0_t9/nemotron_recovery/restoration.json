@@ -1,0 +1,52 @@
+{
+  "container_id": "461b46345448e70ea9de9fdb196a1ed9d957a21f8cea8446b6b06b990ad1825d",
+  "running": true,
+  "original_configuration_unchanged": true,
+  "health_http_status": 200,
+  "model_ids": [
+    "nemotron-nano-agent"
+  ],
+  "model_ids_match_before_stop": true,
+  "requested_model_id": "nemotron_3_nano_omni",
+  "requested_model_id_present": false,
+  "short_inference_success": true,
+  "response": {
+    "id": "chatcmpl-9b544972d59acf47",
+    "object": "chat.completion",
+    "created": 1791776970,
+    "model": "nemotron-nano-agent",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "OK",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": [],
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "prompt_tokens": 23,
+      "total_tokens": 25,
+      "completion_tokens": 2,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "kv_transfer_params": null
+  },
+  "operational_health": "PASS",
+  "requested_model_name_check": "FAIL",
+  "note": "The pre-existing served name was preserved; no configuration changes were made."
+}

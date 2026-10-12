@@ -1,0 +1,15 @@
+{
+  "nemotron_gpu_allocation_before_MiB": 91740,
+  "nemotron_gpu_allocation_after_MiB": 0,
+  "removed_reported_process_allocation_MiB": 91740,
+  "before_mem_available_bytes": 24288256000,
+  "after_mem_available_bytes": 123138142208,
+  "available_memory_increase_bytes": 98849886208,
+  "cuda_after_stop": {
+    "device": "NVIDIA GB10",
+    "cuda": "13.4",
+    "free_bytes": 100837851136,
+    "total_bytes": 130662940672
+  },
+  "note": "GB10 uses unified memory; nvidia-smi aggregate GPU memory is unsupported. Freed amount is the removed process allocation, not a directly measured total GPU-memory delta."
+}

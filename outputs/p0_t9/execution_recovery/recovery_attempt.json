@@ -1,0 +1,16 @@
+{
+  "utc": "2026-10-11T19:55:51.703920+00:00",
+  "execution_backend": "exec_command require_escalated local shell",
+  "RTM_NEWADDR_bypassed": true,
+  "acquisition_complete": true,
+  "all_chunk_hashes_reverified": 5523,
+  "fresh_smoke": "FAIL",
+  "fresh_smoke_exit_code": 1,
+  "failure_stage": "model.cuda(); before fresh CT patch inference",
+  "error": "torch.AcceleratorError: CUDA error: out of memory",
+  "full_inference": "NOT_STARTED",
+  "prior_files_preserved": 2892,
+  "scientific_inputs_or_parameters_changed": false,
+  "previous_smoke_PASS_is_not_fresh_validation": true,
+  "next_step": "Await authorization to temporarily stop resident GPU model server; no download actions."
+}

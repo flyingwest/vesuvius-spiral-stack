@@ -1,0 +1,307 @@
+{
+  "shared_archive_failures": [
+    {
+      "attempt": 0,
+      "type": "error",
+      "error": "Error -3 while decompressing data: invalid stored block lengths"
+    },
+    {
+      "attempt": 1,
+      "type": "BadZipFile",
+      "error": "Bad CRC-32 for file 'normal.npy'"
+    },
+    {
+      "attempt": 2,
+      "type": "error",
+      "error": "Error -3 while decompressing data: invalid block type"
+    },
+    {
+      "attempt": 3,
+      "type": "error",
+      "error": "Error -3 while decompressing data: invalid block type"
+    },
+    {
+      "attempt": 4,
+      "type": "error",
+      "error": "Error -3 while decompressing data: invalid stored block lengths"
+    },
+    {
+      "attempt": 5,
+      "type": "error",
+      "error": "Error -3 while decompressing data: invalid block type"
+    },
+    {
+      "attempt": 6,
+      "type": "BadZipFile",
+      "error": "Overlapped entries: 'xy.npy' (possible zip bomb)"
+    },
+    {
+      "attempt": 7,
+      "type": "BadZipFile",
+      "error": "Overlapped entries: 'xy.npy' (possible zip bomb)"
+    },
+    {
+      "attempt": 8,
+      "type": "BadZipFile",
+      "error": "Overlapped entries: 'xy.npy' (possible zip bomb)"
+    },
+    {
+      "attempt": 9,
+      "type": "BadZipFile",
+      "error": "Overlapped entries: 'xy.npy' (possible zip bomb)"
+    },
+    {
+      "attempt": 10,
+      "type": "BadZipFile",
+      "error": "Overlapped entries: 'xy.npy' (possible zip bomb)"
+    },
+    {
+      "attempt": 11,
+      "type": "error",
+      "error": "Error -3 while decompressing data: invalid distance too far back"
+    },
+    {
+      "attempt": 12,
+      "type": "BadZipFile",
+      "error": "Overlapped entries: 'xy.npy' (possible zip bomb)"
+    },
+    {
+      "attempt": 13,
+      "type": "BadZipFile",
+      "error": "Overlapped entries: 'xy.npy' (possible zip bomb)"
+    },
+    {
+      "attempt": 14,
+      "type": "error",
+      "error": "Error -3 while decompressing data: invalid stored block lengths"
+    },
+    {
+      "attempt": 15,
+      "type": "error",
+      "error": "Error -3 while decompressing data: invalid block type"
+    },
+    {
+      "attempt": 16,
+      "type": "error",
+      "error": "Error -3 while decompressing data: invalid stored block lengths"
+    },
+    {
+      "attempt": 17,
+      "type": "BadZipFile",
+      "error": "Overlapped entries: 'normal.npy' (possible zip bomb)"
+    },
+    {
+      "attempt": 18,
+      "type": "BadZipFile",
+      "error": "Bad CRC-32 for file 'tangent.npy'"
+    },
+    {
+      "attempt": 19,
+      "type": "error",
+      "error": "Error -3 while decompressing data: invalid stored block lengths"
+    }
+  ],
+  "eager_arrays_serial_and_threaded_exact": true,
+  "archives_verified": [
+    {
+      "z": 128,
+      "sha256": "5bb28474ea70dbd273d17eb7ad5562c37f53b28cc3a3fbd491f33d6df39aa4fc"
+    },
+    {
+      "z": 129,
+      "sha256": "8ea88c65b4b8f8bdbaa6a581d362443836e17567cf64f9f394958b4657d8dccb"
+    },
+    {
+      "z": 130,
+      "sha256": "efe4b6ed1e1e8441c056cbf60c427f3a73d150647969cd27ecb6ff2c0febc684"
+    },
+    {
+      "z": 131,
+      "sha256": "2ce1db18f7fb79856ef2153f3db551160fe212d76b0e0a9e5853a0056e048344"
+    },
+    {
+      "z": 132,
+      "sha256": "05ee0cc82f8f1b9d2b55647f3b892be5baa4f240a6618a7ab4606c4e74476e73"
+    },
+    {
+      "z": 133,
+      "sha256": "9287e393089fc8c884de63fd499c47b797aaddaf50be1abe85a37530b25f1324"
+    },
+    {
+      "z": 134,
+      "sha256": "513065ce627b3743179eda59c08841c1d01bf0a5a6ae69bc1fe59fdc1cf07089"
+    },
+    {
+      "z": 135,
+      "sha256": "1f39d0ed63f7c31bd97599566fefcfdbd41952f92b57f3c6b4c9c458e281c163"
+    },
+    {
+      "z": 136,
+      "sha256": "f816e82876ba876f29fc1f329dae86fa7a41b87672a90ab92401021a2ca84bba"
+    },
+    {
+      "z": 137,
+      "sha256": "38e8e2cb5eb9617ba6a1ae93fbdf7e74184e16090200e56c180291bc5ded8083"
+    },
+    {
+      "z": 138,
+      "sha256": "42e71f723c7508085a88b8ee532c78335164b5bf492577e2fa52ebeacec0d55c"
+    },
+    {
+      "z": 139,
+      "sha256": "f0625627732bf7902fe25a5cdb84f00cd0b2d4eb284696ba1813d90adfe2637f"
+    },
+    {
+      "z": 140,
+      "sha256": "659efcd52bf4d1e24ed49e0aead7040089509cca3a88d925fc5765bea211666f"
+    },
+    {
+      "z": 141,
+      "sha256": "aef3c6286652493c382ddef4c8ad6ac838b0f955f8dc90ab58c88ef7ce4e2e44"
+    },
+    {
+      "z": 142,
+      "sha256": "0120afd71af6e7466beef500c3ace71242e943f5536926a1dacbb931553132b2"
+    },
+    {
+      "z": 143,
+      "sha256": "6d62c1c70a75361cc2f9028019ce7e89ed560152ca200e505a246246f2d52b36"
+    },
+    {
+      "z": 144,
+      "sha256": "5b3592c51061d8a6a5cf58202ef951d5b518cf7ba57259f73325b28deaf5da61"
+    },
+    {
+      "z": 145,
+      "sha256": "d155a11d8eb71eeaa2db3a1a9ae3efff1596b391a8bf8bb1809e0ad4cc91e0f5"
+    },
+    {
+      "z": 146,
+      "sha256": "d6734f17946af0a880feeedbd376c8aff7ac120a084edaef7091336dfa893c92"
+    },
+    {
+      "z": 147,
+      "sha256": "295d56c7e5d172e480f28385aad00c70266bf2a2b589bc6fb6ef0fb381e4aca5"
+    },
+    {
+      "z": 148,
+      "sha256": "712ddd96d58be0fa80dfb87781fa3c16b448dfa8f82baf642efaa846ccbcf041"
+    },
+    {
+      "z": 149,
+      "sha256": "8ab7cd822252a45c705c0b9074928321e88de2d1e885b83718cb9c91dfdd34af"
+    },
+    {
+      "z": 150,
+      "sha256": "ec2ca5bc113f9089991760a8c68575345e9ac3d932702253b37a02cf9ea05d50"
+    },
+    {
+      "z": 151,
+      "sha256": "8aca49dab85311dc224c58d8a3012ec28839dffda5e0dfc21fb4850c10418712"
+    },
+    {
+      "z": 152,
+      "sha256": "f7f27f3cdc4cf15f8293f45cbe6124003863c0af5f3401526f0e20d0bbf06745"
+    },
+    {
+      "z": 153,
+      "sha256": "6e96e0a2fdac34eed6a475b6e7f67ec9f7a3297b4e9989913c7f0173e8fb8e22"
+    },
+    {
+      "z": 154,
+      "sha256": "622fabeeef7977512173d1945beca9aa0179361a48a9837c9f902f39a9b8b949"
+    },
+    {
+      "z": 155,
+      "sha256": "c65de2e73932b30807b3ce24dbefeaae8290b6acf06bf9fa98ba7a8b4d382a57"
+    },
+    {
+      "z": 156,
+      "sha256": "c7f0eb0bbdf398c074a876b207af80db3904750628201882c05ac2115dcb27d4"
+    },
+    {
+      "z": 157,
+      "sha256": "bdfb83841fd353b29716776f3eb5285a232f80d548eda032c6b7d09fcddd5bbd"
+    },
+    {
+      "z": 158,
+      "sha256": "bd308c99185faf865be016cc7afc1f25fdb2797a39a4b9e36728207b710c7967"
+    },
+    {
+      "z": 159,
+      "sha256": "0c06fca64fe415b50509df9d8ea056012a778ca08282b3ff38037d0281a43bc4"
+    },
+    {
+      "z": 160,
+      "sha256": "b4f91e148d897ffe274933d18423d77ccfafeed60570d405e159446415065af0"
+    },
+    {
+      "z": 161,
+      "sha256": "8b197963ef3ce240c5ee4fb6dec79c8814dabea076e86a53fdb4d286f4a796af"
+    },
+    {
+      "z": 162,
+      "sha256": "41b826f18aabd9d12cb71ac265dc0e9b3d3868c259f4414697d202abf6082f07"
+    },
+    {
+      "z": 163,
+      "sha256": "d2c44845c27e50bad63e5830f8abcbb8840050c81022278ad1bac91d0ff2ce4e"
+    },
+    {
+      "z": 164,
+      "sha256": "cf551ff7c294e4bc41314ca3dfce9a4a51fbd727992f4813e9e4fcf478a1eb92"
+    },
+    {
+      "z": 165,
+      "sha256": "551e6cee39a056c381de7952ae61d8ae78d54d5d0d58de7f5aaedd22011b4261"
+    },
+    {
+      "z": 166,
+      "sha256": "e44516b1cb57f6c4af3f69463e86ad97cdd557129f051d40d0da67f317c0dc66"
+    },
+    {
+      "z": 167,
+      "sha256": "e0edc6243729ebbd7868978498a264b3ed529d84017555aeb949c7134a7de02c"
+    },
+    {
+      "z": 168,
+      "sha256": "9163848e35f77c54c17f774a4360891cef2a6292a5e47637f2a991a08e28b88b"
+    },
+    {
+      "z": 169,
+      "sha256": "78e5e68306d85b0f94d6cc47c8f63d6d452a7b9bf0ee1bcf2d45e050a9238ebb"
+    },
+    {
+      "z": 170,
+      "sha256": "ea3c82067bd5b7ee646436a3f4e454d934a26c71f37bad8c367abe24f22bf98d"
+    },
+    {
+      "z": 171,
+      "sha256": "8a8b35d45d90ef9fe52d7bcaea722c6a545665bc7cb18c6853d8d5e799169b52"
+    },
+    {
+      "z": 172,
+      "sha256": "05ff3ed5dda95be0ac63fde6c2d0a826760054f7466fc376574bc6d1b7be24f0"
+    },
+    {
+      "z": 173,
+      "sha256": "157db10afe7dfa425ce96a9c18968908f0142bc09176dd167bc8a8799e1e1c1d"
+    },
+    {
+      "z": 174,
+      "sha256": "ef1cfc93f122b45af16992950a91c87a45018fbd54345155019cdb29517f3341"
+    },
+    {
+      "z": 175,
+      "sha256": "80e75be36149e1e847e0a25fbfab7d5c7516e38455e0c0e2833972250f58a292"
+    },
+    {
+      "z": 176,
+      "sha256": "26baee6d83551048024a7dc208014e461652aeafb51aa78e9a2da9ca8fdc38c2"
+    },
+    {
+      "z": 177,
+      "sha256": "3f37cb11048bb5bbca801f0175ac71cce5bb550bd01f1c4f43d7a687d9e739fd"
+    }
+  ]
+}

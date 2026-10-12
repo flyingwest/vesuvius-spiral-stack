@@ -1,0 +1,32 @@
+{
+  "center_intensity": {
+    "fixed_range": [
+      0,
+      255
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      54.19900999384547,
+      140.52678196598515
+    ],
+    "definition": "frozen T5 baseline"
+  },
+  "ink_probability": {
+    "fixed_range": [
+      0,
+      1
+    ],
+    "global_contrast_percentiles": [
+      1,
+      99
+    ],
+    "contrast_range": [
+      0.23096853554248808,
+      0.6541063427925111
+    ],
+    "definition": "fixed official pretrained model"
+  }
+}

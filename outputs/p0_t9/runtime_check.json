@@ -1,0 +1,17 @@
+{
+  "official_import": "PASS",
+  "strict_state_dict": "PASS",
+  "patch_size": 128,
+  "input_depth": 17,
+  "preprocessing": "tifxyz_robust",
+  "smoke_input": "zeros only for runtime test; never used as scientific CT evidence",
+  "cuda_forward": "PASS",
+  "three_forward_seconds": 0.9541996400803328,
+  "output_shape": [
+    1,
+    1,
+    128,
+    128
+  ],
+  "peak_allocated_bytes": 177996800
+}

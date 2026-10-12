@@ -1,0 +1,21 @@
+{
+  "source": "https://dl.ash2txt.org/full-scrolls/Scroll1/PHercParis4.volpkg/volumes_zarr_standardized/54keV_7.91um_Scroll1A.zarr/",
+  "native_spacing_um": 7.91,
+  "frozen_geometry_spacing_um": 126.56,
+  "geometry_native_transform": "native index =16*level4 index, as published scale-only .zattrs; voxel-center offset is not independently calibrated",
+  "model_spacing_um": 9.6,
+  "model_native_step": 1.2136536030341338,
+  "patch_dyx": [
+    17,
+    128,
+    128
+  ],
+  "patch_axes": "depth=normal in scanXY; modelY=scanZ; modelX=frozen tangent in scanXY",
+  "normal": "reuse exact T6 normal=(-ty,tx), centered depth0 primary; no cross-Z tangent estimation",
+  "center": "even128 patch geometric center63.5, center prediction bilinear mean of four central output pixels",
+  "small_diagnostic": "fixed subset only: reverse normal and depth+/-2 model voxels; no image-driven selection",
+  "native_chunk_count": 5523,
+  "decoded_chunk_bytes": 11582570496,
+  "valid_centers": 130629,
+  "no_CT_chunks_downloaded_yet": true
+}

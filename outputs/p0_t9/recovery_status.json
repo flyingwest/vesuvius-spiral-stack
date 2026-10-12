@@ -1,0 +1,29 @@
+{
+  "download_status": "RECOVERED",
+  "download_complete": true,
+  "bytes_before": 4443682806,
+  "bytes_after_60s_wait": 4443682806,
+  "chunks_before": 5523,
+  "chunks_after_60s_wait": 5523,
+  "measurement_interval_seconds": 81.28460264205933,
+  "explicit_wait_seconds": 60,
+  "stall_confirmed": false,
+  "reason_counters_unchanged": "All5523expectedobjects already complete; no downloader remained.",
+  "all_file_sizes_and_hashes_verified": true,
+  "partial_files": 0,
+  "model_load": "PASS in completed real-CT smoke test",
+  "real_ct_smoke": "PASS",
+  "full_inference": "BLOCKED before first row, CUDA out of memory atmodel.cuda()",
+  "gpu_other_process": {
+    "pid": 2659531,
+    "name": "VLLM::EngineCore",
+    "reported_memory_MiB": 91740
+  },
+  "cause_certainty": "CUDAallocationfailure observed; competingGPUmemory is a plausible resource cause, not independently proven sole cause",
+  "geometry_or_inference_parameters_changed": false,
+  "next_action": "Owner must make sufficientGPUmemory available without changingT9settings; then run exact resume command. No redownload or upstream reconstruction required.",
+  "resume_command": "docker run --rm --gpus all -v /home/wpotech/deployments/vesuvius-spiral-stack:/work -w /work -e PYTHONPATH=/work/data/cache/p0_t9/python_site:/work/external/villa/vesuvius/src nvcr.io/nvidia/pytorch@sha256:3becd068f49bd2ad38f90db5f9a4803019a76933a24e63d821376c44e7a9200a python -B scripts/p0_t9_infer.py",
+  "P0_T9_COMPLETE": "NO",
+  "scientific_result": "UNFINISHED; no stack or scientificPASS/PARTIAL/FAIL assigned",
+  "no_T9_workers_remain": true
+}

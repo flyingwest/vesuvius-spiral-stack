@@ -1,0 +1,18 @@
+{
+  "container_id": "461b46345448e70ea9de9fdb196a1ed9d957a21f8cea8446b6b06b990ad1825d",
+  "image_id": "sha256:bf05c8a0d56f7ed2fe279e0c0c876dd2bb813dd34702d975fa6ab640860ce825",
+  "running": true,
+  "restart_policy": {
+    "Name": "unless-stopped",
+    "MaximumRetryCount": 0
+  },
+  "mounts": [
+    {
+      "source": "/home/wpotech/models/nemotron-3-nano-nvfp4",
+      "destination": "/model",
+      "source_exists": true
+    }
+  ],
+  "health_http_status": 200,
+  "note": "Existing local model mounts and healthy server verified; restart success cannot be guaranteed in advance. No environment secrets inspected or printed."
+}

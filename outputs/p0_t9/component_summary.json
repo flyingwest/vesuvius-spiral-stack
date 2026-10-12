@@ -1,0 +1,22 @@
+{
+  "components_spanning3rows": {
+    "observed": 14,
+    "null95": 10.0,
+    "empirical_upper_tail_p": 0.005
+  },
+  "samples_in_components_spanning3rows": {
+    "observed": 99,
+    "null95": 71.1,
+    "empirical_upper_tail_p": 0.005
+  },
+  "largest_vertical_span": {
+    "observed": 4,
+    "null95": 4.0,
+    "empirical_upper_tail_p": 0.23
+  },
+  "largest_component_samples": {
+    "observed": 20,
+    "null95": 18.0,
+    "empirical_upper_tail_p": 0.01
+  }
+}

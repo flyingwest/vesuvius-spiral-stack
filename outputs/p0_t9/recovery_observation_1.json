@@ -1,0 +1,8 @@
+{
+  "time": 1791726548.1664474,
+  "files": 417,
+  "bytes": 341180981,
+  "latest_mtime": 1791669388.5673983,
+  "partials": 0,
+  "network": "Inter-|   Receive                                                |  Transmit\n face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed\n    lo: 6985693377 70299727    0    0    0     0          0         0 6985693377 70299727    0    0    0     0       0          0\nenP7s7:       0       0    0    0    0     0          0         0        0       0    0    0    0     0       0          0\nwlP9s9: 82086155861 66450144    0    0    0     0          0         0 14066350478 39015266    0  260    0     0       0          0\ndocker0: 97512028  806489    0    0    0     0          0         0 987101556 1004015    0  224    0     0       0          0\nenx00249b42d445: 3643346   64557    0    0    0     0          0         0  7573111   39297    0    6    0     0       0          0\nneural0:    3429      93    0    0    0     0          0         0     7916     195    0  537    0     0       0          0\nvethcbe318f: 66330257  627045    0    0    0     0          0         0 880266954  811327    0    0    0     0       0          0\nveth5506549:  703601    3721    0    0    0     0          0         0  1660088    6384    0    0    0     0       0          0\n"
+}

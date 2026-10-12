@@ -1,0 +1,539 @@
+{
+  "status": "PASS",
+  "rows_verified": 50,
+  "all_valid_coordinate_mappings_verified": 130629,
+  "mask_provenance_physical_coordinates_byte_identical": true,
+  "prior_files_preserved": 2892,
+  "probe_raw_CT_patches_replayed_exact": 96,
+  "model_predictions_replayed": 384,
+  "probability_replay_tolerance": 0.002,
+  "maximum_probability_replay_error": 0.0007474422454833984,
+  "replay_scope": "all50row assemblies and130629coordinate mappings;96fixed real-CT probes and their3orientation/depth variants, not a second full130629center inference",
+  "real_ct_smoke": {
+    "status": "PASS",
+    "download_files_verified": 5523,
+    "checkpoint_hash_verified": true,
+    "shape": [
+      17,
+      128,
+      128
+    ],
+    "model_spacing_um": 9.6,
+    "native_spacing_um": 7.91,
+    "probes": [
+      {
+        "z": 128,
+        "sample_index": 0,
+        "ct_min": 0,
+        "ct_max": 248,
+        "prob_min": 0.2538610100746155,
+        "prob_max": 0.6127732396125793,
+        "prob_center": 0.3057094216346741,
+        "independent_interpolation_max_uint8_error": 0
+      },
+      {
+        "z": 152,
+        "sample_index": 1868,
+        "ct_min": 0,
+        "ct_max": 248,
+        "prob_min": 0.24689629673957825,
+        "prob_max": 0.45786386728286743,
+        "prob_center": 0.2728067934513092,
+        "independent_interpolation_max_uint8_error": 0
+      },
+      {
+        "z": 177,
+        "sample_index": 2305,
+        "ct_min": 0,
+        "ct_max": 248,
+        "prob_min": 0.23074638843536377,
+        "prob_max": 0.8161134123802185,
+        "prob_center": 0.33126258850097656,
+        "independent_interpolation_max_uint8_error": 0
+      }
+    ],
+    "warning": "Finite outputs establish runtime compatibility, not ink localization or correct physical surface placement."
+  },
+  "replay": [
+    {
+      "file": "probe_128_0.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 4.985928535461426e-05
+    },
+    {
+      "file": "probe_128_1082.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.0002072453498840332
+    },
+    {
+      "file": "probe_128_1154.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.00020387768745422363
+    },
+    {
+      "file": "probe_128_1234.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.00037163496017456055
+    },
+    {
+      "file": "probe_128_1322.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.00016990303993225098
+    },
+    {
+      "file": "probe_128_1400.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.00048482418060302734
+    },
+    {
+      "file": "probe_128_1491.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.00011679530143737793
+    },
+    {
+      "file": "probe_128_1569.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.00042629241943359375
+    },
+    {
+      "file": "probe_128_1657.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.00029405951499938965
+    },
+    {
+      "file": "probe_128_1733.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.0001380443572998047
+    },
+    {
+      "file": "probe_128_1813.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.0002821683883666992
+    },
+    {
+      "file": "probe_128_1899.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.0002282261848449707
+    },
+    {
+      "file": "probe_128_192.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 9.375810623168945e-05
+    },
+    {
+      "file": "probe_128_1970.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 9.486079216003418e-05
+    },
+    {
+      "file": "probe_128_2041.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.00024360418319702148
+    },
+    {
+      "file": "probe_128_2140.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.0007050037384033203
+    },
+    {
+      "file": "probe_128_2215.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 4.32133674621582e-05
+    },
+    {
+      "file": "probe_128_2287.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.000194549560546875
+    },
+    {
+      "file": "probe_128_2384.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 7.846951484680176e-05
+    },
+    {
+      "file": "probe_128_2455.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.0003643035888671875
+    },
+    {
+      "file": "probe_128_2524.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.0001621246337890625
+    },
+    {
+      "file": "probe_128_271.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 4.6372413635253906e-05
+    },
+    {
+      "file": "probe_128_385.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.0
+    },
+    {
+      "file": "probe_128_464.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.0002759099006652832
+    },
+    {
+      "file": "probe_128_533.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.00016871094703674316
+    },
+    {
+      "file": "probe_128_616.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.00033289194107055664
+    },
+    {
+      "file": "probe_128_706.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 4.667043685913086e-05
+    },
+    {
+      "file": "probe_128_778.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 8.153915405273438e-05
+    },
+    {
+      "file": "probe_128_85.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.00016820430755615234
+    },
+    {
+      "file": "probe_128_854.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.00013959407806396484
+    },
+    {
+      "file": "probe_128_927.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.00012615323066711426
+    },
+    {
+      "file": "probe_128_996.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 4.330277442932129e-05
+    },
+    {
+      "file": "probe_152_0.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 9.489059448242188e-05
+    },
+    {
+      "file": "probe_152_1120.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.0001862049102783203
+    },
+    {
+      "file": "probe_152_1232.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.0001963973045349121
+    },
+    {
+      "file": "probe_152_132.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.0001779496669769287
+    },
+    {
+      "file": "probe_152_1334.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.0002664625644683838
+    },
+    {
+      "file": "probe_152_1438.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.00043722987174987793
+    },
+    {
+      "file": "probe_152_1577.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.000244140625
+    },
+    {
+      "file": "probe_152_1703.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 4.89354133605957e-05
+    },
+    {
+      "file": "probe_152_1814.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.0
+    },
+    {
+      "file": "probe_152_1941.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.0003495216369628906
+    },
+    {
+      "file": "probe_152_2041.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.00025969743728637695
+    },
+    {
+      "file": "probe_152_2159.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 9.034574031829834e-05
+    },
+    {
+      "file": "probe_152_2303.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 9.211897850036621e-05
+    },
+    {
+      "file": "probe_152_2417.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 4.349648952484131e-05
+    },
+    {
+      "file": "probe_152_2554.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 4.565715789794922e-05
+    },
+    {
+      "file": "probe_152_2655.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.0006684064865112305
+    },
+    {
+      "file": "probe_152_2785.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.00018215179443359375
+    },
+    {
+      "file": "probe_152_281.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.0003109276294708252
+    },
+    {
+      "file": "probe_152_2915.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.00013971328735351562
+    },
+    {
+      "file": "probe_152_3041.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 8.77678394317627e-05
+    },
+    {
+      "file": "probe_152_3155.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 7.724761962890625e-05
+    },
+    {
+      "file": "probe_152_3283.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.0004152059555053711
+    },
+    {
+      "file": "probe_152_3427.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.0003661513328552246
+    },
+    {
+      "file": "probe_152_3540.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.0001843571662902832
+    },
+    {
+      "file": "probe_152_3672.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.00014889240264892578
+    },
+    {
+      "file": "probe_152_3792.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 4.610419273376465e-05
+    },
+    {
+      "file": "probe_152_390.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.0005818605422973633
+    },
+    {
+      "file": "probe_152_502.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 5.1975250244140625e-05
+    },
+    {
+      "file": "probe_152_608.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 8.118152618408203e-05
+    },
+    {
+      "file": "probe_152_734.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.00023865699768066406
+    },
+    {
+      "file": "probe_152_855.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 4.4852495193481445e-05
+    },
+    {
+      "file": "probe_152_976.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.0001385807991027832
+    },
+    {
+      "file": "probe_177_0.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 9.244680404663086e-05
+    },
+    {
+      "file": "probe_177_1057.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 9.265542030334473e-05
+    },
+    {
+      "file": "probe_177_1123.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.00011998414993286133
+    },
+    {
+      "file": "probe_177_1213.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 9.140372276306152e-05
+    },
+    {
+      "file": "probe_177_1278.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.0002849698066711426
+    },
+    {
+      "file": "probe_177_1357.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.0005490779876708984
+    },
+    {
+      "file": "probe_177_1420.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.00038230419158935547
+    },
+    {
+      "file": "probe_177_1488.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 7.385015487670898e-05
+    },
+    {
+      "file": "probe_177_1551.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.0003522038459777832
+    },
+    {
+      "file": "probe_177_1616.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 7.900595664978027e-05
+    },
+    {
+      "file": "probe_177_1680.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.00033611059188842773
+    },
+    {
+      "file": "probe_177_1744.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.000359952449798584
+    },
+    {
+      "file": "probe_177_1820.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 7.748603820800781e-05
+    },
+    {
+      "file": "probe_177_186.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 8.279085159301758e-05
+    },
+    {
+      "file": "probe_177_1914.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.00017470121383666992
+    },
+    {
+      "file": "probe_177_1991.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 4.6581029891967773e-05
+    },
+    {
+      "file": "probe_177_2080.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 9.962916374206543e-05
+    },
+    {
+      "file": "probe_177_2155.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.00018298625946044922
+    },
+    {
+      "file": "probe_177_2232.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.00011935830116271973
+    },
+    {
+      "file": "probe_177_2305.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.00014463067054748535
+    },
+    {
+      "file": "probe_177_249.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 7.975101470947266e-05
+    },
+    {
+      "file": "probe_177_333.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.00016292929649353027
+    },
+    {
+      "file": "probe_177_400.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 5.9485435485839844e-05
+    },
+    {
+      "file": "probe_177_479.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.0003611743450164795
+    },
+    {
+      "file": "probe_177_546.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.0004349350929260254
+    },
+    {
+      "file": "probe_177_613.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.0002441108226776123
+    },
+    {
+      "file": "probe_177_691.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.00025144219398498535
+    },
+    {
+      "file": "probe_177_756.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.0007474422454833984
+    },
+    {
+      "file": "probe_177_80.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.00017303228378295898
+    },
+    {
+      "file": "probe_177_823.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.0003660917282104492
+    },
+    {
+      "file": "probe_177_902.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 0.00013478100299835205
+    },
+    {
+      "file": "probe_177_976.npz",
+      "raw_patch_exact": true,
+      "maximum_probability_error": 7.480382919311523e-05
+    }
+  ]
+}

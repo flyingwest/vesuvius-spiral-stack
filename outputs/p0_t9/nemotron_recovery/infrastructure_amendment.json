@@ -1,0 +1,11 @@
+{
+  "reason": "Shared NPZ archive reads fail under four threads: reproduced in20/20trials; all50archives read serially and eager arrays compare exactly.",
+  "original_sha256": "3980c0e1f12dfb9cd5e0cb98f2d01ac04427af56b83dc52bbc2ac95b5bb80fc8",
+  "repaired_sha256": "f21da7639e6ed1963b2b85e4f75ad75e5202f1bfa6f905f3f3adaf9f6522ae75",
+  "change": "Materialize exact saved frame arrays before worker access; close NPZ archive.",
+  "scientific_parameters_changed": false,
+  "geometry_changed": false,
+  "model_or_preprocessing_changed": false,
+  "original_frozen_plan_preserved": true,
+  "full_rows_before_repair": 0
+}

@@ -1,0 +1,45 @@
+{
+  "status": "PASS",
+  "download_files_verified": 5523,
+  "checkpoint_hash_verified": true,
+  "shape": [
+    17,
+    128,
+    128
+  ],
+  "model_spacing_um": 9.6,
+  "native_spacing_um": 7.91,
+  "probes": [
+    {
+      "z": 128,
+      "sample_index": 0,
+      "ct_min": 0,
+      "ct_max": 248,
+      "prob_min": 0.2538610100746155,
+      "prob_max": 0.6127732396125793,
+      "prob_center": 0.3057094216346741,
+      "independent_interpolation_max_uint8_error": 0
+    },
+    {
+      "z": 152,
+      "sample_index": 1868,
+      "ct_min": 0,
+      "ct_max": 248,
+      "prob_min": 0.24689629673957825,
+      "prob_max": 0.45786386728286743,
+      "prob_center": 0.2728067934513092,
+      "independent_interpolation_max_uint8_error": 0
+    },
+    {
+      "z": 177,
+      "sample_index": 2305,
+      "ct_min": 0,
+      "ct_max": 248,
+      "prob_min": 0.23074638843536377,
+      "prob_max": 0.8161134123802185,
+      "prob_center": 0.33126258850097656,
+      "independent_interpolation_max_uint8_error": 0
+    }
+  ],
+  "warning": "Finite outputs establish runtime compatibility, not ink localization or correct physical surface placement."
+}

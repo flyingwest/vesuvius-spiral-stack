@@ -1,0 +1,158 @@
+{
+  "Id": "461b46345448e70ea9de9fdb196a1ed9d957a21f8cea8446b6b06b990ad1825d",
+  "Name": "/nemotron-nano-agent",
+  "Image": "sha256:bf05c8a0d56f7ed2fe279e0c0c876dd2bb813dd34702d975fa6ab640860ce825",
+  "Path": "vllm",
+  "Args": [
+    "serve",
+    "/model",
+    "--served-model-name",
+    "nemotron-nano-agent",
+    "--host",
+    "0.0.0.0",
+    "--port",
+    "8002",
+    "--trust-remote-code",
+    "--gpu-memory-utilization",
+    "0.70",
+    "--max-model-len",
+    "32768",
+    "--max-num-seqs",
+    "2",
+    "--max-num-batched-tokens",
+    "8192",
+    "--enable-prefix-caching",
+    "--kv-cache-dtype",
+    "fp8",
+    "--enable-auto-tool-choice",
+    "--tool-call-parser",
+    "qwen3_coder",
+    "--reasoning-parser-plugin",
+    "/model/nano_v3_reasoning_parser.py",
+    "--reasoning-parser",
+    "nano_v3"
+  ],
+  "State": {
+    "Status": "running",
+    "Running": true,
+    "Paused": false,
+    "Restarting": false,
+    "OOMKilled": false,
+    "Dead": false,
+    "Pid": 2659217,
+    "ExitCode": 0,
+    "Error": "",
+    "StartedAt": "2026-10-10T12:02:16.91198858Z",
+    "FinishedAt": "0001-01-01T00:00:00Z"
+  },
+  "Mounts": [
+    {
+      "Type": "bind",
+      "Source": "/home/wpotech/models/nemotron-3-nano-nvfp4",
+      "Destination": "/model",
+      "Mode": "ro",
+      "RW": false,
+      "Propagation": "rprivate"
+    }
+  ],
+  "config": {
+    "Image": "vllm/vllm-openai:v0.20.0",
+    "Entrypoint": [
+      "vllm",
+      "serve"
+    ],
+    "Cmd": [
+      "/model",
+      "--served-model-name",
+      "nemotron-nano-agent",
+      "--host",
+      "0.0.0.0",
+      "--port",
+      "8002",
+      "--trust-remote-code",
+      "--gpu-memory-utilization",
+      "0.70",
+      "--max-model-len",
+      "32768",
+      "--max-num-seqs",
+      "2",
+      "--max-num-batched-tokens",
+      "8192",
+      "--enable-prefix-caching",
+      "--kv-cache-dtype",
+      "fp8",
+      "--enable-auto-tool-choice",
+      "--tool-call-parser",
+      "qwen3_coder",
+      "--reasoning-parser-plugin",
+      "/model/nano_v3_reasoning_parser.py",
+      "--reasoning-parser",
+      "nano_v3"
+    ],
+    "ExposedPorts": {
+      "8002/tcp": {}
+    },
+    "WorkingDir": "/vllm-workspace",
+    "User": ""
+  },
+  "host_config": {
+    "PortBindings": {
+      "8002/tcp": [
+        {
+          "HostIp": "",
+          "HostPort": "8002"
+        }
+      ]
+    },
+    "RestartPolicy": {
+      "Name": "unless-stopped",
+      "MaximumRetryCount": 0
+    },
+    "DeviceRequests": [
+      {
+        "Driver": "",
+        "Count": -1,
+        "DeviceIDs": null,
+        "Capabilities": [
+          [
+            "gpu"
+          ]
+        ],
+        "Options": {}
+      }
+    ],
+    "IpcMode": "host",
+    "ShmSize": 17179869184
+  },
+  "models": {
+    "object": "list",
+    "data": [
+      {
+        "id": "nemotron-nano-agent",
+        "object": "model",
+        "created": 1791755395,
+        "owned_by": "vllm",
+        "root": "/model",
+        "parent": null,
+        "max_model_len": 32768,
+        "permission": [
+          {
+            "id": "modelperm-ba7433fd000a691d",
+            "object": "model_permission",
+            "created": 1791755395,
+            "allow_create_engine": false,
+            "allow_sampling": true,
+            "allow_logprobs": true,
+            "allow_search_indices": false,
+            "allow_view": true,
+            "allow_fine_tuning": false,
+            "organization": "*",
+            "group": null,
+            "is_blocking": false
+          }
+        ]
+      }
+    ]
+  },
+  "health": 200
+}

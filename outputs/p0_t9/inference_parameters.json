@@ -1,0 +1,24 @@
+{
+  "model_spacing_um": 9.6,
+  "native_spacing_um": 7.91,
+  "native_step": 1.2136536030341338,
+  "source_transform": "scale-only native=16*level4, no fitted offset",
+  "patch_dyx": [
+    17,
+    128,
+    128
+  ],
+  "axes": "D=XY normal; Y=scan Z; X=XY tangent",
+  "tangent_normal": "exact saved T6 local frames, no cross-Z fitting",
+  "sampling": "scipy trilinear order1 float32, round half-even to uint8; no additional anti-alias filter",
+  "depth_center": 0,
+  "amp": "float16",
+  "normalization": "tifxyz_robust",
+  "prediction": "official sigmoid/interpolate; mean of four central output pixels at even-grid center",
+  "batch_size": 8,
+  "row_sampling_um": 63.28,
+  "normal_sign_primary": "T6 saved normal=(-ty,tx)",
+  "sensitivity": "32 evenly spaced valid centers on each ofZ128,152,177; normal reversal and depth offsets -2,+2; no selection or replacement of primary result",
+  "display": "clip((p-0.25)/0.5,0,1)",
+  "limitations": "straight tangent-plane approximation over1.22mm; no longitudinal tilt estimation; native center registration not calibrated; no proof centers lie on ink-bearing surface"
+}
