@@ -1,0 +1,14 @@
+{
+  "stage": "before target orientation evidence",
+  "source_sha256": {
+    "scripts/p0_t11_core.py": "8ea3cda284ec846a2474abeff84c72e97688a838816e0d27fd6126617a067a86",
+    "scripts/p0_t11_frames.py": "7b7f19e39e18f47afd45010d6b9162b93fd801435d8b142bd8fca6ea8451a30e",
+    "scripts/p0_t11_infer.py": "3080052f0d46bbd3f4ff7866062eebcff351573e5ee6e6c5a8f9a0aa0eb9a353",
+    "scripts/p0_t11_setup.py": "ab19f045ec89154e15e511325e0f3168c740a3713432ac96337d4e3b20bffd95",
+    "scripts/p0_t11_synthetic.py": "3dfa7900e65b11eca93982def5d34ae54c1c3c4e9a080eafae000b54caae260e",
+    "docs/p0_t11_plan.md": "477cc4dc0a03e7680b9b1159e12e1a465f940902410fe0cad63bb9bd7e6761de",
+    "outputs/p0_t11/samples.json": "2124c26cc10090c6478943ad5fc8c2ba2cb6c293d3961a227139d1305956a204",
+    "outputs/p0_t11/REVIEW_RECORD.md": "b87feaa01574d5b280aaf0dc9a1cc10a29e492be64c1f741529e16556c9723c2"
+  },
+  "review": "APPROVE-FOR-CT-FRAME-EVIDENCE"
+}
