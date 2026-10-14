@@ -1,0 +1,17 @@
+{
+  "P0_T11_COMPLETE": "YES",
+  "P0_T11_RESULT": "C",
+  "MISSING_CT_COVERAGE": "RESOLVED",
+  "ADDITIONAL_CHUNKS": 6,
+  "ADDITIONAL_BYTES": 4835247,
+  "PATCH_COVERAGE": "144/144",
+  "FRAME_ESTIMATION": "PASS",
+  "PATCH_GEOMETRY_IMPROVED": "WEAK",
+  "SMOKE_INFERENCE": "NOT_RUN",
+  "FULL_INFERENCE": "NOT_RUN",
+  "INK_STRUCTURE_VISIBLE": "NO",
+  "READY_FOR_NEXT_STEP": "NO",
+  "ink_visibility_scope": "Not assessed: no T11 probabilities exist; NO means not established, not a negative ink observation.",
+  "local_llm_dependency": "NONE",
+  "stop_reason": "No estimator passes unchanged geometry gate; no smoke or full inference authorized by original progression."
+}

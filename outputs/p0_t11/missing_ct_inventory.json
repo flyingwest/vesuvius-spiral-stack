@@ -1,0 +1,11074 @@
+{
+  "source_volume": "https://dl.ash2txt.org/full-scrolls/Scroll1/PHercParis4.volpkg/volumes_zarr_standardized/54keV_7.91um_Scroll1A.zarr/",
+  "native_voxel_um": 7.91,
+  "level": 0,
+  "chunk_shape_zyx": [
+    128,
+    128,
+    128
+  ],
+  "required_patches": 144,
+  "already_present_chunks": 5523,
+  "additional_chunks": 6,
+  "additional_bytes_expected": 4835247,
+  "missing_chunks": [
+    {
+      "source_volume": "https://dl.ash2txt.org/full-scrolls/Scroll1/PHercParis4.volpkg/volumes_zarr_standardized/54keV_7.91um_Scroll1A.zarr/",
+      "key": [
+        22,
+        17,
+        31
+      ],
+      "url": "https://dl.ash2txt.org/full-scrolls/Scroll1/PHercParis4.volpkg/volumes_zarr_standardized/54keV_7.91um_Scroll1A.zarr/0/22/17/31",
+      "bytes": 817557,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Tue, 13 Oct 2026 19:07:11 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "817557",
+        "Last-Modified": "Tue, 19 Nov 2024 13:59:11 GMT",
+        "Connection": "close",
+        "ETag": "\"673c99af-c7995\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Accept-Ranges": "bytes"
+      },
+      "reason": "rectangular trilinear support of unchanged rotated patch",
+      "dependent_samples": [
+        {
+          "sample": 48,
+          "z": 175,
+          "s_index": 0,
+          "sigma": 1.0
+        },
+        {
+          "sample": 48,
+          "z": 175,
+          "s_index": 0,
+          "sigma": 2.0
+        }
+      ]
+    },
+    {
+      "source_volume": "https://dl.ash2txt.org/full-scrolls/Scroll1/PHercParis4.volpkg/volumes_zarr_standardized/54keV_7.91um_Scroll1A.zarr/",
+      "key": [
+        22,
+        17,
+        32
+      ],
+      "url": "https://dl.ash2txt.org/full-scrolls/Scroll1/PHercParis4.volpkg/volumes_zarr_standardized/54keV_7.91um_Scroll1A.zarr/0/22/17/32",
+      "bytes": 830799,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Tue, 13 Oct 2026 19:07:11 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "830799",
+        "Last-Modified": "Tue, 19 Nov 2024 13:59:11 GMT",
+        "Connection": "close",
+        "ETag": "\"673c99af-cad4f\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Accept-Ranges": "bytes"
+      },
+      "reason": "rectangular trilinear support of unchanged rotated patch",
+      "dependent_samples": [
+        {
+          "sample": 48,
+          "z": 175,
+          "s_index": 0,
+          "sigma": 1.0
+        },
+        {
+          "sample": 48,
+          "z": 175,
+          "s_index": 0,
+          "sigma": 2.0
+        }
+      ]
+    },
+    {
+      "source_volume": "https://dl.ash2txt.org/full-scrolls/Scroll1/PHercParis4.volpkg/volumes_zarr_standardized/54keV_7.91um_Scroll1A.zarr/",
+      "key": [
+        22,
+        17,
+        33
+      ],
+      "url": "https://dl.ash2txt.org/full-scrolls/Scroll1/PHercParis4.volpkg/volumes_zarr_standardized/54keV_7.91um_Scroll1A.zarr/0/22/17/33",
+      "bytes": 833032,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Tue, 13 Oct 2026 19:07:11 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "833032",
+        "Last-Modified": "Tue, 19 Nov 2024 13:59:11 GMT",
+        "Connection": "close",
+        "ETag": "\"673c99af-cb608\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Accept-Ranges": "bytes"
+      },
+      "reason": "rectangular trilinear support of unchanged rotated patch",
+      "dependent_samples": [
+        {
+          "sample": 48,
+          "z": 175,
+          "s_index": 0,
+          "sigma": 1.0
+        },
+        {
+          "sample": 48,
+          "z": 175,
+          "s_index": 0,
+          "sigma": 2.0
+        }
+      ]
+    },
+    {
+      "source_volume": "https://dl.ash2txt.org/full-scrolls/Scroll1/PHercParis4.volpkg/volumes_zarr_standardized/54keV_7.91um_Scroll1A.zarr/",
+      "key": [
+        22,
+        18,
+        33
+      ],
+      "url": "https://dl.ash2txt.org/full-scrolls/Scroll1/PHercParis4.volpkg/volumes_zarr_standardized/54keV_7.91um_Scroll1A.zarr/0/22/18/33",
+      "bytes": 817319,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Tue, 13 Oct 2026 19:07:11 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "817319",
+        "Last-Modified": "Tue, 19 Nov 2024 13:59:11 GMT",
+        "Connection": "close",
+        "ETag": "\"673c99af-c78a7\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Accept-Ranges": "bytes"
+      },
+      "reason": "rectangular trilinear support of unchanged rotated patch",
+      "dependent_samples": [
+        {
+          "sample": 48,
+          "z": 175,
+          "s_index": 0,
+          "sigma": 1.0
+        },
+        {
+          "sample": 48,
+          "z": 175,
+          "s_index": 0,
+          "sigma": 2.0
+        }
+      ]
+    },
+    {
+      "source_volume": "https://dl.ash2txt.org/full-scrolls/Scroll1/PHercParis4.volpkg/volumes_zarr_standardized/54keV_7.91um_Scroll1A.zarr/",
+      "key": [
+        22,
+        19,
+        33
+      ],
+      "url": "https://dl.ash2txt.org/full-scrolls/Scroll1/PHercParis4.volpkg/volumes_zarr_standardized/54keV_7.91um_Scroll1A.zarr/0/22/19/33",
+      "bytes": 819155,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Tue, 13 Oct 2026 19:07:12 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "819155",
+        "Last-Modified": "Tue, 19 Nov 2024 13:59:12 GMT",
+        "Connection": "close",
+        "ETag": "\"673c99b0-c7fd3\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Accept-Ranges": "bytes"
+      },
+      "reason": "rectangular trilinear support of unchanged rotated patch",
+      "dependent_samples": [
+        {
+          "sample": 48,
+          "z": 175,
+          "s_index": 0,
+          "sigma": 1.0
+        },
+        {
+          "sample": 48,
+          "z": 175,
+          "s_index": 0,
+          "sigma": 2.0
+        }
+      ]
+    },
+    {
+      "source_volume": "https://dl.ash2txt.org/full-scrolls/Scroll1/PHercParis4.volpkg/volumes_zarr_standardized/54keV_7.91um_Scroll1A.zarr/",
+      "key": [
+        22,
+        19,
+        46
+      ],
+      "url": "https://dl.ash2txt.org/full-scrolls/Scroll1/PHercParis4.volpkg/volumes_zarr_standardized/54keV_7.91um_Scroll1A.zarr/0/22/19/46",
+      "bytes": 717385,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Tue, 13 Oct 2026 19:07:12 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "717385",
+        "Last-Modified": "Tue, 19 Nov 2024 13:59:12 GMT",
+        "Connection": "close",
+        "ETag": "\"673c99b0-af249\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Accept-Ranges": "bytes"
+      },
+      "reason": "rectangular trilinear support of unchanged rotated patch",
+      "dependent_samples": [
+        {
+          "sample": 57,
+          "z": 176,
+          "s_index": 363,
+          "sigma": 1.0
+        }
+      ]
+    }
+  ],
+  "patches": [
+    {
+      "sample": 0,
+      "z": 128,
+      "s_index": 0,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        3936.0,
+        1904.0,
+        2048
+      ],
+      "bounds_zyx_half_open": [
+        [
+          1970,
+          1882,
+          3858
+        ],
+        [
+          2127,
+          1927,
+          4015
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          14,
+          30
+        ],
+        [
+          15,
+          14,
+          31
+        ],
+        [
+          15,
+          15,
+          30
+        ],
+        [
+          15,
+          15,
+          31
+        ],
+        [
+          16,
+          14,
+          30
+        ],
+        [
+          16,
+          14,
+          31
+        ],
+        [
+          16,
+          15,
+          30
+        ],
+        [
+          16,
+          15,
+          31
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 0,
+      "z": 128,
+      "s_index": 0,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        3936.0,
+        1904.0,
+        2048
+      ],
+      "bounds_zyx_half_open": [
+        [
+          1970,
+          1882,
+          3858
+        ],
+        [
+          2127,
+          1927,
+          4015
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          14,
+          30
+        ],
+        [
+          15,
+          14,
+          31
+        ],
+        [
+          15,
+          15,
+          30
+        ],
+        [
+          15,
+          15,
+          31
+        ],
+        [
+          16,
+          14,
+          30
+        ],
+        [
+          16,
+          14,
+          31
+        ],
+        [
+          16,
+          15,
+          30
+        ],
+        [
+          16,
+          15,
+          31
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 1,
+      "z": 128,
+      "s_index": 403,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        5408.0,
+        2001.7981380538708,
+        2048
+      ],
+      "bounds_zyx_half_open": [
+        [
+          1970,
+          1920,
+          5362
+        ],
+        [
+          2127,
+          2084,
+          5455
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          15,
+          41
+        ],
+        [
+          15,
+          15,
+          42
+        ],
+        [
+          15,
+          16,
+          41
+        ],
+        [
+          15,
+          16,
+          42
+        ],
+        [
+          16,
+          15,
+          41
+        ],
+        [
+          16,
+          15,
+          42
+        ],
+        [
+          16,
+          16,
+          41
+        ],
+        [
+          16,
+          16,
+          42
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 1,
+      "z": 128,
+      "s_index": 403,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        5408.0,
+        2001.7981380538708,
+        2048
+      ],
+      "bounds_zyx_half_open": [
+        [
+          1970,
+          1921,
+          5364
+        ],
+        [
+          2127,
+          2084,
+          5453
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          15,
+          41
+        ],
+        [
+          15,
+          15,
+          42
+        ],
+        [
+          15,
+          16,
+          41
+        ],
+        [
+          15,
+          16,
+          42
+        ],
+        [
+          16,
+          15,
+          41
+        ],
+        [
+          16,
+          15,
+          42
+        ],
+        [
+          16,
+          16,
+          41
+        ],
+        [
+          16,
+          16,
+          42
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 2,
+      "z": 128,
+      "s_index": 713,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        5241.56218628758,
+        3302.43781371242,
+        2048
+      ],
+      "bounds_zyx_half_open": [
+        [
+          1978,
+          3214,
+          5149
+        ],
+        [
+          2119,
+          3392,
+          5335
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          25,
+          40
+        ],
+        [
+          15,
+          25,
+          41
+        ],
+        [
+          15,
+          26,
+          40
+        ],
+        [
+          15,
+          26,
+          41
+        ],
+        [
+          16,
+          25,
+          40
+        ],
+        [
+          16,
+          25,
+          41
+        ],
+        [
+          16,
+          26,
+          40
+        ],
+        [
+          16,
+          26,
+          41
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 2,
+      "z": 128,
+      "s_index": 713,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        5241.56218628758,
+        3302.43781371242,
+        2048
+      ],
+      "bounds_zyx_half_open": [
+        [
+          1970,
+          3240,
+          5169
+        ],
+        [
+          2127,
+          3366,
+          5315
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          25,
+          40
+        ],
+        [
+          15,
+          25,
+          41
+        ],
+        [
+          15,
+          26,
+          40
+        ],
+        [
+          15,
+          26,
+          41
+        ],
+        [
+          16,
+          25,
+          40
+        ],
+        [
+          16,
+          25,
+          41
+        ],
+        [
+          16,
+          26,
+          40
+        ],
+        [
+          16,
+          26,
+          41
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 3,
+      "z": 128,
+      "s_index": 1106,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        6057.786442791072,
+        2096.0,
+        2048
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2025,
+          1989,
+          5951
+        ],
+        [
+          2072,
+          2204,
+          6166
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          15,
+          46
+        ],
+        [
+          15,
+          15,
+          47
+        ],
+        [
+          15,
+          15,
+          48
+        ],
+        [
+          15,
+          16,
+          46
+        ],
+        [
+          15,
+          16,
+          47
+        ],
+        [
+          15,
+          16,
+          48
+        ],
+        [
+          15,
+          17,
+          46
+        ],
+        [
+          15,
+          17,
+          47
+        ],
+        [
+          15,
+          17,
+          48
+        ],
+        [
+          16,
+          15,
+          46
+        ],
+        [
+          16,
+          15,
+          47
+        ],
+        [
+          16,
+          15,
+          48
+        ],
+        [
+          16,
+          16,
+          46
+        ],
+        [
+          16,
+          16,
+          47
+        ],
+        [
+          16,
+          16,
+          48
+        ],
+        [
+          16,
+          17,
+          46
+        ],
+        [
+          16,
+          17,
+          47
+        ],
+        [
+          16,
+          17,
+          48
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 3,
+      "z": 128,
+      "s_index": 1106,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        6057.786442791072,
+        2096.0,
+        2048
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2013,
+          1990,
+          5952
+        ],
+        [
+          2084,
+          2203,
+          6165
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          15,
+          46
+        ],
+        [
+          15,
+          15,
+          47
+        ],
+        [
+          15,
+          15,
+          48
+        ],
+        [
+          15,
+          16,
+          46
+        ],
+        [
+          15,
+          16,
+          47
+        ],
+        [
+          15,
+          16,
+          48
+        ],
+        [
+          15,
+          17,
+          46
+        ],
+        [
+          15,
+          17,
+          47
+        ],
+        [
+          15,
+          17,
+          48
+        ],
+        [
+          16,
+          15,
+          46
+        ],
+        [
+          16,
+          15,
+          47
+        ],
+        [
+          16,
+          15,
+          48
+        ],
+        [
+          16,
+          16,
+          46
+        ],
+        [
+          16,
+          16,
+          47
+        ],
+        [
+          16,
+          16,
+          48
+        ],
+        [
+          16,
+          17,
+          46
+        ],
+        [
+          16,
+          17,
+          47
+        ],
+        [
+          16,
+          17,
+          48
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 4,
+      "z": 128,
+      "s_index": 1470,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        6402.187391757252,
+        2242.187391757252,
+        2048
+      ],
+      "bounds_zyx_half_open": [
+        [
+          1970,
+          2171,
+          6324
+        ],
+        [
+          2127,
+          2315,
+          6481
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          16,
+          49
+        ],
+        [
+          15,
+          16,
+          50
+        ],
+        [
+          15,
+          17,
+          49
+        ],
+        [
+          15,
+          17,
+          50
+        ],
+        [
+          15,
+          18,
+          49
+        ],
+        [
+          15,
+          18,
+          50
+        ],
+        [
+          16,
+          16,
+          49
+        ],
+        [
+          16,
+          16,
+          50
+        ],
+        [
+          16,
+          17,
+          49
+        ],
+        [
+          16,
+          17,
+          50
+        ],
+        [
+          16,
+          18,
+          49
+        ],
+        [
+          16,
+          18,
+          50
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 4,
+      "z": 128,
+      "s_index": 1470,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        6402.187391757252,
+        2242.187391757252,
+        2048
+      ],
+      "bounds_zyx_half_open": [
+        [
+          1970,
+          2173,
+          6326
+        ],
+        [
+          2127,
+          2313,
+          6479
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          16,
+          49
+        ],
+        [
+          15,
+          16,
+          50
+        ],
+        [
+          15,
+          17,
+          49
+        ],
+        [
+          15,
+          17,
+          50
+        ],
+        [
+          15,
+          18,
+          49
+        ],
+        [
+          15,
+          18,
+          50
+        ],
+        [
+          16,
+          16,
+          49
+        ],
+        [
+          16,
+          16,
+          50
+        ],
+        [
+          16,
+          17,
+          49
+        ],
+        [
+          16,
+          17,
+          50
+        ],
+        [
+          16,
+          18,
+          49
+        ],
+        [
+          16,
+          18,
+          50
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 5,
+      "z": 128,
+      "s_index": 1838,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        5270.400451851614,
+        1312.0,
+        2048
+      ],
+      "bounds_zyx_half_open": [
+        [
+          1970,
+          1268,
+          5196
+        ],
+        [
+          2127,
+          1357,
+          5346
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          9,
+          40
+        ],
+        [
+          15,
+          9,
+          41
+        ],
+        [
+          15,
+          10,
+          40
+        ],
+        [
+          15,
+          10,
+          41
+        ],
+        [
+          16,
+          9,
+          40
+        ],
+        [
+          16,
+          9,
+          41
+        ],
+        [
+          16,
+          10,
+          40
+        ],
+        [
+          16,
+          10,
+          41
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 5,
+      "z": 128,
+      "s_index": 1838,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        5270.400451851614,
+        1312.0,
+        2048
+      ],
+      "bounds_zyx_half_open": [
+        [
+          1970,
+          1267,
+          5196
+        ],
+        [
+          2127,
+          1358,
+          5346
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          9,
+          40
+        ],
+        [
+          15,
+          9,
+          41
+        ],
+        [
+          15,
+          10,
+          40
+        ],
+        [
+          15,
+          10,
+          41
+        ],
+        [
+          16,
+          9,
+          40
+        ],
+        [
+          16,
+          9,
+          41
+        ],
+        [
+          16,
+          10,
+          40
+        ],
+        [
+          16,
+          10,
+          41
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 6,
+      "z": 128,
+      "s_index": 2171,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        5793.491674802383,
+        1313.4916748023836,
+        2048
+      ],
+      "bounds_zyx_half_open": [
+        [
+          1971,
+          1239,
+          5713
+        ],
+        [
+          2126,
+          1389,
+          5875
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          9,
+          44
+        ],
+        [
+          15,
+          9,
+          45
+        ],
+        [
+          15,
+          10,
+          44
+        ],
+        [
+          15,
+          10,
+          45
+        ],
+        [
+          16,
+          9,
+          44
+        ],
+        [
+          16,
+          9,
+          45
+        ],
+        [
+          16,
+          10,
+          44
+        ],
+        [
+          16,
+          10,
+          45
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 6,
+      "z": 128,
+      "s_index": 2171,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        5793.491674802383,
+        1313.4916748023836,
+        2048
+      ],
+      "bounds_zyx_half_open": [
+        [
+          1970,
+          1248,
+          5721
+        ],
+        [
+          2127,
+          1380,
+          5867
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          9,
+          44
+        ],
+        [
+          15,
+          9,
+          45
+        ],
+        [
+          15,
+          10,
+          44
+        ],
+        [
+          15,
+          10,
+          45
+        ],
+        [
+          16,
+          9,
+          44
+        ],
+        [
+          16,
+          9,
+          45
+        ],
+        [
+          16,
+          10,
+          44
+        ],
+        [
+          16,
+          10,
+          45
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 7,
+      "z": 128,
+      "s_index": 2524,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        7360.0,
+        2975.069420666139,
+        2048
+      ],
+      "bounds_zyx_half_open": [
+        [
+          1970,
+          2898,
+          7346
+        ],
+        [
+          2127,
+          3054,
+          7375
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          22,
+          57
+        ],
+        [
+          15,
+          23,
+          57
+        ],
+        [
+          16,
+          22,
+          57
+        ],
+        [
+          16,
+          23,
+          57
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 7,
+      "z": 128,
+      "s_index": 2524,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        7360.0,
+        2975.069420666139,
+        2048
+      ],
+      "bounds_zyx_half_open": [
+        [
+          1970,
+          2898,
+          7347
+        ],
+        [
+          2127,
+          3054,
+          7374
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          22,
+          57
+        ],
+        [
+          15,
+          23,
+          57
+        ],
+        [
+          16,
+          22,
+          57
+        ],
+        [
+          16,
+          23,
+          57
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 8,
+      "z": 129,
+      "s_index": 0,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        3936.0,
+        1904.0,
+        2064
+      ],
+      "bounds_zyx_half_open": [
+        [
+          1986,
+          1881,
+          3858
+        ],
+        [
+          2143,
+          1928,
+          4015
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          14,
+          30
+        ],
+        [
+          15,
+          14,
+          31
+        ],
+        [
+          15,
+          15,
+          30
+        ],
+        [
+          15,
+          15,
+          31
+        ],
+        [
+          16,
+          14,
+          30
+        ],
+        [
+          16,
+          14,
+          31
+        ],
+        [
+          16,
+          15,
+          30
+        ],
+        [
+          16,
+          15,
+          31
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 8,
+      "z": 129,
+      "s_index": 0,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        3936.0,
+        1904.0,
+        2064
+      ],
+      "bounds_zyx_half_open": [
+        [
+          1986,
+          1885,
+          3858
+        ],
+        [
+          2143,
+          1924,
+          4015
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          14,
+          30
+        ],
+        [
+          15,
+          14,
+          31
+        ],
+        [
+          15,
+          15,
+          30
+        ],
+        [
+          15,
+          15,
+          31
+        ],
+        [
+          16,
+          14,
+          30
+        ],
+        [
+          16,
+          14,
+          31
+        ],
+        [
+          16,
+          15,
+          30
+        ],
+        [
+          16,
+          15,
+          31
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 9,
+      "z": 129,
+      "s_index": 403,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        5326.231187751071,
+        2078.231187751071,
+        2064
+      ],
+      "bounds_zyx_half_open": [
+        [
+          1986,
+          2001,
+          5281
+        ],
+        [
+          2143,
+          2156,
+          5373
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          15,
+          41
+        ],
+        [
+          15,
+          16,
+          41
+        ],
+        [
+          16,
+          15,
+          41
+        ],
+        [
+          16,
+          16,
+          41
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 9,
+      "z": 129,
+      "s_index": 403,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        5326.231187751071,
+        2078.231187751071,
+        2064
+      ],
+      "bounds_zyx_half_open": [
+        [
+          1986,
+          2002,
+          5281
+        ],
+        [
+          2143,
+          2156,
+          5372
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          15,
+          41
+        ],
+        [
+          15,
+          16,
+          41
+        ],
+        [
+          16,
+          15,
+          41
+        ],
+        [
+          16,
+          16,
+          41
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 10,
+      "z": 129,
+      "s_index": 713,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        4934.293803353138,
+        3232.0,
+        2064
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2007,
+          3157,
+          4850
+        ],
+        [
+          2122,
+          3308,
+          5020
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          24,
+          37
+        ],
+        [
+          15,
+          24,
+          38
+        ],
+        [
+          15,
+          24,
+          39
+        ],
+        [
+          15,
+          25,
+          37
+        ],
+        [
+          15,
+          25,
+          38
+        ],
+        [
+          15,
+          25,
+          39
+        ],
+        [
+          16,
+          24,
+          37
+        ],
+        [
+          16,
+          24,
+          38
+        ],
+        [
+          16,
+          24,
+          39
+        ],
+        [
+          16,
+          25,
+          37
+        ],
+        [
+          16,
+          25,
+          38
+        ],
+        [
+          16,
+          25,
+          39
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 10,
+      "z": 129,
+      "s_index": 713,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        4934.293803353138,
+        3232.0,
+        2064
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2003,
+          3161,
+          4850
+        ],
+        [
+          2126,
+          3304,
+          5019
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          24,
+          37
+        ],
+        [
+          15,
+          24,
+          38
+        ],
+        [
+          15,
+          24,
+          39
+        ],
+        [
+          15,
+          25,
+          37
+        ],
+        [
+          15,
+          25,
+          38
+        ],
+        [
+          15,
+          25,
+          39
+        ],
+        [
+          16,
+          24,
+          37
+        ],
+        [
+          16,
+          24,
+          38
+        ],
+        [
+          16,
+          24,
+          39
+        ],
+        [
+          16,
+          25,
+          37
+        ],
+        [
+          16,
+          25,
+          38
+        ],
+        [
+          16,
+          25,
+          39
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 11,
+      "z": 129,
+      "s_index": 1106,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        6208.0,
+        2669.6252844122846,
+        2064
+      ],
+      "bounds_zyx_half_open": [
+        [
+          1993,
+          2590,
+          6156
+        ],
+        [
+          2136,
+          2750,
+          6261
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          20,
+          48
+        ],
+        [
+          15,
+          21,
+          48
+        ],
+        [
+          16,
+          20,
+          48
+        ],
+        [
+          16,
+          21,
+          48
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 11,
+      "z": 129,
+      "s_index": 1106,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        6208.0,
+        2669.6252844122846,
+        2064
+      ],
+      "bounds_zyx_half_open": [
+        [
+          1989,
+          2590,
+          6163
+        ],
+        [
+          2140,
+          2750,
+          6254
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          20,
+          48
+        ],
+        [
+          15,
+          21,
+          48
+        ],
+        [
+          16,
+          20,
+          48
+        ],
+        [
+          16,
+          21,
+          48
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 12,
+      "z": 129,
+      "s_index": 1470,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        6736.0,
+        2692.591278405067,
+        2064
+      ],
+      "bounds_zyx_half_open": [
+        [
+          1986,
+          2615,
+          6706
+        ],
+        [
+          2143,
+          2772,
+          6767
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          20,
+          52
+        ],
+        [
+          15,
+          21,
+          52
+        ],
+        [
+          16,
+          20,
+          52
+        ],
+        [
+          16,
+          21,
+          52
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 12,
+      "z": 129,
+      "s_index": 1470,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        6736.0,
+        2692.591278405067,
+        2064
+      ],
+      "bounds_zyx_half_open": [
+        [
+          1986,
+          2615,
+          6707
+        ],
+        [
+          2143,
+          2771,
+          6766
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          20,
+          52
+        ],
+        [
+          15,
+          21,
+          52
+        ],
+        [
+          16,
+          20,
+          52
+        ],
+        [
+          16,
+          21,
+          52
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 13,
+      "z": 129,
+      "s_index": 1838,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        5808.0,
+        3766.216258014283,
+        2064
+      ],
+      "bounds_zyx_half_open": [
+        [
+          1988,
+          3684,
+          5759
+        ],
+        [
+          2141,
+          3850,
+          5858
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          28,
+          44
+        ],
+        [
+          15,
+          28,
+          45
+        ],
+        [
+          15,
+          29,
+          44
+        ],
+        [
+          15,
+          29,
+          45
+        ],
+        [
+          15,
+          30,
+          44
+        ],
+        [
+          15,
+          30,
+          45
+        ],
+        [
+          16,
+          28,
+          44
+        ],
+        [
+          16,
+          28,
+          45
+        ],
+        [
+          16,
+          29,
+          44
+        ],
+        [
+          16,
+          29,
+          45
+        ],
+        [
+          16,
+          30,
+          44
+        ],
+        [
+          16,
+          30,
+          45
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 13,
+      "z": 129,
+      "s_index": 1838,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        5808.0,
+        3766.216258014283,
+        2064
+      ],
+      "bounds_zyx_half_open": [
+        [
+          1987,
+          3684,
+          5762
+        ],
+        [
+          2142,
+          3849,
+          5855
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          28,
+          45
+        ],
+        [
+          15,
+          29,
+          45
+        ],
+        [
+          15,
+          30,
+          45
+        ],
+        [
+          16,
+          28,
+          45
+        ],
+        [
+          16,
+          29,
+          45
+        ],
+        [
+          16,
+          30,
+          45
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 14,
+      "z": 129,
+      "s_index": 2171,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        5552.0,
+        4251.287336240766,
+        2064
+      ],
+      "bounds_zyx_half_open": [
+        [
+          1989,
+          4163,
+          5479
+        ],
+        [
+          2140,
+          4340,
+          5626
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          32,
+          42
+        ],
+        [
+          15,
+          32,
+          43
+        ],
+        [
+          15,
+          33,
+          42
+        ],
+        [
+          15,
+          33,
+          43
+        ],
+        [
+          16,
+          32,
+          42
+        ],
+        [
+          16,
+          32,
+          43
+        ],
+        [
+          16,
+          33,
+          42
+        ],
+        [
+          16,
+          33,
+          43
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 14,
+      "z": 129,
+      "s_index": 2171,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        5552.0,
+        4251.287336240766,
+        2064
+      ],
+      "bounds_zyx_half_open": [
+        [
+          1990,
+          4163,
+          5478
+        ],
+        [
+          2139,
+          4341,
+          5627
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          32,
+          42
+        ],
+        [
+          15,
+          32,
+          43
+        ],
+        [
+          15,
+          33,
+          42
+        ],
+        [
+          15,
+          33,
+          43
+        ],
+        [
+          16,
+          32,
+          42
+        ],
+        [
+          16,
+          32,
+          43
+        ],
+        [
+          16,
+          33,
+          42
+        ],
+        [
+          16,
+          33,
+          43
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 15,
+      "z": 129,
+      "s_index": 2524,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        6448.0,
+        3466.6370458111887,
+        2064
+      ],
+      "bounds_zyx_half_open": [
+        [
+          1986,
+          3389,
+          6396
+        ],
+        [
+          2143,
+          3546,
+          6501
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          26,
+          49
+        ],
+        [
+          15,
+          26,
+          50
+        ],
+        [
+          15,
+          27,
+          49
+        ],
+        [
+          15,
+          27,
+          50
+        ],
+        [
+          16,
+          26,
+          49
+        ],
+        [
+          16,
+          26,
+          50
+        ],
+        [
+          16,
+          27,
+          49
+        ],
+        [
+          16,
+          27,
+          50
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 15,
+      "z": 129,
+      "s_index": 2524,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        6448.0,
+        3466.6370458111887,
+        2064
+      ],
+      "bounds_zyx_half_open": [
+        [
+          1986,
+          3390,
+          6398
+        ],
+        [
+          2143,
+          3545,
+          6499
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          26,
+          49
+        ],
+        [
+          15,
+          26,
+          50
+        ],
+        [
+          15,
+          27,
+          49
+        ],
+        [
+          15,
+          27,
+          50
+        ],
+        [
+          16,
+          26,
+          49
+        ],
+        [
+          16,
+          26,
+          50
+        ],
+        [
+          16,
+          27,
+          49
+        ],
+        [
+          16,
+          27,
+          50
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 16,
+      "z": 130,
+      "s_index": 0,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        4096.0,
+        1920.0,
+        2080
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2002,
+          1893,
+          4018
+        ],
+        [
+          2159,
+          1948,
+          4175
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          14,
+          31
+        ],
+        [
+          15,
+          14,
+          32
+        ],
+        [
+          15,
+          15,
+          31
+        ],
+        [
+          15,
+          15,
+          32
+        ],
+        [
+          16,
+          14,
+          31
+        ],
+        [
+          16,
+          14,
+          32
+        ],
+        [
+          16,
+          15,
+          31
+        ],
+        [
+          16,
+          15,
+          32
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 16,
+      "z": 130,
+      "s_index": 0,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        4096.0,
+        1920.0,
+        2080
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2002,
+          1897,
+          4018
+        ],
+        [
+          2159,
+          1944,
+          4175
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          14,
+          31
+        ],
+        [
+          15,
+          14,
+          32
+        ],
+        [
+          15,
+          15,
+          31
+        ],
+        [
+          15,
+          15,
+          32
+        ],
+        [
+          16,
+          14,
+          31
+        ],
+        [
+          16,
+          14,
+          32
+        ],
+        [
+          16,
+          15,
+          31
+        ],
+        [
+          16,
+          15,
+          32
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 17,
+      "z": 130,
+      "s_index": 403,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        5445.331964773643,
+        2213.3319647736434,
+        2080
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2004,
+          2128,
+          5370
+        ],
+        [
+          2157,
+          2300,
+          5522
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          16,
+          41
+        ],
+        [
+          15,
+          16,
+          42
+        ],
+        [
+          15,
+          16,
+          43
+        ],
+        [
+          15,
+          17,
+          41
+        ],
+        [
+          15,
+          17,
+          42
+        ],
+        [
+          15,
+          17,
+          43
+        ],
+        [
+          16,
+          16,
+          41
+        ],
+        [
+          16,
+          16,
+          42
+        ],
+        [
+          16,
+          16,
+          43
+        ],
+        [
+          16,
+          17,
+          41
+        ],
+        [
+          16,
+          17,
+          42
+        ],
+        [
+          16,
+          17,
+          43
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 17,
+      "z": 130,
+      "s_index": 403,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        5445.331964773643,
+        2213.3319647736434,
+        2080
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2002,
+          2133,
+          5378
+        ],
+        [
+          2159,
+          2295,
+          5514
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          16,
+          42
+        ],
+        [
+          15,
+          16,
+          43
+        ],
+        [
+          15,
+          17,
+          42
+        ],
+        [
+          15,
+          17,
+          43
+        ],
+        [
+          16,
+          16,
+          42
+        ],
+        [
+          16,
+          16,
+          43
+        ],
+        [
+          16,
+          17,
+          42
+        ],
+        [
+          16,
+          17,
+          43
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 18,
+      "z": 130,
+      "s_index": 713,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        5896.7911698421785,
+        2647.2088301578215,
+        2080
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2003,
+          2566,
+          5828
+        ],
+        [
+          2158,
+          2729,
+          5966
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          20,
+          45
+        ],
+        [
+          15,
+          20,
+          46
+        ],
+        [
+          15,
+          21,
+          45
+        ],
+        [
+          15,
+          21,
+          46
+        ],
+        [
+          16,
+          20,
+          45
+        ],
+        [
+          16,
+          20,
+          46
+        ],
+        [
+          16,
+          21,
+          45
+        ],
+        [
+          16,
+          21,
+          46
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 18,
+      "z": 130,
+      "s_index": 713,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        5896.7911698421785,
+        2647.2088301578215,
+        2080
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2003,
+          2567,
+          5829
+        ],
+        [
+          2158,
+          2729,
+          5966
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          20,
+          45
+        ],
+        [
+          15,
+          20,
+          46
+        ],
+        [
+          15,
+          21,
+          45
+        ],
+        [
+          15,
+          21,
+          46
+        ],
+        [
+          16,
+          20,
+          45
+        ],
+        [
+          16,
+          20,
+          46
+        ],
+        [
+          16,
+          21,
+          45
+        ],
+        [
+          16,
+          21,
+          46
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 19,
+      "z": 130,
+      "s_index": 1106,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        6281.624398411017,
+        2976.0,
+        2080
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2063,
+          2885,
+          6191
+        ],
+        [
+          2098,
+          3068,
+          6373
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          16,
+          22,
+          48
+        ],
+        [
+          16,
+          22,
+          49
+        ],
+        [
+          16,
+          23,
+          48
+        ],
+        [
+          16,
+          23,
+          49
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 19,
+      "z": 130,
+      "s_index": 1106,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        6281.624398411017,
+        2976.0,
+        2080
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2016,
+          2903,
+          6194
+        ],
+        [
+          2145,
+          3050,
+          6370
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          22,
+          48
+        ],
+        [
+          15,
+          22,
+          49
+        ],
+        [
+          15,
+          23,
+          48
+        ],
+        [
+          15,
+          23,
+          49
+        ],
+        [
+          16,
+          22,
+          48
+        ],
+        [
+          16,
+          22,
+          49
+        ],
+        [
+          16,
+          23,
+          48
+        ],
+        [
+          16,
+          23,
+          49
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 20,
+      "z": 130,
+      "s_index": 1470,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        4945.6558549814345,
+        1488.0,
+        2080
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2067,
+          1391,
+          4849
+        ],
+        [
+          2094,
+          1586,
+          5043
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          16,
+          10,
+          37
+        ],
+        [
+          16,
+          10,
+          38
+        ],
+        [
+          16,
+          10,
+          39
+        ],
+        [
+          16,
+          11,
+          37
+        ],
+        [
+          16,
+          11,
+          38
+        ],
+        [
+          16,
+          11,
+          39
+        ],
+        [
+          16,
+          12,
+          37
+        ],
+        [
+          16,
+          12,
+          38
+        ],
+        [
+          16,
+          12,
+          39
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 20,
+      "z": 130,
+      "s_index": 1470,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        4945.6558549814345,
+        1488.0,
+        2080
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2002,
+          1444,
+          4865
+        ],
+        [
+          2159,
+          1533,
+          5027
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          11,
+          38
+        ],
+        [
+          15,
+          11,
+          39
+        ],
+        [
+          16,
+          11,
+          38
+        ],
+        [
+          16,
+          11,
+          39
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 21,
+      "z": 130,
+      "s_index": 1838,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        5072.0,
+        1097.2150043722922,
+        2080
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2011,
+          1008,
+          4979
+        ],
+        [
+          2150,
+          1187,
+          5166
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          7,
+          38
+        ],
+        [
+          15,
+          7,
+          39
+        ],
+        [
+          15,
+          7,
+          40
+        ],
+        [
+          15,
+          8,
+          38
+        ],
+        [
+          15,
+          8,
+          39
+        ],
+        [
+          15,
+          8,
+          40
+        ],
+        [
+          15,
+          9,
+          38
+        ],
+        [
+          15,
+          9,
+          39
+        ],
+        [
+          15,
+          9,
+          40
+        ],
+        [
+          16,
+          7,
+          38
+        ],
+        [
+          16,
+          7,
+          39
+        ],
+        [
+          16,
+          7,
+          40
+        ],
+        [
+          16,
+          8,
+          38
+        ],
+        [
+          16,
+          8,
+          39
+        ],
+        [
+          16,
+          8,
+          40
+        ],
+        [
+          16,
+          9,
+          38
+        ],
+        [
+          16,
+          9,
+          39
+        ],
+        [
+          16,
+          9,
+          40
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 21,
+      "z": 130,
+      "s_index": 1838,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        5072.0,
+        1097.2150043722922,
+        2080
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2007,
+          1014,
+          4983
+        ],
+        [
+          2154,
+          1182,
+          5162
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          7,
+          38
+        ],
+        [
+          15,
+          7,
+          39
+        ],
+        [
+          15,
+          7,
+          40
+        ],
+        [
+          15,
+          8,
+          38
+        ],
+        [
+          15,
+          8,
+          39
+        ],
+        [
+          15,
+          8,
+          40
+        ],
+        [
+          15,
+          9,
+          38
+        ],
+        [
+          15,
+          9,
+          39
+        ],
+        [
+          15,
+          9,
+          40
+        ],
+        [
+          16,
+          7,
+          38
+        ],
+        [
+          16,
+          7,
+          39
+        ],
+        [
+          16,
+          7,
+          40
+        ],
+        [
+          16,
+          8,
+          38
+        ],
+        [
+          16,
+          8,
+          39
+        ],
+        [
+          16,
+          8,
+          40
+        ],
+        [
+          16,
+          9,
+          38
+        ],
+        [
+          16,
+          9,
+          39
+        ],
+        [
+          16,
+          9,
+          40
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 22,
+      "z": 130,
+      "s_index": 2171,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        6355.735806955046,
+        1907.7358069550462,
+        2080
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2002,
+          1839,
+          6278
+        ],
+        [
+          2159,
+          1977,
+          6434
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          14,
+          49
+        ],
+        [
+          15,
+          14,
+          50
+        ],
+        [
+          15,
+          15,
+          49
+        ],
+        [
+          15,
+          15,
+          50
+        ],
+        [
+          16,
+          14,
+          49
+        ],
+        [
+          16,
+          14,
+          50
+        ],
+        [
+          16,
+          15,
+          49
+        ],
+        [
+          16,
+          15,
+          50
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 22,
+      "z": 130,
+      "s_index": 2171,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        6355.735806955046,
+        1907.7358069550462,
+        2080
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2002,
+          1842,
+          6280
+        ],
+        [
+          2159,
+          1975,
+          6432
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          14,
+          49
+        ],
+        [
+          15,
+          14,
+          50
+        ],
+        [
+          15,
+          15,
+          49
+        ],
+        [
+          15,
+          15,
+          50
+        ],
+        [
+          16,
+          14,
+          49
+        ],
+        [
+          16,
+          14,
+          50
+        ],
+        [
+          16,
+          15,
+          49
+        ],
+        [
+          16,
+          15,
+          50
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 23,
+      "z": 130,
+      "s_index": 2524,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        6498.878139809203,
+        2384.0,
+        2080
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2006,
+          2317,
+          6411
+        ],
+        [
+          2155,
+          2452,
+          6587
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          18,
+          50
+        ],
+        [
+          15,
+          18,
+          51
+        ],
+        [
+          15,
+          19,
+          50
+        ],
+        [
+          15,
+          19,
+          51
+        ],
+        [
+          16,
+          18,
+          50
+        ],
+        [
+          16,
+          18,
+          51
+        ],
+        [
+          16,
+          19,
+          50
+        ],
+        [
+          16,
+          19,
+          51
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 23,
+      "z": 130,
+      "s_index": 2524,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        6498.878139809203,
+        2384.0,
+        2080
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2003,
+          2325,
+          6414
+        ],
+        [
+          2158,
+          2444,
+          6585
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          15,
+          18,
+          50
+        ],
+        [
+          15,
+          18,
+          51
+        ],
+        [
+          15,
+          19,
+          50
+        ],
+        [
+          15,
+          19,
+          51
+        ],
+        [
+          16,
+          18,
+          50
+        ],
+        [
+          16,
+          18,
+          51
+        ],
+        [
+          16,
+          19,
+          50
+        ],
+        [
+          16,
+          19,
+          51
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 24,
+      "z": 151,
+      "s_index": 0,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        3952.0,
+        1856.0,
+        2416
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2385,
+          1779,
+          3874
+        ],
+        [
+          2448,
+          1934,
+          4031
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          13,
+          30
+        ],
+        [
+          18,
+          13,
+          31
+        ],
+        [
+          18,
+          14,
+          30
+        ],
+        [
+          18,
+          14,
+          31
+        ],
+        [
+          18,
+          15,
+          30
+        ],
+        [
+          18,
+          15,
+          31
+        ],
+        [
+          19,
+          13,
+          30
+        ],
+        [
+          19,
+          13,
+          31
+        ],
+        [
+          19,
+          14,
+          30
+        ],
+        [
+          19,
+          14,
+          31
+        ],
+        [
+          19,
+          15,
+          30
+        ],
+        [
+          19,
+          15,
+          31
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 24,
+      "z": 151,
+      "s_index": 0,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        3952.0,
+        1856.0,
+        2416
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2344,
+          1808,
+          3874
+        ],
+        [
+          2489,
+          1905,
+          4031
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          14,
+          30
+        ],
+        [
+          18,
+          14,
+          31
+        ],
+        [
+          19,
+          14,
+          30
+        ],
+        [
+          19,
+          14,
+          31
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 25,
+      "z": 151,
+      "s_index": 478,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        5584.0,
+        2086.6146473577232,
+        2416
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2338,
+          2012,
+          5532
+        ],
+        [
+          2495,
+          2162,
+          5637
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          15,
+          43
+        ],
+        [
+          18,
+          15,
+          44
+        ],
+        [
+          18,
+          16,
+          43
+        ],
+        [
+          18,
+          16,
+          44
+        ],
+        [
+          19,
+          15,
+          43
+        ],
+        [
+          19,
+          15,
+          44
+        ],
+        [
+          19,
+          16,
+          43
+        ],
+        [
+          19,
+          16,
+          44
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 25,
+      "z": 151,
+      "s_index": 478,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        5584.0,
+        2086.6146473577232,
+        2416
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2338,
+          2012,
+          5531
+        ],
+        [
+          2495,
+          2162,
+          5638
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          15,
+          43
+        ],
+        [
+          18,
+          15,
+          44
+        ],
+        [
+          18,
+          16,
+          43
+        ],
+        [
+          18,
+          16,
+          44
+        ],
+        [
+          19,
+          15,
+          43
+        ],
+        [
+          19,
+          15,
+          44
+        ],
+        [
+          19,
+          16,
+          43
+        ],
+        [
+          19,
+          16,
+          44
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 26,
+      "z": 151,
+      "s_index": 896,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        5340.4011750918835,
+        3811.598824908116,
+        2416
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2338,
+          3780,
+          5263
+        ],
+        [
+          2495,
+          3844,
+          5419
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          29,
+          41
+        ],
+        [
+          18,
+          29,
+          42
+        ],
+        [
+          18,
+          30,
+          41
+        ],
+        [
+          18,
+          30,
+          42
+        ],
+        [
+          19,
+          29,
+          41
+        ],
+        [
+          19,
+          29,
+          42
+        ],
+        [
+          19,
+          30,
+          41
+        ],
+        [
+          19,
+          30,
+          42
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 26,
+      "z": 151,
+      "s_index": 896,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        5340.4011750918835,
+        3811.598824908116,
+        2416
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2338,
+          3781,
+          5263
+        ],
+        [
+          2495,
+          3844,
+          5419
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          29,
+          41
+        ],
+        [
+          18,
+          29,
+          42
+        ],
+        [
+          18,
+          30,
+          41
+        ],
+        [
+          18,
+          30,
+          42
+        ],
+        [
+          19,
+          29,
+          41
+        ],
+        [
+          19,
+          29,
+          42
+        ],
+        [
+          19,
+          30,
+          41
+        ],
+        [
+          19,
+          30,
+          42
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 27,
+      "z": 151,
+      "s_index": 1352,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        6707.5657543815405,
+        3372.434245618459,
+        2416
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2351,
+          3285,
+          6612
+        ],
+        [
+          2482,
+          3460,
+          6804
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          25,
+          51
+        ],
+        [
+          18,
+          25,
+          52
+        ],
+        [
+          18,
+          25,
+          53
+        ],
+        [
+          18,
+          26,
+          51
+        ],
+        [
+          18,
+          26,
+          52
+        ],
+        [
+          18,
+          26,
+          53
+        ],
+        [
+          18,
+          27,
+          51
+        ],
+        [
+          18,
+          27,
+          52
+        ],
+        [
+          18,
+          27,
+          53
+        ],
+        [
+          19,
+          25,
+          51
+        ],
+        [
+          19,
+          25,
+          52
+        ],
+        [
+          19,
+          25,
+          53
+        ],
+        [
+          19,
+          26,
+          51
+        ],
+        [
+          19,
+          26,
+          52
+        ],
+        [
+          19,
+          26,
+          53
+        ],
+        [
+          19,
+          27,
+          51
+        ],
+        [
+          19,
+          27,
+          52
+        ],
+        [
+          19,
+          27,
+          53
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 27,
+      "z": 151,
+      "s_index": 1352,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        6707.5657543815405,
+        3372.434245618459,
+        2416
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2347,
+          3291,
+          6615
+        ],
+        [
+          2486,
+          3455,
+          6801
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          25,
+          51
+        ],
+        [
+          18,
+          25,
+          52
+        ],
+        [
+          18,
+          25,
+          53
+        ],
+        [
+          18,
+          26,
+          51
+        ],
+        [
+          18,
+          26,
+          52
+        ],
+        [
+          18,
+          26,
+          53
+        ],
+        [
+          19,
+          25,
+          51
+        ],
+        [
+          19,
+          25,
+          52
+        ],
+        [
+          19,
+          25,
+          53
+        ],
+        [
+          19,
+          26,
+          51
+        ],
+        [
+          19,
+          26,
+          52
+        ],
+        [
+          19,
+          26,
+          53
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 28,
+      "z": 151,
+      "s_index": 1781,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        6431.4147758350755,
+        2303.414775835076,
+        2416
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2338,
+          2227,
+          6370
+        ],
+        [
+          2495,
+          2381,
+          6494
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          17,
+          49
+        ],
+        [
+          18,
+          17,
+          50
+        ],
+        [
+          18,
+          18,
+          49
+        ],
+        [
+          18,
+          18,
+          50
+        ],
+        [
+          19,
+          17,
+          49
+        ],
+        [
+          19,
+          17,
+          50
+        ],
+        [
+          19,
+          18,
+          49
+        ],
+        [
+          19,
+          18,
+          50
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 28,
+      "z": 151,
+      "s_index": 1781,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        6431.4147758350755,
+        2303.414775835076,
+        2416
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2338,
+          2228,
+          6371
+        ],
+        [
+          2495,
+          2380,
+          6493
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          17,
+          49
+        ],
+        [
+          18,
+          17,
+          50
+        ],
+        [
+          18,
+          18,
+          49
+        ],
+        [
+          18,
+          18,
+          50
+        ],
+        [
+          19,
+          17,
+          49
+        ],
+        [
+          19,
+          17,
+          50
+        ],
+        [
+          19,
+          18,
+          49
+        ],
+        [
+          19,
+          18,
+          50
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 29,
+      "z": 151,
+      "s_index": 2323,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        5467.768066215235,
+        1307.7680662152354,
+        2416
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2398,
+          1212,
+          5372
+        ],
+        [
+          2435,
+          1405,
+          5564
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          9,
+          41
+        ],
+        [
+          18,
+          9,
+          42
+        ],
+        [
+          18,
+          9,
+          43
+        ],
+        [
+          18,
+          10,
+          41
+        ],
+        [
+          18,
+          10,
+          42
+        ],
+        [
+          18,
+          10,
+          43
+        ],
+        [
+          19,
+          9,
+          41
+        ],
+        [
+          19,
+          9,
+          42
+        ],
+        [
+          19,
+          9,
+          43
+        ],
+        [
+          19,
+          10,
+          41
+        ],
+        [
+          19,
+          10,
+          42
+        ],
+        [
+          19,
+          10,
+          43
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 29,
+      "z": 151,
+      "s_index": 2323,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        5467.768066215235,
+        1307.7680662152354,
+        2416
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2379,
+          1214,
+          5373
+        ],
+        [
+          2454,
+          1403,
+          5564
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          9,
+          41
+        ],
+        [
+          18,
+          9,
+          42
+        ],
+        [
+          18,
+          9,
+          43
+        ],
+        [
+          18,
+          10,
+          41
+        ],
+        [
+          18,
+          10,
+          42
+        ],
+        [
+          18,
+          10,
+          43
+        ],
+        [
+          19,
+          9,
+          41
+        ],
+        [
+          19,
+          9,
+          42
+        ],
+        [
+          19,
+          9,
+          43
+        ],
+        [
+          19,
+          10,
+          41
+        ],
+        [
+          19,
+          10,
+          42
+        ],
+        [
+          19,
+          10,
+          43
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 30,
+      "z": 151,
+      "s_index": 2809,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        5888.0,
+        1361.5155420954543,
+        2416
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2371,
+          1258,
+          5783
+        ],
+        [
+          2462,
+          1466,
+          5994
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          9,
+          45
+        ],
+        [
+          18,
+          9,
+          46
+        ],
+        [
+          18,
+          10,
+          45
+        ],
+        [
+          18,
+          10,
+          46
+        ],
+        [
+          18,
+          11,
+          45
+        ],
+        [
+          18,
+          11,
+          46
+        ],
+        [
+          19,
+          9,
+          45
+        ],
+        [
+          19,
+          9,
+          46
+        ],
+        [
+          19,
+          10,
+          45
+        ],
+        [
+          19,
+          10,
+          46
+        ],
+        [
+          19,
+          11,
+          45
+        ],
+        [
+          19,
+          11,
+          46
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 30,
+      "z": 151,
+      "s_index": 2809,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        5888.0,
+        1361.5155420954543,
+        2416
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2343,
+          1281,
+          5798
+        ],
+        [
+          2490,
+          1443,
+          5979
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          10,
+          45
+        ],
+        [
+          18,
+          10,
+          46
+        ],
+        [
+          18,
+          11,
+          45
+        ],
+        [
+          18,
+          11,
+          46
+        ],
+        [
+          19,
+          10,
+          45
+        ],
+        [
+          19,
+          10,
+          46
+        ],
+        [
+          19,
+          11,
+          45
+        ],
+        [
+          19,
+          11,
+          46
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 31,
+      "z": 151,
+      "s_index": 3255,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        6880.0,
+        2650.7730949548313,
+        2416
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2340,
+          2564,
+          6812
+        ],
+        [
+          2493,
+          2738,
+          6949
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          20,
+          53
+        ],
+        [
+          18,
+          20,
+          54
+        ],
+        [
+          18,
+          21,
+          53
+        ],
+        [
+          18,
+          21,
+          54
+        ],
+        [
+          19,
+          20,
+          53
+        ],
+        [
+          19,
+          20,
+          54
+        ],
+        [
+          19,
+          21,
+          53
+        ],
+        [
+          19,
+          21,
+          54
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 31,
+      "z": 151,
+      "s_index": 3255,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        6880.0,
+        2650.7730949548313,
+        2416
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2340,
+          2565,
+          6813
+        ],
+        [
+          2493,
+          2738,
+          6948
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          20,
+          53
+        ],
+        [
+          18,
+          20,
+          54
+        ],
+        [
+          18,
+          21,
+          53
+        ],
+        [
+          18,
+          21,
+          54
+        ],
+        [
+          19,
+          20,
+          53
+        ],
+        [
+          19,
+          20,
+          54
+        ],
+        [
+          19,
+          21,
+          53
+        ],
+        [
+          19,
+          21,
+          54
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 32,
+      "z": 152,
+      "s_index": 0,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        3936.0,
+        1808.0,
+        2432
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2354,
+          1787,
+          3858
+        ],
+        [
+          2511,
+          1830,
+          4015
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          13,
+          30
+        ],
+        [
+          18,
+          13,
+          31
+        ],
+        [
+          18,
+          14,
+          30
+        ],
+        [
+          18,
+          14,
+          31
+        ],
+        [
+          19,
+          13,
+          30
+        ],
+        [
+          19,
+          13,
+          31
+        ],
+        [
+          19,
+          14,
+          30
+        ],
+        [
+          19,
+          14,
+          31
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 32,
+      "z": 152,
+      "s_index": 0,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        3936.0,
+        1808.0,
+        2432
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2354,
+          1789,
+          3858
+        ],
+        [
+          2511,
+          1828,
+          4015
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          13,
+          30
+        ],
+        [
+          18,
+          13,
+          31
+        ],
+        [
+          18,
+          14,
+          30
+        ],
+        [
+          18,
+          14,
+          31
+        ],
+        [
+          19,
+          13,
+          30
+        ],
+        [
+          19,
+          13,
+          31
+        ],
+        [
+          19,
+          14,
+          30
+        ],
+        [
+          19,
+          14,
+          31
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 33,
+      "z": 152,
+      "s_index": 478,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        5395.26664780877,
+        1843.26664780877,
+        2432
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2362,
+          1750,
+          5309
+        ],
+        [
+          2503,
+          1937,
+          5482
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          13,
+          41
+        ],
+        [
+          18,
+          13,
+          42
+        ],
+        [
+          18,
+          14,
+          41
+        ],
+        [
+          18,
+          14,
+          42
+        ],
+        [
+          18,
+          15,
+          41
+        ],
+        [
+          18,
+          15,
+          42
+        ],
+        [
+          19,
+          13,
+          41
+        ],
+        [
+          19,
+          13,
+          42
+        ],
+        [
+          19,
+          14,
+          41
+        ],
+        [
+          19,
+          14,
+          42
+        ],
+        [
+          19,
+          15,
+          41
+        ],
+        [
+          19,
+          15,
+          42
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 33,
+      "z": 152,
+      "s_index": 478,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        5395.26664780877,
+        1843.26664780877,
+        2432
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2357,
+          1757,
+          5319
+        ],
+        [
+          2508,
+          1931,
+          5473
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          13,
+          41
+        ],
+        [
+          18,
+          13,
+          42
+        ],
+        [
+          18,
+          14,
+          41
+        ],
+        [
+          18,
+          14,
+          42
+        ],
+        [
+          18,
+          15,
+          41
+        ],
+        [
+          18,
+          15,
+          42
+        ],
+        [
+          19,
+          13,
+          41
+        ],
+        [
+          19,
+          13,
+          42
+        ],
+        [
+          19,
+          14,
+          41
+        ],
+        [
+          19,
+          14,
+          42
+        ],
+        [
+          19,
+          15,
+          41
+        ],
+        [
+          19,
+          15,
+          42
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 34,
+      "z": 152,
+      "s_index": 896,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        6424.268663417255,
+        2264.268663417255,
+        2432
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2354,
+          2188,
+          6364
+        ],
+        [
+          2511,
+          2342,
+          6486
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          17,
+          49
+        ],
+        [
+          18,
+          17,
+          50
+        ],
+        [
+          18,
+          18,
+          49
+        ],
+        [
+          18,
+          18,
+          50
+        ],
+        [
+          19,
+          17,
+          49
+        ],
+        [
+          19,
+          17,
+          50
+        ],
+        [
+          19,
+          18,
+          49
+        ],
+        [
+          19,
+          18,
+          50
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 34,
+      "z": 152,
+      "s_index": 896,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        6424.268663417255,
+        2264.268663417255,
+        2432
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2354,
+          2192,
+          6370
+        ],
+        [
+          2511,
+          2337,
+          6479
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          17,
+          49
+        ],
+        [
+          18,
+          17,
+          50
+        ],
+        [
+          18,
+          18,
+          49
+        ],
+        [
+          18,
+          18,
+          50
+        ],
+        [
+          19,
+          17,
+          49
+        ],
+        [
+          19,
+          17,
+          50
+        ],
+        [
+          19,
+          18,
+          49
+        ],
+        [
+          19,
+          18,
+          50
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 35,
+      "z": 152,
+      "s_index": 1352,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        6246.604273727613,
+        1606.6042737276127,
+        2432
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2371,
+          1511,
+          6147
+        ],
+        [
+          2494,
+          1703,
+          6347
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          11,
+          48
+        ],
+        [
+          18,
+          11,
+          49
+        ],
+        [
+          18,
+          12,
+          48
+        ],
+        [
+          18,
+          12,
+          49
+        ],
+        [
+          18,
+          13,
+          48
+        ],
+        [
+          18,
+          13,
+          49
+        ],
+        [
+          19,
+          11,
+          48
+        ],
+        [
+          19,
+          11,
+          49
+        ],
+        [
+          19,
+          12,
+          48
+        ],
+        [
+          19,
+          12,
+          49
+        ],
+        [
+          19,
+          13,
+          48
+        ],
+        [
+          19,
+          13,
+          49
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 35,
+      "z": 152,
+      "s_index": 1352,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        6246.604273727613,
+        1606.6042737276127,
+        2432
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2361,
+          1523,
+          6155
+        ],
+        [
+          2504,
+          1692,
+          6339
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          11,
+          48
+        ],
+        [
+          18,
+          11,
+          49
+        ],
+        [
+          18,
+          12,
+          48
+        ],
+        [
+          18,
+          12,
+          49
+        ],
+        [
+          18,
+          13,
+          48
+        ],
+        [
+          18,
+          13,
+          49
+        ],
+        [
+          19,
+          11,
+          48
+        ],
+        [
+          19,
+          11,
+          49
+        ],
+        [
+          19,
+          12,
+          48
+        ],
+        [
+          19,
+          12,
+          49
+        ],
+        [
+          19,
+          13,
+          48
+        ],
+        [
+          19,
+          13,
+          49
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 36,
+      "z": 152,
+      "s_index": 1781,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        6556.903906227505,
+        2988.903906227505,
+        2432
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2357,
+          2925,
+          6470
+        ],
+        [
+          2508,
+          3054,
+          6644
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          22,
+          50
+        ],
+        [
+          18,
+          22,
+          51
+        ],
+        [
+          18,
+          23,
+          50
+        ],
+        [
+          18,
+          23,
+          51
+        ],
+        [
+          19,
+          22,
+          50
+        ],
+        [
+          19,
+          22,
+          51
+        ],
+        [
+          19,
+          23,
+          50
+        ],
+        [
+          19,
+          23,
+          51
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 36,
+      "z": 152,
+      "s_index": 1781,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        6556.903906227505,
+        2988.903906227505,
+        2432
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2356,
+          2928,
+          6472
+        ],
+        [
+          2509,
+          3051,
+          6643
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          22,
+          50
+        ],
+        [
+          18,
+          22,
+          51
+        ],
+        [
+          18,
+          23,
+          50
+        ],
+        [
+          18,
+          23,
+          51
+        ],
+        [
+          19,
+          22,
+          50
+        ],
+        [
+          19,
+          22,
+          51
+        ],
+        [
+          19,
+          23,
+          50
+        ],
+        [
+          19,
+          23,
+          51
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 37,
+      "z": 152,
+      "s_index": 2323,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        5343.00623000666,
+        2848.9937699933394,
+        2432
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2361,
+          2790,
+          5260
+        ],
+        [
+          2504,
+          2909,
+          5427
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          21,
+          41
+        ],
+        [
+          18,
+          21,
+          42
+        ],
+        [
+          18,
+          22,
+          41
+        ],
+        [
+          18,
+          22,
+          42
+        ],
+        [
+          19,
+          21,
+          41
+        ],
+        [
+          19,
+          21,
+          42
+        ],
+        [
+          19,
+          22,
+          41
+        ],
+        [
+          19,
+          22,
+          42
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 37,
+      "z": 152,
+      "s_index": 2323,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        5343.00623000666,
+        2848.9937699933394,
+        2432
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2360,
+          2792,
+          5260
+        ],
+        [
+          2505,
+          2907,
+          5427
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          21,
+          41
+        ],
+        [
+          18,
+          21,
+          42
+        ],
+        [
+          18,
+          22,
+          41
+        ],
+        [
+          18,
+          22,
+          42
+        ],
+        [
+          19,
+          21,
+          41
+        ],
+        [
+          19,
+          21,
+          42
+        ],
+        [
+          19,
+          22,
+          41
+        ],
+        [
+          19,
+          22,
+          42
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 38,
+      "z": 152,
+      "s_index": 2809,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        5259.92106880428,
+        2944.0,
+        2432
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2372,
+          2881,
+          5182
+        ],
+        [
+          2493,
+          3008,
+          5338
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          22,
+          40
+        ],
+        [
+          18,
+          22,
+          41
+        ],
+        [
+          18,
+          23,
+          40
+        ],
+        [
+          18,
+          23,
+          41
+        ],
+        [
+          19,
+          22,
+          40
+        ],
+        [
+          19,
+          22,
+          41
+        ],
+        [
+          19,
+          23,
+          40
+        ],
+        [
+          19,
+          23,
+          41
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 38,
+      "z": 152,
+      "s_index": 2809,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        5259.92106880428,
+        2944.0,
+        2432
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2368,
+          2885,
+          5182
+        ],
+        [
+          2497,
+          3004,
+          5338
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          22,
+          40
+        ],
+        [
+          18,
+          22,
+          41
+        ],
+        [
+          18,
+          23,
+          40
+        ],
+        [
+          18,
+          23,
+          41
+        ],
+        [
+          19,
+          22,
+          40
+        ],
+        [
+          19,
+          22,
+          41
+        ],
+        [
+          19,
+          23,
+          40
+        ],
+        [
+          19,
+          23,
+          41
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 39,
+      "z": 152,
+      "s_index": 3255,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        4895.999493152547,
+        3296.0,
+        2432
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2405,
+          3205,
+          4805
+        ],
+        [
+          2460,
+          3388,
+          4988
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          25,
+          37
+        ],
+        [
+          18,
+          25,
+          38
+        ],
+        [
+          18,
+          26,
+          37
+        ],
+        [
+          18,
+          26,
+          38
+        ],
+        [
+          19,
+          25,
+          37
+        ],
+        [
+          19,
+          25,
+          38
+        ],
+        [
+          19,
+          26,
+          37
+        ],
+        [
+          19,
+          26,
+          38
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 39,
+      "z": 152,
+      "s_index": 3255,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        4895.999493152547,
+        3296.0,
+        2432
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2403,
+          3205,
+          4805
+        ],
+        [
+          2462,
+          3388,
+          4988
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          25,
+          37
+        ],
+        [
+          18,
+          25,
+          38
+        ],
+        [
+          18,
+          26,
+          37
+        ],
+        [
+          18,
+          26,
+          38
+        ],
+        [
+          19,
+          25,
+          37
+        ],
+        [
+          19,
+          25,
+          38
+        ],
+        [
+          19,
+          26,
+          37
+        ],
+        [
+          19,
+          26,
+          38
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 40,
+      "z": 153,
+      "s_index": 0,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        3936.0,
+        1808.0,
+        2448
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2415,
+          1731,
+          3858
+        ],
+        [
+          2482,
+          1886,
+          4015
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          13,
+          30
+        ],
+        [
+          18,
+          13,
+          31
+        ],
+        [
+          18,
+          14,
+          30
+        ],
+        [
+          18,
+          14,
+          31
+        ],
+        [
+          19,
+          13,
+          30
+        ],
+        [
+          19,
+          13,
+          31
+        ],
+        [
+          19,
+          14,
+          30
+        ],
+        [
+          19,
+          14,
+          31
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 40,
+      "z": 153,
+      "s_index": 0,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        3936.0,
+        1808.0,
+        2448
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2370,
+          1790,
+          3858
+        ],
+        [
+          2527,
+          1827,
+          4015
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          13,
+          30
+        ],
+        [
+          18,
+          13,
+          31
+        ],
+        [
+          18,
+          14,
+          30
+        ],
+        [
+          18,
+          14,
+          31
+        ],
+        [
+          19,
+          13,
+          30
+        ],
+        [
+          19,
+          13,
+          31
+        ],
+        [
+          19,
+          14,
+          30
+        ],
+        [
+          19,
+          14,
+          31
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 41,
+      "z": 153,
+      "s_index": 478,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        5918.718164677759,
+        2785.2818353222415,
+        2448
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2370,
+          2720,
+          5844
+        ],
+        [
+          2527,
+          2851,
+          5995
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          21,
+          45
+        ],
+        [
+          18,
+          21,
+          46
+        ],
+        [
+          18,
+          22,
+          45
+        ],
+        [
+          18,
+          22,
+          46
+        ],
+        [
+          19,
+          21,
+          45
+        ],
+        [
+          19,
+          21,
+          46
+        ],
+        [
+          19,
+          22,
+          45
+        ],
+        [
+          19,
+          22,
+          46
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 41,
+      "z": 153,
+      "s_index": 478,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        5918.718164677759,
+        2785.2818353222415,
+        2448
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2370,
+          2725,
+          5847
+        ],
+        [
+          2527,
+          2847,
+          5991
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          21,
+          45
+        ],
+        [
+          18,
+          21,
+          46
+        ],
+        [
+          18,
+          22,
+          45
+        ],
+        [
+          18,
+          22,
+          46
+        ],
+        [
+          19,
+          21,
+          45
+        ],
+        [
+          19,
+          21,
+          46
+        ],
+        [
+          19,
+          22,
+          45
+        ],
+        [
+          19,
+          22,
+          46
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 42,
+      "z": 153,
+      "s_index": 896,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        6194.82643182596,
+        2194.8264318259603,
+        2448
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2397,
+          2106,
+          6101
+        ],
+        [
+          2500,
+          2284,
+          6289
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          16,
+          47
+        ],
+        [
+          18,
+          16,
+          48
+        ],
+        [
+          18,
+          16,
+          49
+        ],
+        [
+          18,
+          17,
+          47
+        ],
+        [
+          18,
+          17,
+          48
+        ],
+        [
+          18,
+          17,
+          49
+        ],
+        [
+          19,
+          16,
+          47
+        ],
+        [
+          19,
+          16,
+          48
+        ],
+        [
+          19,
+          16,
+          49
+        ],
+        [
+          19,
+          17,
+          47
+        ],
+        [
+          19,
+          17,
+          48
+        ],
+        [
+          19,
+          17,
+          49
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 42,
+      "z": 153,
+      "s_index": 896,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        6194.82643182596,
+        2194.8264318259603,
+        2448
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2400,
+          2105,
+          6101
+        ],
+        [
+          2497,
+          2286,
+          6290
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          16,
+          47
+        ],
+        [
+          18,
+          16,
+          48
+        ],
+        [
+          18,
+          16,
+          49
+        ],
+        [
+          18,
+          17,
+          47
+        ],
+        [
+          18,
+          17,
+          48
+        ],
+        [
+          18,
+          17,
+          49
+        ],
+        [
+          19,
+          16,
+          47
+        ],
+        [
+          19,
+          16,
+          48
+        ],
+        [
+          19,
+          16,
+          49
+        ],
+        [
+          19,
+          17,
+          47
+        ],
+        [
+          19,
+          17,
+          48
+        ],
+        [
+          19,
+          17,
+          49
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 43,
+      "z": 153,
+      "s_index": 1352,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        5768.14800774516,
+        3303.8519922548403,
+        2448
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2385,
+          3212,
+          5671
+        ],
+        [
+          2512,
+          3396,
+          5867
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          25,
+          44
+        ],
+        [
+          18,
+          25,
+          45
+        ],
+        [
+          18,
+          26,
+          44
+        ],
+        [
+          18,
+          26,
+          45
+        ],
+        [
+          19,
+          25,
+          44
+        ],
+        [
+          19,
+          25,
+          45
+        ],
+        [
+          19,
+          26,
+          44
+        ],
+        [
+          19,
+          26,
+          45
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 43,
+      "z": 153,
+      "s_index": 1352,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        5768.14800774516,
+        3303.8519922548403,
+        2448
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2375,
+          3225,
+          5678
+        ],
+        [
+          2522,
+          3384,
+          5859
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          25,
+          44
+        ],
+        [
+          18,
+          25,
+          45
+        ],
+        [
+          18,
+          26,
+          44
+        ],
+        [
+          18,
+          26,
+          45
+        ],
+        [
+          19,
+          25,
+          44
+        ],
+        [
+          19,
+          25,
+          45
+        ],
+        [
+          19,
+          26,
+          44
+        ],
+        [
+          19,
+          26,
+          45
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 44,
+      "z": 153,
+      "s_index": 1781,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        6182.28265575618,
+        3568.0,
+        2448
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2384,
+          3488,
+          6090
+        ],
+        [
+          2513,
+          3649,
+          6275
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          27,
+          47
+        ],
+        [
+          18,
+          27,
+          48
+        ],
+        [
+          18,
+          27,
+          49
+        ],
+        [
+          18,
+          28,
+          47
+        ],
+        [
+          18,
+          28,
+          48
+        ],
+        [
+          18,
+          28,
+          49
+        ],
+        [
+          19,
+          27,
+          47
+        ],
+        [
+          19,
+          27,
+          48
+        ],
+        [
+          19,
+          27,
+          49
+        ],
+        [
+          19,
+          28,
+          47
+        ],
+        [
+          19,
+          28,
+          48
+        ],
+        [
+          19,
+          28,
+          49
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 44,
+      "z": 153,
+      "s_index": 1781,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        6182.28265575618,
+        3568.0,
+        2448
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2379,
+          3494,
+          6092
+        ],
+        [
+          2518,
+          3643,
+          6273
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          27,
+          47
+        ],
+        [
+          18,
+          27,
+          48
+        ],
+        [
+          18,
+          27,
+          49
+        ],
+        [
+          18,
+          28,
+          47
+        ],
+        [
+          18,
+          28,
+          48
+        ],
+        [
+          18,
+          28,
+          49
+        ],
+        [
+          19,
+          27,
+          47
+        ],
+        [
+          19,
+          27,
+          48
+        ],
+        [
+          19,
+          27,
+          49
+        ],
+        [
+          19,
+          28,
+          47
+        ],
+        [
+          19,
+          28,
+          48
+        ],
+        [
+          19,
+          28,
+          49
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 45,
+      "z": 153,
+      "s_index": 2323,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        6882.37766427692,
+        3533.62233572308,
+        2448
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2372,
+          3448,
+          6816
+        ],
+        [
+          2525,
+          3620,
+          6950
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          26,
+          53
+        ],
+        [
+          18,
+          26,
+          54
+        ],
+        [
+          18,
+          27,
+          53
+        ],
+        [
+          18,
+          27,
+          54
+        ],
+        [
+          18,
+          28,
+          53
+        ],
+        [
+          18,
+          28,
+          54
+        ],
+        [
+          19,
+          26,
+          53
+        ],
+        [
+          19,
+          26,
+          54
+        ],
+        [
+          19,
+          27,
+          53
+        ],
+        [
+          19,
+          27,
+          54
+        ],
+        [
+          19,
+          28,
+          53
+        ],
+        [
+          19,
+          28,
+          54
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 45,
+      "z": 153,
+      "s_index": 2323,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        6882.37766427692,
+        3533.62233572308,
+        2448
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2370,
+          3452,
+          6824
+        ],
+        [
+          2527,
+          3617,
+          6941
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          26,
+          53
+        ],
+        [
+          18,
+          26,
+          54
+        ],
+        [
+          18,
+          27,
+          53
+        ],
+        [
+          18,
+          27,
+          54
+        ],
+        [
+          18,
+          28,
+          53
+        ],
+        [
+          18,
+          28,
+          54
+        ],
+        [
+          19,
+          26,
+          53
+        ],
+        [
+          19,
+          26,
+          54
+        ],
+        [
+          19,
+          27,
+          53
+        ],
+        [
+          19,
+          27,
+          54
+        ],
+        [
+          19,
+          28,
+          53
+        ],
+        [
+          19,
+          28,
+          54
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 46,
+      "z": 153,
+      "s_index": 2809,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        6011.32036672566,
+        1451.32036672566,
+        2448
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2436,
+          1344,
+          5904
+        ],
+        [
+          2461,
+          1560,
+          6120
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          19,
+          10,
+          46
+        ],
+        [
+          19,
+          10,
+          47
+        ],
+        [
+          19,
+          11,
+          46
+        ],
+        [
+          19,
+          11,
+          47
+        ],
+        [
+          19,
+          12,
+          46
+        ],
+        [
+          19,
+          12,
+          47
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 46,
+      "z": 153,
+      "s_index": 2809,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        6011.32036672566,
+        1451.32036672566,
+        2448
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2430,
+          1343,
+          5903
+        ],
+        [
+          2467,
+          1560,
+          6120
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          10,
+          46
+        ],
+        [
+          18,
+          10,
+          47
+        ],
+        [
+          18,
+          11,
+          46
+        ],
+        [
+          18,
+          11,
+          47
+        ],
+        [
+          18,
+          12,
+          46
+        ],
+        [
+          18,
+          12,
+          47
+        ],
+        [
+          19,
+          10,
+          46
+        ],
+        [
+          19,
+          10,
+          47
+        ],
+        [
+          19,
+          11,
+          46
+        ],
+        [
+          19,
+          11,
+          47
+        ],
+        [
+          19,
+          12,
+          46
+        ],
+        [
+          19,
+          12,
+          47
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 47,
+      "z": 153,
+      "s_index": 3255,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        7309.267940644076,
+        2610.7320593559243,
+        2448
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2377,
+          2519,
+          7227
+        ],
+        [
+          2520,
+          2703,
+          7393
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          19,
+          56
+        ],
+        [
+          18,
+          19,
+          57
+        ],
+        [
+          18,
+          20,
+          56
+        ],
+        [
+          18,
+          20,
+          57
+        ],
+        [
+          18,
+          21,
+          56
+        ],
+        [
+          18,
+          21,
+          57
+        ],
+        [
+          19,
+          19,
+          56
+        ],
+        [
+          19,
+          19,
+          57
+        ],
+        [
+          19,
+          20,
+          56
+        ],
+        [
+          19,
+          20,
+          57
+        ],
+        [
+          19,
+          21,
+          56
+        ],
+        [
+          19,
+          21,
+          57
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 47,
+      "z": 153,
+      "s_index": 3255,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        7309.267940644076,
+        2610.7320593559243,
+        2448
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2375,
+          2521,
+          7230
+        ],
+        [
+          2522,
+          2701,
+          7390
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          18,
+          19,
+          56
+        ],
+        [
+          18,
+          19,
+          57
+        ],
+        [
+          18,
+          20,
+          56
+        ],
+        [
+          18,
+          20,
+          57
+        ],
+        [
+          18,
+          21,
+          56
+        ],
+        [
+          18,
+          21,
+          57
+        ],
+        [
+          19,
+          19,
+          56
+        ],
+        [
+          19,
+          19,
+          57
+        ],
+        [
+          19,
+          20,
+          56
+        ],
+        [
+          19,
+          20,
+          57
+        ],
+        [
+          19,
+          21,
+          56
+        ],
+        [
+          19,
+          21,
+          57
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 48,
+      "z": 175,
+      "s_index": 0,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        4144.0,
+        2384.0,
+        2800
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2733,
+          2295,
+          4048
+        ],
+        [
+          2868,
+          2474,
+          4241
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          17,
+          31
+        ],
+        [
+          21,
+          17,
+          32
+        ],
+        [
+          21,
+          17,
+          33
+        ],
+        [
+          21,
+          18,
+          31
+        ],
+        [
+          21,
+          18,
+          32
+        ],
+        [
+          21,
+          18,
+          33
+        ],
+        [
+          21,
+          19,
+          31
+        ],
+        [
+          21,
+          19,
+          32
+        ],
+        [
+          21,
+          19,
+          33
+        ],
+        [
+          22,
+          17,
+          31
+        ],
+        [
+          22,
+          17,
+          32
+        ],
+        [
+          22,
+          17,
+          33
+        ],
+        [
+          22,
+          18,
+          31
+        ],
+        [
+          22,
+          18,
+          32
+        ],
+        [
+          22,
+          18,
+          33
+        ],
+        [
+          22,
+          19,
+          31
+        ],
+        [
+          22,
+          19,
+          32
+        ],
+        [
+          22,
+          19,
+          33
+        ]
+      ],
+      "missing_from_T9": [
+        [
+          22,
+          17,
+          31
+        ],
+        [
+          22,
+          17,
+          32
+        ],
+        [
+          22,
+          17,
+          33
+        ],
+        [
+          22,
+          18,
+          33
+        ],
+        [
+          22,
+          19,
+          33
+        ]
+      ]
+    },
+    {
+      "sample": 48,
+      "z": 175,
+      "s_index": 0,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        4144.0,
+        2384.0,
+        2800
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2733,
+          2295,
+          4049
+        ],
+        [
+          2868,
+          2474,
+          4240
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          17,
+          31
+        ],
+        [
+          21,
+          17,
+          32
+        ],
+        [
+          21,
+          17,
+          33
+        ],
+        [
+          21,
+          18,
+          31
+        ],
+        [
+          21,
+          18,
+          32
+        ],
+        [
+          21,
+          18,
+          33
+        ],
+        [
+          21,
+          19,
+          31
+        ],
+        [
+          21,
+          19,
+          32
+        ],
+        [
+          21,
+          19,
+          33
+        ],
+        [
+          22,
+          17,
+          31
+        ],
+        [
+          22,
+          17,
+          32
+        ],
+        [
+          22,
+          17,
+          33
+        ],
+        [
+          22,
+          18,
+          31
+        ],
+        [
+          22,
+          18,
+          32
+        ],
+        [
+          22,
+          18,
+          33
+        ],
+        [
+          22,
+          19,
+          31
+        ],
+        [
+          22,
+          19,
+          32
+        ],
+        [
+          22,
+          19,
+          33
+        ]
+      ],
+      "missing_from_T9": [
+        [
+          22,
+          17,
+          31
+        ],
+        [
+          22,
+          17,
+          32
+        ],
+        [
+          22,
+          17,
+          33
+        ],
+        [
+          22,
+          18,
+          33
+        ],
+        [
+          22,
+          19,
+          33
+        ]
+      ]
+    },
+    {
+      "sample": 49,
+      "z": 175,
+      "s_index": 363,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        5891.041972211449,
+        2896.0,
+        2800
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2753,
+          2824,
+          5813
+        ],
+        [
+          2848,
+          2969,
+          5970
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          22,
+          45
+        ],
+        [
+          21,
+          22,
+          46
+        ],
+        [
+          21,
+          23,
+          45
+        ],
+        [
+          21,
+          23,
+          46
+        ],
+        [
+          22,
+          22,
+          45
+        ],
+        [
+          22,
+          22,
+          46
+        ],
+        [
+          22,
+          23,
+          45
+        ],
+        [
+          22,
+          23,
+          46
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 49,
+      "z": 175,
+      "s_index": 363,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        5891.041972211449,
+        2896.0,
+        2800
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2750,
+          2825,
+          5813
+        ],
+        [
+          2851,
+          2968,
+          5970
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          22,
+          45
+        ],
+        [
+          21,
+          22,
+          46
+        ],
+        [
+          21,
+          23,
+          45
+        ],
+        [
+          21,
+          23,
+          46
+        ],
+        [
+          22,
+          22,
+          45
+        ],
+        [
+          22,
+          22,
+          46
+        ],
+        [
+          22,
+          23,
+          45
+        ],
+        [
+          22,
+          23,
+          46
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 50,
+      "z": 175,
+      "s_index": 662,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        6466.766139877116,
+        3088.0,
+        2800
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2730,
+          3010,
+          6375
+        ],
+        [
+          2871,
+          3167,
+          6559
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          23,
+          49
+        ],
+        [
+          21,
+          23,
+          50
+        ],
+        [
+          21,
+          23,
+          51
+        ],
+        [
+          21,
+          24,
+          49
+        ],
+        [
+          21,
+          24,
+          50
+        ],
+        [
+          21,
+          24,
+          51
+        ],
+        [
+          22,
+          23,
+          49
+        ],
+        [
+          22,
+          23,
+          50
+        ],
+        [
+          22,
+          23,
+          51
+        ],
+        [
+          22,
+          24,
+          49
+        ],
+        [
+          22,
+          24,
+          50
+        ],
+        [
+          22,
+          24,
+          51
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 50,
+      "z": 175,
+      "s_index": 662,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        6466.766139877116,
+        3088.0,
+        2800
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2727,
+          3015,
+          6377
+        ],
+        [
+          2874,
+          3162,
+          6557
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          23,
+          49
+        ],
+        [
+          21,
+          23,
+          50
+        ],
+        [
+          21,
+          23,
+          51
+        ],
+        [
+          21,
+          24,
+          49
+        ],
+        [
+          21,
+          24,
+          50
+        ],
+        [
+          21,
+          24,
+          51
+        ],
+        [
+          22,
+          23,
+          49
+        ],
+        [
+          22,
+          23,
+          50
+        ],
+        [
+          22,
+          23,
+          51
+        ],
+        [
+          22,
+          24,
+          49
+        ],
+        [
+          22,
+          24,
+          50
+        ],
+        [
+          22,
+          24,
+          51
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 51,
+      "z": 175,
+      "s_index": 1001,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        6490.522462930157,
+        2154.522462930158,
+        2800
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2761,
+          2065,
+          6403
+        ],
+        [
+          2840,
+          2245,
+          6579
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          16,
+          50
+        ],
+        [
+          21,
+          16,
+          51
+        ],
+        [
+          21,
+          17,
+          50
+        ],
+        [
+          21,
+          17,
+          51
+        ],
+        [
+          22,
+          16,
+          50
+        ],
+        [
+          22,
+          16,
+          51
+        ],
+        [
+          22,
+          17,
+          50
+        ],
+        [
+          22,
+          17,
+          51
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 51,
+      "z": 175,
+      "s_index": 1001,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        6490.522462930157,
+        2154.522462930158,
+        2800
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2742,
+          2067,
+          6413
+        ],
+        [
+          2859,
+          2243,
+          6569
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          16,
+          50
+        ],
+        [
+          21,
+          16,
+          51
+        ],
+        [
+          21,
+          17,
+          50
+        ],
+        [
+          21,
+          17,
+          51
+        ],
+        [
+          22,
+          16,
+          50
+        ],
+        [
+          22,
+          16,
+          51
+        ],
+        [
+          22,
+          17,
+          50
+        ],
+        [
+          22,
+          17,
+          51
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 52,
+      "z": 175,
+      "s_index": 1332,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        5248.493306320179,
+        1120.0,
+        2800
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2736,
+          1048,
+          5162
+        ],
+        [
+          2865,
+          1193,
+          5336
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          8,
+          40
+        ],
+        [
+          21,
+          8,
+          41
+        ],
+        [
+          21,
+          9,
+          40
+        ],
+        [
+          21,
+          9,
+          41
+        ],
+        [
+          22,
+          8,
+          40
+        ],
+        [
+          22,
+          8,
+          41
+        ],
+        [
+          22,
+          9,
+          40
+        ],
+        [
+          22,
+          9,
+          41
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 52,
+      "z": 175,
+      "s_index": 1332,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        5248.493306320179,
+        1120.0,
+        2800
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2728,
+          1059,
+          5164
+        ],
+        [
+          2873,
+          1182,
+          5334
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          8,
+          40
+        ],
+        [
+          21,
+          8,
+          41
+        ],
+        [
+          21,
+          9,
+          40
+        ],
+        [
+          21,
+          9,
+          41
+        ],
+        [
+          22,
+          8,
+          40
+        ],
+        [
+          22,
+          8,
+          41
+        ],
+        [
+          22,
+          9,
+          40
+        ],
+        [
+          22,
+          9,
+          41
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 53,
+      "z": 175,
+      "s_index": 1596,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        6648.764881494518,
+        2184.764881494518,
+        2800
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2722,
+          2109,
+          6587
+        ],
+        [
+          2879,
+          2262,
+          6711
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          16,
+          51
+        ],
+        [
+          21,
+          16,
+          52
+        ],
+        [
+          21,
+          17,
+          51
+        ],
+        [
+          21,
+          17,
+          52
+        ],
+        [
+          22,
+          16,
+          51
+        ],
+        [
+          22,
+          16,
+          52
+        ],
+        [
+          22,
+          17,
+          51
+        ],
+        [
+          22,
+          17,
+          52
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 53,
+      "z": 175,
+      "s_index": 1596,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        6648.764881494518,
+        2184.764881494518,
+        2800
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2722,
+          2109,
+          6587
+        ],
+        [
+          2879,
+          2262,
+          6711
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          16,
+          51
+        ],
+        [
+          21,
+          16,
+          52
+        ],
+        [
+          21,
+          17,
+          51
+        ],
+        [
+          21,
+          17,
+          52
+        ],
+        [
+          22,
+          16,
+          51
+        ],
+        [
+          22,
+          16,
+          52
+        ],
+        [
+          22,
+          17,
+          51
+        ],
+        [
+          22,
+          17,
+          52
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 54,
+      "z": 175,
+      "s_index": 1948,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        5777.478619801047,
+        3486.521380198953,
+        2800
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2762,
+          3386,
+          5676
+        ],
+        [
+          2839,
+          3588,
+          5880
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          26,
+          44
+        ],
+        [
+          21,
+          26,
+          45
+        ],
+        [
+          21,
+          27,
+          44
+        ],
+        [
+          21,
+          27,
+          45
+        ],
+        [
+          21,
+          28,
+          44
+        ],
+        [
+          21,
+          28,
+          45
+        ],
+        [
+          22,
+          26,
+          44
+        ],
+        [
+          22,
+          26,
+          45
+        ],
+        [
+          22,
+          27,
+          44
+        ],
+        [
+          22,
+          27,
+          45
+        ],
+        [
+          22,
+          28,
+          44
+        ],
+        [
+          22,
+          28,
+          45
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 54,
+      "z": 175,
+      "s_index": 1948,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        5777.478619801047,
+        3486.521380198953,
+        2800
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2760,
+          3386,
+          5676
+        ],
+        [
+          2841,
+          3588,
+          5880
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          26,
+          44
+        ],
+        [
+          21,
+          26,
+          45
+        ],
+        [
+          21,
+          27,
+          44
+        ],
+        [
+          21,
+          27,
+          45
+        ],
+        [
+          21,
+          28,
+          44
+        ],
+        [
+          21,
+          28,
+          45
+        ],
+        [
+          22,
+          26,
+          44
+        ],
+        [
+          22,
+          26,
+          45
+        ],
+        [
+          22,
+          27,
+          44
+        ],
+        [
+          22,
+          27,
+          45
+        ],
+        [
+          22,
+          28,
+          44
+        ],
+        [
+          22,
+          28,
+          45
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 55,
+      "z": 175,
+      "s_index": 2303,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        6274.063522820885,
+        3632.0,
+        2800
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2737,
+          3535,
+          6176
+        ],
+        [
+          2864,
+          3730,
+          6373
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          27,
+          48
+        ],
+        [
+          21,
+          27,
+          49
+        ],
+        [
+          21,
+          28,
+          48
+        ],
+        [
+          21,
+          28,
+          49
+        ],
+        [
+          21,
+          29,
+          48
+        ],
+        [
+          21,
+          29,
+          49
+        ],
+        [
+          22,
+          27,
+          48
+        ],
+        [
+          22,
+          27,
+          49
+        ],
+        [
+          22,
+          28,
+          48
+        ],
+        [
+          22,
+          28,
+          49
+        ],
+        [
+          22,
+          29,
+          48
+        ],
+        [
+          22,
+          29,
+          49
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 55,
+      "z": 175,
+      "s_index": 2303,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        6274.063522820885,
+        3632.0,
+        2800
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2727,
+          3547,
+          6186
+        ],
+        [
+          2874,
+          3718,
+          6363
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          27,
+          48
+        ],
+        [
+          21,
+          27,
+          49
+        ],
+        [
+          21,
+          28,
+          48
+        ],
+        [
+          21,
+          28,
+          49
+        ],
+        [
+          21,
+          29,
+          48
+        ],
+        [
+          21,
+          29,
+          49
+        ],
+        [
+          22,
+          27,
+          48
+        ],
+        [
+          22,
+          27,
+          49
+        ],
+        [
+          22,
+          28,
+          48
+        ],
+        [
+          22,
+          28,
+          49
+        ],
+        [
+          22,
+          29,
+          48
+        ],
+        [
+          22,
+          29,
+          49
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 56,
+      "z": 176,
+      "s_index": 0,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        3936.0,
+        1648.0,
+        2816
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2738,
+          1628,
+          3858
+        ],
+        [
+          2895,
+          1669,
+          4015
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          12,
+          30
+        ],
+        [
+          21,
+          12,
+          31
+        ],
+        [
+          21,
+          13,
+          30
+        ],
+        [
+          21,
+          13,
+          31
+        ],
+        [
+          22,
+          12,
+          30
+        ],
+        [
+          22,
+          12,
+          31
+        ],
+        [
+          22,
+          13,
+          30
+        ],
+        [
+          22,
+          13,
+          31
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 56,
+      "z": 176,
+      "s_index": 0,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        3936.0,
+        1648.0,
+        2816
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2738,
+          1628,
+          3858
+        ],
+        [
+          2895,
+          1669,
+          4015
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          12,
+          30
+        ],
+        [
+          21,
+          12,
+          31
+        ],
+        [
+          21,
+          13,
+          30
+        ],
+        [
+          21,
+          13,
+          31
+        ],
+        [
+          22,
+          12,
+          30
+        ],
+        [
+          22,
+          12,
+          31
+        ],
+        [
+          22,
+          13,
+          30
+        ],
+        [
+          22,
+          13,
+          31
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 57,
+      "z": 176,
+      "s_index": 363,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        6082.518925432196,
+        2352.0,
+        2816
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2775,
+          2262,
+          5991
+        ],
+        [
+          2858,
+          2443,
+          6175
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          17,
+          46
+        ],
+        [
+          21,
+          17,
+          47
+        ],
+        [
+          21,
+          17,
+          48
+        ],
+        [
+          21,
+          18,
+          46
+        ],
+        [
+          21,
+          18,
+          47
+        ],
+        [
+          21,
+          18,
+          48
+        ],
+        [
+          21,
+          19,
+          46
+        ],
+        [
+          21,
+          19,
+          47
+        ],
+        [
+          21,
+          19,
+          48
+        ],
+        [
+          22,
+          17,
+          46
+        ],
+        [
+          22,
+          17,
+          47
+        ],
+        [
+          22,
+          17,
+          48
+        ],
+        [
+          22,
+          18,
+          46
+        ],
+        [
+          22,
+          18,
+          47
+        ],
+        [
+          22,
+          18,
+          48
+        ],
+        [
+          22,
+          19,
+          46
+        ],
+        [
+          22,
+          19,
+          47
+        ],
+        [
+          22,
+          19,
+          48
+        ]
+      ],
+      "missing_from_T9": [
+        [
+          22,
+          19,
+          46
+        ]
+      ]
+    },
+    {
+      "sample": 57,
+      "z": 176,
+      "s_index": 363,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        6082.518925432196,
+        2352.0,
+        2816
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2748,
+          2282,
+          5995
+        ],
+        [
+          2885,
+          2423,
+          6171
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          17,
+          46
+        ],
+        [
+          21,
+          17,
+          47
+        ],
+        [
+          21,
+          17,
+          48
+        ],
+        [
+          21,
+          18,
+          46
+        ],
+        [
+          21,
+          18,
+          47
+        ],
+        [
+          21,
+          18,
+          48
+        ],
+        [
+          22,
+          17,
+          46
+        ],
+        [
+          22,
+          17,
+          47
+        ],
+        [
+          22,
+          17,
+          48
+        ],
+        [
+          22,
+          18,
+          46
+        ],
+        [
+          22,
+          18,
+          47
+        ],
+        [
+          22,
+          18,
+          48
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 58,
+      "z": 176,
+      "s_index": 662,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        6373.530242077757,
+        2928.0,
+        2816
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2759,
+          2843,
+          6281
+        ],
+        [
+          2874,
+          3014,
+          6467
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          22,
+          49
+        ],
+        [
+          21,
+          22,
+          50
+        ],
+        [
+          21,
+          23,
+          49
+        ],
+        [
+          21,
+          23,
+          50
+        ],
+        [
+          22,
+          22,
+          49
+        ],
+        [
+          22,
+          22,
+          50
+        ],
+        [
+          22,
+          23,
+          49
+        ],
+        [
+          22,
+          23,
+          50
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 58,
+      "z": 176,
+      "s_index": 662,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        6373.530242077757,
+        2928.0,
+        2816
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2752,
+          2850,
+          6283
+        ],
+        [
+          2881,
+          3007,
+          6465
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          22,
+          49
+        ],
+        [
+          21,
+          22,
+          50
+        ],
+        [
+          21,
+          23,
+          49
+        ],
+        [
+          21,
+          23,
+          50
+        ],
+        [
+          22,
+          22,
+          49
+        ],
+        [
+          22,
+          22,
+          50
+        ],
+        [
+          22,
+          23,
+          49
+        ],
+        [
+          22,
+          23,
+          50
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 59,
+      "z": 176,
+      "s_index": 1001,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        6354.365502056784,
+        3501.6344979432165,
+        2816
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2744,
+          3425,
+          6264
+        ],
+        [
+          2889,
+          3579,
+          6446
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          26,
+          48
+        ],
+        [
+          21,
+          26,
+          49
+        ],
+        [
+          21,
+          26,
+          50
+        ],
+        [
+          21,
+          27,
+          48
+        ],
+        [
+          21,
+          27,
+          49
+        ],
+        [
+          21,
+          27,
+          50
+        ],
+        [
+          22,
+          26,
+          48
+        ],
+        [
+          22,
+          26,
+          49
+        ],
+        [
+          22,
+          26,
+          50
+        ],
+        [
+          22,
+          27,
+          48
+        ],
+        [
+          22,
+          27,
+          49
+        ],
+        [
+          22,
+          27,
+          50
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 59,
+      "z": 176,
+      "s_index": 1001,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        6354.365502056784,
+        3501.6344979432165,
+        2816
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2741,
+          3432,
+          6267
+        ],
+        [
+          2892,
+          3573,
+          6443
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          26,
+          48
+        ],
+        [
+          21,
+          26,
+          49
+        ],
+        [
+          21,
+          26,
+          50
+        ],
+        [
+          21,
+          27,
+          48
+        ],
+        [
+          21,
+          27,
+          49
+        ],
+        [
+          21,
+          27,
+          50
+        ],
+        [
+          22,
+          26,
+          48
+        ],
+        [
+          22,
+          26,
+          49
+        ],
+        [
+          22,
+          26,
+          50
+        ],
+        [
+          22,
+          27,
+          48
+        ],
+        [
+          22,
+          27,
+          49
+        ],
+        [
+          22,
+          27,
+          50
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 60,
+      "z": 176,
+      "s_index": 1332,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        5959.367517607849,
+        3856.0,
+        2816
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2745,
+          3773,
+          5867
+        ],
+        [
+          2888,
+          3940,
+          6052
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          29,
+          45
+        ],
+        [
+          21,
+          29,
+          46
+        ],
+        [
+          21,
+          29,
+          47
+        ],
+        [
+          21,
+          30,
+          45
+        ],
+        [
+          21,
+          30,
+          46
+        ],
+        [
+          21,
+          30,
+          47
+        ],
+        [
+          22,
+          29,
+          45
+        ],
+        [
+          22,
+          29,
+          46
+        ],
+        [
+          22,
+          29,
+          47
+        ],
+        [
+          22,
+          30,
+          45
+        ],
+        [
+          22,
+          30,
+          46
+        ],
+        [
+          22,
+          30,
+          47
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 60,
+      "z": 176,
+      "s_index": 1332,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        5959.367517607849,
+        3856.0,
+        2816
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2744,
+          3774,
+          5868
+        ],
+        [
+          2889,
+          3939,
+          6051
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          29,
+          45
+        ],
+        [
+          21,
+          29,
+          46
+        ],
+        [
+          21,
+          29,
+          47
+        ],
+        [
+          21,
+          30,
+          45
+        ],
+        [
+          21,
+          30,
+          46
+        ],
+        [
+          21,
+          30,
+          47
+        ],
+        [
+          22,
+          29,
+          45
+        ],
+        [
+          22,
+          29,
+          46
+        ],
+        [
+          22,
+          29,
+          47
+        ],
+        [
+          22,
+          30,
+          45
+        ],
+        [
+          22,
+          30,
+          46
+        ],
+        [
+          22,
+          30,
+          47
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 61,
+      "z": 176,
+      "s_index": 1596,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        4992.0,
+        3547.2094342796063,
+        2816
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2794,
+          3461,
+          4905
+        ],
+        [
+          2839,
+          3635,
+          5080
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          27,
+          38
+        ],
+        [
+          21,
+          27,
+          39
+        ],
+        [
+          21,
+          28,
+          38
+        ],
+        [
+          21,
+          28,
+          39
+        ],
+        [
+          22,
+          27,
+          38
+        ],
+        [
+          22,
+          27,
+          39
+        ],
+        [
+          22,
+          28,
+          38
+        ],
+        [
+          22,
+          28,
+          39
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 61,
+      "z": 176,
+      "s_index": 1596,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        4992.0,
+        3547.2094342796063,
+        2816
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2792,
+          3461,
+          4905
+        ],
+        [
+          2841,
+          3635,
+          5080
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          27,
+          38
+        ],
+        [
+          21,
+          27,
+          39
+        ],
+        [
+          21,
+          28,
+          38
+        ],
+        [
+          21,
+          28,
+          39
+        ],
+        [
+          22,
+          27,
+          38
+        ],
+        [
+          22,
+          27,
+          39
+        ],
+        [
+          22,
+          28,
+          38
+        ],
+        [
+          22,
+          28,
+          39
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 62,
+      "z": 176,
+      "s_index": 1948,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        5209.48672108073,
+        3049.4867210807292,
+        2816
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2786,
+          2942,
+          5102
+        ],
+        [
+          2847,
+          3158,
+          5318
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          22,
+          39
+        ],
+        [
+          21,
+          22,
+          40
+        ],
+        [
+          21,
+          22,
+          41
+        ],
+        [
+          21,
+          23,
+          39
+        ],
+        [
+          21,
+          23,
+          40
+        ],
+        [
+          21,
+          23,
+          41
+        ],
+        [
+          21,
+          24,
+          39
+        ],
+        [
+          21,
+          24,
+          40
+        ],
+        [
+          21,
+          24,
+          41
+        ],
+        [
+          22,
+          22,
+          39
+        ],
+        [
+          22,
+          22,
+          40
+        ],
+        [
+          22,
+          22,
+          41
+        ],
+        [
+          22,
+          23,
+          39
+        ],
+        [
+          22,
+          23,
+          40
+        ],
+        [
+          22,
+          23,
+          41
+        ],
+        [
+          22,
+          24,
+          39
+        ],
+        [
+          22,
+          24,
+          40
+        ],
+        [
+          22,
+          24,
+          41
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 62,
+      "z": 176,
+      "s_index": 1948,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        5209.48672108073,
+        3049.4867210807292,
+        2816
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2787,
+          2942,
+          5102
+        ],
+        [
+          2846,
+          3158,
+          5318
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          22,
+          39
+        ],
+        [
+          21,
+          22,
+          40
+        ],
+        [
+          21,
+          22,
+          41
+        ],
+        [
+          21,
+          23,
+          39
+        ],
+        [
+          21,
+          23,
+          40
+        ],
+        [
+          21,
+          23,
+          41
+        ],
+        [
+          21,
+          24,
+          39
+        ],
+        [
+          21,
+          24,
+          40
+        ],
+        [
+          21,
+          24,
+          41
+        ],
+        [
+          22,
+          22,
+          39
+        ],
+        [
+          22,
+          22,
+          40
+        ],
+        [
+          22,
+          22,
+          41
+        ],
+        [
+          22,
+          23,
+          39
+        ],
+        [
+          22,
+          23,
+          40
+        ],
+        [
+          22,
+          23,
+          41
+        ],
+        [
+          22,
+          24,
+          39
+        ],
+        [
+          22,
+          24,
+          40
+        ],
+        [
+          22,
+          24,
+          41
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 63,
+      "z": 176,
+      "s_index": 2303,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        5052.318778809124,
+        4224.0,
+        2816
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2755,
+          4161,
+          4975
+        ],
+        [
+          2878,
+          4288,
+          5131
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          32,
+          38
+        ],
+        [
+          21,
+          32,
+          39
+        ],
+        [
+          21,
+          32,
+          40
+        ],
+        [
+          21,
+          33,
+          38
+        ],
+        [
+          21,
+          33,
+          39
+        ],
+        [
+          21,
+          33,
+          40
+        ],
+        [
+          22,
+          32,
+          38
+        ],
+        [
+          22,
+          32,
+          39
+        ],
+        [
+          22,
+          32,
+          40
+        ],
+        [
+          22,
+          33,
+          38
+        ],
+        [
+          22,
+          33,
+          39
+        ],
+        [
+          22,
+          33,
+          40
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 63,
+      "z": 176,
+      "s_index": 2303,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        5052.318778809124,
+        4224.0,
+        2816
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2753,
+          4164,
+          4975
+        ],
+        [
+          2880,
+          4285,
+          5131
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          32,
+          38
+        ],
+        [
+          21,
+          32,
+          39
+        ],
+        [
+          21,
+          32,
+          40
+        ],
+        [
+          21,
+          33,
+          38
+        ],
+        [
+          21,
+          33,
+          39
+        ],
+        [
+          21,
+          33,
+          40
+        ],
+        [
+          22,
+          32,
+          38
+        ],
+        [
+          22,
+          32,
+          39
+        ],
+        [
+          22,
+          32,
+          40
+        ],
+        [
+          22,
+          33,
+          38
+        ],
+        [
+          22,
+          33,
+          39
+        ],
+        [
+          22,
+          33,
+          40
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 64,
+      "z": 177,
+      "s_index": 0,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        4096.0,
+        1728.0,
+        2832
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2754,
+          1668,
+          4019
+        ],
+        [
+          2911,
+          1789,
+          4174
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          13,
+          31
+        ],
+        [
+          21,
+          13,
+          32
+        ],
+        [
+          22,
+          13,
+          31
+        ],
+        [
+          22,
+          13,
+          32
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 64,
+      "z": 177,
+      "s_index": 0,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        4096.0,
+        1728.0,
+        2832
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2754,
+          1671,
+          4021
+        ],
+        [
+          2911,
+          1786,
+          4172
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          13,
+          31
+        ],
+        [
+          21,
+          13,
+          32
+        ],
+        [
+          22,
+          13,
+          31
+        ],
+        [
+          22,
+          13,
+          32
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 65,
+      "z": 177,
+      "s_index": 363,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        5708.0438004320495,
+        1788.0438004320495,
+        2832
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2762,
+          1698,
+          5616
+        ],
+        [
+          2903,
+          1880,
+          5801
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          13,
+          43
+        ],
+        [
+          21,
+          13,
+          44
+        ],
+        [
+          21,
+          13,
+          45
+        ],
+        [
+          21,
+          14,
+          43
+        ],
+        [
+          21,
+          14,
+          44
+        ],
+        [
+          21,
+          14,
+          45
+        ],
+        [
+          22,
+          13,
+          43
+        ],
+        [
+          22,
+          13,
+          44
+        ],
+        [
+          22,
+          13,
+          45
+        ],
+        [
+          22,
+          14,
+          43
+        ],
+        [
+          22,
+          14,
+          44
+        ],
+        [
+          22,
+          14,
+          45
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 65,
+      "z": 177,
+      "s_index": 363,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        5708.0438004320495,
+        1788.0438004320495,
+        2832
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2756,
+          1708,
+          5626
+        ],
+        [
+          2909,
+          1869,
+          5791
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          13,
+          43
+        ],
+        [
+          21,
+          13,
+          44
+        ],
+        [
+          21,
+          13,
+          45
+        ],
+        [
+          21,
+          14,
+          43
+        ],
+        [
+          21,
+          14,
+          44
+        ],
+        [
+          21,
+          14,
+          45
+        ],
+        [
+          22,
+          13,
+          43
+        ],
+        [
+          22,
+          13,
+          44
+        ],
+        [
+          22,
+          13,
+          45
+        ],
+        [
+          22,
+          14,
+          43
+        ],
+        [
+          22,
+          14,
+          44
+        ],
+        [
+          22,
+          14,
+          45
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 66,
+      "z": 177,
+      "s_index": 662,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        5818.42007375965,
+        2954.4200737596498,
+        2832
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2782,
+          2850,
+          5716
+        ],
+        [
+          2883,
+          3060,
+          5922
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          22,
+          44
+        ],
+        [
+          21,
+          22,
+          45
+        ],
+        [
+          21,
+          22,
+          46
+        ],
+        [
+          21,
+          23,
+          44
+        ],
+        [
+          21,
+          23,
+          45
+        ],
+        [
+          21,
+          23,
+          46
+        ],
+        [
+          22,
+          22,
+          44
+        ],
+        [
+          22,
+          22,
+          45
+        ],
+        [
+          22,
+          22,
+          46
+        ],
+        [
+          22,
+          23,
+          44
+        ],
+        [
+          22,
+          23,
+          45
+        ],
+        [
+          22,
+          23,
+          46
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 66,
+      "z": 177,
+      "s_index": 662,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        5818.42007375965,
+        2954.4200737596498,
+        2832
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2779,
+          2852,
+          5718
+        ],
+        [
+          2886,
+          3058,
+          5920
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          22,
+          44
+        ],
+        [
+          21,
+          22,
+          45
+        ],
+        [
+          21,
+          22,
+          46
+        ],
+        [
+          21,
+          23,
+          44
+        ],
+        [
+          21,
+          23,
+          45
+        ],
+        [
+          21,
+          23,
+          46
+        ],
+        [
+          22,
+          22,
+          44
+        ],
+        [
+          22,
+          22,
+          45
+        ],
+        [
+          22,
+          22,
+          46
+        ],
+        [
+          22,
+          23,
+          44
+        ],
+        [
+          22,
+          23,
+          45
+        ],
+        [
+          22,
+          23,
+          46
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 67,
+      "z": 177,
+      "s_index": 1001,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        5967.823770105527,
+        1664.0,
+        2832
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2768,
+          1579,
+          5873
+        ],
+        [
+          2897,
+          1750,
+          6063
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          12,
+          45
+        ],
+        [
+          21,
+          12,
+          46
+        ],
+        [
+          21,
+          12,
+          47
+        ],
+        [
+          21,
+          13,
+          45
+        ],
+        [
+          21,
+          13,
+          46
+        ],
+        [
+          21,
+          13,
+          47
+        ],
+        [
+          22,
+          12,
+          45
+        ],
+        [
+          22,
+          12,
+          46
+        ],
+        [
+          22,
+          12,
+          47
+        ],
+        [
+          22,
+          13,
+          45
+        ],
+        [
+          22,
+          13,
+          46
+        ],
+        [
+          22,
+          13,
+          47
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 67,
+      "z": 177,
+      "s_index": 1001,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        5967.823770105527,
+        1664.0,
+        2832
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2757,
+          1597,
+          5881
+        ],
+        [
+          2908,
+          1732,
+          6056
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          12,
+          45
+        ],
+        [
+          21,
+          12,
+          46
+        ],
+        [
+          21,
+          12,
+          47
+        ],
+        [
+          21,
+          13,
+          45
+        ],
+        [
+          21,
+          13,
+          46
+        ],
+        [
+          21,
+          13,
+          47
+        ],
+        [
+          22,
+          12,
+          45
+        ],
+        [
+          22,
+          12,
+          46
+        ],
+        [
+          22,
+          12,
+          47
+        ],
+        [
+          22,
+          13,
+          45
+        ],
+        [
+          22,
+          13,
+          46
+        ],
+        [
+          22,
+          13,
+          47
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 68,
+      "z": 177,
+      "s_index": 1332,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        6659.111470834704,
+        3388.8885291652964,
+        2832
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2762,
+          3296,
+          6576
+        ],
+        [
+          2903,
+          3482,
+          6743
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          25,
+          51
+        ],
+        [
+          21,
+          25,
+          52
+        ],
+        [
+          21,
+          26,
+          51
+        ],
+        [
+          21,
+          26,
+          52
+        ],
+        [
+          21,
+          27,
+          51
+        ],
+        [
+          21,
+          27,
+          52
+        ],
+        [
+          22,
+          25,
+          51
+        ],
+        [
+          22,
+          25,
+          52
+        ],
+        [
+          22,
+          26,
+          51
+        ],
+        [
+          22,
+          26,
+          52
+        ],
+        [
+          22,
+          27,
+          51
+        ],
+        [
+          22,
+          27,
+          52
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 68,
+      "z": 177,
+      "s_index": 1332,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        6659.111470834704,
+        3388.8885291652964,
+        2832
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2758,
+          3300,
+          6582
+        ],
+        [
+          2907,
+          3479,
+          6737
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          25,
+          51
+        ],
+        [
+          21,
+          25,
+          52
+        ],
+        [
+          21,
+          26,
+          51
+        ],
+        [
+          21,
+          26,
+          52
+        ],
+        [
+          21,
+          27,
+          51
+        ],
+        [
+          21,
+          27,
+          52
+        ],
+        [
+          22,
+          25,
+          51
+        ],
+        [
+          22,
+          25,
+          52
+        ],
+        [
+          22,
+          26,
+          51
+        ],
+        [
+          22,
+          26,
+          52
+        ],
+        [
+          22,
+          27,
+          51
+        ],
+        [
+          22,
+          27,
+          52
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 69,
+      "z": 177,
+      "s_index": 1596,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        5296.900890675955,
+        4143.099109324045,
+        2832
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2786,
+          4052,
+          5203
+        ],
+        [
+          2879,
+          4235,
+          5392
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          31,
+          40
+        ],
+        [
+          21,
+          31,
+          41
+        ],
+        [
+          21,
+          31,
+          42
+        ],
+        [
+          21,
+          32,
+          40
+        ],
+        [
+          21,
+          32,
+          41
+        ],
+        [
+          21,
+          32,
+          42
+        ],
+        [
+          21,
+          33,
+          40
+        ],
+        [
+          21,
+          33,
+          41
+        ],
+        [
+          21,
+          33,
+          42
+        ],
+        [
+          22,
+          31,
+          40
+        ],
+        [
+          22,
+          31,
+          41
+        ],
+        [
+          22,
+          31,
+          42
+        ],
+        [
+          22,
+          32,
+          40
+        ],
+        [
+          22,
+          32,
+          41
+        ],
+        [
+          22,
+          32,
+          42
+        ],
+        [
+          22,
+          33,
+          40
+        ],
+        [
+          22,
+          33,
+          41
+        ],
+        [
+          22,
+          33,
+          42
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 69,
+      "z": 177,
+      "s_index": 1596,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        5296.900890675955,
+        4143.099109324045,
+        2832
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2785,
+          4053,
+          5203
+        ],
+        [
+          2880,
+          4234,
+          5392
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          31,
+          40
+        ],
+        [
+          21,
+          31,
+          41
+        ],
+        [
+          21,
+          31,
+          42
+        ],
+        [
+          21,
+          32,
+          40
+        ],
+        [
+          21,
+          32,
+          41
+        ],
+        [
+          21,
+          32,
+          42
+        ],
+        [
+          21,
+          33,
+          40
+        ],
+        [
+          21,
+          33,
+          41
+        ],
+        [
+          21,
+          33,
+          42
+        ],
+        [
+          22,
+          31,
+          40
+        ],
+        [
+          22,
+          31,
+          41
+        ],
+        [
+          22,
+          31,
+          42
+        ],
+        [
+          22,
+          32,
+          40
+        ],
+        [
+          22,
+          32,
+          41
+        ],
+        [
+          22,
+          32,
+          42
+        ],
+        [
+          22,
+          33,
+          40
+        ],
+        [
+          22,
+          33,
+          41
+        ],
+        [
+          22,
+          33,
+          42
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 70,
+      "z": 177,
+      "s_index": 1948,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        5360.741288453881,
+        4271.258711546119,
+        2832
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2774,
+          4188,
+          5269
+        ],
+        [
+          2891,
+          4356,
+          5454
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          32,
+          41
+        ],
+        [
+          21,
+          32,
+          42
+        ],
+        [
+          21,
+          33,
+          41
+        ],
+        [
+          21,
+          33,
+          42
+        ],
+        [
+          21,
+          34,
+          41
+        ],
+        [
+          21,
+          34,
+          42
+        ],
+        [
+          22,
+          32,
+          41
+        ],
+        [
+          22,
+          32,
+          42
+        ],
+        [
+          22,
+          33,
+          41
+        ],
+        [
+          22,
+          33,
+          42
+        ],
+        [
+          22,
+          34,
+          41
+        ],
+        [
+          22,
+          34,
+          42
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 70,
+      "z": 177,
+      "s_index": 1948,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        5360.741288453881,
+        4271.258711546119,
+        2832
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2773,
+          4188,
+          5269
+        ],
+        [
+          2892,
+          4355,
+          5454
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          32,
+          41
+        ],
+        [
+          21,
+          32,
+          42
+        ],
+        [
+          21,
+          33,
+          41
+        ],
+        [
+          21,
+          33,
+          42
+        ],
+        [
+          21,
+          34,
+          41
+        ],
+        [
+          21,
+          34,
+          42
+        ],
+        [
+          22,
+          32,
+          41
+        ],
+        [
+          22,
+          32,
+          42
+        ],
+        [
+          22,
+          33,
+          41
+        ],
+        [
+          22,
+          33,
+          42
+        ],
+        [
+          22,
+          34,
+          41
+        ],
+        [
+          22,
+          34,
+          42
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 71,
+      "z": 177,
+      "s_index": 2303,
+      "sigma": 1.0,
+      "native_P_xyz": [
+        7134.280301121562,
+        3249.719698878438,
+        2832
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2756,
+          3179,
+          7049
+        ],
+        [
+          2909,
+          3322,
+          7220
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          24,
+          55
+        ],
+        [
+          21,
+          24,
+          56
+        ],
+        [
+          21,
+          25,
+          55
+        ],
+        [
+          21,
+          25,
+          56
+        ],
+        [
+          22,
+          24,
+          55
+        ],
+        [
+          22,
+          24,
+          56
+        ],
+        [
+          22,
+          25,
+          55
+        ],
+        [
+          22,
+          25,
+          56
+        ]
+      ],
+      "missing_from_T9": []
+    },
+    {
+      "sample": 71,
+      "z": 177,
+      "s_index": 2303,
+      "sigma": 2.0,
+      "native_P_xyz": [
+        7134.280301121562,
+        3249.719698878438,
+        2832
+      ],
+      "bounds_zyx_half_open": [
+        [
+          2755,
+          3182,
+          7051
+        ],
+        [
+          2910,
+          3319,
+          7218
+        ]
+      ],
+      "required_chunks_zyx": [
+        [
+          21,
+          24,
+          55
+        ],
+        [
+          21,
+          24,
+          56
+        ],
+        [
+          21,
+          25,
+          55
+        ],
+        [
+          21,
+          25,
+          56
+        ],
+        [
+          22,
+          24,
+          55
+        ],
+        [
+          22,
+          24,
+          56
+        ],
+        [
+          22,
+          25,
+          55
+        ],
+        [
+          22,
+          25,
+          56
+        ]
+      ],
+      "missing_from_T9": []
+    }
+  ],
+  "support_semantics": "Exact bounding CT reads including trilinear upper-neighbor halo; no clipping or padding"
+}

@@ -1,0 +1,78 @@
+{
+  "status": "BLOCKED",
+  "reason": "Missing CT coverage, not orientation failure",
+  "missing": [
+    {
+      "sample": 48,
+      "z": 175,
+      "s_index": 0,
+      "j": 0,
+      "P_xyz": [
+        4144.0,
+        2384.0,
+        2800
+      ],
+      "tangent_xyz": [
+        -0.8458618108979578,
+        0.5334020967941797,
+        0.0
+      ],
+      "normal_xyz": [
+        -0.5334020967941797,
+        -0.8458618108979578,
+        0.0
+      ],
+      "sigma": 1.0,
+      "accepted": false,
+      "missing_data": "[Errno 2] No such file or directory: '/home/wpotech/deployments/vesuvius-spiral-stack/data/raw/p0_t9/native_chunks/22_17_31'"
+    },
+    {
+      "sample": 48,
+      "z": 175,
+      "s_index": 0,
+      "j": 0,
+      "P_xyz": [
+        4144.0,
+        2384.0,
+        2800
+      ],
+      "tangent_xyz": [
+        -0.8458618108979578,
+        0.5334020967941797,
+        0.0
+      ],
+      "normal_xyz": [
+        -0.5334020967941797,
+        -0.8458618108979578,
+        0.0
+      ],
+      "sigma": 2.0,
+      "accepted": false,
+      "missing_data": "[Errno 2] No such file or directory: '/home/wpotech/deployments/vesuvius-spiral-stack/data/raw/p0_t9/native_chunks/22_17_31'"
+    },
+    {
+      "sample": 57,
+      "z": 176,
+      "s_index": 363,
+      "j": 299,
+      "P_xyz": [
+        6082.518925432196,
+        2352.0,
+        2816
+      ],
+      "tangent_xyz": [
+        0.9759111376248806,
+        0.21816840160690415,
+        0.0
+      ],
+      "normal_xyz": [
+        -0.21816840160690415,
+        0.9759111376248806,
+        0.0
+      ],
+      "sigma": 1.0,
+      "accepted": false,
+      "missing_data": "[Errno 2] No such file or directory: '/home/wpotech/deployments/vesuvius-spiral-stack/data/raw/p0_t9/native_chunks/22_19_46'"
+    }
+  ]
+}

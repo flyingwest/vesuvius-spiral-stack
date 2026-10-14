@@ -1,0 +1,158 @@
+{
+  "source_volume": "https://dl.ash2txt.org/full-scrolls/Scroll1/PHercParis4.volpkg/volumes_zarr_standardized/54keV_7.91um_Scroll1A.zarr/",
+  "chunks": [
+    {
+      "key": [
+        22,
+        17,
+        31
+      ],
+      "url": "https://dl.ash2txt.org/full-scrolls/Scroll1/PHercParis4.volpkg/volumes_zarr_standardized/54keV_7.91um_Scroll1A.zarr/0/22/17/31",
+      "bytes": 817557,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Tue, 13 Oct 2026 19:07:11 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "817557",
+        "Last-Modified": "Tue, 19 Nov 2024 13:59:11 GMT",
+        "Connection": "close",
+        "ETag": "\"673c99af-c7995\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Accept-Ranges": "bytes"
+      },
+      "filename": "data/raw/p0_t11/native_chunks/22_17_31",
+      "sha256": "fbbb227766fc128e5f3e2c1b1dabfa5e110242c787052216bf7370fdc9c2dda5"
+    },
+    {
+      "key": [
+        22,
+        17,
+        32
+      ],
+      "url": "https://dl.ash2txt.org/full-scrolls/Scroll1/PHercParis4.volpkg/volumes_zarr_standardized/54keV_7.91um_Scroll1A.zarr/0/22/17/32",
+      "bytes": 830799,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Tue, 13 Oct 2026 19:07:11 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "830799",
+        "Last-Modified": "Tue, 19 Nov 2024 13:59:11 GMT",
+        "Connection": "close",
+        "ETag": "\"673c99af-cad4f\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Accept-Ranges": "bytes"
+      },
+      "filename": "data/raw/p0_t11/native_chunks/22_17_32",
+      "sha256": "61784c625f4af4304dba0032a0575e2ee47a96fa5b9a48cc7bd9a4c77115d1f4"
+    },
+    {
+      "key": [
+        22,
+        17,
+        33
+      ],
+      "url": "https://dl.ash2txt.org/full-scrolls/Scroll1/PHercParis4.volpkg/volumes_zarr_standardized/54keV_7.91um_Scroll1A.zarr/0/22/17/33",
+      "bytes": 833032,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Tue, 13 Oct 2026 19:07:11 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "833032",
+        "Last-Modified": "Tue, 19 Nov 2024 13:59:11 GMT",
+        "Connection": "close",
+        "ETag": "\"673c99af-cb608\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Accept-Ranges": "bytes"
+      },
+      "filename": "data/raw/p0_t11/native_chunks/22_17_33",
+      "sha256": "9cb6549b8671f19a624f33daf8622ec6d671369ff5e669994e9f686f475353d6"
+    },
+    {
+      "key": [
+        22,
+        18,
+        33
+      ],
+      "url": "https://dl.ash2txt.org/full-scrolls/Scroll1/PHercParis4.volpkg/volumes_zarr_standardized/54keV_7.91um_Scroll1A.zarr/0/22/18/33",
+      "bytes": 817319,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Tue, 13 Oct 2026 19:07:11 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "817319",
+        "Last-Modified": "Tue, 19 Nov 2024 13:59:11 GMT",
+        "Connection": "close",
+        "ETag": "\"673c99af-c78a7\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Accept-Ranges": "bytes"
+      },
+      "filename": "data/raw/p0_t11/native_chunks/22_18_33",
+      "sha256": "26e849f20e04b7a366ef47fb0baef9b55c88ac578fec3f82e39aac54328a02fd"
+    },
+    {
+      "key": [
+        22,
+        19,
+        33
+      ],
+      "url": "https://dl.ash2txt.org/full-scrolls/Scroll1/PHercParis4.volpkg/volumes_zarr_standardized/54keV_7.91um_Scroll1A.zarr/0/22/19/33",
+      "bytes": 819155,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Tue, 13 Oct 2026 19:07:12 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "819155",
+        "Last-Modified": "Tue, 19 Nov 2024 13:59:12 GMT",
+        "Connection": "close",
+        "ETag": "\"673c99b0-c7fd3\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Accept-Ranges": "bytes"
+      },
+      "filename": "data/raw/p0_t11/native_chunks/22_19_33",
+      "sha256": "e6fe32fe7da5bd9b7fe161660d3478b215286e2cdeb7e7c8a8006a10cba563a1"
+    },
+    {
+      "key": [
+        22,
+        19,
+        46
+      ],
+      "url": "https://dl.ash2txt.org/full-scrolls/Scroll1/PHercParis4.volpkg/volumes_zarr_standardized/54keV_7.91um_Scroll1A.zarr/0/22/19/46",
+      "bytes": 717385,
+      "headers": {
+        "Server": "nginx/1.26.0",
+        "Date": "Tue, 13 Oct 2026 19:07:12 GMT",
+        "Content-Type": "application/octet-stream",
+        "Content-Length": "717385",
+        "Last-Modified": "Tue, 19 Nov 2024 13:59:12 GMT",
+        "Connection": "close",
+        "ETag": "\"673c99b0-af249\"",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+        "Access-Control-Allow-Headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range",
+        "Access-Control-Expose-Headers": "Content-Length,Content-Range",
+        "Accept-Ranges": "bytes"
+      },
+      "filename": "data/raw/p0_t11/native_chunks/22_19_46",
+      "sha256": "2a952deb906c10d60a9f9d7453c9986fcdbf62bba1f0320e31c0ecc77301c72e"
+    }
+  ],
+  "additional_chunks": 6,
+  "additional_bytes": 4835247,
+  "verification": "Expected HEAD size, Blosc decoded shape, local SHA256. Server ETags are recorded opaque validators, not published cryptographic digests."
+}

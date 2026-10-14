@@ -1,0 +1,158 @@
+{
+  "methods": [
+    {
+      "sigma": 1.0,
+      "accepted": 50,
+      "rejected": 22,
+      "missing_data": 0,
+      "sanity_pass": false,
+      "quality_pass": false,
+      "gates": {
+        "accepted_at_least70pct": false,
+        "all72patch_pairs_available": true,
+        "heldout_longitudinal_gradient_reduction10pct": true,
+        "depth_peak_spread_reduction10pct": false,
+        "majority60pct_gradient_improvement": false,
+        "empty_fraction_nondegradation": true,
+        "center_distance_nondegradation": true,
+        "band_crossings_nondegradation": false
+      },
+      "normal_abs_z_quantiles": [
+        0.007950741597439354,
+        0.5513334964458733,
+        0.9911580256915247,
+        0.9995963987039139
+      ],
+      "tilt_quantiles": [
+        0.45554873714937905,
+        33.45927329462708,
+        82.51924861750268,
+        88.37209703472779
+      ],
+      "confidence_quantiles": [
+        0.11546821446175844,
+        0.6526946623706091,
+        0.9172530639105625,
+        0.9772744690848599
+      ],
+      "perturbation_quantiles": [
+        0.19660168392742974,
+        1.4406175253470557,
+        5.777910398566093,
+        56.37889532937671
+      ],
+      "sparse_station_normal_angle_quantiles": [
+        11.890269873611985,
+        58.77802017717281,
+        83.30403271770123,
+        89.82836702638522
+      ],
+      "quality_medians": {
+        "longitudinal_gradient_fraction": {
+          "old": 0.3539257656392705,
+          "new": 0.27342909673251736
+        },
+        "depth_peak_spread": {
+          "old": 5.556343444630346,
+          "new": 5.405148529482552
+        },
+        "center_distance": {
+          "old": 0.615582275390625,
+          "new": 0.5989013671875001
+        },
+        "empty_fraction": {
+          "old": 0.15347649069393382,
+          "new": 0.13656257180606618
+        },
+        "band_crossings": {
+          "old": 4.0,
+          "new": 4.333333333333333
+        },
+        "center_slab_occupancy": {
+          "old": 0.68560791015625,
+          "new": 0.729840087890625
+        }
+      }
+    },
+    {
+      "sigma": 2.0,
+      "accepted": 54,
+      "rejected": 18,
+      "missing_data": 0,
+      "sanity_pass": true,
+      "quality_pass": false,
+      "gates": {
+        "accepted_at_least70pct": true,
+        "all72patch_pairs_available": true,
+        "heldout_longitudinal_gradient_reduction10pct": true,
+        "depth_peak_spread_reduction10pct": false,
+        "majority60pct_gradient_improvement": true,
+        "empty_fraction_nondegradation": true,
+        "center_distance_nondegradation": true,
+        "band_crossings_nondegradation": true
+      },
+      "normal_abs_z_quantiles": [
+        0.004088509669828935,
+        0.418372697328215,
+        0.9546086533301346,
+        0.995252449018645
+      ],
+      "tilt_quantiles": [
+        0.2342550012126308,
+        24.731933954871437,
+        72.83882871216561,
+        84.4147268395405
+      ],
+      "confidence_quantiles": [
+        0.2545652268166724,
+        0.7775770590699114,
+        0.9529273430436128,
+        0.9896278228237023
+      ],
+      "perturbation_quantiles": [
+        0.027356110670213873,
+        1.5582931762024888,
+        5.885903486357065,
+        29.173567019941213
+      ],
+      "sparse_station_normal_angle_quantiles": [
+        11.571272905345625,
+        54.550936020612404,
+        85.95606617197879,
+        89.75645649320133
+      ],
+      "quality_medians": {
+        "longitudinal_gradient_fraction": {
+          "old": 0.3500125979560683,
+          "new": 0.2939587873795191
+        },
+        "depth_peak_spread": {
+          "old": 5.545030779416972,
+          "new": 5.450327438109895
+        },
+        "center_distance": {
+          "old": 0.6145568847656251,
+          "new": 0.604888916015625
+        },
+        "empty_fraction": {
+          "old": 0.14594044404871323,
+          "new": 0.12287454044117646
+        },
+        "band_crossings": {
+          "old": 4.333333333333333,
+          "new": 4.333333333333333
+        },
+        "center_slab_occupancy": {
+          "old": 0.71741943359375,
+          "new": 0.732257080078125
+        }
+      }
+    }
+  ],
+  "selected_sigma": null,
+  "frame_estimation": "PASS",
+  "decision_if_stop": "C",
+  "sample_count": 72,
+  "right_handed_frame_vs_image": "t_s cross t_z = n; image Y=-t_z retains original T9 left-handed array convention; depth sign aligned with saved T9 normal",
+  "quality_scope": "CT occupancy/gradient proxies, not ink or a ground-truth surface"
+}

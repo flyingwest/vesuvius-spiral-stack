@@ -1,0 +1,13 @@
+{
+  "stage": "before CT-only retry; acquisition chronology disclosed",
+  "sha256": {
+    "scripts/p0_t11_support.py": "8ebd03375639a000af68919946b59f2de1a473e81ea29a28b5c2b975748c7b31",
+    "docs/p0_t11_support_amendment.md": "0e60dc44fd237d632481e092116b663f84aa21c3cbf81b8185b758e4353f8253",
+    "outputs/p0_t11/missing_ct_inventory.json": "2e6becfcffd35ce2abcc182bd479f84fc50dd3098637f00ae437d822323be4ed",
+    "outputs/p0_t11/support_plan.json": "67b310509dc7bc35d2432e238b579913233c710d3f4bc0e43f257bb0149f7daf",
+    "outputs/p0_t11/supplemental_ct_manifest.json": "db80b605553613f3fc90b2c06452cd888dc0b9f37dd97615e90f17845885f41d",
+    "outputs/p0_t11/coverage_validation.json": "d90b56771d9acbccdc75585f437717ff47c9dc9a682df2b9b841e15748007d98",
+    "outputs/p0_t11/SUPPORT_REVIEW.md": "2b363bbf5289888bade37f9e13b7f69dc5ebe364d81350c24849d048ea7ffa77",
+    "outputs/p0_t11/blocked_attempt_preservation.json": "2e96c1a21097b1ab6580ba40fe44449f2d5006d55eaf0c7660c8fc6ea161c9a8"
+  }
+}

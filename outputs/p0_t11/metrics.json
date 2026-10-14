@@ -1,0 +1,331 @@
+{
+  "decision": {
+    "P0_T11_COMPLETE": "YES",
+    "P0_T11_RESULT": "C",
+    "MISSING_CT_COVERAGE": "RESOLVED",
+    "ADDITIONAL_CHUNKS": 6,
+    "ADDITIONAL_BYTES": 4835247,
+    "PATCH_COVERAGE": "144/144",
+    "FRAME_ESTIMATION": "PASS",
+    "PATCH_GEOMETRY_IMPROVED": "WEAK",
+    "SMOKE_INFERENCE": "NOT_RUN",
+    "FULL_INFERENCE": "NOT_RUN",
+    "INK_STRUCTURE_VISIBLE": "NO",
+    "READY_FOR_NEXT_STEP": "NO",
+    "ink_visibility_scope": "Not assessed: no T11 probabilities exist; NO means not established, not a negative ink observation.",
+    "local_llm_dependency": "NONE",
+    "stop_reason": "No estimator passes unchanged geometry gate; no smoke or full inference authorized by original progression."
+  },
+  "frame_methods": [
+    {
+      "sigma": 1.0,
+      "accepted": 50,
+      "rejected": 22,
+      "missing_data": 0,
+      "sanity_pass": false,
+      "quality_pass": false,
+      "gates": {
+        "accepted_at_least70pct": false,
+        "all72patch_pairs_available": true,
+        "heldout_longitudinal_gradient_reduction10pct": true,
+        "depth_peak_spread_reduction10pct": false,
+        "majority60pct_gradient_improvement": false,
+        "empty_fraction_nondegradation": true,
+        "center_distance_nondegradation": true,
+        "band_crossings_nondegradation": false
+      },
+      "normal_abs_z_quantiles": [
+        0.007950741597439354,
+        0.5513334964458733,
+        0.9911580256915247,
+        0.9995963987039139
+      ],
+      "tilt_quantiles": [
+        0.45554873714937905,
+        33.45927329462708,
+        82.51924861750268,
+        88.37209703472779
+      ],
+      "confidence_quantiles": [
+        0.11546821446175844,
+        0.6526946623706091,
+        0.9172530639105625,
+        0.9772744690848599
+      ],
+      "perturbation_quantiles": [
+        0.19660168392742974,
+        1.4406175253470557,
+        5.777910398566093,
+        56.37889532937671
+      ],
+      "sparse_station_normal_angle_quantiles": [
+        11.890269873611985,
+        58.77802017717281,
+        83.30403271770123,
+        89.82836702638522
+      ],
+      "quality_medians": {
+        "longitudinal_gradient_fraction": {
+          "old": 0.3539257656392705,
+          "new": 0.27342909673251736
+        },
+        "depth_peak_spread": {
+          "old": 5.556343444630346,
+          "new": 5.405148529482552
+        },
+        "center_distance": {
+          "old": 0.615582275390625,
+          "new": 0.5989013671875001
+        },
+        "empty_fraction": {
+          "old": 0.15347649069393382,
+          "new": 0.13656257180606618
+        },
+        "band_crossings": {
+          "old": 4.0,
+          "new": 4.333333333333333
+        },
+        "center_slab_occupancy": {
+          "old": 0.68560791015625,
+          "new": 0.729840087890625
+        }
+      }
+    },
+    {
+      "sigma": 2.0,
+      "accepted": 54,
+      "rejected": 18,
+      "missing_data": 0,
+      "sanity_pass": true,
+      "quality_pass": false,
+      "gates": {
+        "accepted_at_least70pct": true,
+        "all72patch_pairs_available": true,
+        "heldout_longitudinal_gradient_reduction10pct": true,
+        "depth_peak_spread_reduction10pct": false,
+        "majority60pct_gradient_improvement": true,
+        "empty_fraction_nondegradation": true,
+        "center_distance_nondegradation": true,
+        "band_crossings_nondegradation": true
+      },
+      "normal_abs_z_quantiles": [
+        0.004088509669828935,
+        0.418372697328215,
+        0.9546086533301346,
+        0.995252449018645
+      ],
+      "tilt_quantiles": [
+        0.2342550012126308,
+        24.731933954871437,
+        72.83882871216561,
+        84.4147268395405
+      ],
+      "confidence_quantiles": [
+        0.2545652268166724,
+        0.7775770590699114,
+        0.9529273430436128,
+        0.9896278228237023
+      ],
+      "perturbation_quantiles": [
+        0.027356110670213873,
+        1.5582931762024888,
+        5.885903486357065,
+        29.173567019941213
+      ],
+      "sparse_station_normal_angle_quantiles": [
+        11.571272905345625,
+        54.550936020612404,
+        85.95606617197879,
+        89.75645649320133
+      ],
+      "quality_medians": {
+        "longitudinal_gradient_fraction": {
+          "old": 0.3500125979560683,
+          "new": 0.2939587873795191
+        },
+        "depth_peak_spread": {
+          "old": 5.545030779416972,
+          "new": 5.450327438109895
+        },
+        "center_distance": {
+          "old": 0.6145568847656251,
+          "new": 0.604888916015625
+        },
+        "empty_fraction": {
+          "old": 0.14594044404871323,
+          "new": 0.12287454044117646
+        },
+        "band_crossings": {
+          "old": 4.333333333333333,
+          "new": 4.333333333333333
+        },
+        "center_slab_occupancy": {
+          "old": 0.71741943359375,
+          "new": 0.732257080078125
+        }
+      }
+    }
+  ],
+  "diagnostics": [
+    {
+      "sigma": 1.0,
+      "accepted_fraction": 0.6944444444444444,
+      "rejection_reason_counts_overlapping": {
+        "confidence": 4,
+        "perturbation": 1,
+        "tangent_incompatibility": 11,
+        "tilt": 8
+      },
+      "paired_median_relative_reduction": {
+        "longitudinal_gradient_fraction": 0.22743941448105032,
+        "depth_peak_spread": 0.027211225629673617,
+        "center_distance": 0.02709777209316153,
+        "empty_fraction": 0.11020527516229016,
+        "band_crossings": -0.08333333333333326,
+        "center_slab_occupancy": -0.0645152675153566
+      }
+    },
+    {
+      "sigma": 2.0,
+      "accepted_fraction": 0.75,
+      "rejection_reason_counts_overlapping": {
+        "confidence": 0,
+        "perturbation": 1,
+        "tangent_incompatibility": 13,
+        "tilt": 4
+      },
+      "paired_median_relative_reduction": {
+        "longitudinal_gradient_fraction": 0.16014798011237527,
+        "depth_peak_spread": 0.017078956830792417,
+        "center_distance": 0.01573160921252584,
+        "empty_fraction": 0.15805011255027865,
+        "band_crossings": 0.0,
+        "center_slab_occupancy": -0.02068196899831537
+      }
+    }
+  ],
+  "trusted_control_frame": {
+    "grid_region_yx": [
+      819,
+      922,
+      1049,
+      1153
+    ],
+    "valid_grid_points": 10712,
+    "surface_normal_abs_z_quantiles": [
+      0.0001553444476351677,
+      0.34915223199256795,
+      0.7236006229075634,
+      0.9022529279913442
+    ],
+    "U_tangent_abs_z_quantiles": [
+      9.636403154075692e-05,
+      0.2240524292714026,
+      0.30071413460310786,
+      0.36544249892038216
+    ],
+    "V_deviation_from_scanZ_degrees_quantiles": [
+      0.20938587153869231,
+      25.03442976341932,
+      48.86870913134599,
+      67.52921094285146
+    ],
+    "normal_variation_about_mean_degrees_quantiles": [
+      0.15707833296792267,
+      28.216764489316276,
+      57.708130805319016,
+      110.26805314390668
+    ],
+    "convention": "geometric diagnostic N=dP/dU cross dP/dV; delivered depth sign preserved, producer flip flag not recorded in source attrs",
+    "coordinate_caveat": "approximate grid bounds from documented scale; not an independent subpixel registration or rerender"
+  },
+  "baseline_metrics": {
+    "T5_center": {
+      "feature": "center_intensity",
+      "valid_fraction": 0.582904953145917,
+      "pairs_evaluable": 49,
+      "mean_r": 0.05151607447146728,
+      "median_r": 0.05924450839147593,
+      "min_r": -0.18063346633892205,
+      "max_r": 0.20058396059649786,
+      "positive_fraction": 0.7755102040816326,
+      "delta_mean_vs_center": 0.0,
+      "pairs_better_than_center": 0,
+      "paired_block_ci_low": 0.0,
+      "paired_block_ci_high": 0.0,
+      "difference_mean_r": 0.0013149847600156114,
+      "best_lag_mean_r": 0.12851697040686896,
+      "local_windows": 1001,
+      "local_mean_r": 0.012505411588421172,
+      "local_median_r": 0.004559178039062474,
+      "local_positive_fraction": 0.5154845154845155,
+      "delta_local_pair_mean": 0.0,
+      "local_block_ci_low": 0.0,
+      "local_block_ci_high": 0.0,
+      "local_best_mean_r": 0.3008360699716722,
+      "local_peak_above_control95": 108,
+      "pairs_above_global_shift95": 9
+    },
+    "T6_profile_mean": {
+      "feature": "profile_mean",
+      "valid_fraction": 0.582904953145917,
+      "pairs_evaluable": 49,
+      "mean_r": 0.10809412002153122,
+      "median_r": 0.13831177977127068,
+      "min_r": -0.42923749252633636,
+      "max_r": 0.38316314477400815,
+      "positive_fraction": 0.7346938775510204,
+      "delta_mean_vs_center": 0.05657804555006395,
+      "pairs_better_than_center": 35,
+      "paired_block_ci_low": 0.02387213644748124,
+      "paired_block_ci_high": 0.08914430823247313,
+      "difference_mean_r": -0.0027798167517410393,
+      "best_lag_mean_r": 0.20603706518989523,
+      "local_windows": 1001,
+      "local_mean_r": 0.029242868538811497,
+      "local_median_r": 0.033150278732125754,
+      "local_positive_fraction": 0.5454545454545454,
+      "delta_local_pair_mean": 0.01938446562023775,
+      "local_block_ci_low": -0.0050977301048882205,
+      "local_block_ci_high": 0.043667311705341855,
+      "local_best_mean_r": 0.4057892180499101,
+      "local_peak_above_control95": 104,
+      "pairs_above_global_shift95": 12
+    },
+    "T9_ink": {
+      "feature": "ink_probability",
+      "valid_fraction": 0.582904953145917,
+      "pairs_evaluable": 49,
+      "mean_r": 0.002067015173711947,
+      "median_r": -0.003839585930109024,
+      "min_r": -0.08496768027544022,
+      "max_r": 0.07625935971736908,
+      "positive_fraction": 0.46938775510204084,
+      "delta_mean_vs_center": -0.049449059297755324,
+      "pairs_better_than_center": 13,
+      "paired_block_ci_low": -0.06965048221013666,
+      "paired_block_ci_high": -0.028302764285338393,
+      "difference_mean_r": 0.001223989603185684,
+      "best_lag_mean_r": 0.07882416324347866,
+      "local_windows": 1001,
+      "local_mean_r": -0.0006130681762548087,
+      "local_median_r": -0.00694535207003355,
+      "local_positive_fraction": 0.46553446553446554,
+      "delta_local_pair_mean": -0.012874148512544049,
+      "local_block_ci_low": -0.023109328571973686,
+      "local_block_ci_high": -0.0015305945892958037,
+      "local_best_mean_r": 0.2715568315263822,
+      "local_peak_above_control95": 104,
+      "pairs_above_global_shift95": 3
+    }
+  },
+  "T11_probability_metrics": null,
+  "T11_valid_inference_fraction_of_frozen_centers": 0.0,
+  "expected_full_stack_shape": [
+    50,
+    4482
+  ],
+  "actual_probability_stack_shape": null,
+  "full_target_coverage_verified": false,
+  "qualitative": "Repeated bands and empty regions remain at fixed samples; some orientation changes improve CT proxies but not the frozen geometry gate."
+}

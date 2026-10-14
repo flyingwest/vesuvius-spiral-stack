@@ -1,0 +1,36 @@
+{
+  "status": "PASS",
+  "predecessor_files_unchanged": 3307,
+  "blocked_attempt_and_freeze_files_unchanged": 147,
+  "original_pre_evidence_hashes_unchanged": 8,
+  "support_freeze_hashes_unchanged": 8,
+  "supplemental_hashes_verified": 6,
+  "coverage": {
+    "status": "PASS",
+    "REQUIRED_PATCHES": 144,
+    "FULLY_COVERED_PATCHES": 144,
+    "uncovered": [],
+    "supplemental_hashes_verified": 6,
+    "no_clipping_or_padding": true
+  },
+  "frame_replay": {
+    "status": "PASS",
+    "sample_methods_replayed": 144,
+    "frames_metrics_patch_hashes_exact": true
+  },
+  "old_frame_T9_renderer_check": {
+    "status": "PASS",
+    "sample_points": 72,
+    "paired_patch_arrays_compared": 144,
+    "sealed_T9_renderer_max_uint8_error": 0,
+    "model_inference": false
+  },
+  "original_completed_patch_arrays_match_retry": 141,
+  "centers_and_sample_indices_exact": true,
+  "right_handed_geometric_frames_and_original_depth_sign": true,
+  "smoke_inference_replay": "NOT_APPLICABLE_NOT_RUN",
+  "full_inference_replay": "NOT_APPLICABLE_NOT_RUN",
+  "probability_pngs": "Explicit NOT RUN status placeholders; no probability data generated",
+  "original_scientific_gates_unchanged": true,
+  "original_T9_CT_chunks_hash_verified_again": 5523
+}
