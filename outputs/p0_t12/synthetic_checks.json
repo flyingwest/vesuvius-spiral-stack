@@ -1,0 +1,17 @@
+{
+  "synthetic_baseline": "PASS",
+  "guard_mutants": [
+    {
+      "mutant": "displacement_guard",
+      "killed": true
+    },
+    {
+      "mutant": "competitor_guard",
+      "killed": true
+    },
+    {
+      "mutant": "quadratic_branch",
+      "killed": true
+    }
+  ]
+}
