@@ -1,0 +1,32 @@
+{
+  "status": "PASS",
+  "predecessor_files_byte_identical": 3807,
+  "pre_evidence_hashes_unchanged": 83,
+  "same_frozen_targets": 72,
+  "same_control_locations": 3,
+  "fit_replay": {
+    "status": "PASS",
+    "target_fits": 72,
+    "control_fits": 3,
+    "all_records_exact": true
+  },
+  "patch_replay": {
+    "status": "PASS",
+    "samples": 72,
+    "policies": 2,
+    "all_patch_hashes_and_metrics_exact": true
+  },
+  "frozen_coordinates_exact": true,
+  "all_T12_patches_equal_T11_fallback": true,
+  "no_applied_center_displacement": true,
+  "coverage": {
+    "status": "PASS",
+    "fitted_patches": 0,
+    "patches": [],
+    "missing_chunk_dependencies": {}
+  },
+  "no_model_loaded_or_inference_run": true,
+  "model_replay": "NOT_APPLICABLE_NOT_RUN",
+  "no_new_CT_acquisition": true,
+  "geometry_gate_unchanged": true
+}

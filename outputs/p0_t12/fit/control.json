@@ -1,0 +1,2952 @@
+[
+  {
+    "origin_yx": [
+      128,
+      128
+    ],
+    "quality": {
+      "longitudinal_gradient_fraction": 0.16387003106041437,
+      "depth_peak_spread": 5.078053739546582,
+      "center_distance": 0.58153076171875,
+      "empty_fraction": 0.0,
+      "band_crossings": 2.0,
+      "center_slab_occupancy": 0.99041748046875
+    },
+    "depth_position_proxy": -4.0,
+    "fit": {
+      "plane": {
+        "accepted": false,
+        "reason": "outside_displacement_bound"
+      },
+      "quadratic": {
+        "attempted": false,
+        "accepted": false,
+        "reason": "no_unique_anchor"
+      },
+      "evidence": {
+        "central_candidates": [
+          {
+            "depth": -3.860262154832421,
+            "prominence": 55.29874621248578,
+            "height": 140.21999015063574
+          }
+        ],
+        "anchor": null,
+        "anchor_reason": "outside_displacement_bound",
+        "sites": []
+      }
+    }
+  },
+  {
+    "origin_yx": [
+      192,
+      192
+    ],
+    "quality": {
+      "longitudinal_gradient_fraction": 0.1319579796207231,
+      "depth_peak_spread": 4.621231604847244,
+      "center_distance": 0.63499755859375,
+      "empty_fraction": 0.0,
+      "band_crossings": 2.6666666666666665,
+      "center_slab_occupancy": 0.9941162109375
+    },
+    "depth_position_proxy": -4.0,
+    "fit": {
+      "plane": {
+        "accepted": false,
+        "reason": "less_than70pct_unique_local_ridges",
+        "ridge_fraction": 0.4074074074074074
+      },
+      "quadratic": {
+        "attempted": false,
+        "accepted": false,
+        "reason": "insufficient_identity_evidence"
+      },
+      "evidence": {
+        "central_candidates": [
+          {
+            "depth": -1.8601130863056572,
+            "prominence": 41.2165901406796,
+            "height": 112.61542173996997
+          }
+        ],
+        "anchor": {
+          "depth": -1.8601130863056572,
+          "prominence": 41.2165901406796,
+          "height": 112.61542173996997
+        },
+        "anchor_reason": "unique_nearest",
+        "sites": [
+          {
+            "iy": 0,
+            "ix": 0,
+            "y": 15,
+            "x": 15,
+            "candidates": [],
+            "chosen": null,
+            "reason": "no_peak"
+          },
+          {
+            "iy": 0,
+            "ix": 1,
+            "y": 15,
+            "x": 27,
+            "candidates": [
+              {
+                "depth": -6.78713051556843,
+                "prominence": 11.931747455713861,
+                "height": 111.67469141507928
+              },
+              {
+                "depth": 1.2247191172511775,
+                "prominence": 25.03554836537178,
+                "height": 90.56599946411706
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 0,
+            "ix": 2,
+            "y": 15,
+            "x": 39,
+            "candidates": [
+              {
+                "depth": -1.8533953157101766,
+                "prominence": 26.13330375702715,
+                "height": 79.10700361817698
+              },
+              {
+                "depth": 1.7744079967017723,
+                "prominence": 11.591755688737607,
+                "height": 75.33295062898877
+              }
+            ],
+            "chosen": {
+              "depth": -1.8533953157101766,
+              "prominence": 26.13330375702715,
+              "height": 79.10700361817698
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 0,
+            "ix": 3,
+            "y": 15,
+            "x": 51,
+            "candidates": [
+              {
+                "depth": 1.9547079667275724,
+                "prominence": 37.88419408821807,
+                "height": 85.34335038576509
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 0,
+            "ix": 4,
+            "y": 15,
+            "x": 63,
+            "candidates": [
+              {
+                "depth": 1.5783270119472457,
+                "prominence": 48.415370242979805,
+                "height": 94.26048903969838
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 0,
+            "ix": 5,
+            "y": 15,
+            "x": 75,
+            "candidates": [
+              {
+                "depth": 2.4453434303295434,
+                "prominence": 59.30872293341794,
+                "height": 103.48936677459326
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 0,
+            "ix": 6,
+            "y": 15,
+            "x": 87,
+            "candidates": [
+              {
+                "depth": -1.5925106646655927,
+                "prominence": 35.07485281518632,
+                "height": 106.87123436650657
+              },
+              {
+                "depth": 4.54695040301002,
+                "prominence": 19.38513737892444,
+                "height": 98.8490213362947
+              }
+            ],
+            "chosen": {
+              "depth": -1.5925106646655927,
+              "prominence": 35.07485281518632,
+              "height": 106.87123436650657
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 0,
+            "ix": 7,
+            "y": 15,
+            "x": 99,
+            "candidates": [
+              {
+                "depth": 0.9049251421558594,
+                "prominence": 9.908028966396643,
+                "height": 116.42842109728399
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 0,
+            "ix": 8,
+            "y": 15,
+            "x": 111,
+            "candidates": [
+              {
+                "depth": -0.17647620384710472,
+                "prominence": 16.8629077492631,
+                "height": 115.65064838933363
+              }
+            ],
+            "chosen": {
+              "depth": -0.17647620384710472,
+              "prominence": 16.8629077492631,
+              "height": 115.65064838933363
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 1,
+            "ix": 0,
+            "y": 27,
+            "x": 15,
+            "candidates": [
+              {
+                "depth": -3.741814416479835,
+                "prominence": 9.002040472373736,
+                "height": 101.36098727590252
+              }
+            ],
+            "chosen": {
+              "depth": -3.741814416479835,
+              "prominence": 9.002040472373736,
+              "height": 101.36098727590252
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 1,
+            "ix": 1,
+            "y": 27,
+            "x": 27,
+            "candidates": [
+              {
+                "depth": -1.3931837746862925,
+                "prominence": 44.90367890886154,
+                "height": 122.35547088942704
+              },
+              {
+                "depth": 6.50722350568009,
+                "prominence": 11.257418808255508,
+                "height": 130.66962073052434
+              }
+            ],
+            "chosen": {
+              "depth": -1.3931837746862925,
+              "prominence": 44.90367890886154,
+              "height": 122.35547088942704
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 1,
+            "ix": 2,
+            "y": 27,
+            "x": 39,
+            "candidates": [
+              {
+                "depth": 6.601198824932616,
+                "prominence": 22.514320169048588,
+                "height": 107.42197763313965
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 1,
+            "ix": 3,
+            "y": 27,
+            "x": 51,
+            "candidates": [
+              {
+                "depth": 1.3935391479053945,
+                "prominence": 37.98134517778054,
+                "height": 96.72550280756212
+              },
+              {
+                "depth": 6.064279354514545,
+                "prominence": 17.77115396935369,
+                "height": 86.453566057866
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 1,
+            "ix": 4,
+            "y": 27,
+            "x": 63,
+            "candidates": [
+              {
+                "depth": 0.1027872468719372,
+                "prominence": 52.6243881513154,
+                "height": 108.66477782260924
+              },
+              {
+                "depth": 6.306060647991374,
+                "prominence": 31.060668167782055,
+                "height": 102.98811883345383
+              }
+            ],
+            "chosen": {
+              "depth": 0.1027872468719372,
+              "prominence": 52.6243881513154,
+              "height": 108.66477782260924
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 1,
+            "ix": 5,
+            "y": 27,
+            "x": 75,
+            "candidates": [
+              {
+                "depth": -1.319891274041617,
+                "prominence": 75.21725390519416,
+                "height": 115.80749814734477
+              }
+            ],
+            "chosen": {
+              "depth": -1.319891274041617,
+              "prominence": 75.21725390519416,
+              "height": 115.80749814734477
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 1,
+            "ix": 6,
+            "y": 27,
+            "x": 87,
+            "candidates": [
+              {
+                "depth": 0.6195409253122173,
+                "prominence": 34.70672283089691,
+                "height": 106.39706160602157
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 1,
+            "ix": 7,
+            "y": 27,
+            "x": 99,
+            "candidates": [
+              {
+                "depth": -3.15843091969739,
+                "prominence": 10.154841975270585,
+                "height": 113.72394390416162
+              },
+              {
+                "depth": 3.883324108659767,
+                "prominence": 9.866400078751667,
+                "height": 98.47152470755864
+              }
+            ],
+            "chosen": {
+              "depth": -3.15843091969739,
+              "prominence": 10.154841975270585,
+              "height": 113.72394390416162
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 1,
+            "ix": 8,
+            "y": 27,
+            "x": 111,
+            "candidates": [
+              {
+                "depth": -2.4722288164561306,
+                "prominence": 45.282877000845076,
+                "height": 114.58960104145982
+              },
+              {
+                "depth": 4.3383750331763915,
+                "prominence": 17.98661307583054,
+                "height": 72.25386113632716
+              }
+            ],
+            "chosen": {
+              "depth": -2.4722288164561306,
+              "prominence": 45.282877000845076,
+              "height": 114.58960104145982
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 2,
+            "ix": 0,
+            "y": 39,
+            "x": 15,
+            "candidates": [
+              {
+                "depth": -0.9269233959861958,
+                "prominence": 16.42063626192163,
+                "height": 94.26270295308402
+              },
+              {
+                "depth": 6.680257519287192,
+                "prominence": 9.268411979007382,
+                "height": 108.19630475323223
+              }
+            ],
+            "chosen": {
+              "depth": -0.9269233959861958,
+              "prominence": 16.42063626192163,
+              "height": 94.26270295308402
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 2,
+            "ix": 1,
+            "y": 39,
+            "x": 27,
+            "candidates": [
+              {
+                "depth": 4.941130295774714,
+                "prominence": 26.016479080274436,
+                "height": 104.70479318941618
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 2,
+            "ix": 2,
+            "y": 39,
+            "x": 39,
+            "candidates": [
+              {
+                "depth": 0.8698343361855366,
+                "prominence": 18.637771624068336,
+                "height": 110.68567658176264
+              },
+              {
+                "depth": 6.4219212773622605,
+                "prominence": 20.09255266131197,
+                "height": 120.81934475826088
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 2,
+            "ix": 3,
+            "y": 39,
+            "x": 51,
+            "candidates": [
+              {
+                "depth": 4.759993329663177,
+                "prominence": 21.466789894602087,
+                "height": 100.51935034263764
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 2,
+            "ix": 4,
+            "y": 39,
+            "x": 63,
+            "candidates": [
+              {
+                "depth": -3.910971373375779,
+                "prominence": 14.565541397225005,
+                "height": 103.82776710068967
+              },
+              {
+                "depth": 4.148315352336261,
+                "prominence": 56.04326555215812,
+                "height": 119.1301705930361
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 2,
+            "ix": 5,
+            "y": 39,
+            "x": 75,
+            "candidates": [
+              {
+                "depth": 4.677685686670646,
+                "prominence": 76.4273649660528,
+                "height": 121.03456092203842
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 2,
+            "ix": 6,
+            "y": 39,
+            "x": 87,
+            "candidates": [
+              {
+                "depth": -2.111346117784586,
+                "prominence": 16.227579895713404,
+                "height": 105.34637977534163
+              },
+              {
+                "depth": 5.99115672987617,
+                "prominence": 39.45899599882121,
+                "height": 122.35198786697498
+              }
+            ],
+            "chosen": {
+              "depth": -2.111346117784586,
+              "prominence": 16.227579895713404,
+              "height": 105.34637977534163
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 2,
+            "ix": 7,
+            "y": 39,
+            "x": 99,
+            "candidates": [
+              {
+                "depth": -6.7328715083435995,
+                "prominence": 10.711660746431804,
+                "height": 113.60976217375837
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 2,
+            "ix": 8,
+            "y": 39,
+            "x": 111,
+            "candidates": [
+              {
+                "depth": 0.20786510311355663,
+                "prominence": 31.469364806450237,
+                "height": 86.5328012308095
+              },
+              {
+                "depth": 5.512718788987512,
+                "prominence": 9.290457514069502,
+                "height": 87.83280939759992
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 3,
+            "ix": 0,
+            "y": 51,
+            "x": 15,
+            "candidates": [
+              {
+                "depth": 6.4249103029014965,
+                "prominence": 10.606450988285957,
+                "height": 103.55169635167303
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 3,
+            "ix": 1,
+            "y": 51,
+            "x": 27,
+            "candidates": [],
+            "chosen": null,
+            "reason": "no_peak"
+          },
+          {
+            "iy": 3,
+            "ix": 2,
+            "y": 51,
+            "x": 39,
+            "candidates": [
+              {
+                "depth": -3.654050911234263,
+                "prominence": 16.386791170852447,
+                "height": 113.44531064034946
+              }
+            ],
+            "chosen": {
+              "depth": -3.654050911234263,
+              "prominence": 16.386791170852447,
+              "height": 113.44531064034946
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 3,
+            "ix": 3,
+            "y": 51,
+            "x": 51,
+            "candidates": [
+              {
+                "depth": -3.919208879507338,
+                "prominence": 15.656183780466904,
+                "height": 123.0280069366803
+              },
+              {
+                "depth": 5.032030902060207,
+                "prominence": 22.673545606472118,
+                "height": 120.42455306543684
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 3,
+            "ix": 4,
+            "y": 51,
+            "x": 63,
+            "candidates": [
+              {
+                "depth": 4.176817864102188,
+                "prominence": 16.621084681409258,
+                "height": 117.67952496035556
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 3,
+            "ix": 5,
+            "y": 51,
+            "x": 75,
+            "candidates": [
+              {
+                "depth": -4.7451340854871855,
+                "prominence": 36.37803088619995,
+                "height": 131.74908370411185
+              },
+              {
+                "depth": 4.0696361853181475,
+                "prominence": 18.626680519486257,
+                "height": 113.53048648395392
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 3,
+            "ix": 6,
+            "y": 51,
+            "x": 87,
+            "candidates": [
+              {
+                "depth": -2.547139062857413,
+                "prominence": 38.182522163567455,
+                "height": 109.55083677023987
+              }
+            ],
+            "chosen": {
+              "depth": -2.547139062857413,
+              "prominence": 38.182522163567455,
+              "height": 109.55083677023987
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 3,
+            "ix": 7,
+            "y": 51,
+            "x": 99,
+            "candidates": [
+              {
+                "depth": -3.3820979722040856,
+                "prominence": 18.830562066753558,
+                "height": 121.91896782605193
+              }
+            ],
+            "chosen": {
+              "depth": -3.3820979722040856,
+              "prominence": 18.830562066753558,
+              "height": 121.91896782605193
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 3,
+            "ix": 8,
+            "y": 51,
+            "x": 111,
+            "candidates": [
+              {
+                "depth": 0.31090505046006234,
+                "prominence": 18.709475866190004,
+                "height": 84.25015424521868
+              },
+              {
+                "depth": 4.376019693897128,
+                "prominence": 12.888446452599666,
+                "height": 80.18467357130154
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 4,
+            "ix": 0,
+            "y": 63,
+            "x": 15,
+            "candidates": [
+              {
+                "depth": 4.916434949388459,
+                "prominence": 14.631437542798452,
+                "height": 77.51013223490037
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 4,
+            "ix": 1,
+            "y": 63,
+            "x": 27,
+            "candidates": [
+              {
+                "depth": -3.6318552350466717,
+                "prominence": 35.2445525327355,
+                "height": 82.60264883557157
+              },
+              {
+                "depth": 1.421721847488931,
+                "prominence": 19.09685017421677,
+                "height": 77.16018454759305
+              }
+            ],
+            "chosen": {
+              "depth": -3.6318552350466717,
+              "prominence": 35.2445525327355,
+              "height": 82.60264883557157
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 4,
+            "ix": 2,
+            "y": 63,
+            "x": 39,
+            "candidates": [
+              {
+                "depth": -0.8252379739708614,
+                "prominence": 48.56364248589694,
+                "height": 94.97262930045358
+              }
+            ],
+            "chosen": {
+              "depth": -0.8252379739708614,
+              "prominence": 48.56364248589694,
+              "height": 94.97262930045358
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 4,
+            "ix": 3,
+            "y": 63,
+            "x": 51,
+            "candidates": [
+              {
+                "depth": -0.9556156027832639,
+                "prominence": 51.913291938871716,
+                "height": 109.33057547000695
+              },
+              {
+                "depth": 4.053230923617308,
+                "prominence": 14.0737264282658,
+                "height": 89.14488710856078
+              }
+            ],
+            "chosen": {
+              "depth": -0.9556156027832639,
+              "prominence": 51.913291938871716,
+              "height": 109.33057547000695
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 4,
+            "ix": 4,
+            "y": 63,
+            "x": 63,
+            "candidates": [
+              {
+                "depth": -1.9832431981682366,
+                "prominence": 38.372570692488,
+                "height": 117.73869800815385
+              }
+            ],
+            "chosen": {
+              "depth": -1.9832431981682366,
+              "prominence": 38.372570692488,
+              "height": 117.73869800815385
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 4,
+            "ix": 5,
+            "y": 63,
+            "x": 75,
+            "candidates": [
+              {
+                "depth": -3.9008205033150425,
+                "prominence": 76.40306752780887,
+                "height": 125.4628919016234
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 4,
+            "ix": 6,
+            "y": 63,
+            "x": 87,
+            "candidates": [
+              {
+                "depth": -1.8186303482732415,
+                "prominence": 52.220607314805996,
+                "height": 103.06277044606404
+              }
+            ],
+            "chosen": {
+              "depth": -1.8186303482732415,
+              "prominence": 52.220607314805996,
+              "height": 103.06277044606404
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 4,
+            "ix": 7,
+            "y": 63,
+            "x": 99,
+            "candidates": [
+              {
+                "depth": -6.549311768342628,
+                "prominence": 23.814359898219834,
+                "height": 116.34564386481503
+              },
+              {
+                "depth": 4.960358526606054,
+                "prominence": 26.207904250649932,
+                "height": 108.55343198601147
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 4,
+            "ix": 8,
+            "y": 63,
+            "x": 111,
+            "candidates": [
+              {
+                "depth": -2.189408592882806,
+                "prominence": 23.878436328411524,
+                "height": 84.92554868124368
+              }
+            ],
+            "chosen": {
+              "depth": -2.189408592882806,
+              "prominence": 23.878436328411524,
+              "height": 84.92554868124368
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 5,
+            "ix": 0,
+            "y": 75,
+            "x": 15,
+            "candidates": [
+              {
+                "depth": -2.892188883912718,
+                "prominence": 29.734186926862847,
+                "height": 69.44687033249909
+              }
+            ],
+            "chosen": {
+              "depth": -2.892188883912718,
+              "prominence": 29.734186926862847,
+              "height": 69.44687033249909
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 5,
+            "ix": 1,
+            "y": 75,
+            "x": 27,
+            "candidates": [
+              {
+                "depth": -3.5009715985321774,
+                "prominence": 27.02423020941866,
+                "height": 112.341491346983
+              }
+            ],
+            "chosen": {
+              "depth": -3.5009715985321774,
+              "prominence": 27.02423020941866,
+              "height": 112.341491346983
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 5,
+            "ix": 2,
+            "y": 75,
+            "x": 39,
+            "candidates": [
+              {
+                "depth": -2.5594027540963213,
+                "prominence": 93.16976273571751,
+                "height": 133.60169402500577
+              }
+            ],
+            "chosen": {
+              "depth": -2.5594027540963213,
+              "prominence": 93.16976273571751,
+              "height": 133.60169402500577
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 5,
+            "ix": 3,
+            "y": 75,
+            "x": 51,
+            "candidates": [
+              {
+                "depth": -1.5166837428502387,
+                "prominence": 69.03344303177344,
+                "height": 111.48173441174515
+              },
+              {
+                "depth": 3.818866015683161,
+                "prominence": 14.538941685927306,
+                "height": 60.739793003740836
+              }
+            ],
+            "chosen": {
+              "depth": -1.5166837428502387,
+              "prominence": 69.03344303177344,
+              "height": 111.48173441174515
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 5,
+            "ix": 4,
+            "y": 75,
+            "x": 63,
+            "candidates": [
+              {
+                "depth": -2.7554029332635177,
+                "prominence": 84.49713111385245,
+                "height": 127.44134296854688
+              }
+            ],
+            "chosen": {
+              "depth": -2.7554029332635177,
+              "prominence": 84.49713111385245,
+              "height": 127.44134296854688
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 5,
+            "ix": 5,
+            "y": 75,
+            "x": 75,
+            "candidates": [
+              {
+                "depth": -5.092076928299889,
+                "prominence": 40.71931450330732,
+                "height": 115.45474784654348
+              },
+              {
+                "depth": 6.189917776255372,
+                "prominence": 9.959655065721833,
+                "height": 111.11268773554977
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 5,
+            "ix": 6,
+            "y": 75,
+            "x": 87,
+            "candidates": [
+              {
+                "depth": 1.1211689548845036,
+                "prominence": 49.26499298323928,
+                "height": 100.62161754515787
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 5,
+            "ix": 7,
+            "y": 75,
+            "x": 99,
+            "candidates": [
+              {
+                "depth": -1.3824905363442268,
+                "prominence": 44.286821792724,
+                "height": 99.25870083418712
+              }
+            ],
+            "chosen": {
+              "depth": -1.3824905363442268,
+              "prominence": 44.286821792724,
+              "height": 99.25870083418712
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 5,
+            "ix": 8,
+            "y": 75,
+            "x": 111,
+            "candidates": [
+              {
+                "depth": -1.7956361455032317,
+                "prominence": 8.2013764454923,
+                "height": 69.30597032640375
+              },
+              {
+                "depth": 2.8211109455631034,
+                "prominence": 25.45947122050518,
+                "height": 94.40036426060036
+              }
+            ],
+            "chosen": {
+              "depth": -1.7956361455032317,
+              "prominence": 8.2013764454923,
+              "height": 69.30597032640375
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 6,
+            "ix": 0,
+            "y": 87,
+            "x": 15,
+            "candidates": [
+              {
+                "depth": 0.8663911284465298,
+                "prominence": 41.123328880300576,
+                "height": 84.41652234443796
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 6,
+            "ix": 1,
+            "y": 87,
+            "x": 27,
+            "candidates": [
+              {
+                "depth": -1.9814395172037211,
+                "prominence": 12.763574493798359,
+                "height": 92.47754267353318
+              }
+            ],
+            "chosen": {
+              "depth": -1.9814395172037211,
+              "prominence": 12.763574493798359,
+              "height": 92.47754267353318
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 6,
+            "ix": 2,
+            "y": 87,
+            "x": 39,
+            "candidates": [
+              {
+                "depth": -5.029014525695908,
+                "prominence": 32.0404270854183,
+                "height": 88.87451288431073
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 6,
+            "ix": 3,
+            "y": 87,
+            "x": 51,
+            "candidates": [
+              {
+                "depth": -3.6451675283542335,
+                "prominence": 64.22647850701951,
+                "height": 112.19879794790162
+              }
+            ],
+            "chosen": {
+              "depth": -3.6451675283542335,
+              "prominence": 64.22647850701951,
+              "height": 112.19879794790162
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 6,
+            "ix": 4,
+            "y": 87,
+            "x": 63,
+            "candidates": [
+              {
+                "depth": -4.371845007069659,
+                "prominence": 63.36231339025671,
+                "height": 112.13463074729918
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 6,
+            "ix": 5,
+            "y": 87,
+            "x": 75,
+            "candidates": [
+              {
+                "depth": -6.347903271459195,
+                "prominence": 9.750127323415143,
+                "height": 91.03957118832008
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 6,
+            "ix": 6,
+            "y": 87,
+            "x": 87,
+            "candidates": [
+              {
+                "depth": 1.9961356040585567,
+                "prominence": 8.348201286197238,
+                "height": 51.25112283758584
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 6,
+            "ix": 7,
+            "y": 87,
+            "x": 99,
+            "candidates": [
+              {
+                "depth": -6.305449162850374,
+                "prominence": 17.052178727236466,
+                "height": 116.88192238557878
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 6,
+            "ix": 8,
+            "y": 87,
+            "x": 111,
+            "candidates": [],
+            "chosen": null,
+            "reason": "no_peak"
+          },
+          {
+            "iy": 7,
+            "ix": 0,
+            "y": 99,
+            "x": 15,
+            "candidates": [
+              {
+                "depth": -3.816417045951356,
+                "prominence": 23.174172022194696,
+                "height": 69.36498630253548
+              }
+            ],
+            "chosen": {
+              "depth": -3.816417045951356,
+              "prominence": 23.174172022194696,
+              "height": 69.36498630253548
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 7,
+            "ix": 1,
+            "y": 99,
+            "x": 27,
+            "candidates": [
+              {
+                "depth": -4.685710360695812,
+                "prominence": 31.0397254283738,
+                "height": 90.47149158344044
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 7,
+            "ix": 2,
+            "y": 99,
+            "x": 39,
+            "candidates": [],
+            "chosen": null,
+            "reason": "no_peak"
+          },
+          {
+            "iy": 7,
+            "ix": 3,
+            "y": 99,
+            "x": 51,
+            "candidates": [
+              {
+                "depth": -4.418111701727685,
+                "prominence": 21.596416723319493,
+                "height": 101.25311825261448
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 7,
+            "ix": 4,
+            "y": 99,
+            "x": 63,
+            "candidates": [
+              {
+                "depth": -5.617300897845614,
+                "prominence": 15.445649189778294,
+                "height": 99.2488551538622
+              },
+              {
+                "depth": 0.15114082319583505,
+                "prominence": 27.143584689520253,
+                "height": 72.28610573367465
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 7,
+            "ix": 5,
+            "y": 99,
+            "x": 75,
+            "candidates": [
+              {
+                "depth": -6.289768900625149,
+                "prominence": 41.26744762138131,
+                "height": 114.04916145234967
+              },
+              {
+                "depth": -0.7717652409689215,
+                "prominence": 18.471315648837937,
+                "height": 65.68955664748273
+              }
+            ],
+            "chosen": {
+              "depth": -0.7717652409689215,
+              "prominence": 18.471315648837937,
+              "height": 65.68955664748273
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 7,
+            "ix": 6,
+            "y": 99,
+            "x": 87,
+            "candidates": [
+              {
+                "depth": -4.144909905448544,
+                "prominence": 84.14233403320148,
+                "height": 129.22684317719063
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 7,
+            "ix": 7,
+            "y": 99,
+            "x": 99,
+            "candidates": [
+              {
+                "depth": -1.922316174063435,
+                "prominence": 73.29042648054015,
+                "height": 126.92593928157785
+              }
+            ],
+            "chosen": {
+              "depth": -1.922316174063435,
+              "prominence": 73.29042648054015,
+              "height": 126.92593928157785
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 7,
+            "ix": 8,
+            "y": 99,
+            "x": 111,
+            "candidates": [],
+            "chosen": null,
+            "reason": "no_peak"
+          },
+          {
+            "iy": 8,
+            "ix": 0,
+            "y": 111,
+            "x": 15,
+            "candidates": [
+              {
+                "depth": -0.3991514744989256,
+                "prominence": 45.95955046302578,
+                "height": 87.72747319575635
+              }
+            ],
+            "chosen": {
+              "depth": -0.3991514744989256,
+              "prominence": 45.95955046302578,
+              "height": 87.72747319575635
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 8,
+            "ix": 1,
+            "y": 111,
+            "x": 27,
+            "candidates": [
+              {
+                "depth": -4.097712440515709,
+                "prominence": 62.74896498830536,
+                "height": 105.49509811167385
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 8,
+            "ix": 2,
+            "y": 111,
+            "x": 39,
+            "candidates": [
+              {
+                "depth": -4.186865243585714,
+                "prominence": 67.34187225044926,
+                "height": 111.96465697084733
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 8,
+            "ix": 3,
+            "y": 111,
+            "x": 51,
+            "candidates": [
+              {
+                "depth": -3.8872793233857013,
+                "prominence": 87.97121487477635,
+                "height": 129.78282220537903
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 8,
+            "ix": 4,
+            "y": 111,
+            "x": 63,
+            "candidates": [
+              {
+                "depth": -4.357283796622804,
+                "prominence": 77.71116794829733,
+                "height": 120.65220136546404
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 8,
+            "ix": 5,
+            "y": 111,
+            "x": 75,
+            "candidates": [
+              {
+                "depth": -4.495775053856422,
+                "prominence": 62.5234801041327,
+                "height": 109.72053171597048
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 8,
+            "ix": 6,
+            "y": 111,
+            "x": 87,
+            "candidates": [
+              {
+                "depth": -4.113159590454787,
+                "prominence": 62.35398441798022,
+                "height": 109.61856427500962
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 8,
+            "ix": 7,
+            "y": 111,
+            "x": 99,
+            "candidates": [],
+            "chosen": null,
+            "reason": "no_peak"
+          },
+          {
+            "iy": 8,
+            "ix": 8,
+            "y": 111,
+            "x": 111,
+            "candidates": [
+              {
+                "depth": -5.231236972330403,
+                "prominence": 11.718029016246817,
+                "height": 106.04797860797714
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "origin_yx": [
+      256,
+      256
+    ],
+    "quality": {
+      "longitudinal_gradient_fraction": 0.207914890758963,
+      "depth_peak_spread": 4.727582792770529,
+      "center_distance": 0.5951904296875,
+      "empty_fraction": 0.0,
+      "band_crossings": 2.0,
+      "center_slab_occupancy": 0.9856689453125
+    },
+    "depth_position_proxy": -4.0,
+    "fit": {
+      "plane": {
+        "accepted": false,
+        "reason": "less_than70pct_unique_local_ridges",
+        "ridge_fraction": 0.3950617283950617
+      },
+      "quadratic": {
+        "attempted": false,
+        "accepted": false,
+        "reason": "insufficient_identity_evidence"
+      },
+      "evidence": {
+        "central_candidates": [
+          {
+            "depth": -4.751682526276494,
+            "prominence": 9.900242277985456,
+            "height": 115.0647179309224
+          },
+          {
+            "depth": -1.4846806347881965,
+            "prominence": 75.80256319616323,
+            "height": 119.02466410613016
+          }
+        ],
+        "anchor": {
+          "depth": -1.4846806347881965,
+          "prominence": 75.80256319616323,
+          "height": 119.02466410613016
+        },
+        "anchor_reason": "unique_nearest",
+        "sites": [
+          {
+            "iy": 0,
+            "ix": 0,
+            "y": 15,
+            "x": 15,
+            "candidates": [
+              {
+                "depth": -6.444381357642463,
+                "prominence": 12.550050761611033,
+                "height": 106.46341962049345
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 0,
+            "ix": 1,
+            "y": 15,
+            "x": 27,
+            "candidates": [
+              {
+                "depth": 4.1096299070440985,
+                "prominence": 30.646854501231502,
+                "height": 99.22608731959161
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 0,
+            "ix": 2,
+            "y": 15,
+            "x": 39,
+            "candidates": [
+              {
+                "depth": 3.5184530719128513,
+                "prominence": 9.132652341882562,
+                "height": 106.3321272080079
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 0,
+            "ix": 3,
+            "y": 15,
+            "x": 51,
+            "candidates": [],
+            "chosen": null,
+            "reason": "no_peak"
+          },
+          {
+            "iy": 0,
+            "ix": 4,
+            "y": 15,
+            "x": 63,
+            "candidates": [
+              {
+                "depth": 1.3101776853385323,
+                "prominence": 22.776816345699487,
+                "height": 90.334649340733
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 0,
+            "ix": 5,
+            "y": 15,
+            "x": 75,
+            "candidates": [
+              {
+                "depth": -6.925729746133194,
+                "prominence": 19.594756539685278,
+                "height": 126.0846659876664
+              },
+              {
+                "depth": 2.089713281600503,
+                "prominence": 68.45756129330789,
+                "height": 133.1093451683489
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 0,
+            "ix": 6,
+            "y": 15,
+            "x": 87,
+            "candidates": [
+              {
+                "depth": -5.330467811966555,
+                "prominence": 71.84244076249985,
+                "height": 118.9973320426939
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 0,
+            "ix": 7,
+            "y": 15,
+            "x": 99,
+            "candidates": [
+              {
+                "depth": -3.2578712832240373,
+                "prominence": 56.374680883484416,
+                "height": 122.0413207788821
+              }
+            ],
+            "chosen": {
+              "depth": -3.2578712832240373,
+              "prominence": 56.374680883484416,
+              "height": 122.0413207788821
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 0,
+            "ix": 8,
+            "y": 15,
+            "x": 111,
+            "candidates": [
+              {
+                "depth": -2.6071297168501344,
+                "prominence": 40.85942066032182,
+                "height": 93.28793078153713
+              },
+              {
+                "depth": 4.551931444456953,
+                "prominence": 35.067746677382914,
+                "height": 109.19240660856815
+              }
+            ],
+            "chosen": {
+              "depth": -2.6071297168501344,
+              "prominence": 40.85942066032182,
+              "height": 93.28793078153713
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 1,
+            "ix": 0,
+            "y": 27,
+            "x": 15,
+            "candidates": [
+              {
+                "depth": -6.361717005484229,
+                "prominence": 19.320117435009124,
+                "height": 102.28777828173466
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 1,
+            "ix": 1,
+            "y": 27,
+            "x": 27,
+            "candidates": [
+              {
+                "depth": -1.7750805005686403,
+                "prominence": 48.70065103191241,
+                "height": 95.42231345411304
+              }
+            ],
+            "chosen": {
+              "depth": -1.7750805005686403,
+              "prominence": 48.70065103191241,
+              "height": 95.42231345411304
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 1,
+            "ix": 2,
+            "y": 27,
+            "x": 39,
+            "candidates": [
+              {
+                "depth": -3.7806180435792625,
+                "prominence": 52.42884879978387,
+                "height": 112.80075446661955
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 1,
+            "ix": 3,
+            "y": 27,
+            "x": 51,
+            "candidates": [
+              {
+                "depth": -4.950955526659756,
+                "prominence": 9.84293495643503,
+                "height": 124.94145353044388
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 1,
+            "ix": 4,
+            "y": 27,
+            "x": 63,
+            "candidates": [
+              {
+                "depth": -3.0334596175439525,
+                "prominence": 10.408922375117982,
+                "height": 111.93408172385702
+              }
+            ],
+            "chosen": {
+              "depth": -3.0334596175439525,
+              "prominence": 10.408922375117982,
+              "height": 111.93408172385702
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 1,
+            "ix": 5,
+            "y": 27,
+            "x": 75,
+            "candidates": [
+              {
+                "depth": -5.363330989888761,
+                "prominence": 73.93681889427275,
+                "height": 118.96512001459784
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 1,
+            "ix": 6,
+            "y": 27,
+            "x": 87,
+            "candidates": [
+              {
+                "depth": -5.096084576275962,
+                "prominence": 55.98371696085181,
+                "height": 99.64340211538173
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 1,
+            "ix": 7,
+            "y": 27,
+            "x": 99,
+            "candidates": [
+              {
+                "depth": -5.1085763010291805,
+                "prominence": 14.825619735083379,
+                "height": 87.15826875253961
+              },
+              {
+                "depth": -2.108968947670185,
+                "prominence": 30.5907815039197,
+                "height": 89.76438205561527
+              }
+            ],
+            "chosen": {
+              "depth": -2.108968947670185,
+              "prominence": 30.5907815039197,
+              "height": 89.76438205561527
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 1,
+            "ix": 8,
+            "y": 27,
+            "x": 111,
+            "candidates": [
+              {
+                "depth": -4.906528547716325,
+                "prominence": 33.44345229315254,
+                "height": 88.72138202074734
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 2,
+            "ix": 0,
+            "y": 39,
+            "x": 15,
+            "candidates": [
+              {
+                "depth": -3.7802642542521836,
+                "prominence": 11.754557996725566,
+                "height": 70.68711504691514
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 2,
+            "ix": 1,
+            "y": 39,
+            "x": 27,
+            "candidates": [],
+            "chosen": null,
+            "reason": "no_peak"
+          },
+          {
+            "iy": 2,
+            "ix": 2,
+            "y": 39,
+            "x": 39,
+            "candidates": [],
+            "chosen": null,
+            "reason": "no_peak"
+          },
+          {
+            "iy": 2,
+            "ix": 3,
+            "y": 39,
+            "x": 51,
+            "candidates": [],
+            "chosen": null,
+            "reason": "no_peak"
+          },
+          {
+            "iy": 2,
+            "ix": 4,
+            "y": 39,
+            "x": 63,
+            "candidates": [
+              {
+                "depth": -4.355299160230271,
+                "prominence": 14.082711522035325,
+                "height": 117.7982696745462
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 2,
+            "ix": 5,
+            "y": 39,
+            "x": 75,
+            "candidates": [
+              {
+                "depth": -3.6374698646017234,
+                "prominence": 76.06395436371517,
+                "height": 121.84332374228696
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 2,
+            "ix": 6,
+            "y": 39,
+            "x": 87,
+            "candidates": [
+              {
+                "depth": -3.122885258306289,
+                "prominence": 72.55198659105913,
+                "height": 118.02484425205063
+              }
+            ],
+            "chosen": {
+              "depth": -3.122885258306289,
+              "prominence": 72.55198659105913,
+              "height": 118.02484425205063
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 2,
+            "ix": 7,
+            "y": 39,
+            "x": 99,
+            "candidates": [
+              {
+                "depth": -2.8907687051626474,
+                "prominence": 63.636664387203744,
+                "height": 109.06921079582202
+              }
+            ],
+            "chosen": {
+              "depth": -2.8907687051626474,
+              "prominence": 63.636664387203744,
+              "height": 109.06921079582202
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 2,
+            "ix": 8,
+            "y": 39,
+            "x": 111,
+            "candidates": [
+              {
+                "depth": -2.75188695196411,
+                "prominence": 71.49436429579401,
+                "height": 117.26923198406628
+              }
+            ],
+            "chosen": {
+              "depth": -2.75188695196411,
+              "prominence": 71.49436429579401,
+              "height": 117.26923198406628
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 3,
+            "ix": 0,
+            "y": 51,
+            "x": 15,
+            "candidates": [
+              {
+                "depth": -4.663270510651044,
+                "prominence": 71.37606689863226,
+                "height": 117.69061775620688
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 3,
+            "ix": 1,
+            "y": 51,
+            "x": 27,
+            "candidates": [
+              {
+                "depth": -3.4870883012363914,
+                "prominence": 48.29984585903034,
+                "height": 94.43850858090254
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 3,
+            "ix": 2,
+            "y": 51,
+            "x": 39,
+            "candidates": [
+              {
+                "depth": -6.0092237004374205,
+                "prominence": 13.901163077137909,
+                "height": 121.58367122207994
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 3,
+            "ix": 3,
+            "y": 51,
+            "x": 51,
+            "candidates": [
+              {
+                "depth": -5.301382788700936,
+                "prominence": 10.591961314653958,
+                "height": 105.59453709016529
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 3,
+            "ix": 4,
+            "y": 51,
+            "x": 63,
+            "candidates": [
+              {
+                "depth": -2.5045718699769894,
+                "prominence": 28.59628417645841,
+                "height": 119.10229645301763
+              }
+            ],
+            "chosen": {
+              "depth": -2.5045718699769894,
+              "prominence": 28.59628417645841,
+              "height": 119.10229645301763
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 3,
+            "ix": 5,
+            "y": 51,
+            "x": 75,
+            "candidates": [
+              {
+                "depth": -2.888515952215005,
+                "prominence": 90.39412288675537,
+                "height": 134.2694450799025
+              }
+            ],
+            "chosen": {
+              "depth": -2.888515952215005,
+              "prominence": 90.39412288675537,
+              "height": 134.2694450799025
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 3,
+            "ix": 6,
+            "y": 51,
+            "x": 87,
+            "candidates": [
+              {
+                "depth": -1.5672859092403153,
+                "prominence": 92.78116732083458,
+                "height": 135.26991199663533
+              }
+            ],
+            "chosen": {
+              "depth": -1.5672859092403153,
+              "prominence": 92.78116732083458,
+              "height": 135.26991199663533
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 3,
+            "ix": 7,
+            "y": 51,
+            "x": 99,
+            "candidates": [
+              {
+                "depth": -1.0066974365501642,
+                "prominence": 75.2844290993423,
+                "height": 119.06552238383769
+              }
+            ],
+            "chosen": {
+              "depth": -1.0066974365501642,
+              "prominence": 75.2844290993423,
+              "height": 119.06552238383769
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 3,
+            "ix": 8,
+            "y": 51,
+            "x": 111,
+            "candidates": [
+              {
+                "depth": 0.6939992719406274,
+                "prominence": 70.65680927014853,
+                "height": 114.00890795498438
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 4,
+            "ix": 0,
+            "y": 63,
+            "x": 15,
+            "candidates": [
+              {
+                "depth": -5.405891532562723,
+                "prominence": 55.84906272051033,
+                "height": 123.25410202465751
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 4,
+            "ix": 1,
+            "y": 63,
+            "x": 27,
+            "candidates": [
+              {
+                "depth": -3.3345588211445687,
+                "prominence": 39.55475286742117,
+                "height": 113.7204207622828
+              }
+            ],
+            "chosen": {
+              "depth": -3.3345588211445687,
+              "prominence": 39.55475286742117,
+              "height": 113.7204207622828
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 4,
+            "ix": 2,
+            "y": 63,
+            "x": 39,
+            "candidates": [
+              {
+                "depth": -2.6894513455037283,
+                "prominence": 23.62641866349483,
+                "height": 114.76827223427583
+              }
+            ],
+            "chosen": {
+              "depth": -2.6894513455037283,
+              "prominence": 23.62641866349483,
+              "height": 114.76827223427583
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 4,
+            "ix": 3,
+            "y": 63,
+            "x": 51,
+            "candidates": [
+              {
+                "depth": -5.739729530557198,
+                "prominence": 34.4666486685755,
+                "height": 112.8103160339637
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 4,
+            "ix": 4,
+            "y": 63,
+            "x": 63,
+            "candidates": [
+              {
+                "depth": -4.89089773397581,
+                "prominence": 16.745518346140756,
+                "height": 113.24924955191898
+              },
+              {
+                "depth": -1.5710679199803783,
+                "prominence": 76.11003731038818,
+                "height": 118.52869965964257
+              }
+            ],
+            "chosen": {
+              "depth": -1.5710679199803783,
+              "prominence": 76.11003731038818,
+              "height": 118.52869965964257
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 4,
+            "ix": 5,
+            "y": 63,
+            "x": 75,
+            "candidates": [
+              {
+                "depth": -1.8515668644969407,
+                "prominence": 74.81189060155779,
+                "height": 120.3355999442409
+              }
+            ],
+            "chosen": {
+              "depth": -1.8515668644969407,
+              "prominence": 74.81189060155779,
+              "height": 120.3355999442409
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 4,
+            "ix": 6,
+            "y": 63,
+            "x": 87,
+            "candidates": [
+              {
+                "depth": -0.3214807655313263,
+                "prominence": 80.49005004765398,
+                "height": 125.24119359443534
+              }
+            ],
+            "chosen": {
+              "depth": -0.3214807655313263,
+              "prominence": 80.49005004765398,
+              "height": 125.24119359443534
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 4,
+            "ix": 7,
+            "y": 63,
+            "x": 99,
+            "candidates": [
+              {
+                "depth": -0.9069912187189278,
+                "prominence": 82.39780598010154,
+                "height": 122.69514822614707
+              }
+            ],
+            "chosen": {
+              "depth": -0.9069912187189278,
+              "prominence": 82.39780598010154,
+              "height": 122.69514822614707
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 4,
+            "ix": 8,
+            "y": 63,
+            "x": 111,
+            "candidates": [
+              {
+                "depth": 0.6616045268094926,
+                "prominence": 78.40043536678249,
+                "height": 119.06544599516491
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 5,
+            "ix": 0,
+            "y": 75,
+            "x": 15,
+            "candidates": [
+              {
+                "depth": -4.761450248886271,
+                "prominence": 46.50668244967292,
+                "height": 103.8230550283273
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 5,
+            "ix": 1,
+            "y": 75,
+            "x": 27,
+            "candidates": [
+              {
+                "depth": -3.026409685584073,
+                "prominence": 62.146623891817185,
+                "height": 109.74973941947255
+              }
+            ],
+            "chosen": {
+              "depth": -3.026409685584073,
+              "prominence": 62.146623891817185,
+              "height": 109.74973941947255
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 5,
+            "ix": 2,
+            "y": 75,
+            "x": 39,
+            "candidates": [
+              {
+                "depth": -1.880678467044341,
+                "prominence": 38.03595421209717,
+                "height": 105.27775676143085
+              }
+            ],
+            "chosen": {
+              "depth": -1.880678467044341,
+              "prominence": 38.03595421209717,
+              "height": 105.27775676143085
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 5,
+            "ix": 3,
+            "y": 75,
+            "x": 51,
+            "candidates": [
+              {
+                "depth": -3.5182045812289955,
+                "prominence": 77.32595772174653,
+                "height": 121.74456576824409
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 5,
+            "ix": 4,
+            "y": 75,
+            "x": 63,
+            "candidates": [
+              {
+                "depth": -2.6065046272328294,
+                "prominence": 18.574001036878684,
+                "height": 114.89752161009446
+              },
+              {
+                "depth": 1.207788250695903,
+                "prominence": 85.65065683938151,
+                "height": 130.40314343038756
+              }
+            ],
+            "chosen": {
+              "depth": -2.6065046272328294,
+              "prominence": 18.574001036878684,
+              "height": 114.89752161009446
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 5,
+            "ix": 5,
+            "y": 75,
+            "x": 75,
+            "candidates": [
+              {
+                "depth": 1.0139435139325879,
+                "prominence": 81.52611398633522,
+                "height": 125.6493281403676
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 5,
+            "ix": 6,
+            "y": 75,
+            "x": 87,
+            "candidates": [
+              {
+                "depth": 2.2970147334120647,
+                "prominence": 95.96941799117283,
+                "height": 134.503597266697
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 5,
+            "ix": 7,
+            "y": 75,
+            "x": 99,
+            "candidates": [
+              {
+                "depth": 0.39902893598967293,
+                "prominence": 79.65234564598006,
+                "height": 123.05991303768107
+              }
+            ],
+            "chosen": {
+              "depth": 0.39902893598967293,
+              "prominence": 79.65234564598006,
+              "height": 123.05991303768107
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 5,
+            "ix": 8,
+            "y": 75,
+            "x": 111,
+            "candidates": [
+              {
+                "depth": 2.82409488195203,
+                "prominence": 85.95506873578181,
+                "height": 126.9345201073827
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 6,
+            "ix": 0,
+            "y": 87,
+            "x": 15,
+            "candidates": [
+              {
+                "depth": -4.051024833901158,
+                "prominence": 75.64712252884115,
+                "height": 119.3578171898504
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 6,
+            "ix": 1,
+            "y": 87,
+            "x": 27,
+            "candidates": [
+              {
+                "depth": -5.560001385204864,
+                "prominence": 12.614592949563303,
+                "height": 80.04300992836932
+              },
+              {
+                "depth": -1.478614984745598,
+                "prominence": 68.89589056865455,
+                "height": 113.88515887042831
+              }
+            ],
+            "chosen": {
+              "depth": -1.478614984745598,
+              "prominence": 68.89589056865455,
+              "height": 113.88515887042831
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 6,
+            "ix": 2,
+            "y": 87,
+            "x": 39,
+            "candidates": [
+              {
+                "depth": -5.5579370022714585,
+                "prominence": 14.013371545689466,
+                "height": 105.64476185704709
+              },
+              {
+                "depth": -1.5573904442298192,
+                "prominence": 69.87020990357055,
+                "height": 115.2800615863251
+              }
+            ],
+            "chosen": {
+              "depth": -1.5573904442298192,
+              "prominence": 69.87020990357055,
+              "height": 115.2800615863251
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 6,
+            "ix": 3,
+            "y": 87,
+            "x": 51,
+            "candidates": [
+              {
+                "depth": -0.30245831371845294,
+                "prominence": 78.97580255057119,
+                "height": 121.38987509972341
+              }
+            ],
+            "chosen": {
+              "depth": -0.30245831371845294,
+              "prominence": 78.97580255057119,
+              "height": 121.38987509972341
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 6,
+            "ix": 4,
+            "y": 87,
+            "x": 63,
+            "candidates": [
+              {
+                "depth": 3.6600664317871923,
+                "prominence": 73.15756766369537,
+                "height": 121.22666675543931
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 6,
+            "ix": 5,
+            "y": 87,
+            "x": 75,
+            "candidates": [
+              {
+                "depth": 5.408973034981754,
+                "prominence": 62.68275132168486,
+                "height": 122.1292359048401
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 6,
+            "ix": 6,
+            "y": 87,
+            "x": 87,
+            "candidates": [
+              {
+                "depth": 1.1655289782565075,
+                "prominence": 9.049400230207667,
+                "height": 65.42424806170162
+              },
+              {
+                "depth": 5.8766726480337,
+                "prominence": 56.78986294058893,
+                "height": 118.11429146629499
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 6,
+            "ix": 7,
+            "y": 87,
+            "x": 99,
+            "candidates": [
+              {
+                "depth": -2.4059691125013147,
+                "prominence": 61.73684302430754,
+                "height": 97.62255791486064
+              },
+              {
+                "depth": 6.962559988728084,
+                "prominence": 16.728609425886702,
+                "height": 120.71461429008673
+              }
+            ],
+            "chosen": {
+              "depth": -2.4059691125013147,
+              "prominence": 61.73684302430754,
+              "height": 97.62255791486064
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 6,
+            "ix": 8,
+            "y": 87,
+            "x": 111,
+            "candidates": [
+              {
+                "depth": -2.3264321475318597,
+                "prominence": 66.97540989778554,
+                "height": 106.66712151375066
+              }
+            ],
+            "chosen": {
+              "depth": -2.3264321475318597,
+              "prominence": 66.97540989778554,
+              "height": 106.66712151375066
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 7,
+            "ix": 0,
+            "y": 99,
+            "x": 15,
+            "candidates": [
+              {
+                "depth": 3.66157271203848,
+                "prominence": 23.895603373516366,
+                "height": 127.76665913490592
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 7,
+            "ix": 1,
+            "y": 99,
+            "x": 27,
+            "candidates": [
+              {
+                "depth": 6.7272447086536165,
+                "prominence": 15.129272548446309,
+                "height": 127.21725247376544
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 7,
+            "ix": 2,
+            "y": 99,
+            "x": 39,
+            "candidates": [
+              {
+                "depth": -1.8491493552116245,
+                "prominence": 21.35533632483353,
+                "height": 72.01259176700793
+              }
+            ],
+            "chosen": {
+              "depth": -1.8491493552116245,
+              "prominence": 21.35533632483353,
+              "height": 72.01259176700793
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 7,
+            "ix": 3,
+            "y": 99,
+            "x": 51,
+            "candidates": [],
+            "chosen": null,
+            "reason": "no_peak"
+          },
+          {
+            "iy": 7,
+            "ix": 4,
+            "y": 99,
+            "x": 63,
+            "candidates": [
+              {
+                "depth": -4.5831611663268985,
+                "prominence": 67.06697765247259,
+                "height": 124.15933911255208
+              },
+              {
+                "depth": 3.982708607239904,
+                "prominence": 50.344527285504185,
+                "height": 120.38099676743968
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 7,
+            "ix": 5,
+            "y": 99,
+            "x": 75,
+            "candidates": [
+              {
+                "depth": -7.005034032777098,
+                "prominence": 11.03688567302055,
+                "height": 77.76186554879465
+              },
+              {
+                "depth": 0.5834879449854491,
+                "prominence": 96.09057607075127,
+                "height": 135.6350676944337
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 7,
+            "ix": 6,
+            "y": 99,
+            "x": 87,
+            "candidates": [
+              {
+                "depth": -1.344699374002424,
+                "prominence": 95.7018394865097,
+                "height": 139.73577623432095
+              }
+            ],
+            "chosen": {
+              "depth": -1.344699374002424,
+              "prominence": 95.7018394865097,
+              "height": 139.73577623432095
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 7,
+            "ix": 7,
+            "y": 99,
+            "x": 99,
+            "candidates": [
+              {
+                "depth": -3.34025111135452,
+                "prominence": 92.06732581767727,
+                "height": 128.37026399922655
+              },
+              {
+                "depth": 4.61122840075188,
+                "prominence": 54.6538668046,
+                "height": 100.81419792556402
+              }
+            ],
+            "chosen": {
+              "depth": -3.34025111135452,
+              "prominence": 92.06732581767727,
+              "height": 128.37026399922655
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 7,
+            "ix": 8,
+            "y": 99,
+            "x": 111,
+            "candidates": [
+              {
+                "depth": -3.922434186264932,
+                "prominence": 96.07953835236037,
+                "height": 134.65634517617974
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 8,
+            "ix": 0,
+            "y": 111,
+            "x": 15,
+            "candidates": [
+              {
+                "depth": -3.863436024995328,
+                "prominence": 83.35789792598335,
+                "height": 124.75978156297447
+              },
+              {
+                "depth": -0.011716118334047787,
+                "prominence": 13.466746744055229,
+                "height": 112.47424589354014
+              }
+            ],
+            "chosen": null,
+            "reason": "competing_ridges"
+          },
+          {
+            "iy": 8,
+            "ix": 1,
+            "y": 111,
+            "x": 27,
+            "candidates": [
+              {
+                "depth": -6.5239557076173496,
+                "prominence": 24.073019111396604,
+                "height": 105.76324310222137
+              },
+              {
+                "depth": -0.9108274636736727,
+                "prominence": 54.51236315463202,
+                "height": 117.62582160762875
+              }
+            ],
+            "chosen": {
+              "depth": -0.9108274636736727,
+              "prominence": 54.51236315463202,
+              "height": 117.62582160762875
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 8,
+            "ix": 2,
+            "y": 111,
+            "x": 39,
+            "candidates": [
+              {
+                "depth": -5.114743994343505,
+                "prominence": 16.54642661770704,
+                "height": 113.2047964487936
+              },
+              {
+                "depth": -0.4485416210409492,
+                "prominence": 24.643788783964965,
+                "height": 106.32750517101815
+              }
+            ],
+            "chosen": {
+              "depth": -0.4485416210409492,
+              "prominence": 24.643788783964965,
+              "height": 106.32750517101815
+            },
+            "reason": "unique_nearest"
+          },
+          {
+            "iy": 8,
+            "ix": 3,
+            "y": 111,
+            "x": 51,
+            "candidates": [
+              {
+                "depth": -3.8875453152320203,
+                "prominence": 51.41954873578398,
+                "height": 117.32905364226828
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 8,
+            "ix": 4,
+            "y": 111,
+            "x": 63,
+            "candidates": [
+              {
+                "depth": -3.78467797400123,
+                "prominence": 94.77996858985436,
+                "height": 134.8980040315531
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 8,
+            "ix": 5,
+            "y": 111,
+            "x": 75,
+            "candidates": [
+              {
+                "depth": -4.202604001036243,
+                "prominence": 105.05515176122499,
+                "height": 143.48404523088925
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 8,
+            "ix": 6,
+            "y": 111,
+            "x": 87,
+            "candidates": [
+              {
+                "depth": -5.017544415980167,
+                "prominence": 90.34755790822895,
+                "height": 133.2994027410885
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 8,
+            "ix": 7,
+            "y": 111,
+            "x": 99,
+            "candidates": [
+              {
+                "depth": -5.0488461599136025,
+                "prominence": 94.30263301372982,
+                "height": 136.74592659128348
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          },
+          {
+            "iy": 8,
+            "ix": 8,
+            "y": 111,
+            "x": 111,
+            "candidates": [
+              {
+                "depth": -4.686291162109013,
+                "prominence": 92.092051348439,
+                "height": 133.04088236729632
+              }
+            ],
+            "chosen": null,
+            "reason": "outside_displacement_bound"
+          }
+        ]
+      }
+    }
+  }
+]

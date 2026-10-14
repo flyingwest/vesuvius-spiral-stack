@@ -1,0 +1,132 @@
+{
+  "P0_T12_COMPLETE": "YES",
+  "P0_T12_RESULT": "D",
+  "LOCAL_SHEET_FIT": "FAIL",
+  "PATCH_GEOMETRY_GATE": "FAIL",
+  "SMOKE_INFERENCE": "NOT_RUN",
+  "FULL_INFERENCE": "NOT_RUN",
+  "INK_STRUCTURE_VISIBLE": "NOT_ASSESSED",
+  "READY_FOR_NEXT_STEP": "NO",
+  "scope": "Operational D: this bounded detector/placement method cannot establish identity; it also rejects all3trusted controls. Not proof of intrinsic CT ambiguity.",
+  "selected_method": null,
+  "accepted_target_fits": 0,
+  "accepted_control_fits": 0,
+  "target_quadratic_attempts": 0,
+  "median_applied_displacement_um": 0.0,
+  "maximum_applied_displacement_um": 0.0,
+  "fitted_displacement_distribution": null,
+  "fit_residual_distribution": null,
+  "rejection_counts": {
+    "outside_displacement_bound": 31,
+    "no_peak": 18,
+    "less_than70pct_unique_local_ridges": 23
+  },
+  "deltas": {
+    "longitudinal_gradient_fraction": {
+      "T9": 0.3687761692695527,
+      "T11": 0.3200138736950204,
+      "T12": 0.3200138736950204,
+      "T12_minus_T9": -0.04876229557453232,
+      "relative_reduction_percent": 13.222734991558005,
+      "T12_minus_T11": 0.0
+    },
+    "depth_peak_spread": {
+      "T9": 5.621225894654443,
+      "T11": 5.575175322509516,
+      "T12": 5.575175322509516,
+      "T12_minus_T9": -0.04605057214492714,
+      "relative_reduction_percent": 0.8192264998408862,
+      "T12_minus_T11": 0.0
+    },
+    "center_distance": {
+      "T9": 0.61728515625,
+      "T11": 0.61439208984375,
+      "T12": 0.61439208984375,
+      "T12_minus_T9": -0.002893066406249978,
+      "relative_reduction_percent": 0.46867584242999166,
+      "T12_minus_T11": 0.0
+    },
+    "empty_fraction": {
+      "T9": 0.13288430606617646,
+      "T11": 0.12227495978860295,
+      "T12": 0.12227495978860295,
+      "T12_minus_T9": -0.010609346277573511,
+      "relative_reduction_percent": 7.983897114449354,
+      "T12_minus_T11": 0.0
+    },
+    "band_crossings": {
+      "T9": 4.333333333333333,
+      "T11": 4.333333333333333,
+      "T12": 4.333333333333333,
+      "T12_minus_T9": 0.0,
+      "relative_reduction_percent": 0.0,
+      "T12_minus_T11": 0.0
+    },
+    "center_slab_occupancy": {
+      "T9": 0.7209228515624999,
+      "T11": 0.732568359375,
+      "T12": 0.732568359375,
+      "T12_minus_T9": 0.011645507812500067,
+      "relative_reduction_percent": -1.6153611703748951,
+      "T12_minus_T11": 0.0
+    }
+  },
+  "control_metrics": {
+    "longitudinal_gradient_fraction": {
+      "values": [
+        0.16387003106041437,
+        0.1319579796207231,
+        0.207914890758963
+      ],
+      "median": 0.16387003106041437
+    },
+    "depth_peak_spread": {
+      "values": [
+        5.078053739546582,
+        4.621231604847244,
+        4.727582792770529
+      ],
+      "median": 4.727582792770529
+    },
+    "center_distance": {
+      "values": [
+        0.58153076171875,
+        0.63499755859375,
+        0.5951904296875
+      ],
+      "median": 0.5951904296875
+    },
+    "empty_fraction": {
+      "values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "median": 0.0
+    },
+    "band_crossings": {
+      "values": [
+        2.0,
+        2.6666666666666665,
+        2.0
+      ],
+      "median": 2.0
+    },
+    "center_slab_occupancy": {
+      "values": [
+        0.99041748046875,
+        0.9941162109375,
+        0.9856689453125
+      ],
+      "median": 0.99041748046875
+    }
+  },
+  "control_rejections": [
+    "outside_displacement_bound",
+    "less_than70pct_unique_local_ridges",
+    "less_than70pct_unique_local_ridges"
+  ],
+  "expected_fitted_patch_support": 0,
+  "new_CT_chunks": 0,
+  "inherited_supply": "All T12 patch metrics are exactly T11 fallback performance, not T12 local placement improvement."
+}

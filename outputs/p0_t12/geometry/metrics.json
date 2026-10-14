@@ -1,0 +1,3314 @@
+[
+  {
+    "sample": 0,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.24929792538824963,
+        "depth_peak_spread": 5.27119891631549,
+        "center_distance": 0.58997802734375,
+        "empty_fraction": 0.16252585018382354,
+        "band_crossings": 5.0,
+        "center_slab_occupancy": 0.7269287109375
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.23206591117465472,
+        "depth_peak_spread": 4.728020782229775,
+        "center_distance": 0.50574951171875,
+        "empty_fraction": 0.1952191521139706,
+        "band_crossings": 5.333333333333333,
+        "center_slab_occupancy": 0.72977294921875
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.23206591117465472,
+        "depth_peak_spread": 4.728020782229775,
+        "center_distance": 0.50574951171875,
+        "empty_fraction": 0.1952191521139706,
+        "band_crossings": 5.333333333333333,
+        "center_slab_occupancy": 0.72977294921875
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.23206591117465472,
+        "depth_peak_spread": 4.728020782229775,
+        "center_distance": 0.50574951171875,
+        "empty_fraction": 0.1952191521139706,
+        "band_crossings": 5.333333333333333,
+        "center_slab_occupancy": 0.72977294921875
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "437b57fa0a42c89e016e782f41a1735a1c295409d2f019bec77885a05b9e07ba",
+      "plane_then_quadratic": "437b57fa0a42c89e016e782f41a1735a1c295409d2f019bec77885a05b9e07ba"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 1,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.4042105415291135,
+        "depth_peak_spread": 5.6484923925410175,
+        "center_distance": 0.623388671875,
+        "empty_fraction": 0.14824362362132354,
+        "band_crossings": 5.666666666666667,
+        "center_slab_occupancy": 0.6820068359375
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.4042105415291135,
+        "depth_peak_spread": 5.6484923925410175,
+        "center_distance": 0.623388671875,
+        "empty_fraction": 0.14824362362132354,
+        "band_crossings": 5.666666666666667,
+        "center_slab_occupancy": 0.6820068359375
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.4042105415291135,
+        "depth_peak_spread": 5.6484923925410175,
+        "center_distance": 0.623388671875,
+        "empty_fraction": 0.14824362362132354,
+        "band_crossings": 5.666666666666667,
+        "center_slab_occupancy": 0.6820068359375
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.4042105415291135,
+        "depth_peak_spread": 5.6484923925410175,
+        "center_distance": 0.623388671875,
+        "empty_fraction": 0.14824362362132354,
+        "band_crossings": 5.666666666666667,
+        "center_slab_occupancy": 0.6820068359375
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "45079a2cd1f30a913bfcb1cb41e1da42a7b9cbb905bbb7b2638c00541de15b72",
+      "plane_then_quadratic": "45079a2cd1f30a913bfcb1cb41e1da42a7b9cbb905bbb7b2638c00541de15b72"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 2,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.3837923396561396,
+        "depth_peak_spread": 5.672835083299088,
+        "center_distance": 0.62808837890625,
+        "empty_fraction": 0.1139382755055147,
+        "band_crossings": 5.666666666666667,
+        "center_slab_occupancy": 0.75743408203125
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.3837923396561396,
+        "depth_peak_spread": 5.672835083299088,
+        "center_distance": 0.62808837890625,
+        "empty_fraction": 0.1139382755055147,
+        "band_crossings": 5.666666666666667,
+        "center_slab_occupancy": 0.75743408203125
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.3837923396561396,
+        "depth_peak_spread": 5.672835083299088,
+        "center_distance": 0.62808837890625,
+        "empty_fraction": 0.1139382755055147,
+        "band_crossings": 5.666666666666667,
+        "center_slab_occupancy": 0.75743408203125
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.3837923396561396,
+        "depth_peak_spread": 5.672835083299088,
+        "center_distance": 0.62808837890625,
+        "empty_fraction": 0.1139382755055147,
+        "band_crossings": 5.666666666666667,
+        "center_slab_occupancy": 0.75743408203125
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "5edcdc114beac91fe6ed904746ee463836e8c1fa0acb383601d8778458df2fed",
+      "plane_then_quadratic": "5edcdc114beac91fe6ed904746ee463836e8c1fa0acb383601d8778458df2fed"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 3,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.48574518725806315,
+        "depth_peak_spread": 5.163734505490927,
+        "center_distance": 0.55626220703125,
+        "empty_fraction": 0.016831341911764705,
+        "band_crossings": 5.666666666666667,
+        "center_slab_occupancy": 0.9460693359375
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.48574518725806315,
+        "depth_peak_spread": 5.163734505490927,
+        "center_distance": 0.55626220703125,
+        "empty_fraction": 0.016831341911764705,
+        "band_crossings": 5.666666666666667,
+        "center_slab_occupancy": 0.9460693359375
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.48574518725806315,
+        "depth_peak_spread": 5.163734505490927,
+        "center_distance": 0.55626220703125,
+        "empty_fraction": 0.016831341911764705,
+        "band_crossings": 5.666666666666667,
+        "center_slab_occupancy": 0.9460693359375
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.48574518725806315,
+        "depth_peak_spread": 5.163734505490927,
+        "center_distance": 0.55626220703125,
+        "empty_fraction": 0.016831341911764705,
+        "band_crossings": 5.666666666666667,
+        "center_slab_occupancy": 0.9460693359375
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "e79cd50532d654b272eaea4b01ca3aebe08d713fc681466fc21f477e6f2c2779",
+      "plane_then_quadratic": "e79cd50532d654b272eaea4b01ca3aebe08d713fc681466fc21f477e6f2c2779"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 4,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.20865286626315932,
+        "depth_peak_spread": 5.684186150264339,
+        "center_distance": 0.64697265625,
+        "empty_fraction": 0.17408303653492646,
+        "band_crossings": 4.333333333333333,
+        "center_slab_occupancy": 0.67435302734375
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.18546231909099417,
+        "depth_peak_spread": 3.58440770314737,
+        "center_distance": 0.67991943359375,
+        "empty_fraction": 0.2225054572610294,
+        "band_crossings": 2.6666666666666665,
+        "center_slab_occupancy": 0.5944091796875
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.18546231909099417,
+        "depth_peak_spread": 3.58440770314737,
+        "center_distance": 0.67991943359375,
+        "empty_fraction": 0.2225054572610294,
+        "band_crossings": 2.6666666666666665,
+        "center_slab_occupancy": 0.5944091796875
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.18546231909099417,
+        "depth_peak_spread": 3.58440770314737,
+        "center_distance": 0.67991943359375,
+        "empty_fraction": 0.2225054572610294,
+        "band_crossings": 2.6666666666666665,
+        "center_slab_occupancy": 0.5944091796875
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "f1ac726563ad0cd10552a8a128497b941c903b1a38243faf261796aa850a25a8",
+      "plane_then_quadratic": "f1ac726563ad0cd10552a8a128497b941c903b1a38243faf261796aa850a25a8"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 5,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.3242542926855107,
+        "depth_peak_spread": 5.323220800182912,
+        "center_distance": 0.598095703125,
+        "empty_fraction": 0.09160299862132353,
+        "band_crossings": 5.0,
+        "center_slab_occupancy": 0.7498779296875
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.32601164819173006,
+        "depth_peak_spread": 5.114032868119689,
+        "center_distance": 0.584375,
+        "empty_fraction": 0.08933751723345588,
+        "band_crossings": 5.333333333333333,
+        "center_slab_occupancy": 0.76275634765625
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.32601164819173006,
+        "depth_peak_spread": 5.114032868119689,
+        "center_distance": 0.584375,
+        "empty_fraction": 0.08933751723345588,
+        "band_crossings": 5.333333333333333,
+        "center_slab_occupancy": 0.76275634765625
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.32601164819173006,
+        "depth_peak_spread": 5.114032868119689,
+        "center_distance": 0.584375,
+        "empty_fraction": 0.08933751723345588,
+        "band_crossings": 5.333333333333333,
+        "center_slab_occupancy": 0.76275634765625
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "1308140e5b81229280a3b637687317f38d9bbc68f1f6f47990b14037c4233e20",
+      "plane_then_quadratic": "1308140e5b81229280a3b637687317f38d9bbc68f1f6f47990b14037c4233e20"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 6,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.36123036133447206,
+        "depth_peak_spread": 4.868294099316409,
+        "center_distance": 0.5020751953125,
+        "empty_fraction": 0.13142305261948528,
+        "band_crossings": 4.0,
+        "center_slab_occupancy": 0.80240478515625
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.3572490076472081,
+        "depth_peak_spread": 5.683516892165849,
+        "center_distance": 0.63922119140625,
+        "empty_fraction": 0.08516917509191177,
+        "band_crossings": 3.3333333333333335,
+        "center_slab_occupancy": 0.7347412109375
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.3572490076472081,
+        "depth_peak_spread": 5.683516892165849,
+        "center_distance": 0.63922119140625,
+        "empty_fraction": 0.08516917509191177,
+        "band_crossings": 3.3333333333333335,
+        "center_slab_occupancy": 0.7347412109375
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.3572490076472081,
+        "depth_peak_spread": 5.683516892165849,
+        "center_distance": 0.63922119140625,
+        "empty_fraction": 0.08516917509191177,
+        "band_crossings": 3.3333333333333335,
+        "center_slab_occupancy": 0.7347412109375
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "a86a4683e6f5ad593c161e545fa71c89b9999dc522390c5cf99a040e460dfb14",
+      "plane_then_quadratic": "a86a4683e6f5ad593c161e545fa71c89b9999dc522390c5cf99a040e460dfb14"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 7,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.36868247402930904,
+        "depth_peak_spread": 5.761127610531933,
+        "center_distance": 0.64617919921875,
+        "empty_fraction": 0.08750646254595588,
+        "band_crossings": 5.333333333333333,
+        "center_slab_occupancy": 0.72801513671875
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.3629156255774713,
+        "depth_peak_spread": 5.708635814569718,
+        "center_distance": 0.63912353515625,
+        "empty_fraction": 0.08838967715992647,
+        "band_crossings": 5.666666666666667,
+        "center_slab_occupancy": 0.72635498046875
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.3629156255774713,
+        "depth_peak_spread": 5.708635814569718,
+        "center_distance": 0.63912353515625,
+        "empty_fraction": 0.08838967715992647,
+        "band_crossings": 5.666666666666667,
+        "center_slab_occupancy": 0.72635498046875
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.3629156255774713,
+        "depth_peak_spread": 5.708635814569718,
+        "center_distance": 0.63912353515625,
+        "empty_fraction": 0.08838967715992647,
+        "band_crossings": 5.666666666666667,
+        "center_slab_occupancy": 0.72635498046875
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "ca0a0c08a4ab44f5f654513a6f304a99a8c87c5b386e60a1f065add899463ea3",
+      "plane_then_quadratic": "ca0a0c08a4ab44f5f654513a6f304a99a8c87c5b386e60a1f065add899463ea3"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 8,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.23222394997462206,
+        "depth_peak_spread": 5.414044982969893,
+        "center_distance": 0.57635498046875,
+        "empty_fraction": 0.1716631721047794,
+        "band_crossings": 4.666666666666667,
+        "center_slab_occupancy": 0.73704833984375
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.22185924470000096,
+        "depth_peak_spread": 5.300696293958974,
+        "center_distance": 0.57982177734375,
+        "empty_fraction": 0.22979736328125,
+        "band_crossings": 4.666666666666667,
+        "center_slab_occupancy": 0.66468505859375
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.22185924470000096,
+        "depth_peak_spread": 5.300696293958974,
+        "center_distance": 0.57982177734375,
+        "empty_fraction": 0.22979736328125,
+        "band_crossings": 4.666666666666667,
+        "center_slab_occupancy": 0.66468505859375
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.22185924470000096,
+        "depth_peak_spread": 5.300696293958974,
+        "center_distance": 0.57982177734375,
+        "empty_fraction": 0.22979736328125,
+        "band_crossings": 4.666666666666667,
+        "center_slab_occupancy": 0.66468505859375
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "67eae4beb0e63f240e80469e46a9176dfe511ae90718c1b46281f2063a433962",
+      "plane_then_quadratic": "67eae4beb0e63f240e80469e46a9176dfe511ae90718c1b46281f2063a433962"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 9,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.24605645947753543,
+        "depth_peak_spread": 5.268718823468518,
+        "center_distance": 0.5705078125,
+        "empty_fraction": 0.21809297449448528,
+        "band_crossings": 5.333333333333333,
+        "center_slab_occupancy": 0.591748046875
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.25270000912993834,
+        "depth_peak_spread": 5.263495822658785,
+        "center_distance": 0.559423828125,
+        "empty_fraction": 0.22499353745404413,
+        "band_crossings": 4.666666666666667,
+        "center_slab_occupancy": 0.60028076171875
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.25270000912993834,
+        "depth_peak_spread": 5.263495822658785,
+        "center_distance": 0.559423828125,
+        "empty_fraction": 0.22499353745404413,
+        "band_crossings": 4.666666666666667,
+        "center_slab_occupancy": 0.60028076171875
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.25270000912993834,
+        "depth_peak_spread": 5.263495822658785,
+        "center_distance": 0.559423828125,
+        "empty_fraction": 0.22499353745404413,
+        "band_crossings": 4.666666666666667,
+        "center_slab_occupancy": 0.60028076171875
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "05092c4d03f3cd953a227a4729f6cd5761a23a68b255a9f0280f3269478b584d",
+      "plane_then_quadratic": "05092c4d03f3cd953a227a4729f6cd5761a23a68b255a9f0280f3269478b584d"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 10,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.36886986450979636,
+        "depth_peak_spread": 5.487047737271269,
+        "center_distance": 0.6018798828125,
+        "empty_fraction": 0.2905740176930147,
+        "band_crossings": 4.0,
+        "center_slab_occupancy": 0.52193603515625
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.29429054364892604,
+        "depth_peak_spread": 5.567921770630116,
+        "center_distance": 0.62645263671875,
+        "empty_fraction": 0.21955781824448528,
+        "band_crossings": 2.6666666666666665,
+        "center_slab_occupancy": 0.55213623046875
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.29429054364892604,
+        "depth_peak_spread": 5.567921770630116,
+        "center_distance": 0.62645263671875,
+        "empty_fraction": 0.21955781824448528,
+        "band_crossings": 2.6666666666666665,
+        "center_slab_occupancy": 0.55213623046875
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.29429054364892604,
+        "depth_peak_spread": 5.567921770630116,
+        "center_distance": 0.62645263671875,
+        "empty_fraction": 0.21955781824448528,
+        "band_crossings": 2.6666666666666665,
+        "center_slab_occupancy": 0.55213623046875
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "e6a17515e026dc8add1466da0f8178126610577930ad8daecf950599adc592de",
+      "plane_then_quadratic": "e6a17515e026dc8add1466da0f8178126610577930ad8daecf950599adc592de"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 11,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.43878078520354147,
+        "depth_peak_spread": 5.797962248396042,
+        "center_distance": 0.6426513671875,
+        "empty_fraction": 0.13313921760110295,
+        "band_crossings": 5.666666666666667,
+        "center_slab_occupancy": 0.67547607421875
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.43878078520354147,
+        "depth_peak_spread": 5.797962248396042,
+        "center_distance": 0.6426513671875,
+        "empty_fraction": 0.13313921760110295,
+        "band_crossings": 5.666666666666667,
+        "center_slab_occupancy": 0.67547607421875
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.43878078520354147,
+        "depth_peak_spread": 5.797962248396042,
+        "center_distance": 0.6426513671875,
+        "empty_fraction": 0.13313921760110295,
+        "band_crossings": 5.666666666666667,
+        "center_slab_occupancy": 0.67547607421875
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.43878078520354147,
+        "depth_peak_spread": 5.797962248396042,
+        "center_distance": 0.6426513671875,
+        "empty_fraction": 0.13313921760110295,
+        "band_crossings": 5.666666666666667,
+        "center_slab_occupancy": 0.67547607421875
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "1307292d9456447a258cd63a5d1aa75be7764d6dadb07d7cf198c9d47f79c456",
+      "plane_then_quadratic": "1307292d9456447a258cd63a5d1aa75be7764d6dadb07d7cf198c9d47f79c456"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 12,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.3873172347726872,
+        "depth_peak_spread": 5.986292755171815,
+        "center_distance": 0.6667236328125,
+        "empty_fraction": 0.30427102481617646,
+        "band_crossings": 4.666666666666667,
+        "center_slab_occupancy": 0.4802490234375
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.38514846960553867,
+        "depth_peak_spread": 5.970222841861004,
+        "center_distance": 0.66549072265625,
+        "empty_fraction": 0.30529067095588236,
+        "band_crossings": 4.666666666666667,
+        "center_slab_occupancy": 0.47998046875
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.38514846960553867,
+        "depth_peak_spread": 5.970222841861004,
+        "center_distance": 0.66549072265625,
+        "empty_fraction": 0.30529067095588236,
+        "band_crossings": 4.666666666666667,
+        "center_slab_occupancy": 0.47998046875
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.38514846960553867,
+        "depth_peak_spread": 5.970222841861004,
+        "center_distance": 0.66549072265625,
+        "empty_fraction": 0.30529067095588236,
+        "band_crossings": 4.666666666666667,
+        "center_slab_occupancy": 0.47998046875
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "7b06039dcdda394eb08b2ba067dd16c85a97535403c05d6581367bdae17a6fbc",
+      "plane_then_quadratic": "7b06039dcdda394eb08b2ba067dd16c85a97535403c05d6581367bdae17a6fbc"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 13,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.46457178375676184,
+        "depth_peak_spread": 6.057207728225554,
+        "center_distance": 0.67767333984375,
+        "empty_fraction": 0.18672090418198528,
+        "band_crossings": 6.0,
+        "center_slab_occupancy": 0.65238037109375
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.46457178375676184,
+        "depth_peak_spread": 6.057207728225554,
+        "center_distance": 0.67767333984375,
+        "empty_fraction": 0.18672090418198528,
+        "band_crossings": 6.0,
+        "center_slab_occupancy": 0.65238037109375
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.46457178375676184,
+        "depth_peak_spread": 6.057207728225554,
+        "center_distance": 0.67767333984375,
+        "empty_fraction": 0.18672090418198528,
+        "band_crossings": 6.0,
+        "center_slab_occupancy": 0.65238037109375
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.46457178375676184,
+        "depth_peak_spread": 6.057207728225554,
+        "center_distance": 0.67767333984375,
+        "empty_fraction": 0.18672090418198528,
+        "band_crossings": 6.0,
+        "center_slab_occupancy": 0.65238037109375
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "c323135286cfbfbb9ca07fc3f916d634975613b0c9a2227680e2ec9c2911bc85",
+      "plane_then_quadratic": "c323135286cfbfbb9ca07fc3f916d634975613b0c9a2227680e2ec9c2911bc85"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 14,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.1678855847607103,
+        "depth_peak_spread": 4.74546844256335,
+        "center_distance": 0.49947509765625,
+        "empty_fraction": 0.19910386029411764,
+        "band_crossings": 2.3333333333333335,
+        "center_slab_occupancy": 0.66165771484375
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.1794562565970293,
+        "depth_peak_spread": 4.78251766777863,
+        "center_distance": 0.511669921875,
+        "empty_fraction": 0.15822107651654413,
+        "band_crossings": 3.6666666666666665,
+        "center_slab_occupancy": 0.6934814453125
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.1794562565970293,
+        "depth_peak_spread": 4.78251766777863,
+        "center_distance": 0.511669921875,
+        "empty_fraction": 0.15822107651654413,
+        "band_crossings": 3.6666666666666665,
+        "center_slab_occupancy": 0.6934814453125
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.1794562565970293,
+        "depth_peak_spread": 4.78251766777863,
+        "center_distance": 0.511669921875,
+        "empty_fraction": 0.15822107651654413,
+        "band_crossings": 3.6666666666666665,
+        "center_slab_occupancy": 0.6934814453125
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "87ef91369a95f1e355bae405c7850561d57b84bda234a0eb77984afc87160c17",
+      "plane_then_quadratic": "87ef91369a95f1e355bae405c7850561d57b84bda234a0eb77984afc87160c17"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 15,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.3710908551322476,
+        "depth_peak_spread": 5.300056223301203,
+        "center_distance": 0.5626220703125,
+        "empty_fraction": 0.03252455767463235,
+        "band_crossings": 4.333333333333333,
+        "center_slab_occupancy": 0.88917236328125
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.3710908551322476,
+        "depth_peak_spread": 5.300056223301203,
+        "center_distance": 0.5626220703125,
+        "empty_fraction": 0.03252455767463235,
+        "band_crossings": 4.333333333333333,
+        "center_slab_occupancy": 0.88917236328125
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.3710908551322476,
+        "depth_peak_spread": 5.300056223301203,
+        "center_distance": 0.5626220703125,
+        "empty_fraction": 0.03252455767463235,
+        "band_crossings": 4.333333333333333,
+        "center_slab_occupancy": 0.88917236328125
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.3710908551322476,
+        "depth_peak_spread": 5.300056223301203,
+        "center_distance": 0.5626220703125,
+        "empty_fraction": 0.03252455767463235,
+        "band_crossings": 4.333333333333333,
+        "center_slab_occupancy": 0.88917236328125
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "f60596526de1ee76a2d7efccb0fcf94589ddd74657b641c5000e0649e76ca5d4",
+      "plane_then_quadratic": "f60596526de1ee76a2d7efccb0fcf94589ddd74657b641c5000e0649e76ca5d4"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 16,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.3140219595881318,
+        "depth_peak_spread": 5.890129651357362,
+        "center_distance": 0.65496826171875,
+        "empty_fraction": 0.14151539522058823,
+        "band_crossings": 4.333333333333333,
+        "center_slab_occupancy": 0.70743408203125
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.3370707215196014,
+        "depth_peak_spread": 5.329220008533428,
+        "center_distance": 0.576416015625,
+        "empty_fraction": 0.10440242991727941,
+        "band_crossings": 4.333333333333333,
+        "center_slab_occupancy": 0.78270263671875
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.3370707215196014,
+        "depth_peak_spread": 5.329220008533428,
+        "center_distance": 0.576416015625,
+        "empty_fraction": 0.10440242991727941,
+        "band_crossings": 4.333333333333333,
+        "center_slab_occupancy": 0.78270263671875
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.3370707215196014,
+        "depth_peak_spread": 5.329220008533428,
+        "center_distance": 0.576416015625,
+        "empty_fraction": 0.10440242991727941,
+        "band_crossings": 4.333333333333333,
+        "center_slab_occupancy": 0.78270263671875
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "9dcbf912d39e540ddba61f2fd4af17f3dba8ec86192210a06e066604fd5e100e",
+      "plane_then_quadratic": "9dcbf912d39e540ddba61f2fd4af17f3dba8ec86192210a06e066604fd5e100e"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 17,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.14105366211552964,
+        "depth_peak_spread": 4.877548880710984,
+        "center_distance": 0.59061279296875,
+        "empty_fraction": 0.15036549287683823,
+        "band_crossings": 3.0,
+        "center_slab_occupancy": 0.75989990234375
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.18004908459374505,
+        "depth_peak_spread": 5.014287413976038,
+        "center_distance": 0.5828369140625,
+        "empty_fraction": 0.19994758157169118,
+        "band_crossings": 2.6666666666666665,
+        "center_slab_occupancy": 0.713525390625
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.18004908459374505,
+        "depth_peak_spread": 5.014287413976038,
+        "center_distance": 0.5828369140625,
+        "empty_fraction": 0.19994758157169118,
+        "band_crossings": 2.6666666666666665,
+        "center_slab_occupancy": 0.713525390625
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.18004908459374505,
+        "depth_peak_spread": 5.014287413976038,
+        "center_distance": 0.5828369140625,
+        "empty_fraction": 0.19994758157169118,
+        "band_crossings": 2.6666666666666665,
+        "center_slab_occupancy": 0.713525390625
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "72a538265456211b2b96572e2d1ce2e06db31082499ba3dabb0b2b5fe64374e5",
+      "plane_then_quadratic": "72a538265456211b2b96572e2d1ce2e06db31082499ba3dabb0b2b5fe64374e5"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 18,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.10748102766135903,
+        "depth_peak_spread": 5.963701359860916,
+        "center_distance": 0.6732421875,
+        "empty_fraction": 0.3650548598345588,
+        "band_crossings": 2.3333333333333335,
+        "center_slab_occupancy": 0.46673583984375
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.11031011253217955,
+        "depth_peak_spread": 5.600363443706053,
+        "center_distance": 0.63154296875,
+        "empty_fraction": 0.3585635914522059,
+        "band_crossings": 3.3333333333333335,
+        "center_slab_occupancy": 0.42545166015625
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.11031011253217955,
+        "depth_peak_spread": 5.600363443706053,
+        "center_distance": 0.63154296875,
+        "empty_fraction": 0.3585635914522059,
+        "band_crossings": 3.3333333333333335,
+        "center_slab_occupancy": 0.42545166015625
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.11031011253217955,
+        "depth_peak_spread": 5.600363443706053,
+        "center_distance": 0.63154296875,
+        "empty_fraction": 0.3585635914522059,
+        "band_crossings": 3.3333333333333335,
+        "center_slab_occupancy": 0.42545166015625
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "9bc11703162c574bfc62d2701de94a4f44c66fd11692a580fff8a0301a0286ae",
+      "plane_then_quadratic": "9bc11703162c574bfc62d2701de94a4f44c66fd11692a580fff8a0301a0286ae"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 19,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.4266771867260597,
+        "depth_peak_spread": 5.57634033718274,
+        "center_distance": 0.6081298828125,
+        "empty_fraction": 0.04210348690257353,
+        "band_crossings": 4.666666666666667,
+        "center_slab_occupancy": 0.8708984375
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.4266771867260597,
+        "depth_peak_spread": 5.57634033718274,
+        "center_distance": 0.6081298828125,
+        "empty_fraction": 0.04210348690257353,
+        "band_crossings": 4.666666666666667,
+        "center_slab_occupancy": 0.8708984375
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.4266771867260597,
+        "depth_peak_spread": 5.57634033718274,
+        "center_distance": 0.6081298828125,
+        "empty_fraction": 0.04210348690257353,
+        "band_crossings": 4.666666666666667,
+        "center_slab_occupancy": 0.8708984375
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.4266771867260597,
+        "depth_peak_spread": 5.57634033718274,
+        "center_distance": 0.6081298828125,
+        "empty_fraction": 0.04210348690257353,
+        "band_crossings": 4.666666666666667,
+        "center_slab_occupancy": 0.8708984375
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "28df7ecbce69bf91014d932b1f50d8f119b216b5a8a86867020fcb5f5ddaa679",
+      "plane_then_quadratic": "28df7ecbce69bf91014d932b1f50d8f119b216b5a8a86867020fcb5f5ddaa679"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 20,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.4547887735766387,
+        "depth_peak_spread": 5.343765290890952,
+        "center_distance": 0.5783203125,
+        "empty_fraction": 0.00775146484375,
+        "band_crossings": 4.666666666666667,
+        "center_slab_occupancy": 0.9417236328125
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.4722764818381516,
+        "depth_peak_spread": 5.531437278206446,
+        "center_distance": 0.6289306640625,
+        "empty_fraction": 0.003626206341911765,
+        "band_crossings": 5.333333333333333,
+        "center_slab_occupancy": 0.974560546875
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.4722764818381516,
+        "depth_peak_spread": 5.531437278206446,
+        "center_distance": 0.6289306640625,
+        "empty_fraction": 0.003626206341911765,
+        "band_crossings": 5.333333333333333,
+        "center_slab_occupancy": 0.974560546875
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.4722764818381516,
+        "depth_peak_spread": 5.531437278206446,
+        "center_distance": 0.6289306640625,
+        "empty_fraction": 0.003626206341911765,
+        "band_crossings": 5.333333333333333,
+        "center_slab_occupancy": 0.974560546875
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "39765c1a1a65c42001f7ea629137fe0135541d4abc50dd277c03a5d347fca3e1",
+      "plane_then_quadratic": "39765c1a1a65c42001f7ea629137fe0135541d4abc50dd277c03a5d347fca3e1"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 21,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.49396087540016576,
+        "depth_peak_spread": 5.87859440358537,
+        "center_distance": 0.6487060546875,
+        "empty_fraction": 0.09003762637867647,
+        "band_crossings": 7.0,
+        "center_slab_occupancy": 0.793701171875
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.32715607018967413,
+        "depth_peak_spread": 6.012112718033098,
+        "center_distance": 0.67354736328125,
+        "empty_fraction": 0.12460506663602941,
+        "band_crossings": 5.333333333333333,
+        "center_slab_occupancy": 0.745654296875
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.32715607018967413,
+        "depth_peak_spread": 6.012112718033098,
+        "center_distance": 0.67354736328125,
+        "empty_fraction": 0.12460506663602941,
+        "band_crossings": 5.333333333333333,
+        "center_slab_occupancy": 0.745654296875
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.32715607018967413,
+        "depth_peak_spread": 6.012112718033098,
+        "center_distance": 0.67354736328125,
+        "empty_fraction": 0.12460506663602941,
+        "band_crossings": 5.333333333333333,
+        "center_slab_occupancy": 0.745654296875
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "0a0265fbcc47ef577af710b7b729efadc91d1080ecdb83917b25478ce56735f3",
+      "plane_then_quadratic": "0a0265fbcc47ef577af710b7b729efadc91d1080ecdb83917b25478ce56735f3"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 22,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.4022356221224893,
+        "depth_peak_spread": 5.541812156354487,
+        "center_distance": 0.606396484375,
+        "empty_fraction": 0.10792810776654412,
+        "band_crossings": 4.0,
+        "center_slab_occupancy": 0.71904296875
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.34129048170351733,
+        "depth_peak_spread": 5.081333458134123,
+        "center_distance": 0.53355712890625,
+        "empty_fraction": 0.09383975758272059,
+        "band_crossings": 4.0,
+        "center_slab_occupancy": 0.7798583984375
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.34129048170351733,
+        "depth_peak_spread": 5.081333458134123,
+        "center_distance": 0.53355712890625,
+        "empty_fraction": 0.09383975758272059,
+        "band_crossings": 4.0,
+        "center_slab_occupancy": 0.7798583984375
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.34129048170351733,
+        "depth_peak_spread": 5.081333458134123,
+        "center_distance": 0.53355712890625,
+        "empty_fraction": 0.09383975758272059,
+        "band_crossings": 4.0,
+        "center_slab_occupancy": 0.7798583984375
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "e0711c3a33201f6742472870c7e9eb0864a586bbd755aa67e2dce2b2750d31b0",
+      "plane_then_quadratic": "e0711c3a33201f6742472870c7e9eb0864a586bbd755aa67e2dce2b2750d31b0"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 23,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.21029038295173466,
+        "depth_peak_spread": 5.191553059289622,
+        "center_distance": 0.5631591796875,
+        "empty_fraction": 0.10233082490808823,
+        "band_crossings": 3.6666666666666665,
+        "center_slab_occupancy": 0.727587890625
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.1921822260690559,
+        "depth_peak_spread": 5.106031639631645,
+        "center_distance": 0.5458984375,
+        "empty_fraction": 0.09985710592830882,
+        "band_crossings": 3.0,
+        "center_slab_occupancy": 0.7660400390625
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.1921822260690559,
+        "depth_peak_spread": 5.106031639631645,
+        "center_distance": 0.5458984375,
+        "empty_fraction": 0.09985710592830882,
+        "band_crossings": 3.0,
+        "center_slab_occupancy": 0.7660400390625
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.1921822260690559,
+        "depth_peak_spread": 5.106031639631645,
+        "center_distance": 0.5458984375,
+        "empty_fraction": 0.09985710592830882,
+        "band_crossings": 3.0,
+        "center_slab_occupancy": 0.7660400390625
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "fea70c49793dfe63e27c912e6e2a37d41e6cda24ed4b9f6f23f9ea8e00433e8b",
+      "plane_then_quadratic": "fea70c49793dfe63e27c912e6e2a37d41e6cda24ed4b9f6f23f9ea8e00433e8b"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 24,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.2774161392124468,
+        "depth_peak_spread": 5.557435478868952,
+        "center_distance": 0.60599365234375,
+        "empty_fraction": 0.18675680721507354,
+        "band_crossings": 3.6666666666666665,
+        "center_slab_occupancy": 0.760302734375
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.2774161392124468,
+        "depth_peak_spread": 5.557435478868952,
+        "center_distance": 0.60599365234375,
+        "empty_fraction": 0.18675680721507354,
+        "band_crossings": 3.6666666666666665,
+        "center_slab_occupancy": 0.760302734375
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.2774161392124468,
+        "depth_peak_spread": 5.557435478868952,
+        "center_distance": 0.60599365234375,
+        "empty_fraction": 0.18675680721507354,
+        "band_crossings": 3.6666666666666665,
+        "center_slab_occupancy": 0.760302734375
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.2774161392124468,
+        "depth_peak_spread": 5.557435478868952,
+        "center_distance": 0.60599365234375,
+        "empty_fraction": 0.18675680721507354,
+        "band_crossings": 3.6666666666666665,
+        "center_slab_occupancy": 0.760302734375
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "b1445438f2abd633a5d30f42282382e9aa0f8b847373942267d08ed6f8dd61ca",
+      "plane_then_quadratic": "b1445438f2abd633a5d30f42282382e9aa0f8b847373942267d08ed6f8dd61ca"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 25,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.3245239973092258,
+        "depth_peak_spread": 6.0403878233990795,
+        "center_distance": 0.6815673828125,
+        "empty_fraction": 0.17236328125,
+        "band_crossings": 3.6666666666666665,
+        "center_slab_occupancy": 0.66268310546875
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.3133786055738423,
+        "depth_peak_spread": 5.954546789159897,
+        "center_distance": 0.666357421875,
+        "empty_fraction": 0.17819752412683823,
+        "band_crossings": 3.0,
+        "center_slab_occupancy": 0.67445068359375
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.3133786055738423,
+        "depth_peak_spread": 5.954546789159897,
+        "center_distance": 0.666357421875,
+        "empty_fraction": 0.17819752412683823,
+        "band_crossings": 3.0,
+        "center_slab_occupancy": 0.67445068359375
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.3133786055738423,
+        "depth_peak_spread": 5.954546789159897,
+        "center_distance": 0.666357421875,
+        "empty_fraction": 0.17819752412683823,
+        "band_crossings": 3.0,
+        "center_slab_occupancy": 0.67445068359375
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "7bc826128ffd53be368474b763b14dff0b27dc2355640ccbcdaaf7cf291dd3ac",
+      "plane_then_quadratic": "7bc826128ffd53be368474b763b14dff0b27dc2355640ccbcdaaf7cf291dd3ac"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 26,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.3128199255852707,
+        "depth_peak_spread": 5.332978552203824,
+        "center_distance": 0.59786376953125,
+        "empty_fraction": 0.19661218979779413,
+        "band_crossings": 4.333333333333333,
+        "center_slab_occupancy": 0.5958740234375
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.313756530194738,
+        "depth_peak_spread": 5.353626568440398,
+        "center_distance": 0.59984130859375,
+        "empty_fraction": 0.19612390854779413,
+        "band_crossings": 4.333333333333333,
+        "center_slab_occupancy": 0.59219970703125
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.313756530194738,
+        "depth_peak_spread": 5.353626568440398,
+        "center_distance": 0.59984130859375,
+        "empty_fraction": 0.19612390854779413,
+        "band_crossings": 4.333333333333333,
+        "center_slab_occupancy": 0.59219970703125
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.313756530194738,
+        "depth_peak_spread": 5.353626568440398,
+        "center_distance": 0.59984130859375,
+        "empty_fraction": 0.19612390854779413,
+        "band_crossings": 4.333333333333333,
+        "center_slab_occupancy": 0.59219970703125
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "8166a3d44a0b3ee9c5310c1ea50da3f6d7f658b845585d2433b298415c75c66f",
+      "plane_then_quadratic": "8166a3d44a0b3ee9c5310c1ea50da3f6d7f658b845585d2433b298415c75c66f"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 27,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.31120148421335064,
+        "depth_peak_spread": 5.3369619263564445,
+        "center_distance": 0.57047119140625,
+        "empty_fraction": 0.08170453239889706,
+        "band_crossings": 4.333333333333333,
+        "center_slab_occupancy": 0.77657470703125
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.2217036902442001,
+        "depth_peak_spread": 5.961924703102708,
+        "center_distance": 0.6774658203125,
+        "empty_fraction": 0.11027257582720588,
+        "band_crossings": 3.0,
+        "center_slab_occupancy": 0.72913818359375
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.2217036902442001,
+        "depth_peak_spread": 5.961924703102708,
+        "center_distance": 0.6774658203125,
+        "empty_fraction": 0.11027257582720588,
+        "band_crossings": 3.0,
+        "center_slab_occupancy": 0.72913818359375
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.2217036902442001,
+        "depth_peak_spread": 5.961924703102708,
+        "center_distance": 0.6774658203125,
+        "empty_fraction": 0.11027257582720588,
+        "band_crossings": 3.0,
+        "center_slab_occupancy": 0.72913818359375
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "3553487f66fc26049fd613c470c52970d5f2e7ae66b6b2595ed943ef22d14451",
+      "plane_then_quadratic": "3553487f66fc26049fd613c470c52970d5f2e7ae66b6b2595ed943ef22d14451"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 28,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.4075035918308784,
+        "depth_peak_spread": 5.636951059483245,
+        "center_distance": 0.6165283203125,
+        "empty_fraction": 0.15697524126838236,
+        "band_crossings": 4.0,
+        "center_slab_occupancy": 0.57666015625
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.33780866829069817,
+        "depth_peak_spread": 5.700561653038691,
+        "center_distance": 0.6537109375,
+        "empty_fraction": 0.14928122127757354,
+        "band_crossings": 3.0,
+        "center_slab_occupancy": 0.58427734375
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.33780866829069817,
+        "depth_peak_spread": 5.700561653038691,
+        "center_distance": 0.6537109375,
+        "empty_fraction": 0.14928122127757354,
+        "band_crossings": 3.0,
+        "center_slab_occupancy": 0.58427734375
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.33780866829069817,
+        "depth_peak_spread": 5.700561653038691,
+        "center_distance": 0.6537109375,
+        "empty_fraction": 0.14928122127757354,
+        "band_crossings": 3.0,
+        "center_slab_occupancy": 0.58427734375
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "eb22ee3184020bbb5b776a0ba9fa97fc8916e6b004b4c06ac9b75570bc7830df",
+      "plane_then_quadratic": "eb22ee3184020bbb5b776a0ba9fa97fc8916e6b004b4c06ac9b75570bc7830df"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 29,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.3359281795647304,
+        "depth_peak_spread": 5.990818768363876,
+        "center_distance": 0.6629150390625,
+        "empty_fraction": 0.06197940602022059,
+        "band_crossings": 4.666666666666667,
+        "center_slab_occupancy": 0.81636962890625
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.4908138221693953,
+        "depth_peak_spread": 6.1018187633432595,
+        "center_distance": 0.68416748046875,
+        "empty_fraction": 0.13793227251838236,
+        "band_crossings": 4.333333333333333,
+        "center_slab_occupancy": 0.68857421875
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.4908138221693953,
+        "depth_peak_spread": 6.1018187633432595,
+        "center_distance": 0.68416748046875,
+        "empty_fraction": 0.13793227251838236,
+        "band_crossings": 4.333333333333333,
+        "center_slab_occupancy": 0.68857421875
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.4908138221693953,
+        "depth_peak_spread": 6.1018187633432595,
+        "center_distance": 0.68416748046875,
+        "empty_fraction": 0.13793227251838236,
+        "band_crossings": 4.333333333333333,
+        "center_slab_occupancy": 0.68857421875
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "85e1e650f34d2f4c06b47eb86ac8e63a492d5196085d258f541e7814cf711a18",
+      "plane_then_quadratic": "85e1e650f34d2f4c06b47eb86ac8e63a492d5196085d258f541e7814cf711a18"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 30,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.3744823503624032,
+        "depth_peak_spread": 5.050453330928337,
+        "center_distance": 0.52806396484375,
+        "empty_fraction": 0.022640452665441176,
+        "band_crossings": 6.666666666666667,
+        "center_slab_occupancy": 0.9045166015625
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.4798560203780246,
+        "depth_peak_spread": 5.5786140804498885,
+        "center_distance": 0.6128173828125,
+        "empty_fraction": 0.022679946001838234,
+        "band_crossings": 5.666666666666667,
+        "center_slab_occupancy": 0.91346435546875
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.4798560203780246,
+        "depth_peak_spread": 5.5786140804498885,
+        "center_distance": 0.6128173828125,
+        "empty_fraction": 0.022679946001838234,
+        "band_crossings": 5.666666666666667,
+        "center_slab_occupancy": 0.91346435546875
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.4798560203780246,
+        "depth_peak_spread": 5.5786140804498885,
+        "center_distance": 0.6128173828125,
+        "empty_fraction": 0.022679946001838234,
+        "band_crossings": 5.666666666666667,
+        "center_slab_occupancy": 0.91346435546875
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "e7cd42df4347c4fae9a41c032497ac0b935035ec13c5a965d984e22cc0ba236a",
+      "plane_then_quadratic": "e7cd42df4347c4fae9a41c032497ac0b935035ec13c5a965d984e22cc0ba236a"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 31,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.1897642967501463,
+        "depth_peak_spread": 5.229932801961906,
+        "center_distance": 0.5801513671875,
+        "empty_fraction": 0.346435546875,
+        "band_crossings": 3.3333333333333335,
+        "center_slab_occupancy": 0.49044189453125
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.35436936086135123,
+        "depth_peak_spread": 5.356975047871064,
+        "center_distance": 0.5834228515625,
+        "empty_fraction": 0.3089384191176471,
+        "band_crossings": 3.3333333333333335,
+        "center_slab_occupancy": 0.55419921875
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.35436936086135123,
+        "depth_peak_spread": 5.356975047871064,
+        "center_distance": 0.5834228515625,
+        "empty_fraction": 0.3089384191176471,
+        "band_crossings": 3.3333333333333335,
+        "center_slab_occupancy": 0.55419921875
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.35436936086135123,
+        "depth_peak_spread": 5.356975047871064,
+        "center_distance": 0.5834228515625,
+        "empty_fraction": 0.3089384191176471,
+        "band_crossings": 3.3333333333333335,
+        "center_slab_occupancy": 0.55419921875
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "cffefe3c4ba11c06450940e3667f61a94c4e182f0873ed5894cb346dfdf7b541",
+      "plane_then_quadratic": "cffefe3c4ba11c06450940e3667f61a94c4e182f0873ed5894cb346dfdf7b541"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 32,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.34568384164788196,
+        "depth_peak_spread": 5.847921276011438,
+        "center_distance": 0.651708984375,
+        "empty_fraction": 0.07857378791360294,
+        "band_crossings": 4.666666666666667,
+        "center_slab_occupancy": 0.73941650390625
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.3581787655751945,
+        "depth_peak_spread": 5.319142323782443,
+        "center_distance": 0.58201904296875,
+        "empty_fraction": 0.09105368221507353,
+        "band_crossings": 4.666666666666667,
+        "center_slab_occupancy": 0.74412841796875
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.3581787655751945,
+        "depth_peak_spread": 5.319142323782443,
+        "center_distance": 0.58201904296875,
+        "empty_fraction": 0.09105368221507353,
+        "band_crossings": 4.666666666666667,
+        "center_slab_occupancy": 0.74412841796875
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.3581787655751945,
+        "depth_peak_spread": 5.319142323782443,
+        "center_distance": 0.58201904296875,
+        "empty_fraction": 0.09105368221507353,
+        "band_crossings": 4.666666666666667,
+        "center_slab_occupancy": 0.74412841796875
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "320fd32e0d8bb74e15d64f58fa173d0385d359842c2b3ee83e460b2df5b978c2",
+      "plane_then_quadratic": "320fd32e0d8bb74e15d64f58fa173d0385d359842c2b3ee83e460b2df5b978c2"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 33,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.30118027361782934,
+        "depth_peak_spread": 5.433965546251289,
+        "center_distance": 0.60394287109375,
+        "empty_fraction": 0.06672937729779412,
+        "band_crossings": 4.666666666666667,
+        "center_slab_occupancy": 0.7908203125
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.2936270311101121,
+        "depth_peak_spread": 6.040924218784655,
+        "center_distance": 0.68531494140625,
+        "empty_fraction": 0.0953369140625,
+        "band_crossings": 5.333333333333333,
+        "center_slab_occupancy": 0.72078857421875
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.2936270311101121,
+        "depth_peak_spread": 6.040924218784655,
+        "center_distance": 0.68531494140625,
+        "empty_fraction": 0.0953369140625,
+        "band_crossings": 5.333333333333333,
+        "center_slab_occupancy": 0.72078857421875
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.2936270311101121,
+        "depth_peak_spread": 6.040924218784655,
+        "center_distance": 0.68531494140625,
+        "empty_fraction": 0.0953369140625,
+        "band_crossings": 5.333333333333333,
+        "center_slab_occupancy": 0.72078857421875
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "b347b4e4a4e8c0092330b9ceb8e14b479a58f7dab81049cb15368ffc57a329e5",
+      "plane_then_quadratic": "b347b4e4a4e8c0092330b9ceb8e14b479a58f7dab81049cb15368ffc57a329e5"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 34,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.37060004052984813,
+        "depth_peak_spread": 5.716825033261228,
+        "center_distance": 0.63157958984375,
+        "empty_fraction": 0.10857436236213236,
+        "band_crossings": 3.6666666666666665,
+        "center_slab_occupancy": 0.7450439453125
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.3569345550780096,
+        "depth_peak_spread": 5.585871734445408,
+        "center_distance": 0.60767822265625,
+        "empty_fraction": 0.1051025390625,
+        "band_crossings": 3.6666666666666665,
+        "center_slab_occupancy": 0.765234375
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.3569345550780096,
+        "depth_peak_spread": 5.585871734445408,
+        "center_distance": 0.60767822265625,
+        "empty_fraction": 0.1051025390625,
+        "band_crossings": 3.6666666666666665,
+        "center_slab_occupancy": 0.765234375
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.3569345550780096,
+        "depth_peak_spread": 5.585871734445408,
+        "center_distance": 0.60767822265625,
+        "empty_fraction": 0.1051025390625,
+        "band_crossings": 3.6666666666666665,
+        "center_slab_occupancy": 0.765234375
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "82a5902c5a5fe87cd64f9ccd1c4feeec143a0c15094fcf8990765da6983a59d8",
+      "plane_then_quadratic": "82a5902c5a5fe87cd64f9ccd1c4feeec143a0c15094fcf8990765da6983a59d8"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 35,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.3448671103768161,
+        "depth_peak_spread": 5.490438868277593,
+        "center_distance": 0.60794677734375,
+        "empty_fraction": 0.02935791015625,
+        "band_crossings": 4.0,
+        "center_slab_occupancy": 0.9085693359375
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.3274012081778958,
+        "depth_peak_spread": 5.676281203785042,
+        "center_distance": 0.63037109375,
+        "empty_fraction": 0.12114401424632353,
+        "band_crossings": 3.0,
+        "center_slab_occupancy": 0.76759033203125
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.3274012081778958,
+        "depth_peak_spread": 5.676281203785042,
+        "center_distance": 0.63037109375,
+        "empty_fraction": 0.12114401424632353,
+        "band_crossings": 3.0,
+        "center_slab_occupancy": 0.76759033203125
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.3274012081778958,
+        "depth_peak_spread": 5.676281203785042,
+        "center_distance": 0.63037109375,
+        "empty_fraction": 0.12114401424632353,
+        "band_crossings": 3.0,
+        "center_slab_occupancy": 0.76759033203125
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "30c9f10a4fadc63bb89d0b0dbfb6714065c807bc6f5ea87a965f8f5e426c3653",
+      "plane_then_quadratic": "30c9f10a4fadc63bb89d0b0dbfb6714065c807bc6f5ea87a965f8f5e426c3653"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 36,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.4487902820993508,
+        "depth_peak_spread": 5.928482963440372,
+        "center_distance": 0.653662109375,
+        "empty_fraction": 0.08779009650735294,
+        "band_crossings": 6.0,
+        "center_slab_occupancy": 0.80828857421875
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.38226966940961477,
+        "depth_peak_spread": 5.623399768818297,
+        "center_distance": 0.61422119140625,
+        "empty_fraction": 0.05831729664522059,
+        "band_crossings": 6.333333333333333,
+        "center_slab_occupancy": 0.86103515625
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.38226966940961477,
+        "depth_peak_spread": 5.623399768818297,
+        "center_distance": 0.61422119140625,
+        "empty_fraction": 0.05831729664522059,
+        "band_crossings": 6.333333333333333,
+        "center_slab_occupancy": 0.86103515625
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.38226966940961477,
+        "depth_peak_spread": 5.623399768818297,
+        "center_distance": 0.61422119140625,
+        "empty_fraction": 0.05831729664522059,
+        "band_crossings": 6.333333333333333,
+        "center_slab_occupancy": 0.86103515625
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "c98c1c98193a6f84c4d19989d22899d09aabe593a4158572c8223c3bd10a771e",
+      "plane_then_quadratic": "c98c1c98193a6f84c4d19989d22899d09aabe593a4158572c8223c3bd10a771e"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 37,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.4582876319583078,
+        "depth_peak_spread": 5.83599139289535,
+        "center_distance": 0.64215087890625,
+        "empty_fraction": 0.29660572725183826,
+        "band_crossings": 4.333333333333333,
+        "center_slab_occupancy": 0.5194091796875
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.19443340650543106,
+        "depth_peak_spread": 5.574010307836292,
+        "center_distance": 0.602099609375,
+        "empty_fraction": 0.3481301700367647,
+        "band_crossings": 4.333333333333333,
+        "center_slab_occupancy": 0.48133544921875
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.19443340650543106,
+        "depth_peak_spread": 5.574010307836292,
+        "center_distance": 0.602099609375,
+        "empty_fraction": 0.3481301700367647,
+        "band_crossings": 4.333333333333333,
+        "center_slab_occupancy": 0.48133544921875
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.19443340650543106,
+        "depth_peak_spread": 5.574010307836292,
+        "center_distance": 0.602099609375,
+        "empty_fraction": 0.3481301700367647,
+        "band_crossings": 4.333333333333333,
+        "center_slab_occupancy": 0.48133544921875
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "dc95c773f5af61be10e6bfbf98bbe5dd208b7a84a07042dbf6dfece523d923dd",
+      "plane_then_quadratic": "dc95c773f5af61be10e6bfbf98bbe5dd208b7a84a07042dbf6dfece523d923dd"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 38,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.5617176845615175,
+        "depth_peak_spread": 5.524187192204975,
+        "center_distance": 0.59873046875,
+        "empty_fraction": 0.26584041819852944,
+        "band_crossings": 3.6666666666666665,
+        "center_slab_occupancy": 0.56337890625
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.17074012866967317,
+        "depth_peak_spread": 4.909339729828288,
+        "center_distance": 0.51168212890625,
+        "empty_fraction": 0.2541898839613971,
+        "band_crossings": 2.6666666666666665,
+        "center_slab_occupancy": 0.5591796875
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.17074012866967317,
+        "depth_peak_spread": 4.909339729828288,
+        "center_distance": 0.51168212890625,
+        "empty_fraction": 0.2541898839613971,
+        "band_crossings": 2.6666666666666665,
+        "center_slab_occupancy": 0.5591796875
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.17074012866967317,
+        "depth_peak_spread": 4.909339729828288,
+        "center_distance": 0.51168212890625,
+        "empty_fraction": 0.2541898839613971,
+        "band_crossings": 2.6666666666666665,
+        "center_slab_occupancy": 0.5591796875
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "9b91f3333b3595b35ea7e7ecbb887972dbf10095d9a68ac82a1969980bcdb1ac",
+      "plane_then_quadratic": "9b91f3333b3595b35ea7e7ecbb887972dbf10095d9a68ac82a1969980bcdb1ac"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 39,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.8514891782903626,
+        "depth_peak_spread": 6.231472342760878,
+        "center_distance": 0.702294921875,
+        "empty_fraction": 0.23264088350183823,
+        "band_crossings": 3.3333333333333335,
+        "center_slab_occupancy": 0.6173095703125
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.8514891782903626,
+        "depth_peak_spread": 6.231472342760878,
+        "center_distance": 0.702294921875,
+        "empty_fraction": 0.23264088350183823,
+        "band_crossings": 3.3333333333333335,
+        "center_slab_occupancy": 0.6173095703125
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.8514891782903626,
+        "depth_peak_spread": 6.231472342760878,
+        "center_distance": 0.702294921875,
+        "empty_fraction": 0.23264088350183823,
+        "band_crossings": 3.3333333333333335,
+        "center_slab_occupancy": 0.6173095703125
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.8514891782903626,
+        "depth_peak_spread": 6.231472342760878,
+        "center_distance": 0.702294921875,
+        "empty_fraction": 0.23264088350183823,
+        "band_crossings": 3.3333333333333335,
+        "center_slab_occupancy": 0.6173095703125
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "536696d29e2bbd620f0212245789d3907c9a2cd30cb22f66f576ffc8cceb963d",
+      "plane_then_quadratic": "536696d29e2bbd620f0212245789d3907c9a2cd30cb22f66f576ffc8cceb963d"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 40,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.3455749034746423,
+        "depth_peak_spread": 5.8015094428971485,
+        "center_distance": 0.65352783203125,
+        "empty_fraction": 0.08608470243566177,
+        "band_crossings": 3.6666666666666665,
+        "center_slab_occupancy": 0.722802734375
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.33241905416525974,
+        "depth_peak_spread": 5.641063447856144,
+        "center_distance": 0.64486083984375,
+        "empty_fraction": 0.08689252068014706,
+        "band_crossings": 3.3333333333333335,
+        "center_slab_occupancy": 0.69796142578125
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.33241905416525974,
+        "depth_peak_spread": 5.641063447856144,
+        "center_distance": 0.64486083984375,
+        "empty_fraction": 0.08689252068014706,
+        "band_crossings": 3.3333333333333335,
+        "center_slab_occupancy": 0.69796142578125
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.33241905416525974,
+        "depth_peak_spread": 5.641063447856144,
+        "center_distance": 0.64486083984375,
+        "empty_fraction": 0.08689252068014706,
+        "band_crossings": 3.3333333333333335,
+        "center_slab_occupancy": 0.69796142578125
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "e782bea667853bedc197719997625feb6dadfc139c31c7c8f782139633f46c30",
+      "plane_then_quadratic": "e782bea667853bedc197719997625feb6dadfc139c31c7c8f782139633f46c30"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 41,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.10419318721387862,
+        "depth_peak_spread": 4.565269950414083,
+        "center_distance": 0.4564697265625,
+        "empty_fraction": 0.2517736098345588,
+        "band_crossings": 2.6666666666666665,
+        "center_slab_occupancy": 0.584423828125
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.0982857022133421,
+        "depth_peak_spread": 4.927283903828767,
+        "center_distance": 0.55372314453125,
+        "empty_fraction": 0.28278305951286764,
+        "band_crossings": 2.6666666666666665,
+        "center_slab_occupancy": 0.49111328125
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.0982857022133421,
+        "depth_peak_spread": 4.927283903828767,
+        "center_distance": 0.55372314453125,
+        "empty_fraction": 0.28278305951286764,
+        "band_crossings": 2.6666666666666665,
+        "center_slab_occupancy": 0.49111328125
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.0982857022133421,
+        "depth_peak_spread": 4.927283903828767,
+        "center_distance": 0.55372314453125,
+        "empty_fraction": 0.28278305951286764,
+        "band_crossings": 2.6666666666666665,
+        "center_slab_occupancy": 0.49111328125
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "02e615640cf6b7c3c0ea6220efbd3ef4c73127cfe4784ce0892fd95e5353f694",
+      "plane_then_quadratic": "02e615640cf6b7c3c0ea6220efbd3ef4c73127cfe4784ce0892fd95e5353f694"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 42,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.48113596354730237,
+        "depth_peak_spread": 5.649600580326376,
+        "center_distance": 0.6188720703125,
+        "empty_fraction": 0.20258645450367646,
+        "band_crossings": 4.666666666666667,
+        "center_slab_occupancy": 0.6334228515625
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.27225159651449043,
+        "depth_peak_spread": 5.452007798791739,
+        "center_distance": 0.587890625,
+        "empty_fraction": 0.17290182674632354,
+        "band_crossings": 4.666666666666667,
+        "center_slab_occupancy": 0.709130859375
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.27225159651449043,
+        "depth_peak_spread": 5.452007798791739,
+        "center_distance": 0.587890625,
+        "empty_fraction": 0.17290182674632354,
+        "band_crossings": 4.666666666666667,
+        "center_slab_occupancy": 0.709130859375
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.27225159651449043,
+        "depth_peak_spread": 5.452007798791739,
+        "center_distance": 0.587890625,
+        "empty_fraction": 0.17290182674632354,
+        "band_crossings": 4.666666666666667,
+        "center_slab_occupancy": 0.709130859375
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "37c6e8599d18a3f2840cc690df0eeb87218cf2459efe85f808ea708ee96008f7",
+      "plane_then_quadratic": "37c6e8599d18a3f2840cc690df0eeb87218cf2459efe85f808ea708ee96008f7"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 43,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.35477082466144927,
+        "depth_peak_spread": 5.548249402479457,
+        "center_distance": 0.60714111328125,
+        "empty_fraction": 0.20985681870404413,
+        "band_crossings": 4.666666666666667,
+        "center_slab_occupancy": 0.64776611328125
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.15952985434725875,
+        "depth_peak_spread": 4.7572966808707235,
+        "center_distance": 0.51817626953125,
+        "empty_fraction": 0.17890481387867646,
+        "band_crossings": 3.3333333333333335,
+        "center_slab_occupancy": 0.73935546875
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.15952985434725875,
+        "depth_peak_spread": 4.7572966808707235,
+        "center_distance": 0.51817626953125,
+        "empty_fraction": 0.17890481387867646,
+        "band_crossings": 3.3333333333333335,
+        "center_slab_occupancy": 0.73935546875
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.15952985434725875,
+        "depth_peak_spread": 4.7572966808707235,
+        "center_distance": 0.51817626953125,
+        "empty_fraction": 0.17890481387867646,
+        "band_crossings": 3.3333333333333335,
+        "center_slab_occupancy": 0.73935546875
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "dcdf7dc595ede9e5eb69820215933073ca6ce9a6fa55c5cad5ff93afccd2fc06",
+      "plane_then_quadratic": "dcdf7dc595ede9e5eb69820215933073ca6ce9a6fa55c5cad5ff93afccd2fc06"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 44,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.3926571527312175,
+        "depth_peak_spread": 5.634371363447712,
+        "center_distance": 0.61724853515625,
+        "empty_fraction": 0.08577593635110294,
+        "band_crossings": 6.333333333333333,
+        "center_slab_occupancy": 0.7778076171875
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.3926571527312175,
+        "depth_peak_spread": 5.634371363447712,
+        "center_distance": 0.61724853515625,
+        "empty_fraction": 0.08577593635110294,
+        "band_crossings": 6.333333333333333,
+        "center_slab_occupancy": 0.7778076171875
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.3926571527312175,
+        "depth_peak_spread": 5.634371363447712,
+        "center_distance": 0.61724853515625,
+        "empty_fraction": 0.08577593635110294,
+        "band_crossings": 6.333333333333333,
+        "center_slab_occupancy": 0.7778076171875
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.3926571527312175,
+        "depth_peak_spread": 5.634371363447712,
+        "center_distance": 0.61724853515625,
+        "empty_fraction": 0.08577593635110294,
+        "band_crossings": 6.333333333333333,
+        "center_slab_occupancy": 0.7778076171875
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "7438109cb789437359c2224e8d981e850236f641923e0d5ee9ad412c6c4dc107",
+      "plane_then_quadratic": "7438109cb789437359c2224e8d981e850236f641923e0d5ee9ad412c6c4dc107"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 45,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.4107843788413842,
+        "depth_peak_spread": 5.5934931682252715,
+        "center_distance": 0.61456298828125,
+        "empty_fraction": 0.07329604204963236,
+        "band_crossings": 6.0,
+        "center_slab_occupancy": 0.8039306640625
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.4107843788413842,
+        "depth_peak_spread": 5.5934931682252715,
+        "center_distance": 0.61456298828125,
+        "empty_fraction": 0.07329604204963236,
+        "band_crossings": 6.0,
+        "center_slab_occupancy": 0.8039306640625
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.4107843788413842,
+        "depth_peak_spread": 5.5934931682252715,
+        "center_distance": 0.61456298828125,
+        "empty_fraction": 0.07329604204963236,
+        "band_crossings": 6.0,
+        "center_slab_occupancy": 0.8039306640625
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.4107843788413842,
+        "depth_peak_spread": 5.5934931682252715,
+        "center_distance": 0.61456298828125,
+        "empty_fraction": 0.07329604204963236,
+        "band_crossings": 6.0,
+        "center_slab_occupancy": 0.8039306640625
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "ec41869d12e0f5b48eb443de6ca50b7c1f6984c42ccc49fe7d2f329e170dd88c",
+      "plane_then_quadratic": "ec41869d12e0f5b48eb443de6ca50b7c1f6984c42ccc49fe7d2f329e170dd88c"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 46,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.33102800885957623,
+        "depth_peak_spread": 5.676206643636848,
+        "center_distance": 0.6239013671875,
+        "empty_fraction": 0.01614559397977941,
+        "band_crossings": 5.0,
+        "center_slab_occupancy": 0.8858154296875
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.33102800885957623,
+        "depth_peak_spread": 5.676206643636848,
+        "center_distance": 0.6239013671875,
+        "empty_fraction": 0.01614559397977941,
+        "band_crossings": 5.0,
+        "center_slab_occupancy": 0.8858154296875
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.33102800885957623,
+        "depth_peak_spread": 5.676206643636848,
+        "center_distance": 0.6239013671875,
+        "empty_fraction": 0.01614559397977941,
+        "band_crossings": 5.0,
+        "center_slab_occupancy": 0.8858154296875
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.33102800885957623,
+        "depth_peak_spread": 5.676206643636848,
+        "center_distance": 0.6239013671875,
+        "empty_fraction": 0.01614559397977941,
+        "band_crossings": 5.0,
+        "center_slab_occupancy": 0.8858154296875
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "540c3e22116f066372c861fd511205be96aa04f73f880bb49b97c49cc7cd5d8d",
+      "plane_then_quadratic": "540c3e22116f066372c861fd511205be96aa04f73f880bb49b97c49cc7cd5d8d"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 47,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.22305109572249704,
+        "depth_peak_spread": 5.143867556224025,
+        "center_distance": 0.554296875,
+        "empty_fraction": 0.16859346277573528,
+        "band_crossings": 4.333333333333333,
+        "center_slab_occupancy": 0.7157958984375
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.34947658132827586,
+        "depth_peak_spread": 5.316869999197238,
+        "center_distance": 0.57379150390625,
+        "empty_fraction": 0.10699103860294118,
+        "band_crossings": 4.333333333333333,
+        "center_slab_occupancy": 0.80133056640625
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.34947658132827586,
+        "depth_peak_spread": 5.316869999197238,
+        "center_distance": 0.57379150390625,
+        "empty_fraction": 0.10699103860294118,
+        "band_crossings": 4.333333333333333,
+        "center_slab_occupancy": 0.80133056640625
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.34947658132827586,
+        "depth_peak_spread": 5.316869999197238,
+        "center_distance": 0.57379150390625,
+        "empty_fraction": 0.10699103860294118,
+        "band_crossings": 4.333333333333333,
+        "center_slab_occupancy": 0.80133056640625
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "72bb5c3a99e8e78aa288f656f40cf4fb9c196a8666321e4ec15de73373efc92a",
+      "plane_then_quadratic": "72bb5c3a99e8e78aa288f656f40cf4fb9c196a8666321e4ec15de73373efc92a"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 48,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.45422026593635545,
+        "depth_peak_spread": 5.608080425861174,
+        "center_distance": 0.6144775390625,
+        "empty_fraction": 0.11431884765625,
+        "band_crossings": 4.0,
+        "center_slab_occupancy": 0.73876953125
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.22995524905295744,
+        "depth_peak_spread": 5.1373925107306055,
+        "center_distance": 0.53868408203125,
+        "empty_fraction": 0.057021197150735295,
+        "band_crossings": 4.0,
+        "center_slab_occupancy": 0.84090576171875
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.22995524905295744,
+        "depth_peak_spread": 5.1373925107306055,
+        "center_distance": 0.53868408203125,
+        "empty_fraction": 0.057021197150735295,
+        "band_crossings": 4.0,
+        "center_slab_occupancy": 0.84090576171875
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.22995524905295744,
+        "depth_peak_spread": 5.1373925107306055,
+        "center_distance": 0.53868408203125,
+        "empty_fraction": 0.057021197150735295,
+        "band_crossings": 4.0,
+        "center_slab_occupancy": 0.84090576171875
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "3ff6b048b921e7a398a04591e7ec1e5c9901ac18c2378cdd79a1b6cf599dcaf1",
+      "plane_then_quadratic": "3ff6b048b921e7a398a04591e7ec1e5c9901ac18c2378cdd79a1b6cf599dcaf1"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 49,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.5644098904299715,
+        "depth_peak_spread": 5.564437486781235,
+        "center_distance": 0.61463623046875,
+        "empty_fraction": 0.15364703010110295,
+        "band_crossings": 2.6666666666666665,
+        "center_slab_occupancy": 0.6261962890625
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.18179619099897698,
+        "depth_peak_spread": 4.764379383832267,
+        "center_distance": 0.487353515625,
+        "empty_fraction": 0.08027200137867647,
+        "band_crossings": 5.0,
+        "center_slab_occupancy": 0.771533203125
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.18179619099897698,
+        "depth_peak_spread": 4.764379383832267,
+        "center_distance": 0.487353515625,
+        "empty_fraction": 0.08027200137867647,
+        "band_crossings": 5.0,
+        "center_slab_occupancy": 0.771533203125
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.18179619099897698,
+        "depth_peak_spread": 4.764379383832267,
+        "center_distance": 0.487353515625,
+        "empty_fraction": 0.08027200137867647,
+        "band_crossings": 5.0,
+        "center_slab_occupancy": 0.771533203125
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "66d8c17a3d72859287b468a526abde927397cb2560c4840d1b4a2d56007bab42",
+      "plane_then_quadratic": "66d8c17a3d72859287b468a526abde927397cb2560c4840d1b4a2d56007bab42"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 50,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.19960539023117296,
+        "depth_peak_spread": 4.944187719785813,
+        "center_distance": 0.57584228515625,
+        "empty_fraction": 0.21868178423713236,
+        "band_crossings": 3.3333333333333335,
+        "center_slab_occupancy": 0.6047119140625
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.2085317718504017,
+        "depth_peak_spread": 5.476281852115801,
+        "center_distance": 0.60167236328125,
+        "empty_fraction": 0.15617101332720587,
+        "band_crossings": 5.333333333333333,
+        "center_slab_occupancy": 0.785595703125
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.2085317718504017,
+        "depth_peak_spread": 5.476281852115801,
+        "center_distance": 0.60167236328125,
+        "empty_fraction": 0.15617101332720587,
+        "band_crossings": 5.333333333333333,
+        "center_slab_occupancy": 0.785595703125
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.2085317718504017,
+        "depth_peak_spread": 5.476281852115801,
+        "center_distance": 0.60167236328125,
+        "empty_fraction": 0.15617101332720587,
+        "band_crossings": 5.333333333333333,
+        "center_slab_occupancy": 0.785595703125
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "0647062854d6e58d20b0d39f7857614ee5a9cc226337458dfda5861a1b5b6b87",
+      "plane_then_quadratic": "0647062854d6e58d20b0d39f7857614ee5a9cc226337458dfda5861a1b5b6b87"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 51,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.2367737032958346,
+        "depth_peak_spread": 5.501619543566929,
+        "center_distance": 0.61932373046875,
+        "empty_fraction": 0.15330595128676472,
+        "band_crossings": 2.6666666666666665,
+        "center_slab_occupancy": 0.689208984375
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.4141184527777948,
+        "depth_peak_spread": 5.947139545275597,
+        "center_distance": 0.66541748046875,
+        "empty_fraction": 0.10090906479779412,
+        "band_crossings": 3.0,
+        "center_slab_occupancy": 0.7685791015625
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.4141184527777948,
+        "depth_peak_spread": 5.947139545275597,
+        "center_distance": 0.66541748046875,
+        "empty_fraction": 0.10090906479779412,
+        "band_crossings": 3.0,
+        "center_slab_occupancy": 0.7685791015625
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.4141184527777948,
+        "depth_peak_spread": 5.947139545275597,
+        "center_distance": 0.66541748046875,
+        "empty_fraction": 0.10090906479779412,
+        "band_crossings": 3.0,
+        "center_slab_occupancy": 0.7685791015625
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "cec28aa5fb018bfef5c717ef637121adbae96da2802359faef31eb7a59423b7a",
+      "plane_then_quadratic": "cec28aa5fb018bfef5c717ef637121adbae96da2802359faef31eb7a59423b7a"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 52,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.38255043392836874,
+        "depth_peak_spread": 5.429410415275702,
+        "center_distance": 0.70697021484375,
+        "empty_fraction": 0.0843362247242647,
+        "band_crossings": 3.6666666666666665,
+        "center_slab_occupancy": 0.723095703125
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.24440818641568446,
+        "depth_peak_spread": 5.783990851557291,
+        "center_distance": 0.65126953125,
+        "empty_fraction": 0.007295496323529412,
+        "band_crossings": 4.0,
+        "center_slab_occupancy": 0.9541259765625
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.24440818641568446,
+        "depth_peak_spread": 5.783990851557291,
+        "center_distance": 0.65126953125,
+        "empty_fraction": 0.007295496323529412,
+        "band_crossings": 4.0,
+        "center_slab_occupancy": 0.9541259765625
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.24440818641568446,
+        "depth_peak_spread": 5.783990851557291,
+        "center_distance": 0.65126953125,
+        "empty_fraction": 0.007295496323529412,
+        "band_crossings": 4.0,
+        "center_slab_occupancy": 0.9541259765625
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "72012c8c1b285fc1e5b2cdf2c9d660f78a00107d859c52d5e882ba28c4ab688d",
+      "plane_then_quadratic": "72012c8c1b285fc1e5b2cdf2c9d660f78a00107d859c52d5e882ba28c4ab688d"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 53,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.2278497290616715,
+        "depth_peak_spread": 5.167125117153479,
+        "center_distance": 0.5991943359375,
+        "empty_fraction": 0.10140452665441177,
+        "band_crossings": 3.6666666666666665,
+        "center_slab_occupancy": 0.85499267578125
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.23206319885694277,
+        "depth_peak_spread": 4.821850502807334,
+        "center_distance": 0.6331787109375,
+        "empty_fraction": 0.05437155330882353,
+        "band_crossings": 2.6666666666666665,
+        "center_slab_occupancy": 0.9207275390625
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.23206319885694277,
+        "depth_peak_spread": 4.821850502807334,
+        "center_distance": 0.6331787109375,
+        "empty_fraction": 0.05437155330882353,
+        "band_crossings": 2.6666666666666665,
+        "center_slab_occupancy": 0.9207275390625
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.23206319885694277,
+        "depth_peak_spread": 4.821850502807334,
+        "center_distance": 0.6331787109375,
+        "empty_fraction": 0.05437155330882353,
+        "band_crossings": 2.6666666666666665,
+        "center_slab_occupancy": 0.9207275390625
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "9ba77392b54756cc92eeeba58f5637ff5c52ca86b0556c0e5797f65836cbbbd6",
+      "plane_then_quadratic": "9ba77392b54756cc92eeeba58f5637ff5c52ca86b0556c0e5797f65836cbbbd6"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 54,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.7089639963209167,
+        "depth_peak_spread": 6.254300003189163,
+        "center_distance": 0.70931396484375,
+        "empty_fraction": 0.23066621668198528,
+        "band_crossings": 5.0,
+        "center_slab_occupancy": 0.62542724609375
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.1502059926436804,
+        "depth_peak_spread": 5.471965850476734,
+        "center_distance": 0.60809326171875,
+        "empty_fraction": 0.19386560776654413,
+        "band_crossings": 5.333333333333333,
+        "center_slab_occupancy": 0.70501708984375
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.1502059926436804,
+        "depth_peak_spread": 5.471965850476734,
+        "center_distance": 0.60809326171875,
+        "empty_fraction": 0.19386560776654413,
+        "band_crossings": 5.333333333333333,
+        "center_slab_occupancy": 0.70501708984375
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.1502059926436804,
+        "depth_peak_spread": 5.471965850476734,
+        "center_distance": 0.60809326171875,
+        "empty_fraction": 0.19386560776654413,
+        "band_crossings": 5.333333333333333,
+        "center_slab_occupancy": 0.70501708984375
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "79769cb0e2bcec9645c2b0b1a3f070885552928a68ae4ea360619ee8c7e796ae",
+      "plane_then_quadratic": "79769cb0e2bcec9645c2b0b1a3f070885552928a68ae4ea360619ee8c7e796ae"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 55,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.3965948272531056,
+        "depth_peak_spread": 5.411775447988458,
+        "center_distance": 0.58212890625,
+        "empty_fraction": 0.03256046070772059,
+        "band_crossings": 5.0,
+        "center_slab_occupancy": 0.9109619140625
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.21731664697126457,
+        "depth_peak_spread": 5.296494213359289,
+        "center_distance": 0.580224609375,
+        "empty_fraction": 0.03095559512867647,
+        "band_crossings": 4.666666666666667,
+        "center_slab_occupancy": 0.9200927734375
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.21731664697126457,
+        "depth_peak_spread": 5.296494213359289,
+        "center_distance": 0.580224609375,
+        "empty_fraction": 0.03095559512867647,
+        "band_crossings": 4.666666666666667,
+        "center_slab_occupancy": 0.9200927734375
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.21731664697126457,
+        "depth_peak_spread": 5.296494213359289,
+        "center_distance": 0.580224609375,
+        "empty_fraction": 0.03095559512867647,
+        "band_crossings": 4.666666666666667,
+        "center_slab_occupancy": 0.9200927734375
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "c56ee81fa22b6e98ec22c715ed733b69e2615ffd2b7612d3be8ffc732a40fc6f",
+      "plane_then_quadratic": "c56ee81fa22b6e98ec22c715ed733b69e2615ffd2b7612d3be8ffc732a40fc6f"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 56,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.26500973088840063,
+        "depth_peak_spread": 6.6048246378002915,
+        "center_distance": 0.763916015625,
+        "empty_fraction": 0.17789234834558823,
+        "band_crossings": 3.3333333333333335,
+        "center_slab_occupancy": 0.5447998046875
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.28259280873027753,
+        "depth_peak_spread": 5.229917933183043,
+        "center_distance": 0.61982421875,
+        "empty_fraction": 0.17076200597426472,
+        "band_crossings": 4.0,
+        "center_slab_occupancy": 0.678076171875
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.28259280873027753,
+        "depth_peak_spread": 5.229917933183043,
+        "center_distance": 0.61982421875,
+        "empty_fraction": 0.17076200597426472,
+        "band_crossings": 4.0,
+        "center_slab_occupancy": 0.678076171875
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.28259280873027753,
+        "depth_peak_spread": 5.229917933183043,
+        "center_distance": 0.61982421875,
+        "empty_fraction": 0.17076200597426472,
+        "band_crossings": 4.0,
+        "center_slab_occupancy": 0.678076171875
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "5bf1db94ebb6dd1de27befa0a16d261d64eba630390b21290f0c62c7d9d7b399",
+      "plane_then_quadratic": "5bf1db94ebb6dd1de27befa0a16d261d64eba630390b21290f0c62c7d9d7b399"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 57,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.35308070661709173,
+        "depth_peak_spread": 5.774971509425576,
+        "center_distance": 0.64344482421875,
+        "empty_fraction": 0.17513499540441177,
+        "band_crossings": 4.0,
+        "center_slab_occupancy": 0.6394775390625
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.45080986330507383,
+        "depth_peak_spread": 6.112655711774773,
+        "center_distance": 0.69212646484375,
+        "empty_fraction": 0.19306137982536764,
+        "band_crossings": 6.0,
+        "center_slab_occupancy": 0.60689697265625
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.45080986330507383,
+        "depth_peak_spread": 6.112655711774773,
+        "center_distance": 0.69212646484375,
+        "empty_fraction": 0.19306137982536764,
+        "band_crossings": 6.0,
+        "center_slab_occupancy": 0.60689697265625
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.45080986330507383,
+        "depth_peak_spread": 6.112655711774773,
+        "center_distance": 0.69212646484375,
+        "empty_fraction": 0.19306137982536764,
+        "band_crossings": 6.0,
+        "center_slab_occupancy": 0.60689697265625
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "295dcce46aff164281f588b342b7ab8d7cf69799f73ef77f3257745bf518a215",
+      "plane_then_quadratic": "295dcce46aff164281f588b342b7ab8d7cf69799f73ef77f3257745bf518a215"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 58,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.3140160991983107,
+        "depth_peak_spread": 6.00492930981322,
+        "center_distance": 0.67354736328125,
+        "empty_fraction": 0.26287123736213236,
+        "band_crossings": 3.6666666666666665,
+        "center_slab_occupancy": 0.347998046875
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.3140160991983107,
+        "depth_peak_spread": 6.00492930981322,
+        "center_distance": 0.67354736328125,
+        "empty_fraction": 0.26287123736213236,
+        "band_crossings": 3.6666666666666665,
+        "center_slab_occupancy": 0.347998046875
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.3140160991983107,
+        "depth_peak_spread": 6.00492930981322,
+        "center_distance": 0.67354736328125,
+        "empty_fraction": 0.26287123736213236,
+        "band_crossings": 3.6666666666666665,
+        "center_slab_occupancy": 0.347998046875
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.3140160991983107,
+        "depth_peak_spread": 6.00492930981322,
+        "center_distance": 0.67354736328125,
+        "empty_fraction": 0.26287123736213236,
+        "band_crossings": 3.6666666666666665,
+        "center_slab_occupancy": 0.347998046875
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "5d87f33f82814f482a194b86457e9e9ba0ac3677322df72edf57d6726f7232c5",
+      "plane_then_quadratic": "5d87f33f82814f482a194b86457e9e9ba0ac3677322df72edf57d6726f7232c5"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 59,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.36021892204914574,
+        "depth_peak_spread": 5.817829745217364,
+        "center_distance": 0.653173828125,
+        "empty_fraction": 0.017330394071691176,
+        "band_crossings": 5.333333333333333,
+        "center_slab_occupancy": 0.9142578125
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.26594095075910723,
+        "depth_peak_spread": 4.98251508876049,
+        "center_distance": 0.55494384765625,
+        "empty_fraction": 0.024905934053308824,
+        "band_crossings": 5.0,
+        "center_slab_occupancy": 0.93885498046875
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.26594095075910723,
+        "depth_peak_spread": 4.98251508876049,
+        "center_distance": 0.55494384765625,
+        "empty_fraction": 0.024905934053308824,
+        "band_crossings": 5.0,
+        "center_slab_occupancy": 0.93885498046875
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.26594095075910723,
+        "depth_peak_spread": 4.98251508876049,
+        "center_distance": 0.55494384765625,
+        "empty_fraction": 0.024905934053308824,
+        "band_crossings": 5.0,
+        "center_slab_occupancy": 0.93885498046875
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "b1b237ede3bef9cc5ad260ad9257bb420e1b5cd96091fc4f04a71907eb98011c",
+      "plane_then_quadratic": "b1b237ede3bef9cc5ad260ad9257bb420e1b5cd96091fc4f04a71907eb98011c"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 60,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.41071021785315354,
+        "depth_peak_spread": 5.649671331484101,
+        "center_distance": 0.61732177734375,
+        "empty_fraction": 0.1159201229319853,
+        "band_crossings": 4.0,
+        "center_slab_occupancy": 0.73897705078125
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.3026968622956996,
+        "depth_peak_spread": 5.093576308957522,
+        "center_distance": 0.5433837890625,
+        "empty_fraction": 0.09605138442095588,
+        "band_crossings": 3.3333333333333335,
+        "center_slab_occupancy": 0.80146484375
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.3026968622956996,
+        "depth_peak_spread": 5.093576308957522,
+        "center_distance": 0.5433837890625,
+        "empty_fraction": 0.09605138442095588,
+        "band_crossings": 3.3333333333333335,
+        "center_slab_occupancy": 0.80146484375
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.3026968622956996,
+        "depth_peak_spread": 5.093576308957522,
+        "center_distance": 0.5433837890625,
+        "empty_fraction": 0.09605138442095588,
+        "band_crossings": 3.3333333333333335,
+        "center_slab_occupancy": 0.80146484375
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "300effe2e3b160e655303faa1288434ee3c870d9087480194fc2dd2a18de6240",
+      "plane_then_quadratic": "300effe2e3b160e655303faa1288434ee3c870d9087480194fc2dd2a18de6240"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 61,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.9081732816639566,
+        "depth_peak_spread": 6.113172560435548,
+        "center_distance": 0.69404296875,
+        "empty_fraction": 0.212158203125,
+        "band_crossings": 2.6666666666666665,
+        "center_slab_occupancy": 0.60771484375
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.9081732816639566,
+        "depth_peak_spread": 6.113172560435548,
+        "center_distance": 0.69404296875,
+        "empty_fraction": 0.212158203125,
+        "band_crossings": 2.6666666666666665,
+        "center_slab_occupancy": 0.60771484375
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.9081732816639566,
+        "depth_peak_spread": 6.113172560435548,
+        "center_distance": 0.69404296875,
+        "empty_fraction": 0.212158203125,
+        "band_crossings": 2.6666666666666665,
+        "center_slab_occupancy": 0.60771484375
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.9081732816639566,
+        "depth_peak_spread": 6.113172560435548,
+        "center_distance": 0.69404296875,
+        "empty_fraction": 0.212158203125,
+        "band_crossings": 2.6666666666666665,
+        "center_slab_occupancy": 0.60771484375
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "f9e472028e9d1f076e62605bd0c81885040cb4eca370170cdb19be237b375077",
+      "plane_then_quadratic": "f9e472028e9d1f076e62605bd0c81885040cb4eca370170cdb19be237b375077"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 62,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.7687045328117483,
+        "depth_peak_spread": 5.978267774457299,
+        "center_distance": 0.67403564453125,
+        "empty_fraction": 0.0864401424632353,
+        "band_crossings": 3.6666666666666665,
+        "center_slab_occupancy": 0.7948486328125
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.7687045328117483,
+        "depth_peak_spread": 5.978267774457299,
+        "center_distance": 0.67403564453125,
+        "empty_fraction": 0.0864401424632353,
+        "band_crossings": 3.6666666666666665,
+        "center_slab_occupancy": 0.7948486328125
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.7687045328117483,
+        "depth_peak_spread": 5.978267774457299,
+        "center_distance": 0.67403564453125,
+        "empty_fraction": 0.0864401424632353,
+        "band_crossings": 3.6666666666666665,
+        "center_slab_occupancy": 0.7948486328125
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.7687045328117483,
+        "depth_peak_spread": 5.978267774457299,
+        "center_distance": 0.67403564453125,
+        "empty_fraction": 0.0864401424632353,
+        "band_crossings": 3.6666666666666665,
+        "center_slab_occupancy": 0.7948486328125
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "3a5634b76496cfb08ca63ab20128a66e1839d9ffe525ee088b136c77e74b6fe0",
+      "plane_then_quadratic": "3a5634b76496cfb08ca63ab20128a66e1839d9ffe525ee088b136c77e74b6fe0"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 63,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.5182248670648444,
+        "depth_peak_spread": 5.74058198949061,
+        "center_distance": 0.6368408203125,
+        "empty_fraction": 0.16812672334558823,
+        "band_crossings": 4.0,
+        "center_slab_occupancy": 0.61898193359375
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.1590192831225073,
+        "depth_peak_spread": 6.526591572366868,
+        "center_distance": 0.7558837890625,
+        "empty_fraction": 0.3052547679227941,
+        "band_crossings": 3.3333333333333335,
+        "center_slab_occupancy": 0.507275390625
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.1590192831225073,
+        "depth_peak_spread": 6.526591572366868,
+        "center_distance": 0.7558837890625,
+        "empty_fraction": 0.3052547679227941,
+        "band_crossings": 3.3333333333333335,
+        "center_slab_occupancy": 0.507275390625
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.1590192831225073,
+        "depth_peak_spread": 6.526591572366868,
+        "center_distance": 0.7558837890625,
+        "empty_fraction": 0.3052547679227941,
+        "band_crossings": 3.3333333333333335,
+        "center_slab_occupancy": 0.507275390625
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "293ae1a6cc0baaa816a164d55043361e57ac003d2b01d1481b9f69c96192ee75",
+      "plane_then_quadratic": "293ae1a6cc0baaa816a164d55043361e57ac003d2b01d1481b9f69c96192ee75"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 64,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.34264235314043906,
+        "depth_peak_spread": 5.688440023856632,
+        "center_distance": 0.62032470703125,
+        "empty_fraction": 0.13262939453125,
+        "band_crossings": 4.333333333333333,
+        "center_slab_occupancy": 0.66700439453125
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.3582096566805173,
+        "depth_peak_spread": 5.654568679206285,
+        "center_distance": 0.61822509765625,
+        "empty_fraction": 0.13236012178308823,
+        "band_crossings": 4.333333333333333,
+        "center_slab_occupancy": 0.7031982421875
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.3582096566805173,
+        "depth_peak_spread": 5.654568679206285,
+        "center_distance": 0.61822509765625,
+        "empty_fraction": 0.13236012178308823,
+        "band_crossings": 4.333333333333333,
+        "center_slab_occupancy": 0.7031982421875
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.3582096566805173,
+        "depth_peak_spread": 5.654568679206285,
+        "center_distance": 0.61822509765625,
+        "empty_fraction": 0.13236012178308823,
+        "band_crossings": 4.333333333333333,
+        "center_slab_occupancy": 0.7031982421875
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "dd0dd96d5df599751ef5ba72f22cbed295f5784e90ee04bf54d2733b300a6a30",
+      "plane_then_quadratic": "dd0dd96d5df599751ef5ba72f22cbed295f5784e90ee04bf54d2733b300a6a30"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 65,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.34694448929504496,
+        "depth_peak_spread": 5.246202225121067,
+        "center_distance": 0.5590576171875,
+        "empty_fraction": 0.021857766544117647,
+        "band_crossings": 4.333333333333333,
+        "center_slab_occupancy": 0.91031494140625
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.31294824011046496,
+        "depth_peak_spread": 5.690936293406791,
+        "center_distance": 0.62943115234375,
+        "empty_fraction": 0.02143411075367647,
+        "band_crossings": 4.333333333333333,
+        "center_slab_occupancy": 0.92347412109375
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.31294824011046496,
+        "depth_peak_spread": 5.690936293406791,
+        "center_distance": 0.62943115234375,
+        "empty_fraction": 0.02143411075367647,
+        "band_crossings": 4.333333333333333,
+        "center_slab_occupancy": 0.92347412109375
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.31294824011046496,
+        "depth_peak_spread": 5.690936293406791,
+        "center_distance": 0.62943115234375,
+        "empty_fraction": 0.02143411075367647,
+        "band_crossings": 4.333333333333333,
+        "center_slab_occupancy": 0.92347412109375
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "340da33f42460109399181341a10bf899c592b68be686a95828c887c663878b3",
+      "plane_then_quadratic": "340da33f42460109399181341a10bf899c592b68be686a95828c887c663878b3"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 66,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.7024131319843316,
+        "depth_peak_spread": 6.033494315537588,
+        "center_distance": 0.67923583984375,
+        "empty_fraction": 0.11065673828125,
+        "band_crossings": 3.6666666666666665,
+        "center_slab_occupancy": 0.7303955078125
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.7024131319843316,
+        "depth_peak_spread": 6.033494315537588,
+        "center_distance": 0.67923583984375,
+        "empty_fraction": 0.11065673828125,
+        "band_crossings": 3.6666666666666665,
+        "center_slab_occupancy": 0.7303955078125
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.7024131319843316,
+        "depth_peak_spread": 6.033494315537588,
+        "center_distance": 0.67923583984375,
+        "empty_fraction": 0.11065673828125,
+        "band_crossings": 3.6666666666666665,
+        "center_slab_occupancy": 0.7303955078125
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.7024131319843316,
+        "depth_peak_spread": 6.033494315537588,
+        "center_distance": 0.67923583984375,
+        "empty_fraction": 0.11065673828125,
+        "band_crossings": 3.6666666666666665,
+        "center_slab_occupancy": 0.7303955078125
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "a67181250593d90dbd42b4658d1e3f5b483545fbcc612af7a251d76b5c163d2f",
+      "plane_then_quadratic": "a67181250593d90dbd42b4658d1e3f5b483545fbcc612af7a251d76b5c163d2f"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 67,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.5682380082747225,
+        "depth_peak_spread": 5.7276904018795145,
+        "center_distance": 0.63212890625,
+        "empty_fraction": 0.1470660041360294,
+        "band_crossings": 6.0,
+        "center_slab_occupancy": 0.580419921875
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.5682380082747225,
+        "depth_peak_spread": 5.7276904018795145,
+        "center_distance": 0.63212890625,
+        "empty_fraction": 0.1470660041360294,
+        "band_crossings": 6.0,
+        "center_slab_occupancy": 0.580419921875
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.5682380082747225,
+        "depth_peak_spread": 5.7276904018795145,
+        "center_distance": 0.63212890625,
+        "empty_fraction": 0.1470660041360294,
+        "band_crossings": 6.0,
+        "center_slab_occupancy": 0.580419921875
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.5682380082747225,
+        "depth_peak_spread": 5.7276904018795145,
+        "center_distance": 0.63212890625,
+        "empty_fraction": 0.1470660041360294,
+        "band_crossings": 6.0,
+        "center_slab_occupancy": 0.580419921875
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "23af9db771ae6941e5413c60ae576d78e8c13aaedc006a9d898bbe556f908430",
+      "plane_then_quadratic": "23af9db771ae6941e5413c60ae576d78e8c13aaedc006a9d898bbe556f908430"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 68,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.42167390901294416,
+        "depth_peak_spread": 6.052167361579466,
+        "center_distance": 0.68345947265625,
+        "empty_fraction": 0.04693603515625,
+        "band_crossings": 5.333333333333333,
+        "center_slab_occupancy": 0.825390625
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.3056981193232826,
+        "depth_peak_spread": 5.448647077428051,
+        "center_distance": 0.5887451171875,
+        "empty_fraction": 0.024697696461397058,
+        "band_crossings": 5.333333333333333,
+        "center_slab_occupancy": 0.90526123046875
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.3056981193232826,
+        "depth_peak_spread": 5.448647077428051,
+        "center_distance": 0.5887451171875,
+        "empty_fraction": 0.024697696461397058,
+        "band_crossings": 5.333333333333333,
+        "center_slab_occupancy": 0.90526123046875
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.3056981193232826,
+        "depth_peak_spread": 5.448647077428051,
+        "center_distance": 0.5887451171875,
+        "empty_fraction": 0.024697696461397058,
+        "band_crossings": 5.333333333333333,
+        "center_slab_occupancy": 0.90526123046875
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "b6fb86a73cf3967edc0a651cd02aeabe663b479d03422bfd49b044b51d4e4708",
+      "plane_then_quadratic": "b6fb86a73cf3967edc0a651cd02aeabe663b479d03422bfd49b044b51d4e4708"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 69,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.7329592230064371,
+        "depth_peak_spread": 5.989899487010336,
+        "center_distance": 0.66351318359375,
+        "empty_fraction": 0.19632496553308823,
+        "band_crossings": 4.666666666666667,
+        "center_slab_occupancy": 0.5444091796875
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.06758543243750782,
+        "depth_peak_spread": 4.139552259144576,
+        "center_distance": 0.42939453125,
+        "empty_fraction": 0.23322610294117646,
+        "band_crossings": 4.666666666666667,
+        "center_slab_occupancy": 0.75113525390625
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.06758543243750782,
+        "depth_peak_spread": 4.139552259144576,
+        "center_distance": 0.42939453125,
+        "empty_fraction": 0.23322610294117646,
+        "band_crossings": 4.666666666666667,
+        "center_slab_occupancy": 0.75113525390625
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.06758543243750782,
+        "depth_peak_spread": 4.139552259144576,
+        "center_distance": 0.42939453125,
+        "empty_fraction": 0.23322610294117646,
+        "band_crossings": 4.666666666666667,
+        "center_slab_occupancy": 0.75113525390625
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "66fe6abcd9be6cff95ce05149ca65f0a438351a428e9c995f33b7ca2e1acb319",
+      "plane_then_quadratic": "66fe6abcd9be6cff95ce05149ca65f0a438351a428e9c995f33b7ca2e1acb319"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 70,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.6532478312219004,
+        "depth_peak_spread": 5.480003626710847,
+        "center_distance": 0.59249267578125,
+        "empty_fraction": 0.09763470818014706,
+        "band_crossings": 3.6666666666666665,
+        "center_slab_occupancy": 0.5354736328125
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.12513946246635135,
+        "depth_peak_spread": 4.216756758399668,
+        "center_distance": 0.5354736328125,
+        "empty_fraction": 0.09521125344669118,
+        "band_crossings": 4.0,
+        "center_slab_occupancy": 0.91495361328125
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.12513946246635135,
+        "depth_peak_spread": 4.216756758399668,
+        "center_distance": 0.5354736328125,
+        "empty_fraction": 0.09521125344669118,
+        "band_crossings": 4.0,
+        "center_slab_occupancy": 0.91495361328125
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.12513946246635135,
+        "depth_peak_spread": 4.216756758399668,
+        "center_distance": 0.5354736328125,
+        "empty_fraction": 0.09521125344669118,
+        "band_crossings": 4.0,
+        "center_slab_occupancy": 0.91495361328125
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "919183ae18cd848644254c4e4f9e95a556647c8084aa67d5a6bd3dae268b092f",
+      "plane_then_quadratic": "919183ae18cd848644254c4e4f9e95a556647c8084aa67d5a6bd3dae268b092f"
+    },
+    "identity_reliable": false
+  },
+  {
+    "sample": 71,
+    "quality": {
+      "T9": {
+        "longitudinal_gradient_fraction": 0.2953990760452447,
+        "depth_peak_spread": 5.5778703185852745,
+        "center_distance": 0.607373046875,
+        "empty_fraction": 0.12340590533088236,
+        "band_crossings": 4.0,
+        "center_slab_occupancy": 0.6179931640625
+      },
+      "T11": {
+        "longitudinal_gradient_fraction": 0.2953990760452447,
+        "depth_peak_spread": 5.5778703185852745,
+        "center_distance": 0.607373046875,
+        "empty_fraction": 0.12340590533088236,
+        "band_crossings": 4.0,
+        "center_slab_occupancy": 0.6179931640625
+      },
+      "plane": {
+        "longitudinal_gradient_fraction": 0.2953990760452447,
+        "depth_peak_spread": 5.5778703185852745,
+        "center_distance": 0.607373046875,
+        "empty_fraction": 0.12340590533088236,
+        "band_crossings": 4.0,
+        "center_slab_occupancy": 0.6179931640625
+      },
+      "plane_then_quadratic": {
+        "longitudinal_gradient_fraction": 0.2953990760452447,
+        "depth_peak_spread": 5.5778703185852745,
+        "center_distance": 0.607373046875,
+        "empty_fraction": 0.12340590533088236,
+        "band_crossings": 4.0,
+        "center_slab_occupancy": 0.6179931640625
+      }
+    },
+    "accepted": {
+      "plane": false,
+      "plane_then_quadratic": false
+    },
+    "hashes": {
+      "plane": "a5047e94a0ed7eb7fff825067b6d8937dd471d1a7dfda21acbf56648bc55fe87",
+      "plane_then_quadratic": "a5047e94a0ed7eb7fff825067b6d8937dd471d1a7dfda21acbf56648bc55fe87"
+    },
+    "identity_reliable": false
+  }
+]
