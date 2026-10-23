@@ -1,0 +1,21 @@
+{
+  "experiment": "P0-T13 control prerequisite ONLY; no T13 correspondence or ribbon executed",
+  "selection": "selected_slice_range.json frozen before native CT acquisition and reconstruction",
+  "method": "CT DoG(.6,2) >3, skeleton maximal chains. Ignore 4pixel crop edge. Preserve all chains; seed both orientations of8longest internally simple chains. No fixed trusted seed or surface-following target. Bounded prize-collecting beam128,depth64,outgoing12, bridge<=12px with inherited tangent/chord gates and penalty. Keep max observed arc minus penalties. Exact nonadjacent intersection guards; no output geometry corrected using evaluation.",
+  "physical_scale": "XY9.6um after4x4mean; Z2.4um native consecutive; s0.5XYpx=4.8um",
+  "provenance": "1 observed,2 inferred bridge(masked),3 low-confidence observed after weak link. No invented CT on bridges.",
+  "leakage_barrier": "Docker no network,read-only root,drop all capabilities; ONLY single CT slice, worker source, library tree, fresh output mounted. Trusted geometry and labels absent. Python open audit records imports and data accesses. Host selection stage may use geometry bounds only.",
+  "acceptance_frozen": {
+    "minimum_consecutive_threads": 5,
+    "central_window": "z-2..z+2 all reconstructed",
+    "overlap_distance_um": 19.2,
+    "minimum_near_samples_each_of_5_slices": 25,
+    "minimum_central_near_span_um": 100,
+    "frame_association": "finite geometric unit normal and longitudinal direction, interior trusted grid, projected scanZ norm>=0.25",
+    "leakage": "all7isolated runs must exclude geometry/labels and have CT-only inputs",
+    "gate": "all user5conditions; not softened after evidence"
+  },
+  "registration": "native scan XYZ identity from matching20260411134726 asset. Reconstructed XY transform known from crop+pooling; inverse roundtrip measured. Trusted-grid piecewise triangles used only after frozen outputs for nearest-surface distance, normals, projected scanZ longitudinal. Producer physical registration error unknown; report not as0.",
+  "replay": "all7 workers reverse-order from same CT, require exact graph/path/decision/metric arrays and JSON; do not require zip-container timestamps identical",
+  "scope_limit": "no labels, ink model, T13, global segment reconstruction, or inference"
+}

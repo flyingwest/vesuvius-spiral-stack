@@ -1,0 +1,115 @@
+{
+  "status": "PASS",
+  "meaning": "execution/replay/preservation verification, not scientific prerequisite acceptance",
+  "CONTROL_THREAD_PREREQUISITE_COMPLETE": "YES",
+  "INDEPENDENT_CONTROL_THREADS": "PASS",
+  "CONTROL_SLICE_COUNT": 7,
+  "TRUSTED_OVERLAP": "PARTIAL",
+  "LEAKAGE_AUDIT": "PASS",
+  "READY_TO_RESUME_P0_T13": "NO",
+  "prerequisite_gate": "FAIL",
+  "gate_checks": {
+    "at_least5_consecutive_independent_threads": true,
+    "central_slice_has_Zpm2_neighbors": true,
+    "meaningful_trusted_overlap": false,
+    "trusted_frames_associated_postfreeze": true,
+    "leakage_audit_pass": true
+  },
+  "near_samples": 503,
+  "observed_samples": 15459,
+  "near_fraction": 0.032537680315673716,
+  "predecessor_files_unchanged": 4002,
+  "coordinate_transform_roundtrip_native_voxel": 6.536993168992922e-13,
+  "physical_registration_error_um": null,
+  "checks": [
+    {
+      "z": 44453,
+      "full_graph_search_thread_replay": "EXACT_BOTH_REPLAYS",
+      "independent_topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      },
+      "bilinear_max_error": 4.263256414560601e-14,
+      "native_CT_pooling_replay": "EXACT",
+      "registration_arrays": "PASS"
+    },
+    {
+      "z": 44454,
+      "full_graph_search_thread_replay": "EXACT_BOTH_REPLAYS",
+      "independent_topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      },
+      "bilinear_max_error": 2.842170943040401e-14,
+      "native_CT_pooling_replay": "EXACT",
+      "registration_arrays": "PASS"
+    },
+    {
+      "z": 44455,
+      "full_graph_search_thread_replay": "EXACT_BOTH_REPLAYS",
+      "independent_topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      },
+      "bilinear_max_error": 2.842170943040401e-14,
+      "native_CT_pooling_replay": "EXACT",
+      "registration_arrays": "PASS"
+    },
+    {
+      "z": 44456,
+      "full_graph_search_thread_replay": "EXACT_BOTH_REPLAYS",
+      "independent_topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      },
+      "bilinear_max_error": 2.842170943040401e-14,
+      "native_CT_pooling_replay": "EXACT",
+      "registration_arrays": "PASS"
+    },
+    {
+      "z": 44457,
+      "full_graph_search_thread_replay": "EXACT_BOTH_REPLAYS",
+      "independent_topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      },
+      "bilinear_max_error": 2.842170943040401e-14,
+      "native_CT_pooling_replay": "EXACT",
+      "registration_arrays": "PASS"
+    },
+    {
+      "z": 44458,
+      "full_graph_search_thread_replay": "EXACT_BOTH_REPLAYS",
+      "independent_topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      },
+      "bilinear_max_error": 2.842170943040401e-14,
+      "native_CT_pooling_replay": "EXACT",
+      "registration_arrays": "PASS"
+    },
+    {
+      "z": 44459,
+      "full_graph_search_thread_replay": "EXACT_BOTH_REPLAYS",
+      "independent_topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      },
+      "bilinear_max_error": 0.0,
+      "native_CT_pooling_replay": "EXACT",
+      "registration_arrays": "PASS"
+    }
+  ],
+  "T13_executed": false,
+  "model_loaded": false,
+  "acquisition_payloads_verified": 160,
+  "all_CT_inputs_replayed_from_range_payloads": true,
+  "pre_reconstruction_freeze": "PASS; launcher-only infrastructure amendment checked against preserved original"
+}

@@ -1,0 +1,7 @@
+{
+  "reason": "cap-drop ALL root lacks directory write access to host-owned output. Initial worker stopped at os.mkdir before np.load; no CT read or scientific output.",
+  "change": "Run container as host UID/GID; same image,mounts,network isolation,scientific code,CT and parameters.",
+  "original_launcher": "attempt_01_permission_denied/launcher_original.py",
+  "launcher_sha256": "3e94d8baaa9915604eee2d9a302e92ceb2dbbc79d5e5a1896c372e464c7d6b0d",
+  "initial_evidence_preserved": true
+}

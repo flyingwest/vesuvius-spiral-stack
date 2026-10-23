@@ -1,0 +1,179 @@
+{
+  "status": "PARTIAL",
+  "distance_definition": "exact nearest point on piecewise-linear trusted surface intersection with the SAME native Z plane; upper bound on unconstrained3D nearest-surface distance",
+  "threshold_um": 19.2,
+  "central_windows": [
+    {
+      "z": 44455,
+      "pass": false,
+      "near_counts": [
+        0,
+        110,
+        170,
+        115,
+        24
+      ]
+    },
+    {
+      "z": 44456,
+      "pass": false,
+      "near_counts": [
+        110,
+        170,
+        115,
+        24,
+        84
+      ]
+    },
+    {
+      "z": 44457,
+      "pass": false,
+      "near_counts": [
+        170,
+        115,
+        24,
+        84,
+        0
+      ]
+    }
+  ],
+  "rows": [
+    {
+      "z": 44453,
+      "observed_points": 3011,
+      "near_points": 0,
+      "near_fraction": 0.0,
+      "near_arc_span_um": 0.0,
+      "distance_median_um": 695.6683933479433,
+      "distance_p95_um": 1112.497962331328,
+      "near_distance_median_um": null,
+      "near_distance_max_um": null,
+      "normal_endpoint_variation_median_deg": null,
+      "coordinate_roundtrip_max_native_voxel": 4.547473508864641e-13,
+      "surface_section_segments": 206,
+      "proper_crossings": 0,
+      "nonadjacent_contacts": 0,
+      "collinear_overlaps": 0
+    },
+    {
+      "z": 44454,
+      "observed_points": 2048,
+      "near_points": 110,
+      "near_fraction": 0.0537109375,
+      "near_arc_span_um": 523.1999999999999,
+      "distance_median_um": 338.70475571412624,
+      "distance_p95_um": 566.4324904639305,
+      "near_distance_median_um": 4.150382873924225,
+      "near_distance_max_um": 18.0436996074834,
+      "normal_endpoint_variation_median_deg": 1.3793046527802675,
+      "coordinate_roundtrip_max_native_voxel": 4.547473508864641e-13,
+      "surface_section_segments": 206,
+      "proper_crossings": 0,
+      "nonadjacent_contacts": 0,
+      "collinear_overlaps": 0
+    },
+    {
+      "z": 44455,
+      "observed_points": 2719,
+      "near_points": 170,
+      "near_fraction": 0.0625229863920559,
+      "near_arc_span_um": 9830.4,
+      "distance_median_um": 247.85113050081117,
+      "distance_p95_um": 481.606166866545,
+      "near_distance_median_um": 8.968054844849998,
+      "near_distance_max_um": 18.7461821406805,
+      "normal_endpoint_variation_median_deg": 1.603537128290092,
+      "coordinate_roundtrip_max_native_voxel": 4.547473508864641e-13,
+      "surface_section_segments": 206,
+      "proper_crossings": 0,
+      "nonadjacent_contacts": 0,
+      "collinear_overlaps": 0
+    },
+    {
+      "z": 44456,
+      "observed_points": 1712,
+      "near_points": 115,
+      "near_fraction": 0.06717289719626168,
+      "near_arc_span_um": 547.1999999999999,
+      "distance_median_um": 281.46653122036946,
+      "distance_p95_um": 548.4791481011202,
+      "near_distance_median_um": 5.641626975396031,
+      "near_distance_max_um": 16.839474427481875,
+      "normal_endpoint_variation_median_deg": 1.426626117394602,
+      "coordinate_roundtrip_max_native_voxel": 4.547473508864641e-13,
+      "surface_section_segments": 206,
+      "proper_crossings": 0,
+      "nonadjacent_contacts": 0,
+      "collinear_overlaps": 0
+    },
+    {
+      "z": 44457,
+      "observed_points": 2419,
+      "near_points": 24,
+      "near_fraction": 0.009921455146754857,
+      "near_arc_span_um": 110.39999999999999,
+      "distance_median_um": 318.21670093162084,
+      "distance_p95_um": 655.6267469102339,
+      "near_distance_median_um": 4.056538171725913,
+      "near_distance_max_um": 18.937525572814618,
+      "normal_endpoint_variation_median_deg": 1.3134365964025145,
+      "coordinate_roundtrip_max_native_voxel": 6.536993168992922e-13,
+      "surface_section_segments": 206,
+      "proper_crossings": 0,
+      "nonadjacent_contacts": 0,
+      "collinear_overlaps": 0
+    },
+    {
+      "z": 44458,
+      "observed_points": 1930,
+      "near_points": 84,
+      "near_fraction": 0.043523316062176166,
+      "near_arc_span_um": 422.4,
+      "distance_median_um": 313.05998136580416,
+      "distance_p95_um": 640.3181018688707,
+      "near_distance_median_um": 8.253718113957142,
+      "near_distance_max_um": 18.926960984637667,
+      "normal_endpoint_variation_median_deg": 1.2563199633105282,
+      "coordinate_roundtrip_max_native_voxel": 6.536993168992922e-13,
+      "surface_section_segments": 206,
+      "proper_crossings": 0,
+      "nonadjacent_contacts": 0,
+      "collinear_overlaps": 0
+    },
+    {
+      "z": 44459,
+      "observed_points": 1620,
+      "near_points": 0,
+      "near_fraction": 0.0,
+      "near_arc_span_um": 0.0,
+      "distance_median_um": 383.1141951810322,
+      "distance_p95_um": 654.9808729221455,
+      "near_distance_median_um": null,
+      "near_distance_max_um": null,
+      "normal_endpoint_variation_median_deg": null,
+      "coordinate_roundtrip_max_native_voxel": 6.536993168992922e-13,
+      "surface_section_segments": 206,
+      "proper_crossings": 0,
+      "nonadjacent_contacts": 0,
+      "collinear_overlaps": 0
+    }
+  ],
+  "transform": "nativeXYZ=(4*x_trace+x0+1.5,4*y_trace+y0+1.5,nativeZ); same native scan asset ID. No fitted transform or corrected thread.",
+  "coordinate_transform_roundtrip_max_native_voxel": 6.536993168992922e-13,
+  "physical_registration_error_um": null,
+  "physical_registration_error_reason": "No publisher registration-error bound or independent fiducials. Arithmetic residual is NOT physical registration accuracy.",
+  "uncertainty": {
+    "xy_pooling_cell_half_diagonal_um": 6.788225099390856,
+    "native_voxel_um": 2.4,
+    "trusted_mesh_grid_pitch_parameter_native": 20,
+    "normal_variation": "perpoint endpoint-normal variation saved; not a calibrated uncertainty bound",
+    "producer_registration_uncertainty_um": null
+  },
+  "gross_topology": "Independent paths have exhaustive zero proper crossings, contacts, overlaps. Spatial overlap with one trusted sheet does not certify entire path identity.",
+  "evaluation_reads": [
+    "data/raw/p0_t10/geometry_x.tif",
+    "data/raw/p0_t10/geometry_y.tif",
+    "data/raw/p0_t10/geometry_z.tif"
+  ],
+  "thread_freeze_verified_before_geometry_reads": true
+}

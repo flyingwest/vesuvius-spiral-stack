@@ -1,0 +1,1845 @@
+{
+  "scientific_and_library_files": {
+    "/packages/scipy/special/_special_ufuncs.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/special/_special_ufuncs.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "f4d48913339272413301b0e872426b6fb4f2ad2131f2f68456ac284fee10a67b"
+    },
+    "/packages/scipy/ndimage/__pycache__/_filters.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/ndimage/__pycache__/_filters.cpython-312.pyc",
+      "sha256": "310f851d5bc7da239309eadf0e3dfd4cb118b768bc1f0f0004653f6da57e2d34"
+    },
+    "/packages/scipy/sparse/__pycache__/_construct.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/sparse/__pycache__/_construct.cpython-312.pyc",
+      "sha256": "996bb9cf5c35546777b69caf4911765e6c2a5ba468f26f790e0388b704a76118"
+    },
+    "/packages/numpy/testing/_private/__pycache__/utils.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/testing/_private/__pycache__/utils.cpython-312.pyc",
+      "sha256": "93372d0b8ebe52f76c205b2a17b57d7f3dd367a35433b7d5bd7adce77e57e4c7"
+    },
+    "/packages/scipy/sparse/__pycache__/compressed.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/sparse/__pycache__/compressed.cpython-312.pyc",
+      "sha256": "562dcd54864221e8a391e1d809e31c7a3a8306c76f30dd87fca1518b2fb417c9"
+    },
+    "/packages/scipy/spatial/transform/__pycache__/_rotation.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/spatial/transform/__pycache__/_rotation.cpython-312.pyc",
+      "sha256": "ffa30c347a29ba9ce787913d552340abb988d514756f28b6220c95ddef092ac9"
+    },
+    "/packages/scipy/linalg/__pycache__/blas.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/__pycache__/blas.cpython-312.pyc",
+      "sha256": "7271bb8d70ad76c9fbed16714ca0d1cf9c3d36986819039a8bee8f951b331b2a"
+    },
+    "/packages/scipy/special/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/special/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "c1f71a4c136be90a49b67cf92c0c382c94e425b065404be3b3ab9353d6d0cfa4"
+    },
+    "/packages/skimage/util/__pycache__/_label.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/util/__pycache__/_label.cpython-312.pyc",
+      "sha256": "e42806a0874b721b51d5fb34b143739839a8543830b438bcdd7230cbf8c8c74b"
+    },
+    "/packages/skimage/morphology/_misc_cy.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/morphology/_misc_cy.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "60cbb97d04a4f58ad954cd9580f3a3aefe56ba897941feb0aa70a0aea34a7685"
+    },
+    "/packages/scipy/sparse/__pycache__/sparsetools.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/sparse/__pycache__/sparsetools.cpython-312.pyc",
+      "sha256": "a1a689332a4b258319139223bc90e7b844fe7baca8e3ec8dc5603d1a3735c38c"
+    },
+    "/packages/numpy/random/bit_generator.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/random/bit_generator.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "91ba294322e66c53f6a210c94c04eb08575be8e35cb1a001535f7cc00a547697"
+    },
+    "/packages/numpy/linalg/__pycache__/_linalg.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/linalg/__pycache__/_linalg.cpython-312.pyc",
+      "sha256": "947d6830f825a63af40db3ca44f833aad8f98570ec99f557d36b098d82836fc2"
+    },
+    "/packages/numpy/testing/__pycache__/overrides.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/testing/__pycache__/overrides.cpython-312.pyc",
+      "sha256": "7f77d33b7352c49a162b6b1eefb244413b69fcada862dbc3c271da08a28d4319"
+    },
+    "/packages/skimage/util/__pycache__/_regular_grid.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/util/__pycache__/_regular_grid.cpython-312.pyc",
+      "sha256": "ea6bc37e6ccb648c143c90a9784de7998a82f473e5ed24657452267c704a9ae2"
+    },
+    "/packages/numpy/_core/__pycache__/_exceptions.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_core/__pycache__/_exceptions.cpython-312.pyc",
+      "sha256": "60459d1ed2ae94556ab95399689eacc4958e0ed33501b61d05ede3f3874c31ad"
+    },
+    "/packages/skimage/_shared/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/_shared/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "d5bc6b717ba8dfba2c0ac9a9b1db48f466578617341af1e0aab8f3e31d67e6f7"
+    },
+    "/packages/numpy/fft/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/fft/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "cbd2410a9083e0083825fa27ee322e3d6ea5b2d7a936aeedf1f6167bef909909"
+    },
+    "/packages/numpy/lib/__pycache__/_function_base_impl.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/lib/__pycache__/_function_base_impl.cpython-312.pyc",
+      "sha256": "dc0a1e1a709e4352fe34528c09a39081d700713514d88b0c9310153a03e34267"
+    },
+    "/packages/numpy/_core/__pycache__/_internal.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_core/__pycache__/_internal.cpython-312.pyc",
+      "sha256": "66e0abc2cc27ba169af1d139c919b5ae27c70ebac77a0bce3b3d98050b24a67f"
+    },
+    "/packages/scipy/linalg/__pycache__/decomp_qr.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/__pycache__/decomp_qr.cpython-312.pyc",
+      "sha256": "399eb41c91d974f72873ee6d24b7000954c4abb9a5e93ca0ee442a97b9a234b9"
+    },
+    "/packages/scipy/spatial/_voronoi.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/spatial/_voronoi.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "ddcee1a0a56ad89435538a1d1d850ce582e143367eee90656ab05c701e8fc1ae"
+    },
+    "/packages/scipy/ndimage/__pycache__/_support_alternative_backends.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/ndimage/__pycache__/_support_alternative_backends.cpython-312.pyc",
+      "sha256": "59c42fca7350fca597b7c1156dec92c725f574ae5fced9dd1fcb546b3d31e842"
+    },
+    "/packages/numpy/_utils/__pycache__/_inspect.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_utils/__pycache__/_inspect.cpython-312.pyc",
+      "sha256": "d5935644f8649cadecd58caea47e7e4a5756691bbeb367849dba04c15f01cddf"
+    },
+    "/packages/scipy/sparse/_sparsetools.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/sparse/_sparsetools.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "01815d7d13287d88711bb72fb0ee4fd7e33ba04b9eb624c6acdf3c00d976b793"
+    },
+    "/packages/scipy.libs/libscipy_openblas-b7e2810b.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy.libs/libscipy_openblas-b7e2810b.so",
+      "sha256": "5d4ef10608de957609e27942c23e092ce27415dc8394a796d014633ae2995f82"
+    },
+    "/packages/skimage/morphology/__pycache__/gray.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/morphology/__pycache__/gray.cpython-312.pyc",
+      "sha256": "c41de049a66bc0d490d14d707d62b05b879a595f52cd317749019dccbffbd7e3"
+    },
+    "/packages/numpy/_core/__pycache__/_methods.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_core/__pycache__/_methods.cpython-312.pyc",
+      "sha256": "549e144011e8530055fd15bb4d77f1168d05579095bfd64767c12f0ebae77266"
+    },
+    "/packages/numpy/_core/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_core/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "b11d54ed3c522df832aae9fc131e4ac6f1d50fb63ba532df91c73dc9a06a61cc"
+    },
+    "/packages/scipy/sparse/__pycache__/_data.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/sparse/__pycache__/_data.cpython-312.pyc",
+      "sha256": "b7eea59ff7606f57431dc9cbf9f211e42b3450346f581a09c5b9b3bc94358be6"
+    },
+    "/packages/numpy/__pycache__/exceptions.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/__pycache__/exceptions.cpython-312.pyc",
+      "sha256": "0466db7fbcdbf257fb973bdb0ff7a4331bdb273b29aed529d6d32d7af62d83cb"
+    },
+    "/packages/skimage/measure/__init__.pyi": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/measure/__init__.pyi",
+      "sha256": "7e65caee5ab177d1b5fa50978172a628b3ba2ec994350d9875fe3a666d7df851"
+    },
+    "/packages/scipy/_external/array_api_compat/numpy/__pycache__/_info.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_external/array_api_compat/numpy/__pycache__/_info.cpython-312.pyc",
+      "sha256": "2f8c1bea0171117ea8b0e98bb8b73e520e2a15d017ad973ac4a8717d4cf2ed99"
+    },
+    "/packages/scipy/spatial/transform/__pycache__/rotation.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/spatial/transform/__pycache__/rotation.cpython-312.pyc",
+      "sha256": "0ca397e974a34710a20b0cebd80e74ddbde81c5ebd0aac406c584dc836e4e78f"
+    },
+    "/packages/numpy/polynomial/__pycache__/polynomial.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/polynomial/__pycache__/polynomial.cpython-312.pyc",
+      "sha256": "5d8dc8a1d7379c07ca1c64270b84b15c62a6587340b06aaf03132fffb8ce2e54"
+    },
+    "/packages/numpy/_core/__pycache__/shape_base.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_core/__pycache__/shape_base.cpython-312.pyc",
+      "sha256": "677c391e6768804cae5e2b83a56ee6aba1e7b28a78b0564028621713c309ceb0"
+    },
+    "/packages/numpy/f2py/__pycache__/use_rules.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/f2py/__pycache__/use_rules.cpython-312.pyc",
+      "sha256": "b1ede1ff769e47ee0ed2791543bdc32b40ded9d928f9312e43203663060f5633"
+    },
+    "/packages/numpy/f2py/__pycache__/crackfortran.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/f2py/__pycache__/crackfortran.cpython-312.pyc",
+      "sha256": "caef4440683ba7f37794a99b9884e00b2e2353daeebf0709036bed19fe6eec2a"
+    },
+    "/packages/numpy/_core/__pycache__/function_base.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_core/__pycache__/function_base.cpython-312.pyc",
+      "sha256": "efcea46ae8fb8edba22719433b7d2c42408c5d39366f17db53f8eea94bcfbafe"
+    },
+    "/packages/scipy/linalg/__pycache__/_matfuncs.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/__pycache__/_matfuncs.cpython-312.pyc",
+      "sha256": "1d49f8f7ab86d7739dbdd3da97e27ec09fbaf864155b723d5adedc3eb7e61609"
+    },
+    "/packages/numpy/_typing/__pycache__/_nbit_base.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_typing/__pycache__/_nbit_base.cpython-312.pyc",
+      "sha256": "e4824ab2635947cc4682c70a416cd303b1b42a2b48910c9fdf44eb9d818de9ed"
+    },
+    "/packages/numpy/__pycache__/_array_api_info.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/__pycache__/_array_api_info.cpython-312.pyc",
+      "sha256": "af375808bc0abc8ca9cc2307ebf28fb3213157f9de12a2ee2cd00d71dcd0c035"
+    },
+    "/packages/scipy/linalg/__pycache__/lapack.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/__pycache__/lapack.cpython-312.pyc",
+      "sha256": "c1467124f3d391696b1870c738608d3a6ff04075349b82e0821e6f4d0cf0767a"
+    },
+    "/packages/scipy/sparse/__pycache__/dok.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/sparse/__pycache__/dok.cpython-312.pyc",
+      "sha256": "34c9caf2a17fc5a59a3301931080db53f96243c5054af365947bdc952061b8bd"
+    },
+    "/packages/scipy/constants/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/constants/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "20795d17bd79af0ebbb5863a202a1b5bf7be7866dabc49d8f69b081351a0c064"
+    },
+    "/packages/scipy/sparse/__pycache__/data.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/sparse/__pycache__/data.cpython-312.pyc",
+      "sha256": "a36ed314da457bc78695ba826e0376ffeadaa4318aea3b785d3bf26fae11bdfb"
+    },
+    "/packages/skimage/__init__.pyi": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/__init__.pyi",
+      "sha256": "faad85509ceff6ffc7ee6376bd226ec0349979d54f0a954351041be3eb33e62d"
+    },
+    "/packages/scipy/ndimage/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/ndimage/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "79a89f2b47eb1baf9cfcc5f895ff086c57a77a30f4377373cec65f7df59bf442"
+    },
+    "/packages/scipy/_external/packaging_version/__pycache__/version.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_external/packaging_version/__pycache__/version.cpython-312.pyc",
+      "sha256": "2c6378b4b1b634b676264873c9788536ef44a96a76550260eb187391f1906870"
+    },
+    "/packages/scipy/constants/__pycache__/_constants.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/constants/__pycache__/_constants.cpython-312.pyc",
+      "sha256": "7982733030c8a157d1eb26963d605e5307786222a7679b19e05369271f2f46c8"
+    },
+    "/packages/numpy/_typing/__pycache__/_dtype_like.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_typing/__pycache__/_dtype_like.cpython-312.pyc",
+      "sha256": "114cd643ff4dad1b9ae6ef581e63f729738f2538853507aa8f762b89969a1d05"
+    },
+    "/packages/numpy/ma/__pycache__/extras.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/ma/__pycache__/extras.cpython-312.pyc",
+      "sha256": "d54cef3815287e0d240141f5738f8d02d40661c7ef16dfb7fc2ec9f40bce1d1a"
+    },
+    "/packages/scipy/_external/array_api_compat/common/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_external/array_api_compat/common/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "d018f9c5bb077233f14459d40413e27ce574870f8665cc3907fc9894e6f335ea"
+    },
+    "/packages/scipy/linalg/__pycache__/_misc.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/__pycache__/_misc.cpython-312.pyc",
+      "sha256": "4b52dca68601bc792db181fd2cb095c0f9ded9a581c04dd6f29dabd8d160d939"
+    },
+    "/packages/numpy/__pycache__/__config__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/__pycache__/__config__.cpython-312.pyc",
+      "sha256": "a8d2a999ddb69decf67bc23f19141526fc4229a856783c0691c9882cc97a59c7"
+    },
+    "/packages/numpy/polynomial/__pycache__/polyutils.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/polynomial/__pycache__/polyutils.cpython-312.pyc",
+      "sha256": "c0004e89e85a5d06f64b41275e2bf6fec98a5a914e16d829624bfd1385ccdeff"
+    },
+    "/packages/numpy/_typing/__pycache__/_ufunc.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_typing/__pycache__/_ufunc.cpython-312.pyc",
+      "sha256": "7f151b6a76f4dd5ec150bf67b6a3138b15b620ea78a8e0a66bc8467153acde75"
+    },
+    "/packages/scipy/_lib/__pycache__/_testutils.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_lib/__pycache__/_testutils.cpython-312.pyc",
+      "sha256": "5bed14d9ed852e8215748a93b267006cd96048530169e836b1cb6898b32af4d5"
+    },
+    "/packages/skimage/_shared/__pycache__/tester.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/_shared/__pycache__/tester.cpython-312.pyc",
+      "sha256": "6763b205f9a0cd2f36fb969d0b5d4522a3d0fd6fbe24fb39359d129bcc9e4553"
+    },
+    "/packages/skimage/exposure/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/exposure/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "dd431faa48b899eeefbe959fe2f10747ccf9e16316c6d1de0f665bd4ad2b376b"
+    },
+    "/packages/scipy/linalg/__pycache__/_decomp_qr.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/__pycache__/_decomp_qr.cpython-312.pyc",
+      "sha256": "adda2d16666534ceddfc3c3815ac0608f86288d13d2184611ef1180e0ee992d5"
+    },
+    "/packages/numpy/_core/__pycache__/memmap.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_core/__pycache__/memmap.cpython-312.pyc",
+      "sha256": "7dac97512df526ed6dbb47da4004d75082eaf1cfe24a295eb3b38154011cd145"
+    },
+    "/packages/numpy/random/_common.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/random/_common.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "49f2b149b4079c73c2fad65f3414c77c545922a44ca9fbe844ba09a4b7c7fe61"
+    },
+    "/packages/scipy/spatial/__pycache__/_plotutils.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/spatial/__pycache__/_plotutils.cpython-312.pyc",
+      "sha256": "764232fb17caa48a8346f84cca1635b71b3f29e75211e838bda179022043f345"
+    },
+    "/packages/numpy/_typing/__pycache__/_array_like.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_typing/__pycache__/_array_like.cpython-312.pyc",
+      "sha256": "466d1caad0034b0f52d67bf5cdf32161a04473ff4917c99784b6b33a9862e157"
+    },
+    "/packages/scipy/_lib/__pycache__/_array_api.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_lib/__pycache__/_array_api.cpython-312.pyc",
+      "sha256": "9e4dbbba10aeeb25f7f5eeb3651cec74c937fc00bbf817d55983b1a15f7ecd6b"
+    },
+    "/packages/numpy/ma/__pycache__/core.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/ma/__pycache__/core.cpython-312.pyc",
+      "sha256": "fca607261ab4d78793d61346fc46b51ddc7a1fcd2c4e2630162eee0882c1e298"
+    },
+    "/packages/scipy/sparse/__pycache__/csr.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/sparse/__pycache__/csr.cpython-312.pyc",
+      "sha256": "5af5da106d64ee6df71ca5ff3c5c4217528685d0204441698449b5bd7cc78d79"
+    },
+    "/packages/scipy/spatial/_distance_pybind.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/spatial/_distance_pybind.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "3341729346fd65a36ab96a49300816d70ee99aef1ea9a58f9090047cb2885eb1"
+    },
+    "/packages/scipy/spatial/transform/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/spatial/transform/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "2212acfc42f8bfbcb0683931f5ca9d41f64b7e7d2cc23b013ea4b5cebbb21544"
+    },
+    "/packages/scipy/spatial/transform/__pycache__/_rigid_transform_xp.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/spatial/transform/__pycache__/_rigid_transform_xp.cpython-312.pyc",
+      "sha256": "26b788fa99b165954940bae9827bcf26955a5b42ed53b75f94e9a2a0cd6d016e"
+    },
+    "/packages/scipy/constants/__pycache__/_codata.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/constants/__pycache__/_codata.cpython-312.pyc",
+      "sha256": "8e18a3027849f3883f008490141b883338439cffde6a8456e8d9a20de249b6cd"
+    },
+    "/packages/skimage/_vendored/__pycache__/numpy_lookfor.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/_vendored/__pycache__/numpy_lookfor.cpython-312.pyc",
+      "sha256": "d6d0531dc76e0bbecae3fb36927c488edc1d613bf5c65a0d2c640728475d3c14"
+    },
+    "/packages/scipy/sparse/__pycache__/lil.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/sparse/__pycache__/lil.cpython-312.pyc",
+      "sha256": "3482e4a4bb386879963e55950baabe702fa60b768fcb5217e56235e7632816b4"
+    },
+    "/packages/numpy/lib/__pycache__/_npyio_impl.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/lib/__pycache__/_npyio_impl.cpython-312.pyc",
+      "sha256": "68a5d1fc833b349a0a8c633ab7e0d68162839ad26f22002149d54d82bfa9dc5f"
+    },
+    "/packages/scipy/sparse/__pycache__/csc.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/sparse/__pycache__/csc.cpython-312.pyc",
+      "sha256": "6809320c74ff0fae5680039282a953e18aee975ed1e11fcde444467b80500997"
+    },
+    "/packages/skimage/filters/__init__.pyi": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/filters/__init__.pyi",
+      "sha256": "2a89d0e891b0ceb46535ca06e70394994eee8dd350916d86e40ed46f9d831aaf"
+    },
+    "/packages/numpy/_core/__pycache__/_add_newdocs.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_core/__pycache__/_add_newdocs.cpython-312.pyc",
+      "sha256": "1c16669eb4e7a4270aa7a12ec884e00ffc9540dbf1b5de051fe5b32305e2e1a5"
+    },
+    "/packages/numpy/polynomial/__pycache__/hermite_e.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/polynomial/__pycache__/hermite_e.cpython-312.pyc",
+      "sha256": "60a35c5f3333cdb6576a30762cb249a21c71304e3a36f8b8926123a2938cfb06"
+    },
+    "/packages/scipy/sparse/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/sparse/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "7c9eba31d39bc363a4a1eb9ec9c855e97f0947533160b4b52b3f9aa63863c426"
+    },
+    "/packages/scipy/special/_specfun.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/special/_specfun.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "27d3b6f341a14d0bad5626873b21b983d07029beee1cd6049a10a4ad59a8d415"
+    },
+    "/packages/numpy/random/_mt19937.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/random/_mt19937.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "1f30e6960009158f05e9ba18670cfbca7c4817abb786369b9715421535fe64ff"
+    },
+    "/packages/numpy/lib/__pycache__/_index_tricks_impl.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/lib/__pycache__/_index_tricks_impl.cpython-312.pyc",
+      "sha256": "7790dfedf0f15605b04937c431d3cbb99346a7ea1cf20dc9fa18854e356731ac"
+    },
+    "44453:/input.npy": {
+      "host_file": "outputs/p0_t13_control/ct_only_inputs/slice_44453.npy",
+      "sha256": "a1e336f0e33e3e8488c23918b0e509b9f3087506d19f644a68ad370db21c796c"
+    },
+    "/packages/skimage/morphology/_skeletonize_various_cy.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/morphology/_skeletonize_various_cy.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "88a8193839d9f27b4365b2f19b502aab342840370a29d9184da934db3dfa9734"
+    },
+    "/packages/numpy/typing/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/typing/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "9d131cc8393a1096fa178ca1db21a1dddaefa9981cf98b7afdd1b1f5d3a52323"
+    },
+    "/packages/scipy/linalg/__pycache__/_decomp_ldl.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/__pycache__/_decomp_ldl.cpython-312.pyc",
+      "sha256": "46d22161d756ed09cbaf5688d2818c142b65aa753392369f6f8c490c36cb0d1f"
+    },
+    "/packages/numpy/f2py/__pycache__/_isocbind.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/f2py/__pycache__/_isocbind.cpython-312.pyc",
+      "sha256": "381a8166e153c935e19f628a1242ceb110b51595538ce302f81c34cc09c55b2e"
+    },
+    "/packages/skimage/_shared/__pycache__/_warnings.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/_shared/__pycache__/_warnings.cpython-312.pyc",
+      "sha256": "d41369b57fbb1a734302a9f23ff9d6d900a05ff5701e8d2818305d36772de52d"
+    },
+    "/packages/skimage/util/__pycache__/noise.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/util/__pycache__/noise.cpython-312.pyc",
+      "sha256": "189294f4ea796bb1bee901d270d545c2082c31c55038bc03400b46b04546019e"
+    },
+    "/packages/scipy/ndimage/__pycache__/morphology.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/ndimage/__pycache__/morphology.cpython-312.pyc",
+      "sha256": "200a2aaeb88fc0f592eadfcc170f988f23ef51df94cf6513a3b79febbddedcd6"
+    },
+    "/packages/scipy/sparse/__pycache__/bsr.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/sparse/__pycache__/bsr.cpython-312.pyc",
+      "sha256": "00561ce2fb75d090d9a91f577d6026695cb8a0f78ca0faa65633becc189c1698"
+    },
+    "/packages/numpy/_typing/__pycache__/_nbit.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_typing/__pycache__/_nbit.cpython-312.pyc",
+      "sha256": "1a2f37255683ea647404cea7868b61c6ae96118e72e245a491a0789274ae7116"
+    },
+    "/packages/numpy/fft/__pycache__/_helper.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/fft/__pycache__/_helper.cpython-312.pyc",
+      "sha256": "a0ef3fabed8fa13d270b97fe08a87b4e8aae006afd1ac8b4d435ef8e395465fb"
+    },
+    "/packages/numpy/f2py/__pycache__/func2subr.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/f2py/__pycache__/func2subr.cpython-312.pyc",
+      "sha256": "5b593749e20b3d31f73dea62648d86d0dd325a691ec6b25cc70af2bd5c3ad7af"
+    },
+    "/packages/numpy/_core/__pycache__/_string_helpers.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_core/__pycache__/_string_helpers.cpython-312.pyc",
+      "sha256": "002452bcdc0efa04e9080eef02de146e3fea911cca6d7a2bc75412076a1d77b8"
+    },
+    "/packages/numpy/lib/__pycache__/stride_tricks.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/lib/__pycache__/stride_tricks.cpython-312.pyc",
+      "sha256": "e1a2aa1ff05a0eda683ed2af1a8be50dea8c4e876bc36d84953ed7d582803e1e"
+    },
+    "/packages/scipy/linalg/_flapack.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/_flapack.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "f5d54390edc4081ff585108a1fa11eb184f5b7e4cdebcf3d24cd04d1372b1d6e"
+    },
+    "/packages/numpy/_utils/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_utils/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "4293ed0c868da24f6ac139076de13ae3334e892badc939fa6a809276a2511c4c"
+    },
+    "/packages/scipy/ndimage/__pycache__/_ndimage_api.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/ndimage/__pycache__/_ndimage_api.cpython-312.pyc",
+      "sha256": "ea08686eb1979e2942c3ee08baa8e50e170b8728a75a932f968d666a494037bd"
+    },
+    "/packages/scipy/sparse/__pycache__/_extract.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/sparse/__pycache__/_extract.cpython-312.pyc",
+      "sha256": "b8fba777774d0d83870113d796e926e8128feca292915baa2bb44ad2e7cf4875"
+    },
+    "/packages/scipy/linalg/__pycache__/_decomp_svd.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/__pycache__/_decomp_svd.cpython-312.pyc",
+      "sha256": "5a0f9bdc0021ea8845b9cbbc902e88b9719efa31c882d49d0b85f24914a46a0e"
+    },
+    "/packages/scipy/_lib/__pycache__/_sparse.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_lib/__pycache__/_sparse.cpython-312.pyc",
+      "sha256": "339f134a45150792d2c6a55924de31278a23a8043176b84fb41141b2ce18dcb0"
+    },
+    "/packages/numpy/polynomial/__pycache__/legendre.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/polynomial/__pycache__/legendre.cpython-312.pyc",
+      "sha256": "454664f836ed2bdf7d30c8868c294931f1c287d7fd23a8f5737ae4b221edfadc"
+    },
+    "/packages/skimage/draw/__init__.pyi": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/draw/__init__.pyi",
+      "sha256": "77319d1fc75590b3dba43c64700f6fef041d0046f11f286ad4caa758f5982dc3"
+    },
+    "/packages/numpy/lib/__pycache__/_arraysetops_impl.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/lib/__pycache__/_arraysetops_impl.cpython-312.pyc",
+      "sha256": "215ec69ca21ec6463bdb25b99d0ce5666dd8123dfd8b74f28fed8017e876fc0f"
+    },
+    "/packages/scipy/linalg/__pycache__/_special_matrices.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/__pycache__/_special_matrices.cpython-312.pyc",
+      "sha256": "83137876283c20aa1cb4682716c4026467fdddfaf70ed9f6f0501fb45b98a9c8"
+    },
+    "/packages/scipy/_external/array_api_extra/_lib/__pycache__/_at.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_external/array_api_extra/_lib/__pycache__/_at.cpython-312.pyc",
+      "sha256": "be87fc835dd573993027b946e4f62dd1bd05f3b0eee5d94feb4b6b7119eedeb0"
+    },
+    "/packages/scipy/linalg/_cythonized_array_utils.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/_cythonized_array_utils.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "739066c2438386a082eaa68a0c0070e4502bc8d9245364cd1333b49b2d359dba"
+    },
+    "/packages/scipy/spatial/__pycache__/_kdtree.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/spatial/__pycache__/_kdtree.cpython-312.pyc",
+      "sha256": "b939c6bcbc009a1547b5f66d203bfebdc556681d0d7b7870964da318a6c82508"
+    },
+    "/packages/skimage/filters/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/filters/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "1b3ea1ac943b36efd4478eda624d068c3a50ed61a9e4818d638e7385c98b263a"
+    },
+    "/packages/scipy/special/_ellip_harm_2.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/special/_ellip_harm_2.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "6c8d08696870191f4321970663252cde2a1c17fb94e2db9f7c74ad85a15dfd1a"
+    },
+    "/packages/skimage/morphology/__pycache__/binary.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/morphology/__pycache__/binary.cpython-312.pyc",
+      "sha256": "3a1d5ebc19b62c388344dba4866938f51dd0ba4449b905dc8975c875d93e6370"
+    },
+    "/packages/numpy/lib/__pycache__/introspect.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/lib/__pycache__/introspect.cpython-312.pyc",
+      "sha256": "8d7398ce1591380e071403cac8e9a8abe07b25f9eb186e667dac5513f17e9bde"
+    },
+    "/packages/scipy/spatial/transform/__pycache__/_rigid_transform.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/spatial/transform/__pycache__/_rigid_transform.cpython-312.pyc",
+      "sha256": "d764884e3127042211468be61247b05ba35b8d8a3a568d9ffab1a73c0a39a1c9"
+    },
+    "/packages/numpy/__pycache__/_distributor_init.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/__pycache__/_distributor_init.cpython-312.pyc",
+      "sha256": "da94dd7528f34f66a765e5f2fc7d1b516887a1c4adaa8741a8dcd053bb99fb15"
+    },
+    "/packages/numpy/lib/__pycache__/_shape_base_impl.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/lib/__pycache__/_shape_base_impl.cpython-312.pyc",
+      "sha256": "4c9b54112ecbc67be60b6b5aa035ce34ca3c04b19b0886db097e0544ba32ceb5"
+    },
+    "/packages/numpy/random/_bounded_integers.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/random/_bounded_integers.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "18a60364616a82854328c1cfd3b2fb9716aa30daaf26ca79584ea4a48b52d39d"
+    },
+    "/packages/numpy/_core/_multiarray_umath.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_core/_multiarray_umath.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "73d0c6e928b027c9a3a99101dd0899492d91ccb2ba350dbb851e4b06c89039cb"
+    },
+    "/packages/scipy/_external/array_api_extra/_lib/_utils/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_external/array_api_extra/_lib/_utils/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "d8cdc35e2769141ea88bff4d21e2201bc93b3c4a24e6ab00371032ec7d3f30fd"
+    },
+    "/packages/scipy/ndimage/_rank_filter_1d.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/ndimage/_rank_filter_1d.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "584795edcb48ec2271c9e79dfeb4f30b714892143d2ec41372264ca65588f0fb"
+    },
+    "/packages/scipy/spatial/_hausdorff.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/spatial/_hausdorff.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "853f99161fd0bf3168bde6ff109d84717450da3f419c84106309cc5a27b7cdab"
+    },
+    "/packages/scipy/sparse/__pycache__/_compressed.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/sparse/__pycache__/_compressed.cpython-312.pyc",
+      "sha256": "98323b01d0312806c2950fe37f9768583eeade1d2bcbab16f9cd2390f075f02d"
+    },
+    "/packages/scipy/spatial/transform/__pycache__/_rotation_groups.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/spatial/transform/__pycache__/_rotation_groups.cpython-312.pyc",
+      "sha256": "342b11264e53b52c729c2bae69fb09daa1c8480b8d0b4103e2b7396b65dab673"
+    },
+    "/packages/scipy/special/__pycache__/_multiufuncs.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/special/__pycache__/_multiufuncs.cpython-312.pyc",
+      "sha256": "0dcec5de9579ce6415addc0a5bca93be989a69775b6ce241e280a0154ce05f0a"
+    },
+    "/packages/scipy/sparse/__pycache__/_base.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/sparse/__pycache__/_base.cpython-312.pyc",
+      "sha256": "c70729c85db42fbc65a2bc4fe3efc5f6614349877c32313138bea779887e122f"
+    },
+    "/packages/skimage/morphology/_grayreconstruct.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/morphology/_grayreconstruct.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "dc8e12f52b4c2e4f5c7aa8a2d77a10756529f2cce2f47fa0ed4eb02422858ea8"
+    },
+    "/packages/numpy/__pycache__/dtypes.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/__pycache__/dtypes.cpython-312.pyc",
+      "sha256": "5e53db3b147b474d7ec780790cfaa07eb90182a1b3a943ef83390b8d6e86d1ef"
+    },
+    "/packages/numpy/_typing/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_typing/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "6820add5fb5e5af462717741390e308a21e8a9f9d40680a17dd0f7eb4d751e83"
+    },
+    "/packages/numpy/linalg/_umath_linalg.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/linalg/_umath_linalg.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "47082efc741a925c0405622f128ec80c2d93739dcfe9915c42679a8164f5b83c"
+    },
+    "/packages/scipy/special/__pycache__/_sf_error.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/special/__pycache__/_sf_error.cpython-312.pyc",
+      "sha256": "14db9f5f0257dea021f9d07453a42cd34bd0a8358e1a7c4961e8c357945ca782"
+    },
+    "/packages/scipy/linalg/__pycache__/_decomp_qz.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/__pycache__/_decomp_qz.cpython-312.pyc",
+      "sha256": "1611d24e97cb6b9468c4ad8f33b792f1c7e7e65d4676998d3b77a7b5c7a167f4"
+    },
+    "/packages/scipy/_external/array_api_compat/__pycache__/_internal.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_external/array_api_compat/__pycache__/_internal.cpython-312.pyc",
+      "sha256": "2617c05bf39689371da5ee8ff0189f5ea8ec2362cc5455ab335f8709d8c15794"
+    },
+    "/packages/numpy/ctypeslib/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/ctypeslib/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "7ab8c7ca80994137f674a9b146f66fecb1c3d13a2d83921553bf6d51a97d3f7b"
+    },
+    "/packages/numpy/f2py/__pycache__/diagnose.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/f2py/__pycache__/diagnose.cpython-312.pyc",
+      "sha256": "9df290b9a229b3325be1e86c26d91ad23744d68fd2ba39b02ca30277dce6e972"
+    },
+    "/packages/scipy/spatial/transform/_rigid_transform_cy.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/spatial/transform/_rigid_transform_cy.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "a06a8aa318dc5a2d97c3fbe6002c1db44c397e755ba3d97d8960ca31a18f97d9"
+    },
+    "/packages/numpy/polynomial/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/polynomial/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "28100d0d431199cc76cb13c7df443ca1efbfdd33fd18ab78e43b15f3c366d9d0"
+    },
+    "/packages/scipy/_external/array_api_compat/common/__pycache__/_aliases.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_external/array_api_compat/common/__pycache__/_aliases.cpython-312.pyc",
+      "sha256": "60def9bc1b021a1e3def37d8a947f7c051dcee78136e505297965fc7276c3725"
+    },
+    "/packages/scipy/special/__pycache__/_input_validation.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/special/__pycache__/_input_validation.cpython-312.pyc",
+      "sha256": "b224ee1f76b0b7735db1d5289f58814c57e5da9e8894901085c53310a1816d23"
+    },
+    "/packages/scipy/special/__pycache__/spfun_stats.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/special/__pycache__/spfun_stats.cpython-312.pyc",
+      "sha256": "365a0d1ae36cdc0277adf50846c6f9c6b60561fc6fd9b3da36ddab8d9b35fa0a"
+    },
+    "/packages/numpy/_core/__pycache__/_type_aliases.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_core/__pycache__/_type_aliases.cpython-312.pyc",
+      "sha256": "bd98c708ec6f46458ec4a3362ee6c327aa36da398b47f0290fb2e86d7e85f6fe"
+    },
+    "/packages/numpy/_typing/__pycache__/_scalars.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_typing/__pycache__/_scalars.cpython-312.pyc",
+      "sha256": "a6ea8acf2a0c746498c2a2b82dc44b07b879031bc894254428fa6dd5c8864b26"
+    },
+    "/packages/skimage/_vendored/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/_vendored/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "ae7f5f7a37843db8f2aa989f1a1ea4e995b1d6a21e3a6966ba5cdcdc474fcf42"
+    },
+    "/packages/skimage/util/__pycache__/_invert.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/util/__pycache__/_invert.cpython-312.pyc",
+      "sha256": "2fce186acc5da2eaf8af87a82cdda02059ed7276a22e7ef71d801481bb41da30"
+    },
+    "/packages/skimage/util/__pycache__/apply_parallel.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/util/__pycache__/apply_parallel.cpython-312.pyc",
+      "sha256": "b00550a4ed062cdc00746bb11960c80ceb5d556fc6665a5069c20ca4dd838e67"
+    },
+    "/packages/numpy/lib/__pycache__/_histograms_impl.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/lib/__pycache__/_histograms_impl.cpython-312.pyc",
+      "sha256": "8c8e3c61821be344f4e6d7301bc16fa90014748d8f8030dd696dc732e6460e30"
+    },
+    "/packages/skimage/measure/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/measure/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "49dc21d2afd5854c92b9c749bfbb3423513ddd56027e434346bc44f6b25e3ab2"
+    },
+    "/packages/skimage/morphology/disk_decompositions.npy": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/morphology/disk_decompositions.npy",
+      "sha256": "769739e7b3d8c7061993682cdf45a0c048940952fb78e31b172d830f7e78e7ee"
+    },
+    "/packages/skimage/morphology/__pycache__/extrema.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/morphology/__pycache__/extrema.cpython-312.pyc",
+      "sha256": "5a78aa77eca985ba0b923df5002b2769193d456c3e7f723d9a1bc4fc09aab410"
+    },
+    "/packages/numpy/_typing/__pycache__/_shape.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_typing/__pycache__/_shape.cpython-312.pyc",
+      "sha256": "df4cdfb0056554c146efe5f8487495241260dca9edf957062784cea86ecaec6b"
+    },
+    "/packages/scipy/linalg/_solve_toeplitz.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/_solve_toeplitz.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "df6cff33feb7b65613c5459aed5cfeacb9369ad89d7b3fa3b47bb3b06b49fb40"
+    },
+    "/packages/skimage/measure/__pycache__/_label.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/measure/__pycache__/_label.cpython-312.pyc",
+      "sha256": "d9e9dd051ea0894bad020bf479ccf76c615bea0d2ec1a0b9707cb873dd812c0f"
+    },
+    "/packages/numpy/_core/__pycache__/umath.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_core/__pycache__/umath.cpython-312.pyc",
+      "sha256": "3909ce75880e8a7dd11365ad5fceef3863e5ab19accf4d08761a35085f3802c0"
+    },
+    "/packages/scipy/special/__pycache__/sf_error.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/special/__pycache__/sf_error.cpython-312.pyc",
+      "sha256": "a647f67969dfa2bf41f637b7fb5ca168e452b5d649054749ad9157166c231d41"
+    },
+    "/packages/scipy/spatial/_distance_wrap.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/spatial/_distance_wrap.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "1ef681a554edd6463ab671462768356e913a46cbc0697ba80dcd71a21fa428c6"
+    },
+    "/packages/scipy/_external/array_api_compat/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_external/array_api_compat/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "5f757ed82a996f754d05ee242bc8514f8055930f30eaa46e5214be95b96d5376"
+    },
+    "/packages/numpy/rec/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/rec/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "6e6c4970b04c97b1d1213bfad1191cadc0860a4b1000e51cc2a4e94a29e4036d"
+    },
+    "/packages/numpy/lib/__pycache__/_twodim_base_impl.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/lib/__pycache__/_twodim_base_impl.cpython-312.pyc",
+      "sha256": "a02c656e6405b161be2e6e954368b974a660215663196c0bb9c5a0d0ecea4385"
+    },
+    "/packages/scipy/_external/array_api_compat/numpy/__pycache__/_aliases.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_external/array_api_compat/numpy/__pycache__/_aliases.cpython-312.pyc",
+      "sha256": "0bddd2eab641d3ebda7271487e3864c549e4f89736f057eaaf225959e6b54d8f"
+    },
+    "/packages/scipy/ndimage/__pycache__/fourier.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/ndimage/__pycache__/fourier.cpython-312.pyc",
+      "sha256": "c44f6c556b288e7689cb462f4fce54382b1e96609a14f6450da1611d15d77dba"
+    },
+    "/packages/numpy/f2py/__pycache__/auxfuncs.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/f2py/__pycache__/auxfuncs.cpython-312.pyc",
+      "sha256": "3a4462ad69bc6add5e06cb45823e7920ca64d1ec5f016dc0cd7cb226e6b42ee7"
+    },
+    "/packages/skimage/util/__pycache__/_slice_along_axes.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/util/__pycache__/_slice_along_axes.cpython-312.pyc",
+      "sha256": "8c093822965c0491573fdc5eb97392603f5e1dc8b25db04f163e6ed057914773"
+    },
+    "/packages/numpy/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "b95739e17b23eeecb7df2065341ca57834831c589a517405cce9d568c6f7052f"
+    },
+    "/packages/numpy/_typing/__pycache__/_nested_sequence.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_typing/__pycache__/_nested_sequence.cpython-312.pyc",
+      "sha256": "050dfa2059cd43798fc7649b9a374ba7cf9ac8cff1cc92cf6c6f333100a9132f"
+    },
+    "/packages/numpy/polynomial/__pycache__/chebyshev.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/polynomial/__pycache__/chebyshev.cpython-312.pyc",
+      "sha256": "11a4f067996873a179f15698aab4bb9eba7e59b9d63a54cc0aa8998b57037daf"
+    },
+    "/packages/numpy/ma/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/ma/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "dbc228bf0739eb07e27724c65f29a8360222feffe7f3d1e171f4ff6fec060fba"
+    },
+    "/packages/scipy/special/_ufuncs_cxx.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/special/_ufuncs_cxx.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "07645a31a775908f5c6d77ea0ddd8eb893d87cc1026d505b02ff57fb9a2ceb49"
+    },
+    "/packages/scipy/ndimage/__pycache__/measurements.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/ndimage/__pycache__/measurements.cpython-312.pyc",
+      "sha256": "fad8103eee16d7eb6c4cb95c3cb423244445c0806f72b3b3d38b96a6e1822dc9"
+    },
+    "/packages/numpy/random/mtrand.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/random/mtrand.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "4c3221030b0af8b65db2a5e44b6b57c07e70441305a050e4fdf6b1c68a71cb0b"
+    },
+    "/packages/scipy/_external/array_api_compat/numpy/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_external/array_api_compat/numpy/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "1032db3036554adce38665057fa005bae1c4c1ca88aad77795b0dfc1fc65f163"
+    },
+    "/packages/numpy/_core/__pycache__/strings.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_core/__pycache__/strings.cpython-312.pyc",
+      "sha256": "848e39c3bcab70089ffea53416a419838dc291d5eb238cbd5009b3d935a713d6"
+    },
+    "/packages/numpy/f2py/__pycache__/f90mod_rules.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/f2py/__pycache__/f90mod_rules.cpython-312.pyc",
+      "sha256": "01ddffd92b8433b831deeffda808408d7e8d5f7a9eea6c438f95fd4e57c4f6d4"
+    },
+    "/packages/scipy/sparse/__pycache__/_csc.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/sparse/__pycache__/_csc.cpython-312.pyc",
+      "sha256": "f0f4652ea49d5b1e373b634025372a0c78d7b4772e5798865f8c825351ca02a1"
+    },
+    "/packages/scipy/linalg/__pycache__/_decomp_schur.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/__pycache__/_decomp_schur.cpython-312.pyc",
+      "sha256": "e129b13721df3e254c7ff97508a55068d256672a7d7f01fd8fef37c8da3be34b"
+    },
+    "/packages/numpy/lib/__pycache__/_datasource.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/lib/__pycache__/_datasource.cpython-312.pyc",
+      "sha256": "777b7225c6d4ced4ce9ce6a6583a62db711459e86200c42978e9efce03725a94"
+    },
+    "/packages/scipy/linalg/__pycache__/_decomp_polar.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/__pycache__/_decomp_polar.cpython-312.pyc",
+      "sha256": "baee4e2c48380dfdfce7420b6426756be5fe98a73683bcd538487e114bc1c1cf"
+    },
+    "/packages/scipy/special/__pycache__/_ellip_harm.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/special/__pycache__/_ellip_harm.cpython-312.pyc",
+      "sha256": "4bd98da78a6203dd41dd783fe0b19bdef496301729c1da37dbbe0513ff4e026b"
+    },
+    "/packages/numpy/lib/__pycache__/_stride_tricks_impl.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/lib/__pycache__/_stride_tricks_impl.cpython-312.pyc",
+      "sha256": "eb8f1a9e24aea61eb84d483b87f606cf1634f1b330d92b84ac2feee0b523221a"
+    },
+    "/packages/scipy/linalg/__pycache__/_decomp_cossin.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/__pycache__/_decomp_cossin.cpython-312.pyc",
+      "sha256": "eaaea124bcf508d922846c7d9eb939b81cf822e264daf48c0b18aafbe37917ea"
+    },
+    "/packages/scipy/ndimage/__pycache__/interpolation.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/ndimage/__pycache__/interpolation.cpython-312.pyc",
+      "sha256": "609419d6be759825fc7c46917dbb9e35b0bf19884a61dd85f5680736d529f2c9"
+    },
+    "/packages/scipy/ndimage/__pycache__/_interpolation.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/ndimage/__pycache__/_interpolation.cpython-312.pyc",
+      "sha256": "913d2e8ebda4c5ce421def2699c9f82d315d6756f37a60cee47a3ddd32b951e5"
+    },
+    "/packages/numpy/f2py/_backends/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/f2py/_backends/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "718c074b046fcea0a0f1fc4aa7daa9c75effc620064823d5f87c3483c5f89cf8"
+    },
+    "/packages/scipy/_external/array_api_compat/common/__pycache__/_fft.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_external/array_api_compat/common/__pycache__/_fft.cpython-312.pyc",
+      "sha256": "6dffb0ae059e04fbf44b3d4d7c6bb19b708c9a2dedc6db2fb2ea0a1fd0db791d"
+    },
+    "/packages/skimage/morphology/_extrema_cy.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/morphology/_extrema_cy.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "d9c8b5581a65d0a7a53a33ed8978409e80d61532a979e268958d5df4bf0f1a11"
+    },
+    "/packages/scipy/special/__pycache__/_lambertw.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/special/__pycache__/_lambertw.cpython-312.pyc",
+      "sha256": "98999deb75f8618be0e1e259460d3e400dd93d799449b7309d54db340cf0d24b"
+    },
+    "/packages/numpy/lib/__pycache__/array_utils.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/lib/__pycache__/array_utils.cpython-312.pyc",
+      "sha256": "bea5adfb9b97d97d4a0f50ccb24ddb4d0e5ae358c5702bf7cd8966d09c935c64"
+    },
+    "/packages/scipy/special/__pycache__/_basic.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/special/__pycache__/_basic.cpython-312.pyc",
+      "sha256": "1910113a95f44e42efdf70ec20675235fd8b457fe424e1143ce8594d387e7786"
+    },
+    "/packages/skimage/morphology/ball_decompositions.npy": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/morphology/ball_decompositions.npy",
+      "sha256": "4f9eb51f361fd7d7d22d342dec7bb98178a21aa9c944507f25898b8ca213e54d"
+    },
+    "/packages/skimage/util/__pycache__/lookfor.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/util/__pycache__/lookfor.cpython-312.pyc",
+      "sha256": "f39ff4111cedd9886b5c613b0ccb766384e548bb099aaa03085a0cbbf559c460"
+    },
+    "/packages/numpy/lib/__pycache__/mixins.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/lib/__pycache__/mixins.cpython-312.pyc",
+      "sha256": "0d496ce4c603db1868945db92152b938e06de4d5240497b016c3baa9f5d8b34f"
+    },
+    "/packages/numpy/lib/__pycache__/_scimath_impl.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/lib/__pycache__/_scimath_impl.cpython-312.pyc",
+      "sha256": "0e95705cefe5018b9beeda14baee3367b5ab8d53be06b2f50e0452f9be086033"
+    },
+    "/packages/numpy/__pycache__/_pytesttester.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/__pycache__/_pytesttester.cpython-312.pyc",
+      "sha256": "f1fd0807c00880a13cdf82a8a9b78358d497bb80970d5066501871841052adec"
+    },
+    "/packages/scipy/linalg/__pycache__/decomp_cholesky.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/__pycache__/decomp_cholesky.cpython-312.pyc",
+      "sha256": "45498668784d66d53f4836b394d5c6e92c5adc7527e1dd331cf5407bdc13daa9"
+    },
+    "/packages/scipy/_external/packaging_version/__pycache__/_structures.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_external/packaging_version/__pycache__/_structures.cpython-312.pyc",
+      "sha256": "760ffef0eae64adf15bf6ade2704fd16d8bc8e7b1befaee7ed66d2d8695de72f"
+    },
+    "/worker.py": {
+      "host_file": "scripts/p0_t13_control_reconstruct.py",
+      "sha256": "5bba58e70be384ccd7d5830ae3870d57607a235a7a4df73ea8a0ab18c58c354e"
+    },
+    "/packages/scipy/special/__pycache__/_ufunc_tools.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/special/__pycache__/_ufunc_tools.cpython-312.pyc",
+      "sha256": "1c8e3b5e8592622a14cc9f88777daa4d478ecb02bcfd3654307109bf044381a7"
+    },
+    "/packages/numpy/lib/__pycache__/_iotools.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/lib/__pycache__/_iotools.cpython-312.pyc",
+      "sha256": "cdffc8f88799560d9ff487f5b490e96be241ec93f45c50d024d17a6e82ca3334"
+    },
+    "/packages/scipy/_external/array_api_compat/numpy/__pycache__/linalg.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_external/array_api_compat/numpy/__pycache__/linalg.cpython-312.pyc",
+      "sha256": "ec6253095e27a0cd4dc0781870c0d5f2657260060611cc173cd404321fb6ce20"
+    },
+    "/packages/numpy/_core/__pycache__/_dtype.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_core/__pycache__/_dtype.cpython-312.pyc",
+      "sha256": "fa1dcabbfa38e71854429604ed562d70e3a0cc0368a5e8849029f5bb26348b2b"
+    },
+    "/packages/scipy/_external/array_api_extra/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_external/array_api_extra/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "1cfc8bba679a7fd69e86a048f5ad9a3799de7c173de445a778cbe20711ff174e"
+    },
+    "/packages/scipy.libs/libgfortran-e1b7dfc8.so.5.0.0": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy.libs/libgfortran-e1b7dfc8.so.5.0.0",
+      "sha256": "296e40e3d92d0c4377e1f8b40a929045fee6bc5686226faf940fc824e469a7be"
+    },
+    "/packages/numpy/linalg/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/linalg/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "c5cbf8abda574e19bb138c4b79a3a267d51daff45b6a2b7848b15475e92cb358"
+    },
+    "/packages/numpy/_core/__pycache__/multiarray.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_core/__pycache__/multiarray.cpython-312.pyc",
+      "sha256": "8369c102846427c784f14257c2ddfb15971e352c6af886ea10686743bc2c2535"
+    },
+    "/packages/scipy/__pycache__/version.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/__pycache__/version.cpython-312.pyc",
+      "sha256": "6644e80aceb5eeaa12031d50e3ffd0600617e1ee6f6fdda394224386a751dbd4"
+    },
+    "/packages/numpy/_core/__pycache__/einsumfunc.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_core/__pycache__/einsumfunc.cpython-312.pyc",
+      "sha256": "315c3e7e8436c20e32525b93c93a8afd357af017c32e9fa83a720c728991888b"
+    },
+    "/packages/scipy/sparse/__pycache__/_matrix_io.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/sparse/__pycache__/_matrix_io.cpython-312.pyc",
+      "sha256": "c6ebe4b3ad204034adf5c9398a82ed4b825b491009c6fdc4f781a9062157410f"
+    },
+    "/packages/numpy/fft/__pycache__/_pocketfft.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/fft/__pycache__/_pocketfft.cpython-312.pyc",
+      "sha256": "0121e75c94fe734c278c1772fb03ddce9c667bbbadb01da3945bc4818dbd8861"
+    },
+    "/packages/numpy/f2py/__pycache__/__version__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/f2py/__pycache__/__version__.cpython-312.pyc",
+      "sha256": "6ad6f6e21c6158fcdfa9e0c81b7d323603a7ea651fef5a00b9f2557afb599ebd"
+    },
+    "/packages/scipy/sparse/__pycache__/extract.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/sparse/__pycache__/extract.cpython-312.pyc",
+      "sha256": "169e2f3d0db96ebea3aa12883d6fc3ac2554098fecd245a103fd3de72f40458c"
+    },
+    "/packages/scipy/sparse/__pycache__/construct.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/sparse/__pycache__/construct.cpython-312.pyc",
+      "sha256": "63586d30f43d79f2a96745341dceb5cab79168a2b9ea5411dc3c41b24de071e6"
+    },
+    "/packages/numpy/_core/__pycache__/_ufunc_config.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_core/__pycache__/_ufunc_config.cpython-312.pyc",
+      "sha256": "a41ff37777ed2b801ba47e98ba19568c3f536a9fc604c8994f2873414ca3a039"
+    },
+    "/packages/scipy/spatial/__pycache__/_procrustes.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/spatial/__pycache__/_procrustes.cpython-312.pyc",
+      "sha256": "251d377e302fe2bb11caeb4b4ab9a768501fe7abf734fb1906dd78d042627d1c"
+    },
+    "/packages/skimage/measure/__pycache__/pnpoly.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/measure/__pycache__/pnpoly.cpython-312.pyc",
+      "sha256": "285ed7c3ea04dfe625bd6e14b8df8d0e23f37ed3295d425491096596a47e7926"
+    },
+    "/packages/skimage/measure/_pnpoly.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/measure/_pnpoly.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "533b5bd0de6d3afef23f839de611569e84e6a21ebb953e8598e366e507e14435"
+    },
+    "/packages/numpy/_core/__pycache__/records.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_core/__pycache__/records.cpython-312.pyc",
+      "sha256": "5d7f1673d76e085311f2dc814e928a19b3205eb44b2cb6ef607637d783099bb0"
+    },
+    "/packages/numpy/__pycache__/_expired_attrs_2_0.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/__pycache__/_expired_attrs_2_0.cpython-312.pyc",
+      "sha256": "012b767a8840a4dfd3d4014a74400f1ec34336129dbe24e722cac088126654a9"
+    },
+    "/packages/numpy/f2py/__pycache__/common_rules.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/f2py/__pycache__/common_rules.cpython-312.pyc",
+      "sha256": "2266bbb8944e49d2eaf691f44e2adbffc51ff95b8b84402cf0023f0a88689967"
+    },
+    "/packages/numpy/random/_generator.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/random/_generator.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "9b7a0254a67d20aad3036230b6ae563d01c294684f18ba49a28a552a12a3e051"
+    },
+    "/packages/numpy/f2py/__pycache__/cfuncs.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/f2py/__pycache__/cfuncs.cpython-312.pyc",
+      "sha256": "2dcf59d20390ac121955d7d12775f449408e3fe65274750dc33662da635c97dd"
+    },
+    "/packages/scipy/linalg/__pycache__/decomp_schur.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/__pycache__/decomp_schur.cpython-312.pyc",
+      "sha256": "63968d6f52f503c155946f32ca974f358b53b4540a91222f7dcff9aa77a62930"
+    },
+    "/packages/scipy/_external/array_api_extra/_lib/_utils/__pycache__/_typing.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_external/array_api_extra/_lib/_utils/__pycache__/_typing.cpython-312.pyc",
+      "sha256": "7c07de6e73c61d3d2ef28acedacfbe99009f47ea41974bff73abe459497ad5ad"
+    },
+    "/packages/numpy/random/_sfc64.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/random/_sfc64.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "88a259d512064bed4f64164e9342c8c6d8c639ea6ed9a25a58b33f1d76fa88d9"
+    },
+    "/packages/numpy/_core/__pycache__/fromnumeric.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_core/__pycache__/fromnumeric.cpython-312.pyc",
+      "sha256": "66fbe8a4e781aaf93b160d8b4c90c4ce11fe5085f61fe04c738bbb7c7acf8470"
+    },
+    "/packages/scipy/__pycache__/_distributor_init.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/__pycache__/_distributor_init.cpython-312.pyc",
+      "sha256": "e94e44bc950ea22523d2950e9ed9295c578c4ca07db699f57727c3174d22b48b"
+    },
+    "/packages/scipy/_external/__pycache__/_array_api_compat_vendor.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_external/__pycache__/_array_api_compat_vendor.cpython-312.pyc",
+      "sha256": "0f0e6554c56ce8e7503f25cfa12afd2ae33a91e83f28f9a91514b2fe5467a030"
+    },
+    "/packages/scipy/spatial/_ckdtree.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/spatial/_ckdtree.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "554de933a7e357831d58406c175c63c5642c684623bf90b79bf6b485b5b12b59"
+    },
+    "/packages/scipy/_lib/__pycache__/deprecation.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_lib/__pycache__/deprecation.cpython-312.pyc",
+      "sha256": "79ece083a8f6a58417b76e659e0270c5cad6bdce29c8a9b2ce8fe01b242f375f"
+    },
+    "/packages/numpy/_core/__pycache__/numerictypes.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_core/__pycache__/numerictypes.cpython-312.pyc",
+      "sha256": "8768cd65d4b791d8e98b311d579ffe37725f3f93c46cd49e49cc5081aa4de03a"
+    },
+    "/packages/numpy/_core/__pycache__/arrayprint.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_core/__pycache__/arrayprint.cpython-312.pyc",
+      "sha256": "5e18c557e568f7d3a76d8eba9f705adde88ba413ba4b0e806bda2c81811dd815"
+    },
+    "/packages/scipy/constants/__pycache__/constants.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/constants/__pycache__/constants.cpython-312.pyc",
+      "sha256": "5215f8555a88d32b7fb64b2a826884043b4c0496082232095e52dd953e9ae4d1"
+    },
+    "/packages/numpy/polynomial/__pycache__/_polybase.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/polynomial/__pycache__/_polybase.cpython-312.pyc",
+      "sha256": "d56362c85019a1a4ada73762a0392819a45bad984289707dd729ee0b5a0c1b5f"
+    },
+    "/packages/numpy/testing/_private/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/testing/_private/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "9af560cb794e0e836591ccd3fe773ad109b01a94da8dc8f2c0652673af3f1a4f"
+    },
+    "/packages/scipy/_lib/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_lib/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "bd490124ed3d2b1188422e76b93140a6c1ae0d8d6538bc78debd7914c610c7a6"
+    },
+    "/packages/skimage/morphology/_skeletonize_lee_cy.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/morphology/_skeletonize_lee_cy.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "8c6fc8757d2d3552d79612c4c21d9e18cf201761210601ad5b8da77a460562ca"
+    },
+    "/packages/numpy/lib/__pycache__/_arraypad_impl.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/lib/__pycache__/_arraypad_impl.cpython-312.pyc",
+      "sha256": "24c759c9b7d717682d5e2be3472785bf19f9f364b29978e9935e63f133330c2f"
+    },
+    "/packages/numpy/f2py/__pycache__/f2py2e.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/f2py/__pycache__/f2py2e.cpython-312.pyc",
+      "sha256": "fc47ef567b76aa288a883763968b8185a2844d687baf3f9f2bec65f9656b3152"
+    },
+    "/packages/numpy/f2py/__pycache__/capi_maps.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/f2py/__pycache__/capi_maps.cpython-312.pyc",
+      "sha256": "f5812e7373608c7496db5c29f3ad104c3b11cad7d463f734c0d0b43b1b1c6a19"
+    },
+    "/packages/skimage/morphology/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/morphology/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "61ad06a64d5b7e3988d9ef3e61fcc42af179fd7add2a2600a30512634dc8f797"
+    },
+    "/packages/skimage/morphology/__pycache__/isotropic.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/morphology/__pycache__/isotropic.cpython-312.pyc",
+      "sha256": "677748e772e0b7067223e0334eeb6bf618889ad0f1cd8401cacbd72659cd10b0"
+    },
+    "/packages/skimage/morphology/__pycache__/_flood_fill.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/morphology/__pycache__/_flood_fill.cpython-312.pyc",
+      "sha256": "6796079b8224e49c61d9e4f7d072609528d9964c6b3e67f2ad0dcc38f3392619"
+    },
+    "/packages/numpy/matrixlib/__pycache__/defmatrix.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/matrixlib/__pycache__/defmatrix.cpython-312.pyc",
+      "sha256": "7f2240c57af1ae8da36fb4b8c11bdb0228acfa127cca18053487fded63f20fa6"
+    },
+    "/packages/scipy/linalg/__pycache__/_sketches.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/__pycache__/_sketches.cpython-312.pyc",
+      "sha256": "064711540919eba083a72cfbe67ae040ea26e9d03ec95e1c1bad429a461a4b97"
+    },
+    "/packages/skimage/morphology/__pycache__/max_tree.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/morphology/__pycache__/max_tree.cpython-312.pyc",
+      "sha256": "c21177c244eb0b9deea0f831f76d47e7d05dc1fc0fe9713df7ec98b161c512fb"
+    },
+    "/packages/scipy/_external/array_api_compat/common/__pycache__/_typing.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_external/array_api_compat/common/__pycache__/_typing.cpython-312.pyc",
+      "sha256": "d8489745d03e079b31ef4e426284ad59ac03d51824ea338ec1fbdc8beff24845"
+    },
+    "/packages/scipy/_lib/__pycache__/_util.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_lib/__pycache__/_util.cpython-312.pyc",
+      "sha256": "25e2b9df6ea456ecfca701d28a589f3194a3049cc2962ba44907dcaae4515959"
+    },
+    "/packages/scipy/ndimage/__pycache__/_delegators.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/ndimage/__pycache__/_delegators.cpython-312.pyc",
+      "sha256": "7c59833279d579209e91aa01594a005a68ad67e0674e0b74c4e8affeea21bc9e"
+    },
+    "/packages/numpy/_core/__pycache__/_asarray.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_core/__pycache__/_asarray.cpython-312.pyc",
+      "sha256": "e0726b78946730f7f3fb54ed3bc32accb28c3166720b20d1f97f1a776d7d7b85"
+    },
+    "/packages/numpy/_core/__pycache__/printoptions.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_core/__pycache__/printoptions.cpython-312.pyc",
+      "sha256": "51d101f8d10ed67db0b05283aa775986a250c322b207d4b564edd835f14b824a"
+    },
+    "/packages/skimage/util/__pycache__/dtype.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/util/__pycache__/dtype.cpython-312.pyc",
+      "sha256": "a330a04ac69d2fb9ed7f189119ae18f81c2d0bf5f26a25dfedf6c2015cbb3cc2"
+    },
+    "/packages/scipy/sparse/__pycache__/_matrix.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/sparse/__pycache__/_matrix.cpython-312.pyc",
+      "sha256": "589f8f3e1e2778c4a23bdff17568d282847fe6781967e6640f4fcdd60571a421"
+    },
+    "/packages/scipy/_external/array_api_extra/_lib/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_external/array_api_extra/_lib/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "bdd91f703b951461cbafb79774a89666d00415fe100cb24abf518d280660535f"
+    },
+    "/packages/skimage/util/__pycache__/unique.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/util/__pycache__/unique.cpython-312.pyc",
+      "sha256": "d5de1ae5370a8e8ace9dac1c0f2867bc718df56b145a9499180deb6ecd1efb1e"
+    },
+    "/packages/scipy/special/__pycache__/_logsumexp.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/special/__pycache__/_logsumexp.cpython-312.pyc",
+      "sha256": "9f932e84e707297842dc2e079a2fafe7398dd8a6a2e6a34f1117e34d1a1bcd6c"
+    },
+    "/packages/numpy/lib/__pycache__/_arrayterator_impl.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/lib/__pycache__/_arrayterator_impl.cpython-312.pyc",
+      "sha256": "8d23458d459c5bb5a01e1a3d1c8e7fecc84f09b5f6439902673cc9cd60ba89a1"
+    },
+    "/packages/scipy/sparse/__pycache__/_index.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/sparse/__pycache__/_index.cpython-312.pyc",
+      "sha256": "796c8387f2ef25d95ef448c19c10940369154bac1d7b33b151373588cd76acee"
+    },
+    "/packages/scipy/ndimage/_ni_label.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/ndimage/_ni_label.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "a2cb7e8c797ab2a0673487e28975580f084e26317c3e7678cf307631f03e7047"
+    },
+    "/packages/scipy/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "dfbb06df10cb38873aca9578685672c0ff7b59223b43e5b078da39657f6b9ab9"
+    },
+    "/packages/numpy/lib/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/lib/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "c828ca77b4dc216d208cb5ea779ca27be2486379ec558193faa97d65ea09ad28"
+    },
+    "/packages/scipy/linalg/_decomp_update.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/_decomp_update.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "b368cbd0756d4ea6278b09834020fe8d6a442a1616b8abc2bee950d74438f7fa"
+    },
+    "/packages/scipy/spatial/transform/__pycache__/_rotation_spline.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/spatial/transform/__pycache__/_rotation_spline.cpython-312.pyc",
+      "sha256": "7b42c56ea608b31d824f85a852617122a3f7246a11b1c6bcdb9fdcaaa83ab880"
+    },
+    "/packages/numpy/_typing/__pycache__/_char_codes.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_typing/__pycache__/_char_codes.cpython-312.pyc",
+      "sha256": "4b6c24b1066d07859401001de75dccc346c115611e0471879836d9ecffab4e5d"
+    },
+    "/packages/scipy/special/__pycache__/orthogonal.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/special/__pycache__/orthogonal.cpython-312.pyc",
+      "sha256": "325669dbd936d8def9928cbda4ece409b72ceab5933fef4864846c1af2d22f1d"
+    },
+    "/packages/scipy/sparse/__pycache__/sputils.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/sparse/__pycache__/sputils.cpython-312.pyc",
+      "sha256": "5cecf8e802043173213eb361db429a4896835d5c9492ce65e4d81da4537dd8e8"
+    },
+    "/packages/scipy/special/__pycache__/add_newdocs.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/special/__pycache__/add_newdocs.cpython-312.pyc",
+      "sha256": "8f58c195e9ff8890ba77869cfd8a90c27c90a5c4367e6be7ae040adc0e8dd8d5"
+    },
+    "/packages/skimage/_shared/geometry.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/_shared/geometry.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "dd359de6653b619ec6becf540cb2306e47e1acd1240cd19097dbd39c97e2536a"
+    },
+    "/packages/skimage/util/__pycache__/shape.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/util/__pycache__/shape.cpython-312.pyc",
+      "sha256": "81fd7b5e40ffbc6613f2182efd9db61f09d07709b398aa390fc30c2243216bef"
+    },
+    "/packages/scipy/special/__pycache__/_orthogonal.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/special/__pycache__/_orthogonal.cpython-312.pyc",
+      "sha256": "0b7dd858216b82ee68e37c0d0c28a94285e25a1e44d8d84de4b7b8634866a35d"
+    },
+    "/packages/scipy/spatial/transform/__pycache__/_rotation_xp.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/spatial/transform/__pycache__/_rotation_xp.cpython-312.pyc",
+      "sha256": "3e32fc45cd064c651820dadf2f5ed749d4ec02de94a7f9c1a1c3ab4c6e41ef09"
+    },
+    "/packages/numpy/testing/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/testing/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "088a182dc31a21fb27d301d277a3205904efbde180cb748b59ef426562b0b7d6"
+    },
+    "/packages/scipy/ndimage/__pycache__/_morphology.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/ndimage/__pycache__/_morphology.cpython-312.pyc",
+      "sha256": "7c5309df5eadf4ba1360ab0e589af72e0a2dfc1b15bb8861f2936bc87148381f"
+    },
+    "/packages/scipy/special/_ufuncs.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/special/_ufuncs.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "d2ed853b0e0907a12bb617a75dddbfd4733c9eff728b55514188e1dc9e84308a"
+    },
+    "/packages/skimage/util/__pycache__/compare.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/util/__pycache__/compare.cpython-312.pyc",
+      "sha256": "2f70f96c41eb99a2acec53812ab496c3156d53b05c82767271144b7a73401036"
+    },
+    "/packages/scipy/sparse/__pycache__/_bsr.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/sparse/__pycache__/_bsr.cpython-312.pyc",
+      "sha256": "84d0c1e2ecee080b7a5ddd0ab7c8689736323312730e77fc0039d74f1e243467"
+    },
+    "/packages/scipy/linalg/__pycache__/special_matrices.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/__pycache__/special_matrices.cpython-312.pyc",
+      "sha256": "3e1e36a7078f3d30d590cb31f470dcf8ca87211d3934d9acda93c22a83e844b5"
+    },
+    "/packages/numpy/random/__pycache__/_pickle.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/random/__pycache__/_pickle.cpython-312.pyc",
+      "sha256": "d0ed913ee4d33a244e2dd585aea1aa3867e02a814fb9919118b29998254dfc50"
+    },
+    "/packages/scipy/special/__pycache__/basic.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/special/__pycache__/basic.cpython-312.pyc",
+      "sha256": "ca106530697209df835282ad91d8b3a03c225cffdbec70d59803a0533ac47fbf"
+    },
+    "/packages/numpy/random/_philox.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/random/_philox.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "8b5869a56ac89805b4d7058facaca19b6e3c666803febdeb55a93ce54dc510b2"
+    },
+    "/packages/numpy.libs/libscipy_openblas64_-f552eb69.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy.libs/libscipy_openblas64_-f552eb69.so",
+      "sha256": "e58b9ec0d373252b70f37d9dc891d7183a4f57f062db87f38e9a1bf7442d3037"
+    },
+    "/packages/skimage/util/__pycache__/_montage.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/util/__pycache__/_montage.cpython-312.pyc",
+      "sha256": "3ece300e05d7f31d8dac01b3e0924f1b47f698c4a19fe58e265fb0179c94d763"
+    },
+    "/packages/scipy/_lib/__pycache__/_array_api_override.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_lib/__pycache__/_array_api_override.cpython-312.pyc",
+      "sha256": "cb0a915a220d49265afc0f1a5976a42b4b0ecb83f45ef99219fb45514383d078"
+    },
+    "/packages/scipy/spatial/__pycache__/kdtree.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/spatial/__pycache__/kdtree.cpython-312.pyc",
+      "sha256": "8c4cd48f7d5b2d2258fd8ecd299be1da644d57ad6c9bff6b0cc0a4242367eea8"
+    },
+    "/packages/scipy/linalg/__pycache__/_decomp_cholesky.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/__pycache__/_decomp_cholesky.cpython-312.pyc",
+      "sha256": "0da831f0444abc384295d78071e0f6a8b86029fb436ccacf9ec7bb3ca0da4658"
+    },
+    "/packages/skimage/morphology/__pycache__/convex_hull.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/morphology/__pycache__/convex_hull.cpython-312.pyc",
+      "sha256": "84fb9faec227fe0bbb600122e042ef00e408d0b0df2686ba47db845cc1cc7647"
+    },
+    "/packages/scipy/linalg/_fblas.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/_fblas.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "a517dceabdb622d773329ced8b5dd92ee5f11eff0d89c4b3b6f9a7341423fad3"
+    },
+    "/packages/numpy/lib/__pycache__/npyio.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/lib/__pycache__/npyio.cpython-312.pyc",
+      "sha256": "bed21c9d8d4ac1c79291e44af0087de243c01a08af9703da956ea6df2bd61a99"
+    },
+    "/packages/numpy/f2py/__pycache__/cb_rules.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/f2py/__pycache__/cb_rules.cpython-312.pyc",
+      "sha256": "b42cec32f5cfa96a03112a7a529fb9888cd3dfdea8d4898e239206e90f75c247"
+    },
+    "/packages/scipy/_external/array_api_compat/numpy/__pycache__/fft.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_external/array_api_compat/numpy/__pycache__/fft.cpython-312.pyc",
+      "sha256": "be933bda5f4117a202605e6822d95bb0e4ef304c7d14c067ed132086e2d20a7a"
+    },
+    "/packages/scipy/sparse/__pycache__/dia.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/sparse/__pycache__/dia.cpython-312.pyc",
+      "sha256": "b9d57d96bdc78257be691e5e9e05b4e340a410063786c2b4979ba74fe7800b3b"
+    },
+    "/packages/scipy/_external/array_api_compat/common/__pycache__/_linalg.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_external/array_api_compat/common/__pycache__/_linalg.cpython-312.pyc",
+      "sha256": "16b26755c386041376fbe8994f01c40ea9c556e174d6c455190f8576afdd67a6"
+    },
+    "/packages/skimage/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "43ff2d7d1f1c7e6154a2bfb8f9bc5a5c7906e61fbc99902dc820d90018f37763"
+    },
+    "/packages/scipy/special/_comb.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/special/_comb.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "02f2060ba0a602fd98252acfbe206c6418537aa8e7d992db4d5dd4492caa3abf"
+    },
+    "/packages/scipy/ndimage/__pycache__/_ni_docstrings.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/ndimage/__pycache__/_ni_docstrings.cpython-312.pyc",
+      "sha256": "36a7eefb1beee055bbbfd9abd7e015e7f902cbd753c5b30f421ca86ced64ff3e"
+    },
+    "/packages/numpy/_core/__pycache__/_add_newdocs_scalars.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_core/__pycache__/_add_newdocs_scalars.cpython-312.pyc",
+      "sha256": "6cc2d296c64bd1adea30cbd6e44aeb26193e12ae408d58d7714072568fa185d8"
+    },
+    "/packages/skimage/morphology/_max_tree.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/morphology/_max_tree.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "331611fe6ae6404a4f7d8fa75d1bfe6660c96c44909f353b959e71695d13f132"
+    },
+    "/packages/numpy/lib/__pycache__/format.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/lib/__pycache__/format.cpython-312.pyc",
+      "sha256": "b267d6b87458d476518e2cf3c1cc82c9bace0ea5698f05befe3af40ee5e61c42"
+    },
+    "/packages/numpy/polynomial/__pycache__/laguerre.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/polynomial/__pycache__/laguerre.cpython-312.pyc",
+      "sha256": "15f652751f64a758efc9e39e1d7012bb95d3efee0b62dec3adf62dbad5f9dddf"
+    },
+    "/packages/numpy/__pycache__/version.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/__pycache__/version.cpython-312.pyc",
+      "sha256": "7364921ca2bfda622d7183505eff05a2f50cc0043ffdebab50558d63d189027c"
+    },
+    "/packages/scipy/ndimage/__pycache__/filters.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/ndimage/__pycache__/filters.cpython-312.pyc",
+      "sha256": "141bf34ba46688668a557bbdf24c45ac1728fd0afd433dcfd226c91321088d15"
+    },
+    "/packages/skimage/morphology/__pycache__/footprints.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/morphology/__pycache__/footprints.cpython-312.pyc",
+      "sha256": "6f4d76338896412c5b43013e65501eaf1c11aea18df2e8fb6526ee69cbb7c878"
+    },
+    "/packages/scipy/_external/array_api_extra/_lib/__pycache__/_lazy.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_external/array_api_extra/_lib/__pycache__/_lazy.cpython-312.pyc",
+      "sha256": "a0a22f02d67313f8683807eb472a4d3efa2643fd60702614e6eb0826ed814a34"
+    },
+    "/packages/numpy/f2py/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/f2py/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "d7042fa9801c4a67aec2db235dda59657b6edde91995bc223141db740da9d7d0"
+    },
+    "/packages/numpy/core/__pycache__/_utils.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/core/__pycache__/_utils.cpython-312.pyc",
+      "sha256": "e3c3fbad2d6bbd1f8b0f889d4f280c3b15fc47fccb27a12c463f242e58cbed42"
+    },
+    "/packages/scipy/linalg/__pycache__/_decomp.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/__pycache__/_decomp.cpython-312.pyc",
+      "sha256": "cab6e4501bebefcbeff51c5984420f760ff52d4b6513b1d5e0fc505b599d0b88"
+    },
+    "/packages/numpy/_core/__pycache__/_dtype_ctypes.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_core/__pycache__/_dtype_ctypes.cpython-312.pyc",
+      "sha256": "dc74db56265fca1fdf642c6cf9c281dfb854f5056258f0066abedee55fce04e7"
+    },
+    "/packages/scipy/linalg/__pycache__/decomp_svd.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/__pycache__/decomp_svd.cpython-312.pyc",
+      "sha256": "bd56da8f5c07b1b1dfa35f04593e28aa6d184da333cbc3bf3b2b3281fe90204c"
+    },
+    "/packages/scipy/linalg/__pycache__/_procrustes.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/__pycache__/_procrustes.cpython-312.pyc",
+      "sha256": "210ad658a363bebe23c8ff87d5ba4d79bd4fa2100443324e42dc090782db88a4"
+    },
+    "/packages/scipy/ndimage/__pycache__/_measurements.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/ndimage/__pycache__/_measurements.cpython-312.pyc",
+      "sha256": "2867bb211c693d91458a6a8de62dff58276604ded6aac7b7cf6fd6e35efdffa6"
+    },
+    "/packages/numpy/_core/__pycache__/numeric.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_core/__pycache__/numeric.cpython-312.pyc",
+      "sha256": "ea8846b08faef323fc67993c2cc2e6e445b92a90da6ee35cd40bd02de8c07adc"
+    },
+    "/packages/numpy/lib/__pycache__/_array_utils_impl.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/lib/__pycache__/_array_utils_impl.cpython-312.pyc",
+      "sha256": "6fe924392b73d68656007511a09d5524b19f716d5c0781f45781400986f19515"
+    },
+    "/packages/scipy/linalg/__pycache__/decomp.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/__pycache__/decomp.cpython-312.pyc",
+      "sha256": "9a6339e78ec25aec91e6b8e7f19d3118595a075b0304d17f1a28d96f78abef37"
+    },
+    "/packages/numpy/lib/__pycache__/_type_check_impl.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/lib/__pycache__/_type_check_impl.cpython-312.pyc",
+      "sha256": "ce8a966d72a95fe59d42a5224e75ce7d2b6303f2dcd998a697d24315cf12b913"
+    },
+    "/packages/scipy/special/__pycache__/_spfun_stats.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/special/__pycache__/_spfun_stats.cpython-312.pyc",
+      "sha256": "d5c284823be9c85c0c862eeff718fcd24bdfaa91ea207e3befe290c5759385e1"
+    },
+    "/packages/numpy/lib/__pycache__/_nanfunctions_impl.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/lib/__pycache__/_nanfunctions_impl.cpython-312.pyc",
+      "sha256": "84a3c6e384b98ad06fc21bc18dc656cae4576973ff2ec2fa595b8ff6bce3e05d"
+    },
+    "/packages/numpy/matrixlib/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/matrixlib/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "8e7c777c9876dafc86904ee793e6f0f866bcbfb5a7c61eb1fb4e005a8d59e416"
+    },
+    "/packages/scipy/linalg/__pycache__/decomp_lu.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/__pycache__/decomp_lu.cpython-312.pyc",
+      "sha256": "a6aa7e00abf29fc67d4abc8f9b2052bbe67ab7df9f694f0d532fb2f0b63ab41d"
+    },
+    "/packages/numpy/random/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/random/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "d8296b95d1ab39234e5105619c8897d26d51d8fe050e37d46d8747653cdb4635"
+    },
+    "/packages/numpy/char/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/char/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "cb8663fd1a1a201d555c3be0c5bd33b3872d1eb451bf8c0984c965dd853bbf0d"
+    },
+    "/packages/scipy/spatial/_qhull.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/spatial/_qhull.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "8a3807a86ac8cf037eafd1301fde9ddbd86a347985e045de65aa39f7f12c8594"
+    },
+    "/packages/scipy/spatial/__pycache__/_geometric_slerp.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/spatial/__pycache__/_geometric_slerp.cpython-312.pyc",
+      "sha256": "4e408a0e08ef955a8c4c47bbf6b2ca571cdaf8987fe63168a6ec7c0c1a7e5ac0"
+    },
+    "/packages/numpy/lib/__pycache__/_ufunclike_impl.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/lib/__pycache__/_ufunclike_impl.cpython-312.pyc",
+      "sha256": "3b9b4e52a4e38e8b88b67029d0fdc4c4e441adf86042f3d4243af5134ccb68f4"
+    },
+    "/packages/scipy/sparse/__pycache__/_dia.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/sparse/__pycache__/_dia.cpython-312.pyc",
+      "sha256": "ba8a6540f1d83453d5a89eb798f48f76f4d44cd0008db2e95b6b20e280a4552f"
+    },
+    "/packages/numpy.libs/libgfortran-e1b7dfc8-d8198c01.so.5.0.0": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy.libs/libgfortran-e1b7dfc8-d8198c01.so.5.0.0",
+      "sha256": "25899a29a06d3f2927021b4823d858558839fea0e7e759eedb8926fd0a339ea4"
+    },
+    "/packages/scipy/sparse/__pycache__/coo.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/sparse/__pycache__/coo.cpython-312.pyc",
+      "sha256": "2cac51e64c8dd39e1582acc7db4dc0416e3de460ed1dfd47e9ca4615f26e4d46"
+    },
+    "/packages/scipy/spatial/__pycache__/distance.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/spatial/__pycache__/distance.cpython-312.pyc",
+      "sha256": "48037ef21b808c43d6181dcdbcefa538e36bba0091f1d8660bc3c34db635022d"
+    },
+    "/packages/scipy/linalg/cython_blas.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/cython_blas.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "3062f972f466e1a19303cf761e9d2b8a5d844492994ad2ff07d927de1966e590"
+    },
+    "/packages/skimage/exposure/__init__.pyi": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/exposure/__init__.pyi",
+      "sha256": "1cac287b035375e5e5d721da089a84ad765bc53e2d2e906d7e3633e773e73d09"
+    },
+    "/packages/skimage/morphology/_convex_hull.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/morphology/_convex_hull.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "6294d8c031bcc5ecb4c09f06e5c12813a4ad1e651e9066e028011978dee01804"
+    },
+    "/packages/scipy/spatial/__pycache__/ckdtree.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/spatial/__pycache__/ckdtree.cpython-312.pyc",
+      "sha256": "035dfc39fb237d02afb2afe431ec250a61d81ca2de544c28cb06897472fa04d4"
+    },
+    "/packages/skimage/morphology/__pycache__/_skeletonize.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/morphology/__pycache__/_skeletonize.cpython-312.pyc",
+      "sha256": "c13ae8fcc3af6d4a7cc0876eaf855e8d458a170fb1298eb935b4be9fe482b80f"
+    },
+    "/packages/numpy/_core/__pycache__/getlimits.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_core/__pycache__/getlimits.cpython-312.pyc",
+      "sha256": "b5ae5da2e4240686761d76766da1757da4087bee47f12cab49fadd5e82746ed0"
+    },
+    "/packages/scipy/spatial/__pycache__/_spherical_voronoi.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/spatial/__pycache__/_spherical_voronoi.cpython-312.pyc",
+      "sha256": "09b39fc5ca5127d0fa58ce5b57016178a7e6ce993f44f998d706536d762015d1"
+    },
+    "/packages/scipy/linalg/cython_lapack.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/cython_lapack.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "9ec1047d23d072eb87b8fceb97b09eb97c0db08d766dac775322845d4c456e05"
+    },
+    "/packages/numpy/lib/__pycache__/_polynomial_impl.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/lib/__pycache__/_polynomial_impl.cpython-312.pyc",
+      "sha256": "32082c42b22796a34e8e888c171fda0c0b3af3a963ebf5b284145a051af3654c"
+    },
+    "/packages/numpy/ctypeslib/__pycache__/_ctypeslib.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/ctypeslib/__pycache__/_ctypeslib.cpython-312.pyc",
+      "sha256": "01408cd4a05b747e6319a6a7095d33fb63d4a1033373f42a08bc6e0533467cfe"
+    },
+    "/packages/skimage/filters/__pycache__/_rank_order.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/filters/__pycache__/_rank_order.cpython-312.pyc",
+      "sha256": "f2d89beb4363dcf0a7c18fcabc0eb195af61d4fee526b29a1b120b0b8933c395"
+    },
+    "/packages/numpy/fft/_pocketfft_umath.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/fft/_pocketfft_umath.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "b954742f8a4599e017c1377203f2034468aa7698438c932895b5edcce2fb8060"
+    },
+    "/packages/numpy/lib/__pycache__/_utils_impl.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/lib/__pycache__/_utils_impl.cpython-312.pyc",
+      "sha256": "829c6543b3089006dfffa835fd3826b08f4df69fd7ec73d9ca6edc6cbdc6e562"
+    },
+    "/packages/numpy/__pycache__/_globals.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/__pycache__/_globals.cpython-312.pyc",
+      "sha256": "c2a45759efbacb991b02c8be11b031f22e1103c366da29d7ecd1d25c9541ae3a"
+    },
+    "/packages/skimage/util/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/util/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "9d4e01f1f22232f2c2baa82fa26bd6bb4767ff4cd3fd097283becbf1df2ab4a5"
+    },
+    "/packages/scipy/__pycache__/__config__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/__pycache__/__config__.cpython-312.pyc",
+      "sha256": "f5521e42afe42b520068e309fb49c744d024fd9eea386b124100845b0aad14ec"
+    },
+    "/packages/numpy/f2py/__pycache__/rules.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/f2py/__pycache__/rules.cpython-312.pyc",
+      "sha256": "f5014519b1fbf6d02cfadd873a7e60406e9f2ccdb9cc281d0e7ba436d89b6325"
+    },
+    "/packages/scipy/sparse/__pycache__/base.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/sparse/__pycache__/base.cpython-312.pyc",
+      "sha256": "f7a2cd28f5d4494352a79a125d01db70c119bcd5dc6e6eacfb823b76ab634edc"
+    },
+    "/packages/scipy/_external/array_api_extra/_lib/__pycache__/_funcs.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_external/array_api_extra/_lib/__pycache__/_funcs.cpython-312.pyc",
+      "sha256": "c77a992f603c9c92082f0e3b478cd6c08b78c5d4afbd5f2c8e0c49c1ce6e9425"
+    },
+    "/packages/numpy/lib/__pycache__/scimath.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/lib/__pycache__/scimath.cpython-312.pyc",
+      "sha256": "c254494d165c76b0191071a17d0f471ab79c37079b09d8f0c6c2ee34ff7084bb"
+    },
+    "/packages/scipy/_external/array_api_extra/_lib/_utils/__pycache__/_helpers.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_external/array_api_extra/_lib/_utils/__pycache__/_helpers.cpython-312.pyc",
+      "sha256": "462f341ecc9391ac1ae298f3af8924113698f61c7eeaad820d217a0be03580ac"
+    },
+    "/packages/numpy/f2py/__pycache__/symbolic.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/f2py/__pycache__/symbolic.cpython-312.pyc",
+      "sha256": "407ea86e11315c6bc36cbce1d5aed9219e5ef8651779bfe0aa2c0d4b4cb45fb7"
+    },
+    "/packages/scipy/_lib/messagestream.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_lib/messagestream.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "2e0dc22cf88ac9bb47e298d92d162d433271087c8c5352e841065693ee102100"
+    },
+    "/packages/numpy/polynomial/__pycache__/hermite.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/polynomial/__pycache__/hermite.cpython-312.pyc",
+      "sha256": "cf98764b1cfde15d4d5cae409214429c1c8f50bbb11738d5657d110c892d3328"
+    },
+    "/packages/scipy/sparse/__pycache__/_dok.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/sparse/__pycache__/_dok.cpython-312.pyc",
+      "sha256": "f31ce7648cd6ef03548897ed19b63a5ec8e21c0427dfc1564260bb79abfa21bb"
+    },
+    "/packages/scipy/_lib/__pycache__/_docscrape.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_lib/__pycache__/_docscrape.cpython-312.pyc",
+      "sha256": "078630bef746e6159c4b3a89176d90fa3da6077f448ee9c66f15268790edd4b5"
+    },
+    "/packages/scipy/special/_gufuncs.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/special/_gufuncs.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "87d743eb991a441a25a784cbcdedda655e95c558e631bef7ddb08787f820e999"
+    },
+    "/packages/skimage/util/__pycache__/arraycrop.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/util/__pycache__/arraycrop.cpython-312.pyc",
+      "sha256": "dea0b31faab66456b5d29fa2481c36c7c8ca02fff14508a5c7d962ef948fd19a"
+    },
+    "/packages/numpy/_utils/__pycache__/_conversions.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_utils/__pycache__/_conversions.cpython-312.pyc",
+      "sha256": "6a09af29672ff24015fd3d345144adf4809890ddf16bcb435837c5e6d15d89ce"
+    },
+    "/packages/scipy.libs/libgfortran-daac5196-038a5e3c.so.5.0.0": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy.libs/libgfortran-daac5196-038a5e3c.so.5.0.0",
+      "sha256": "23ee0d91d5786961b0dfbc201a82e6bc8c832b8bf450b56e918a574269a57400"
+    },
+    "/packages/scipy/sparse/__pycache__/_lil.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/sparse/__pycache__/_lil.cpython-312.pyc",
+      "sha256": "d7e972ccdc43c65ffb824f6043e6ce15af59d486dc873d950e0cb563ee9bba54"
+    },
+    "/packages/numpy/_core/__pycache__/defchararray.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_core/__pycache__/defchararray.cpython-312.pyc",
+      "sha256": "b53a452ac524abd85d81499017720a77bd46437bdd8149b3ca6f73ff045327da"
+    },
+    "/packages/scipy/spatial/__pycache__/qhull.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/spatial/__pycache__/qhull.cpython-312.pyc",
+      "sha256": "efda2b50143401a8b8d3d0f3698b754e8d1961158fbacb14652b5ba26aeadbcb"
+    },
+    "/packages/skimage/morphology/__pycache__/misc.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/morphology/__pycache__/misc.cpython-312.pyc",
+      "sha256": "fefd50bc76d98b22374cc94cb5317c0d15f09bb9c0e1682fd1381f318bb7209a"
+    },
+    "/packages/scipy/ndimage/__pycache__/_ni_support.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/ndimage/__pycache__/_ni_support.cpython-312.pyc",
+      "sha256": "9dd2260030b77589ee59a0c8f8493b464f84540d8853968548a1d5365d57b3d5"
+    },
+    "/packages/scipy/linalg/_internal_matfuncs.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/_internal_matfuncs.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "a6e9efd4d66b14a6797317b74113d13b5b9fde36f972809f6c499de5a6bfbaa1"
+    },
+    "/packages/scipy/_lib/__pycache__/_ccallback.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_lib/__pycache__/_ccallback.cpython-312.pyc",
+      "sha256": "4317b60d8fc2d5115fa7052a1fb2c3d54b45885f15309da6b10606c374b48732"
+    },
+    "/packages/numpy/core/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/core/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "4494617fcec95bf2b3f8d4bb602b5094e4d72b1949a340953a0521f24497b255"
+    },
+    "/packages/scipy/_external/array_api_compat/numpy/__pycache__/_typing.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_external/array_api_compat/numpy/__pycache__/_typing.cpython-312.pyc",
+      "sha256": "e5da00e3831b99025158fa258b98a504b3e183e3d57e4714304863aec36ee584"
+    },
+    "/packages/lazy_loader/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/lazy_loader/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "775ae63e77b39ed9542cff0603ee6ec324382607292429067e4d28097dcdcacb"
+    },
+    "/packages/scipy/linalg/_linalg_pythran.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/_linalg_pythran.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "aeacff5392abf7e8856359fbfa9b0e0e82c4bd5f879285a96dcd6a7ce105f528"
+    },
+    "/packages/scipy/_external/array_api_extra/__pycache__/testing.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_external/array_api_extra/__pycache__/testing.cpython-312.pyc",
+      "sha256": "f5a34c5a3d7d739799d7c3ee0481025ab2a2c9909c127002f91bbb0767c57129"
+    },
+    "/packages/scipy/linalg/_batched_linalg.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/_batched_linalg.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "2da9f2ff20723435735d4aa922561eb6b362be71f060fb7f78869f28170d6644"
+    },
+    "/packages/numpy/lib/__pycache__/_format_impl.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/lib/__pycache__/_format_impl.cpython-312.pyc",
+      "sha256": "f44bcee8cdf8813ce5ed012dbb244e88902ff4c7011063d43e232bb6d7c79dd0"
+    },
+    "/packages/scipy/special/__pycache__/specfun.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/special/__pycache__/specfun.cpython-312.pyc",
+      "sha256": "c21710d277493f450f5a1d69e8bb7f8077354fa926c49814bfecbd7a0b71056d"
+    },
+    "/packages/scipy/_cyutility.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_cyutility.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "3d7e3e94c8b7ea390b256e417b683ba7f401d1ffbddb37966f32a20f7c11e936"
+    },
+    "/packages/scipy/linalg/__pycache__/_expm_frechet.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/__pycache__/_expm_frechet.cpython-312.pyc",
+      "sha256": "54ac6004ebd2843d3c1bb6280ce64713f36e817d366185a1ef98feb9c805aa63"
+    },
+    "/packages/scipy/spatial/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/spatial/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "2768dc8d7298d932895a9d96f6ac931643834a862d976b96256ac2ed93866493"
+    },
+    "/packages/scipy/constants/__pycache__/codata.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/constants/__pycache__/codata.cpython-312.pyc",
+      "sha256": "5f025c9d5c38bd0570fae05c3c668e7eead35f00f38ff35fcc62ac9d33a2f9b9"
+    },
+    "/packages/scipy/linalg/__pycache__/_solvers.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/__pycache__/_solvers.cpython-312.pyc",
+      "sha256": "1bf53a23a52bdefbe3cddfca4c81509265a9fe6d5d226dd5b2e1f872d7d013c1"
+    },
+    "/packages/scipy/ndimage/_nd_image.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/ndimage/_nd_image.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "392e5894e4209e8e310d6c21510a35a31f13d38cefa98009e2dcdd3294e17449"
+    },
+    "/packages/scipy/special/__pycache__/_support_alternative_backends.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/special/__pycache__/_support_alternative_backends.cpython-312.pyc",
+      "sha256": "e8f0c6385f6757e3ade3b5fd857af0d3a00ead99bdf10652a93575a4fa418b63"
+    },
+    "/packages/skimage/morphology/__pycache__/_util.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/morphology/__pycache__/_util.cpython-312.pyc",
+      "sha256": "5be24a4d9ddaef216f52347da6daea00e4cd6b97c7755202d0e29a3ae33ada05"
+    },
+    "/packages/numpy/lib/__pycache__/_version.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/lib/__pycache__/_version.cpython-312.pyc",
+      "sha256": "2ec252cca8ed5591fcac4bc7d287dbeceebf34bdbc5bc13390f19a291bdcadcd"
+    },
+    "/packages/skimage/draw/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/draw/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "43b51558b2b073b4149eb5a83b92cc70ba09fd2812775bd38b6de115449223b6"
+    },
+    "/packages/skimage/_shared/__pycache__/dtype.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/_shared/__pycache__/dtype.cpython-312.pyc",
+      "sha256": "d9f4cd4e40f4af5ebf14d35405338cd19592c635c3392ad5b7f9d45964b0da17"
+    },
+    "/packages/scipy/linalg/__pycache__/misc.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/__pycache__/misc.cpython-312.pyc",
+      "sha256": "ff00033fe49b1b0860a594eb545e2e6745b1523421abf34af38dcc5304bcdc7a"
+    },
+    "/packages/scipy/sparse/__pycache__/_csr.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/sparse/__pycache__/_csr.cpython-312.pyc",
+      "sha256": "0c58cf5daaf71fa08b02c70f08925606ff294fbe0c32123c47e0d5e2a45e32a7"
+    },
+    "/packages/scipy/sparse/_csparsetools.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/sparse/_csparsetools.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "3c8265bc9d3e23a77be4da1207b084189c66c81566da6607bf276c9e16d787a3"
+    },
+    "/packages/scipy/sparse/__pycache__/_coo.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/sparse/__pycache__/_coo.cpython-312.pyc",
+      "sha256": "f15fd6fd4b2f1a1703ac13b565a33014bb6049b5e9ce2095445fa1d28a054fc1"
+    },
+    "/packages/scipy/linalg/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "9b7873b083b135ca4fe34a8a1689a6349683ea4edb4d6edb3a2207f4f061ae82"
+    },
+    "/packages/scipy/spatial/transform/_rotation_cy.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/spatial/transform/_rotation_cy.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "4e6deaebbcd98513848d33445788c5da4fa752eb6dc2122dedef73d07a760210"
+    },
+    "/packages/scipy/_external/array_api_extra/__pycache__/_delegation.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_external/array_api_extra/__pycache__/_delegation.cpython-312.pyc",
+      "sha256": "fa40a2abfda1764bf59d24a8e19c3068d38a22077b8d9e2127391758acace3d4"
+    },
+    "/packages/scipy/linalg/__pycache__/basic.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/__pycache__/basic.cpython-312.pyc",
+      "sha256": "e39ecb6b80f53731232728451710e665f605ee4d8e86a6fe0d19ffb7e086e36a"
+    },
+    "/packages/numpy/random/_pcg64.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/random/_pcg64.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "f9b6d66c55e3e4e97bde339b5ccbe3018c78f34273656d1217b69ea8bca3bffa"
+    },
+    "/packages/skimage/util/__pycache__/_map_array.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/util/__pycache__/_map_array.cpython-312.pyc",
+      "sha256": "6852c59988c8d31b887b5978a616779401827247c8aab3f823bd507b94018886"
+    },
+    "/packages/scipy/_external/array_api_extra/_lib/_utils/__pycache__/_compat.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_external/array_api_extra/_lib/_utils/__pycache__/_compat.cpython-312.pyc",
+      "sha256": "52ae4538d9e2a8d3c511db9f9f6d3ce5f36b24b2753551226c1567647e84262d"
+    },
+    "/packages/scipy/sparse/__pycache__/_sputils.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/sparse/__pycache__/_sputils.cpython-312.pyc",
+      "sha256": "15f58241cabb868d48977edfaf5e7f4abef18d519f61ca4d034a104d52246cdd"
+    },
+    "/packages/scipy/_external/array_api_compat/common/__pycache__/_helpers.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_external/array_api_compat/common/__pycache__/_helpers.cpython-312.pyc",
+      "sha256": "ab4456037f38f28dc07bc8ff465a5ccb303c8156087f5671b70366aeb133a179"
+    },
+    "/packages/numpy/strings/__pycache__/__init__.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/strings/__pycache__/__init__.cpython-312.pyc",
+      "sha256": "a75ba5c44b4d5200a931ece390bf420df40b279721ca87711af61d6c33d5cba5"
+    },
+    "/packages/skimage/morphology/__pycache__/grayreconstruct.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/morphology/__pycache__/grayreconstruct.cpython-312.pyc",
+      "sha256": "5d5feb21e531c47bd3d95270b7be2126f44858d58fbb95d253296207c34f436b"
+    },
+    "/packages/scipy/_lib/_ccallback_c.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_lib/_ccallback_c.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "9edf4136653a328edcc88dc97f6d828440ad96550c436cbe087951845c89903b"
+    },
+    "/packages/scipy/linalg/__pycache__/_decomp_lu.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/__pycache__/_decomp_lu.cpython-312.pyc",
+      "sha256": "4f16487d7ca73be9ff881064822ce83db0dfe6ab29e28a4af5632dd0d927a10f"
+    },
+    "/packages/scipy/special/__pycache__/_spherical_bessel.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/special/__pycache__/_spherical_bessel.cpython-312.pyc",
+      "sha256": "c6eacb0e7ead876128c79ea79a6493a1f7f86512d5f4c31e101117eb7b0b8492"
+    },
+    "/packages/skimage/morphology/_flood_fill_cy.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/morphology/_flood_fill_cy.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "993fe42c44d794a7d899050dee46868bcb9b0a560a4ae32a6ace9de3d0c19bb0"
+    },
+    "/packages/scipy/linalg/__pycache__/matfuncs.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/__pycache__/matfuncs.cpython-312.pyc",
+      "sha256": "871a02771804f0a3784d48de012d6c8e0c0ae43bf6a8f4b9905d385b0faf7e32"
+    },
+    "/packages/skimage/measure/_ccomp.cpython-312-aarch64-linux-gnu.so": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/measure/_ccomp.cpython-312-aarch64-linux-gnu.so",
+      "sha256": "46ea237d6c085fe11fecbf97b79881920e35c44edcf094d03620910c42b95b44"
+    },
+    "/packages/scipy/_lib/__pycache__/doccer.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/_lib/__pycache__/doccer.cpython-312.pyc",
+      "sha256": "e00ddc9436b1279220262f06506f00684e76f8bfaa97ff925a9da843ba92726e"
+    },
+    "/packages/numpy/testing/_private/__pycache__/extbuild.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/testing/_private/__pycache__/extbuild.cpython-312.pyc",
+      "sha256": "32488a55b3f45cded1ad0461b2109e48ed95cfb6e435f7cda0a3c660542fe506"
+    },
+    "/packages/numpy/_typing/__pycache__/_add_docstring.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_typing/__pycache__/_add_docstring.cpython-312.pyc",
+      "sha256": "d5d892f8731b41bc0f218129fa2114fc9db9eae81f89a89d99f650a18a314ba5"
+    },
+    "/packages/skimage/_shared/__pycache__/utils.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/skimage/_shared/__pycache__/utils.cpython-312.pyc",
+      "sha256": "75e447745d4a9c3263e1a7ee43b6ccce72686a0a6fe1201487792014ee1655f7"
+    },
+    "/packages/scipy/ndimage/__pycache__/_fourier.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/ndimage/__pycache__/_fourier.cpython-312.pyc",
+      "sha256": "fd7a0d613168721bf7005931d99ee5fe39b35da224a5b524bfca1528766f4783"
+    },
+    "/packages/numpy/_core/__pycache__/overrides.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/numpy/_core/__pycache__/overrides.cpython-312.pyc",
+      "sha256": "a15f5a58c4995c63a1869a4d11de799c56a241e92acecf710a3161cf13e2618c"
+    },
+    "/packages/scipy/linalg/__pycache__/_basic.cpython-312.pyc": {
+      "host_file": ".venv/lib/python3.12/site-packages/scipy/linalg/__pycache__/_basic.cpython-312.pyc",
+      "sha256": "9f9cd2ca41ee4a2380dc155112e531b513aa636cacb56c2cb619f710f65eee9d"
+    },
+    "44454:/input.npy": {
+      "host_file": "outputs/p0_t13_control/ct_only_inputs/slice_44454.npy",
+      "sha256": "2407276d1708f0a69ecdd2dba31427d7275b355cf0d2ae3e8e484f5df6427fe7"
+    },
+    "44455:/input.npy": {
+      "host_file": "outputs/p0_t13_control/ct_only_inputs/slice_44455.npy",
+      "sha256": "74d83eec719254d837d6b994ec1762cf9a24535bbcdd49ffaa36620a4ffd9636"
+    },
+    "44456:/input.npy": {
+      "host_file": "outputs/p0_t13_control/ct_only_inputs/slice_44456.npy",
+      "sha256": "0ec5fd7cdcd7b29d3f8a541d965dfa424a28642b382958222e8b8d9dd8b9fa74"
+    },
+    "44457:/input.npy": {
+      "host_file": "outputs/p0_t13_control/ct_only_inputs/slice_44457.npy",
+      "sha256": "e9252a5ac2f72b26067e16c34b7bda0be6c9bbe4277907cfa709aa75096d71db"
+    },
+    "44458:/input.npy": {
+      "host_file": "outputs/p0_t13_control/ct_only_inputs/slice_44458.npy",
+      "sha256": "48266aa35f572c7c73348cd9d464a63679a7b0694baba5c05ad44b312b75f14f"
+    },
+    "44459:/input.npy": {
+      "host_file": "outputs/p0_t13_control/ct_only_inputs/slice_44459.npy",
+      "sha256": "bce4a03167969f015ce04a9284c9492cf87fd5cc3ee1422ce86017d6028f46df"
+    }
+  },
+  "pinned_image_runtime_files": {
+    "/etc/ld.so.cache": "51b220e60217018f2ce44cac30e0aa39d455c599cba1db900aacdb41c608e9e2",
+    "/etc/ssl/openssl.cnf": "529815b0dd4bd6608bafeeb3d410b0683374e61aef792b3e3f38b3767d26f747",
+    "/usr/lib/aarch64-linux-gnu/gconv/gconv-modules.cache": "c4c52c0df6f3809f1b85927a85f322d102cffebb6b517b44b37048f6fd620c01",
+    "/usr/lib/aarch64-linux-gnu/libbz2.so.1.0.4": "89a72a9874f39034ece340558678398522a05d143541659b7dcc1f7b8cfbc145",
+    "/usr/lib/aarch64-linux-gnu/libc.so.6": "6e3cc56b98887cb3cc2a9fe78b6dd4610184aa27bd05d592cb287db93e82d494",
+    "/usr/lib/aarch64-linux-gnu/libcrypto.so.3": "6facd87aa596f6d10c2029802756c56cef8761576a3e8894c42a7295a5a89d75",
+    "/usr/lib/aarch64-linux-gnu/libexpat.so.1.9.1": "f53b44564070acc56dcae4af78869a7c1338a9a818b1a71015afd388f23c66bd",
+    "/usr/lib/aarch64-linux-gnu/libffi.so.8.1.4": "9dd873a938c4d7df76912d01f6a28aa4aa73d583bd20485a0dbfe5aa9673a191",
+    "/usr/lib/aarch64-linux-gnu/libgcc_s.so.1": "f2d3ad2bf0b61f6bc944cc37d7b6ab7f88d2582b41ff989ca164803f56cc5f20",
+    "/usr/lib/aarch64-linux-gnu/liblzma.so.5.4.5": "47ea0f43683ef829cda43bfe1862c1b06f085fbd813bb58d2d142477f5380139",
+    "/usr/lib/aarch64-linux-gnu/libm.so.6": "24be585ff27080ba6301d8b3e1c92a54a3832829a9efde744cad4b876a73681a",
+    "/usr/lib/aarch64-linux-gnu/libpthread.so.0": "1ce5833f596169e194b95a6f288c98d80b7b907a1ded2389746cd00235b3a456",
+    "/usr/lib/aarch64-linux-gnu/libstdc++.so.6.0.33": "6e3112d35cfc86db7ee85b27e1746f67408e2837ff8628b46386c3eabd5682a4",
+    "/usr/lib/aarch64-linux-gnu/libz.so.1.3": "170380b4e7ab28ec86eb090b48df90f84089392cb72fecd5067e5b7a4dc5239f",
+    "/usr/lib/locale/C.utf8/LC_CTYPE": "59015993b1b671273461ef1167d7a9ad76dc090d521c91102e962217ed6b6dba",
+    "/usr/lib/python3.12/__pycache__/__future__.cpython-312.pyc": "bad8d86f748d90aeefea938d3c43a94965b88b7b88151eee4b8495b2afb8a36f",
+    "/usr/lib/python3.12/__pycache__/_compat_pickle.cpython-312.pyc": "29e431353a72f7d1020c04cc98277bf86f31cee65f3c9517dafadce9ae6e6f4d",
+    "/usr/lib/python3.12/__pycache__/_compression.cpython-312.pyc": "6d75072838e06ba35d1bfeadef7b1d0480676c0f7998e67f4b1d2602efa4ee8c",
+    "/usr/lib/python3.12/__pycache__/_sysconfigdata__aarch64-linux-gnu.cpython-312.pyc": "05a05de895f4df8bcdb5ae285a2b78efa65476fa97532b181ca32df8441275f0",
+    "/usr/lib/python3.12/__pycache__/_weakrefset.cpython-312.pyc": "70ec95cd1e49187d44208bb02015c251d1e5c04fe7a86be35ca976c834f3fefc",
+    "/usr/lib/python3.12/__pycache__/argparse.cpython-312.pyc": "e3bd7036c9e4df5f3d0dca82a921ba4eb16130ffdfbb96c4cd1949d50c17d464",
+    "/usr/lib/python3.12/__pycache__/ast.cpython-312.pyc": "91f74707437ccf9174bfbce9b0cb45079e7f762cf6f0aea08b5006f9bfa28147",
+    "/usr/lib/python3.12/__pycache__/base64.cpython-312.pyc": "8c3862787472f66967e25a4dce87e1ca392b8c6a65452f278d861dc74cc859b8",
+    "/usr/lib/python3.12/__pycache__/bisect.cpython-312.pyc": "e27f2a00f316c6644fdd9e7b0b04e3c54e7c2c21db1742ed39206f563b10932a",
+    "/usr/lib/python3.12/__pycache__/bz2.cpython-312.pyc": "e7111b2c40e90d6058c74e3e5fc96bacfad438a579705ed71d43c0d5a367509d",
+    "/usr/lib/python3.12/__pycache__/calendar.cpython-312.pyc": "096f25b8f110da461b31f6ee6cab53ce717671aa85fe7b1d37d9f1849bdde847",
+    "/usr/lib/python3.12/__pycache__/contextlib.cpython-312.pyc": "542b69b2d0e0c84cdb01cf78ddfa15ec9eb7ae64b26c4e2deeef9ce186517ee3",
+    "/usr/lib/python3.12/__pycache__/contextvars.cpython-312.pyc": "70757336a76b266bbf5ffe5ba99040cc72a9948a2b42e5e490c67a09bdeb5be2",
+    "/usr/lib/python3.12/__pycache__/copy.cpython-312.pyc": "6feccda0a20a1e72b5430c1f8d11dfc2f2dd5bf1b3021bfdbe4fb37c788df30f",
+    "/usr/lib/python3.12/__pycache__/copyreg.cpython-312.pyc": "aa93d75861d8d6caad4556deb715862e637c826c6eb4cde59018c4a19b7269ba",
+    "/usr/lib/python3.12/__pycache__/csv.cpython-312.pyc": "fa0579e1670860f538cdc6bc9bbd8e1d1b4cecd5810162ce426e20cc9665240b",
+    "/usr/lib/python3.12/__pycache__/dataclasses.cpython-312.pyc": "e013395b4463f713b42f714c56b2b5d7b968e2962fa00b7da21d67879b68a23c",
+    "/usr/lib/python3.12/__pycache__/datetime.cpython-312.pyc": "f81adaec35535a8a3e9bc1004844b41af2124225f96fec8069fb7e95d72a8c24",
+    "/usr/lib/python3.12/__pycache__/difflib.cpython-312.pyc": "19ff5a87c0c83b1bd69009f61e50348b9bda0e324eab195484f97f61fe2050ce",
+    "/usr/lib/python3.12/__pycache__/dis.cpython-312.pyc": "311f18c3f670446cbb93c716abc50785f17a4e51aab7238c08d88b8466a10e0e",
+    "/usr/lib/python3.12/__pycache__/enum.cpython-312.pyc": "7139d8b5e41168669c2659c9330ac08954037b7484ae98ed5a3602722fd1c4b8",
+    "/usr/lib/python3.12/__pycache__/fileinput.cpython-312.pyc": "bcd4651b04da47df4daf882eb99300127c0f11f53445aa0bd11e395b4c10f1b6",
+    "/usr/lib/python3.12/__pycache__/fnmatch.cpython-312.pyc": "c05b5ae8406a9ce02911523254bf53ffca754ea3dceaeea5065d982c4c4db289",
+    "/usr/lib/python3.12/__pycache__/functools.cpython-312.pyc": "b6801681871988f4ad3905a88b1022bce8a894b309c6274588f51f4272350a50",
+    "/usr/lib/python3.12/__pycache__/gettext.cpython-312.pyc": "2f55a7063b9c0f4e9118101c687ab6a82e11c90bf11b8bfc1db5ba338956601d",
+    "/usr/lib/python3.12/__pycache__/hashlib.cpython-312.pyc": "8f4dfda452436f1ebb850023c29e8ab24ae99794a7d06c7e420a305c64db0508",
+    "/usr/lib/python3.12/__pycache__/heapq.cpython-312.pyc": "21a69e48daa4c45c4410b86d300dc3a621d9204e0d991aa26e0c2b316c1b7186",
+    "/usr/lib/python3.12/__pycache__/hmac.cpython-312.pyc": "406c1d0f0316e19a2abe84f85f25ced5d3d20968c18342fb8a4a09cb8aae7974",
+    "/usr/lib/python3.12/__pycache__/inspect.cpython-312.pyc": "178c6181a9d7f722b2922a226039d79538892251c52880ae7eb673f86fae4539",
+    "/usr/lib/python3.12/__pycache__/ipaddress.cpython-312.pyc": "ad44ab385c50aaf1156b7d92880c1ea8063607c459b9ade951dfade16393d837",
+    "/usr/lib/python3.12/__pycache__/keyword.cpython-312.pyc": "6fcb986fd10819c006d1f0ebfe47f115a368c30ea14b187de73e2706193da120",
+    "/usr/lib/python3.12/__pycache__/linecache.cpython-312.pyc": "2dcc9767b91307d0f43d8747863cc8120caa2b6591eddf06f16878ec3fb1db49",
+    "/usr/lib/python3.12/__pycache__/locale.cpython-312.pyc": "c3ef6b30204ff195a53ac1b3056c2144d4b04f0e6fe5dd8829a59e40d8d6ba1b",
+    "/usr/lib/python3.12/__pycache__/lzma.cpython-312.pyc": "6a57d8576a7fe953f47ef46062774aa76e3f8e6e68eaf7e7231ad9906d7d7659",
+    "/usr/lib/python3.12/__pycache__/numbers.cpython-312.pyc": "3abf3ad0dacb6e83722341da1eb87343ea3a766371f02b543250c9fcad71b854",
+    "/usr/lib/python3.12/__pycache__/opcode.cpython-312.pyc": "521206668f4a963bc11852d9f6cc3547589d92c67867cfd48a6460fe46cdfbc2",
+    "/usr/lib/python3.12/__pycache__/operator.cpython-312.pyc": "3cb62d7c3c190fd670f3196f660a0dd072a592e1580f20cb6d62b4321aeba377",
+    "/usr/lib/python3.12/__pycache__/pathlib.cpython-312.pyc": "ce1d16b482336c0c8162f744ff4c3a3cb65842d12222e73dac7fc73f23b5f572",
+    "/usr/lib/python3.12/__pycache__/pickle.cpython-312.pyc": "1b0e56cf3996331a8fd3d58bd94719b35b818a9764553af5e54dd0841431fe5b",
+    "/usr/lib/python3.12/__pycache__/pkgutil.cpython-312.pyc": "59e83c01e6742cff1ea853831a2610e8b88a82041d21cbb6aa763182804ac4f4",
+    "/usr/lib/python3.12/__pycache__/platform.cpython-312.pyc": "110ccb5d36ad0ad244d287ffd0d1f3354aff0037f4da2184e0e68c16419a3245",
+    "/usr/lib/python3.12/__pycache__/pprint.cpython-312.pyc": "11ff3ae7669209bb87d400552e348c13d0dc19d59e0c4fadc4a77c1a8325005d",
+    "/usr/lib/python3.12/__pycache__/pydoc.cpython-312.pyc": "0f27259e704c946d7e42e1337fd7bc5e3168ec7d6f60b83d07ef6b405c2338ae",
+    "/usr/lib/python3.12/__pycache__/queue.cpython-312.pyc": "b644080e0e0aaf62817f8f01c0ad4e704cd5ff33f4d37f6f72be84b7c2cfc2f2",
+    "/usr/lib/python3.12/__pycache__/quopri.cpython-312.pyc": "1c13593dceaff749d41b6a3c1cce040170b0fb64b2d75b91b4dea930a4d68c24",
+    "/usr/lib/python3.12/__pycache__/random.cpython-312.pyc": "94160967a9efd1acbc0a7bef5a8eb08d703bbba4fb4c0e137cc7f4105f580fc0",
+    "/usr/lib/python3.12/__pycache__/reprlib.cpython-312.pyc": "9eab84ef1c487bbd4994516f57dcba3e420ab2f9ecc85da98009a31d0ea1eba9",
+    "/usr/lib/python3.12/__pycache__/secrets.cpython-312.pyc": "8606eaf4fb9bc302cc1fa2f99ec6f4eebd6162ee22d050eae4a641f7b2f6aef0",
+    "/usr/lib/python3.12/__pycache__/selectors.cpython-312.pyc": "21adf0618f39c31c452f9b61ec8ed53f3d344b44b180a0e4f60d945e576cfbf1",
+    "/usr/lib/python3.12/__pycache__/shutil.cpython-312.pyc": "02d5a180a4b18b9f0bb8b16ed7c318c73060ab91f845df43b84eb4c3aa7cf71c",
+    "/usr/lib/python3.12/__pycache__/signal.cpython-312.pyc": "76575275bd83abe57f60eaaacfc20be9e67ccac2591073ade9a6e883c3404c98",
+    "/usr/lib/python3.12/__pycache__/sitecustomize.cpython-312.pyc": "a38d4ecc2a518c2a5f90a7274bb271f85f1348366eba3bde66ad790e1315bf73",
+    "/usr/lib/python3.12/__pycache__/socket.cpython-312.pyc": "7ba1397a6a025bd71d2f4f57f089b837f0aa20e30969086490196ae11815b255",
+    "/usr/lib/python3.12/__pycache__/string.cpython-312.pyc": "199769f13af58904b3854343d717ea32fb29dd8a4d43ac31faaa2759bbaec93b",
+    "/usr/lib/python3.12/__pycache__/struct.cpython-312.pyc": "a5555852c9f6b0e845149d58e709d9fec0b79f7a1ab0dfb73ae23ac608755747",
+    "/usr/lib/python3.12/__pycache__/subprocess.cpython-312.pyc": "b5c62cff938d67584c9d1f2cbcbbe3a4f522848a73686d7b1bef041f93538993",
+    "/usr/lib/python3.12/__pycache__/sysconfig.cpython-312.pyc": "b7d9edc4ad6127f1ce725a27de4cd92420c7f8113d3d8c51d5536abe9931bbf3",
+    "/usr/lib/python3.12/__pycache__/tempfile.cpython-312.pyc": "96242564fb7d24cf0c0661b757ed0b98d1a4c76a4cb69fe5fce3c82c21ce963e",
+    "/usr/lib/python3.12/__pycache__/textwrap.cpython-312.pyc": "444671392b50df1b35ea9056203e6a4af7709012fa3e7d92e86428a076cbf108",
+    "/usr/lib/python3.12/__pycache__/threading.cpython-312.pyc": "ca654a01c952dfab9d3bcab18f2809565c2a416d2539ba3ccc8a906250a48ddf",
+    "/usr/lib/python3.12/__pycache__/token.cpython-312.pyc": "ba852e8ca56cde909fb96b89fe8dbc1df44e6142d74ef05fd4042a1bf22fb2f0",
+    "/usr/lib/python3.12/__pycache__/tokenize.cpython-312.pyc": "09ce97a3de0ba0d1ffead71752db61c736d3a72a8994eded3519956316403cb1",
+    "/usr/lib/python3.12/__pycache__/traceback.cpython-312.pyc": "ef6f1ae8dcab7c53f0be0fc5436302ef11e83769318b3deed3df04113225fc14",
+    "/usr/lib/python3.12/__pycache__/types.cpython-312.pyc": "a569633d0b589ad6bf9497480e24d6fc2fbce846c864e18215bb460977b763e7",
+    "/usr/lib/python3.12/__pycache__/typing.cpython-312.pyc": "3be976ce7f685bb865d73139123c88d7aea3edf880e5415a92bee3ff0578b86d",
+    "/usr/lib/python3.12/__pycache__/warnings.cpython-312.pyc": "37c935128f82b3d26f87cc20f07251a75d64d802dbdeb178c430b13dfa0b9bbe",
+    "/usr/lib/python3.12/__pycache__/weakref.cpython-312.pyc": "b9ee66044a2223606544db3635851a448592b450a145b3b4673c6769c23d6a39",
+    "/usr/lib/python3.12/collections/__pycache__/__init__.cpython-312.pyc": "620ad2250e809af9433fd7e5063ad93987d36eb5904e1647ac50c5577d713c7f",
+    "/usr/lib/python3.12/collections/__pycache__/abc.cpython-312.pyc": "30c9dcc1254f83f404be9239ea83e102d9c7e5158672bf81ffc7a3fb3f67cb6f",
+    "/usr/lib/python3.12/concurrent/__pycache__/__init__.cpython-312.pyc": "bcab8f1e7375060f2c41dd0fdd2376196a7d3c610773b2681f0465f95eb11120",
+    "/usr/lib/python3.12/concurrent/futures/__pycache__/__init__.cpython-312.pyc": "25fb92d2b62ca226f0867674525fce3f44c664e860c8480ca491b69d5d25afe7",
+    "/usr/lib/python3.12/concurrent/futures/__pycache__/_base.cpython-312.pyc": "017304c77832e12fda2f5a58b3d2f5c2e9f4327201c343688816859b7522ece9",
+    "/usr/lib/python3.12/concurrent/futures/__pycache__/thread.cpython-312.pyc": "87f5043dd6070f764b77d1da119fc9615eb6d075c4c192c83998492beff81411",
+    "/usr/lib/python3.12/ctypes/__pycache__/__init__.cpython-312.pyc": "97dbb55af02e1f68b5da39410e054e64e08fb3f3327225542f2e76559e4a4519",
+    "/usr/lib/python3.12/ctypes/__pycache__/_endian.cpython-312.pyc": "66a2c04ca904f84629677674aeda594caf8b826c01969149b0d94a8e485dd843",
+    "/usr/lib/python3.12/email/__pycache__/__init__.cpython-312.pyc": "253200ab34c7a4a2c1ab1c08c153eb3d81228ab8115d6e0decc6f6bb2ab6068a",
+    "/usr/lib/python3.12/email/__pycache__/_encoded_words.cpython-312.pyc": "5ac2d45e80ddf331052facbc2538df26c0e0452e90b1e3db4f6400954f37ccf4",
+    "/usr/lib/python3.12/email/__pycache__/_parseaddr.cpython-312.pyc": "e7dc5e53a18ba402b0b79519a6fc7e5d702b887ccd51ba19213ba0b6d06a4283",
+    "/usr/lib/python3.12/email/__pycache__/_policybase.cpython-312.pyc": "6b6d381349e9ea83177c72f4dd35a712653023184dc01f81d11d6c51359b0735",
+    "/usr/lib/python3.12/email/__pycache__/base64mime.cpython-312.pyc": "acbebce26f964aab26ffd2f52b6f42a2f5b512016079e9c6a570ae19a9932976",
+    "/usr/lib/python3.12/email/__pycache__/charset.cpython-312.pyc": "f12f1a7e9be170acb1205fa55c60ac5c739582ad68a96829aefbc9227919457d",
+    "/usr/lib/python3.12/email/__pycache__/encoders.cpython-312.pyc": "c874a2a4bd38563dcf6e2413535a2e322aaa3f3a33186923aabf4862bdec56c2",
+    "/usr/lib/python3.12/email/__pycache__/errors.cpython-312.pyc": "9049c283c58d67ce74966f507c9e8257afaacb584777275dd27dc806349ccb14",
+    "/usr/lib/python3.12/email/__pycache__/header.cpython-312.pyc": "8a6bdfc792c3f6a9471d107943958a1c010c67ff4ec9db8c29da0918008ba026",
+    "/usr/lib/python3.12/email/__pycache__/iterators.cpython-312.pyc": "38e2f70edf1a329f543b304a1baeecfbc44e3430d0526a9eae5c1cce5c0c8b75",
+    "/usr/lib/python3.12/email/__pycache__/message.cpython-312.pyc": "e3a79db4d9e73faf764cefde12f42ce4ce01dd00e893759e168dd0c659681aee",
+    "/usr/lib/python3.12/email/__pycache__/quoprimime.cpython-312.pyc": "1d4a32c70a05c030928fbe36e91ec903153a101e0379fbaed5182ca62a71dabc",
+    "/usr/lib/python3.12/email/__pycache__/utils.cpython-312.pyc": "b96c751447aee2309c3fb729110453539c9f413509313778300a133a193c89be",
+    "/usr/lib/python3.12/encodings/__pycache__/__init__.cpython-312.pyc": "bfb3af79d486da66b097b09531bf25ca3c578b8f36b209234647965cc86a59de",
+    "/usr/lib/python3.12/encodings/__pycache__/aliases.cpython-312.pyc": "e444d8a6db9836d4be899219eb1203f47169f687551c48ae9a7d7bf47d0a06ac",
+    "/usr/lib/python3.12/encodings/__pycache__/utf_8.cpython-312.pyc": "e62b3e893228eadd37a639593eca070928fe168a7136dd9b527d1226018485df",
+    "/usr/lib/python3.12/importlib/__pycache__/__init__.cpython-312.pyc": "3c662a21fbcce62ced80b28b7a0b7a79d71550787a5800bb0dcbd6b464b3d29f",
+    "/usr/lib/python3.12/importlib/__pycache__/_abc.cpython-312.pyc": "fa303f5c021c53776adf08244b9c8a3829a627c1b91f5f0093339de7102ed2e6",
+    "/usr/lib/python3.12/importlib/__pycache__/abc.cpython-312.pyc": "f32ada941bb292517347fdc54f51a4d0bf7d89437b44d7ca7bf8f635d18fc6cd",
+    "/usr/lib/python3.12/importlib/metadata/__pycache__/__init__.cpython-312.pyc": "8f1184d9ed41cd5a699a4cf8e6511510370511c69e8a08ac7557d127cf24d688",
+    "/usr/lib/python3.12/importlib/metadata/__pycache__/_adapters.cpython-312.pyc": "b243df6ab052aa60a9e4c16b63f081dcd56bc19728a3492c9cf99d6dd502b093",
+    "/usr/lib/python3.12/importlib/metadata/__pycache__/_collections.cpython-312.pyc": "bc20a9f9e61a67a55560af91dcd3c70325a6d48f2d77fb8b9f674c5b6bbbfa33",
+    "/usr/lib/python3.12/importlib/metadata/__pycache__/_functools.cpython-312.pyc": "a725621661fd94804ff891444ca9cc0ac80b7c84e2b35b50a976d43a1ddc4a08",
+    "/usr/lib/python3.12/importlib/metadata/__pycache__/_itertools.cpython-312.pyc": "5cc3857fa0cb00e5fb60bb1f81ab7762a7483a0c4ffbaed42b906ecdf58e2bf1",
+    "/usr/lib/python3.12/importlib/metadata/__pycache__/_meta.cpython-312.pyc": "a58f46eacb19de991d1269fe4d19af3cb7cefb69dfc54d7006d5d3071148c514",
+    "/usr/lib/python3.12/importlib/metadata/__pycache__/_text.cpython-312.pyc": "ecba84fbc1f0170f06c4e9c9056e618b3d527fd0caf6fc3395c9d0427b25dd15",
+    "/usr/lib/python3.12/importlib/resources/__pycache__/__init__.cpython-312.pyc": "c53f88919090bc7cd913efbfd0766be4e46a3271e8957b0685dfc5b00120ad1c",
+    "/usr/lib/python3.12/importlib/resources/__pycache__/_adapters.cpython-312.pyc": "cb103e7659b3d92d0db75d1551ebbd1a25b4a5e325c00d9eb08637c76dd28602",
+    "/usr/lib/python3.12/importlib/resources/__pycache__/_common.cpython-312.pyc": "cd06850a21817ea3c2e8e1402427c1e40634680081b6dd61b9300954e94ec0b7",
+    "/usr/lib/python3.12/importlib/resources/__pycache__/_legacy.cpython-312.pyc": "e499713b8ddce3579e90cdc649a673d1b55e13c4410a9af1121af71280c0f59b",
+    "/usr/lib/python3.12/importlib/resources/__pycache__/abc.cpython-312.pyc": "9e1b292e22b8d427f44707fc19ebf40c2299737076d258c342e8c1aa92c24c0f",
+    "/usr/lib/python3.12/json/__pycache__/__init__.cpython-312.pyc": "45c424b5953b900c5669a3078442f570f98451f8fe00137678fedc1a07f53198",
+    "/usr/lib/python3.12/json/__pycache__/decoder.cpython-312.pyc": "36835b6e3b99a99ab525351d08f1542b278066d72ad6f1812d246885ac764bec",
+    "/usr/lib/python3.12/json/__pycache__/encoder.cpython-312.pyc": "4495973911af530f47271060d3c527190cd365440fd5fc65c524f0ad5fc73d41",
+    "/usr/lib/python3.12/json/__pycache__/scanner.cpython-312.pyc": "86da5b964282b22220a755447db2cc7857f9a71b150fc3c0f16302ec85349578",
+    "/usr/lib/python3.12/lib-dynload/_bz2.cpython-312-aarch64-linux-gnu.so": "2ed04be3713d83cf7188cfe0c4008b2570f5c0fe3d4215489b9bbf21b8b22ead",
+    "/usr/lib/python3.12/lib-dynload/_codecs_cn.cpython-312-aarch64-linux-gnu.so": "bd33c526c9c6b4f78b5e10419bae3bdc4659bfc7120ee7ac987efeb5efca554d",
+    "/usr/lib/python3.12/lib-dynload/_codecs_hk.cpython-312-aarch64-linux-gnu.so": "f6c618a51b96cc9edbe9befcff86da3db16eb01d400b08faa6fee8601e016756",
+    "/usr/lib/python3.12/lib-dynload/_codecs_iso2022.cpython-312-aarch64-linux-gnu.so": "aacd9009942ec91c10b951923a68f752af801b55f24fe5490c5a9b01fcc6ab38",
+    "/usr/lib/python3.12/lib-dynload/_codecs_jp.cpython-312-aarch64-linux-gnu.so": "ff8a0ae0bf840b90096bc45ca828ca7b511a0f1c06fc4727847f521dd1ac9057",
+    "/usr/lib/python3.12/lib-dynload/_codecs_kr.cpython-312-aarch64-linux-gnu.so": "81772941f66d45cde294d1cd7f59acacc86d26b5990842a1eb56651d7772ab6a",
+    "/usr/lib/python3.12/lib-dynload/_codecs_tw.cpython-312-aarch64-linux-gnu.so": "1368c567b0d8d7d9ad0857a46507a89e8a59d9b58f21dff85ec11ccda47df65b",
+    "/usr/lib/python3.12/lib-dynload/_contextvars.cpython-312-aarch64-linux-gnu.so": "c9f9c6bb810ce2ce80acb32813c147725fd989b090a042f43a33d181c7d40d58",
+    "/usr/lib/python3.12/lib-dynload/_ctypes.cpython-312-aarch64-linux-gnu.so": "8ce283d4a2d4f8d3a67a2720e012798b29dae0612fddfd4a2bc6299334116e36",
+    "/usr/lib/python3.12/lib-dynload/_hashlib.cpython-312-aarch64-linux-gnu.so": "c09d7e54f8f90523c507fe6b2b70bd0a90f2faef8a19eb9ace8b3a8331169241",
+    "/usr/lib/python3.12/lib-dynload/_json.cpython-312-aarch64-linux-gnu.so": "1bae8f3f85a2586d22526973a02e788bda556d4fbcbabae7b12b683c5be2b627",
+    "/usr/lib/python3.12/lib-dynload/_lzma.cpython-312-aarch64-linux-gnu.so": "d472f6bd840581dc77c3c829b8f13f2792524d04eee2750b19ff22c95bcef785",
+    "/usr/lib/python3.12/lib-dynload/_multibytecodec.cpython-312-aarch64-linux-gnu.so": "2334045a02072152294271fb5c9dd37066dce917f81aa43003abbce8d9d92aa9",
+    "/usr/lib/python3.12/lib-dynload/_queue.cpython-312-aarch64-linux-gnu.so": "0ab94b7c54af74d78b85b00bea6527e4dffc56304625995b0016429defe8edba",
+    "/usr/lib/python3.12/logging/__pycache__/__init__.cpython-312.pyc": "a66ecfb145896d33e7d6fa517b704b4aff18495382da2fd0bfc54d868a516b1e",
+    "/usr/lib/python3.12/re/__pycache__/__init__.cpython-312.pyc": "5cc6912535a75d0470da789e7950897f124887daff16684be077ceaa268dac26",
+    "/usr/lib/python3.12/re/__pycache__/_casefix.cpython-312.pyc": "c6467194c20c530855dacaaf4cff48c1794b0b262cda543552bcfeb94ea107d8",
+    "/usr/lib/python3.12/re/__pycache__/_compiler.cpython-312.pyc": "4b3836c38ba53c27c4039742b42431bbeb18ffb82d38e0f6d50cc15879a6c865",
+    "/usr/lib/python3.12/re/__pycache__/_constants.cpython-312.pyc": "53b82a420f90e57a1be2b6a9e4712a4c95e795cd15bc9974897cdc15e4d11cae",
+    "/usr/lib/python3.12/re/__pycache__/_parser.cpython-312.pyc": "5887830c9f0ab41be015159c84d305451bdec244965b8cd37fc05995d9417bc4",
+    "/usr/lib/python3.12/unittest/__pycache__/__init__.cpython-312.pyc": "a01e17252cb480cda461cc1ddc1e9e610d9f1301005f59afb3e57f522694848a",
+    "/usr/lib/python3.12/unittest/__pycache__/case.cpython-312.pyc": "5faa10872c711b6a160d65b1c7d3c82946d5351787c2e67c96bcdb1743a50eb3",
+    "/usr/lib/python3.12/unittest/__pycache__/loader.cpython-312.pyc": "01d679120c032b861b1a2c9783cd66f0fc0a84219591b2aab24dbb957a36fcff",
+    "/usr/lib/python3.12/unittest/__pycache__/main.cpython-312.pyc": "fb281840275dfe60120ef50250acb95cdfe4c4b6fe8db335bafc0c8460f647c5",
+    "/usr/lib/python3.12/unittest/__pycache__/result.cpython-312.pyc": "51fde3a5324c57966555b9790fe930be327a90a8787bc008c6f8ac262c3682ba",
+    "/usr/lib/python3.12/unittest/__pycache__/runner.cpython-312.pyc": "e07dee57f6297bb31285580c8c8bbbc7642eca16004cf72e94e0f504af79d00d",
+    "/usr/lib/python3.12/unittest/__pycache__/signals.cpython-312.pyc": "84fd5bc5eb692544742632f7895d4db5b3fb4ab3d6d44ab297f734df222dea90",
+    "/usr/lib/python3.12/unittest/__pycache__/suite.cpython-312.pyc": "a22f0739bf766d233d28be0200551a4504d5faa05f4c059622657cb4c4ffcc87",
+    "/usr/lib/python3.12/unittest/__pycache__/util.cpython-312.pyc": "94ee670ac43fb54ff4d66a2acd32a7fd8595cc32197b7c83caea2dd105caeac2",
+    "/usr/lib/python3.12/urllib/__pycache__/__init__.cpython-312.pyc": "7db27cab0f30e7e102174ce70758281444bf357f96e19b48750a08d3dda37b5d",
+    "/usr/lib/python3.12/urllib/__pycache__/parse.cpython-312.pyc": "687be8e7385c526054f5f86047e30c614e4cb6356b1e39413f11bb04dba52de2",
+    "/usr/lib/python3.12/zipfile/__pycache__/__init__.cpython-312.pyc": "fbfba9abcad35f4a14157a8f2bb3e166a3db9ffcf5e970e7be60ad8dbf1dfc60",
+    "/usr/lib/python3.12/zipfile/_path/__pycache__/__init__.cpython-312.pyc": "6a66db700a86cf30d65e001eeb458e4fa6ad67ac434a0b5bb4638e5fffe7a196",
+    "/usr/lib/python3.12/zipfile/_path/__pycache__/glob.cpython-312.pyc": "28acfaf529ad53aa6126cdf5cf3c943bcb24772171c73574a8303482f8980390",
+    "/usr/lib/python3/dist-packages/distutils-precedence.pth": "2638ce9e2500e572a5e0de7faed6661eb569d1b696fcba07b0dd223da5f5d224",
+    "/usr/local/lib/python3.12/dist-packages/Cython/Compiler/__pycache__/Version.cpython-312.pyc": "a48edeb0312a91de89d768bcec3661771ffda94c6968b4a627f4873a028d7198",
+    "/usr/local/lib/python3.12/dist-packages/Cython/Compiler/__pycache__/__init__.cpython-312.pyc": "eabc953c9a185263b1c032a728da3b6ec2759626184846a60ea0c714f33166a8",
+    "/usr/local/lib/python3.12/dist-packages/Cython/__pycache__/Shadow.cpython-312.pyc": "dd45c2e4d372a3129095cea2f17b815e9ccf622f7bb5f7df6e81d79455a2ecee",
+    "/usr/local/lib/python3.12/dist-packages/Cython/__pycache__/__init__.cpython-312.pyc": "5dcb9750421e1529cdd043a1b8df612f4a87c61998c96273de01d4e387b044f0",
+    "/usr/local/lib/python3.12/dist-packages/__pycache__/cython.cpython-312.pyc": "773bc53c98f83421f2c77f108a8a82fd4e80cea432759a6e1982526b49a73641",
+    "/usr/local/lib/python3.12/dist-packages/_distutils_hack/__pycache__/__init__.cpython-312.pyc": "b5b05b864daca2d1ecf988252c7b1d02732ca2a112557be3cb67ae422889af35",
+    "/usr/local/lib/python3.12/dist-packages/charset_normalizer/__pycache__/__init__.cpython-312.pyc": "4f14d9ac844cf3c1801b74fea6b50e78eaefa24bc65cfec0a689a39751d8e12b",
+    "/usr/local/lib/python3.12/dist-packages/charset_normalizer/__pycache__/api.cpython-312.pyc": "0c8ff8aefeff6f7b2d08f271275dce689af8e3a6967b46c680a2553c1c17a4a3",
+    "/usr/local/lib/python3.12/dist-packages/charset_normalizer/__pycache__/constant.cpython-312.pyc": "674b0f8ced8e9fd6ea60114acd1df07217958d86e555703c3c5101f7adae6fba",
+    "/usr/local/lib/python3.12/dist-packages/charset_normalizer/__pycache__/legacy.cpython-312.pyc": "d7c13c7c4529214336537d6781c85ea3320d7f15a2f8b2f26a8d388ac811508e",
+    "/usr/local/lib/python3.12/dist-packages/charset_normalizer/__pycache__/models.cpython-312.pyc": "7cfd7fda409a5d2921a924c263fbc15a04bd290260d43b66c15b1a32438253fa",
+    "/usr/local/lib/python3.12/dist-packages/charset_normalizer/__pycache__/utils.cpython-312.pyc": "f4dda97582f358c44ed70941ed3920977dd0fcfe64a1a78448ea68617e04daaa",
+    "/usr/local/lib/python3.12/dist-packages/charset_normalizer/__pycache__/version.cpython-312.pyc": "63d0eabf14737e182b4b9cd58ec7b05e2691635ae4a509c69c1569259165cf69",
+    "/usr/local/lib/python3.12/dist-packages/charset_normalizer/cd.cpython-312-aarch64-linux-gnu.so": "21f9ca6dcd07f65a7ceec131140cd23d388bc09b2b377e83ff03fb6669974553",
+    "/usr/local/lib/python3.12/dist-packages/charset_normalizer/md.cpython-312-aarch64-linux-gnu.so": "9d96946330b650acbad4ab917f5cf37f1c7d3a7fada1563d166513e09c2ee3cf",
+    "/usr/local/lib/python3.12/dist-packages/distutils-precedence.pth": "2638ce9e2500e572a5e0de7faed6661eb569d1b696fcba07b0dd223da5f5d224",
+    "/usr/local/lib/python3.12/dist-packages/nvidia_cutlass_dsl_packages.pth": "cc710b99ddb3d76361a70461461d274212a979d00c381d821fce5bb3ad9cf246",
+    "/usr/share/zoneinfo/Etc/UTC": "8b85846791ab2c8a5463c83a5be3c043e2570d7448434d41398969ed47e3e6f2"
+  },
+  "dynamic_runtime_files_unhashed": [
+    "/sys/devices/system/cpu/possible"
+  ],
+  "image": "nvcr.io/nvidia/pytorch@sha256:3becd068f49bd2ad38f90db5f9a4803019a76933a24e63d821376c44e7a9200a",
+  "strace_binary_sha256": "33b3ea325915f1213dc477d80e0f0b2b09ffeff5e81d98b25a35320fbcbcaf42"
+}

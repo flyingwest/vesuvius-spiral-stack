@@ -1,0 +1,58 @@
+{
+  "status": "FROZEN_BEFORE_RECONSTRUCTION",
+  "source": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/",
+  "source_scan_id": "20260411134726",
+  "t10_source_internal_path": "/volumes/esrf/20260311/2.4um_PHerc-Paris4_masked.zarr/",
+  "axes": "native ZYX, transverse XY, positive Z slice order",
+  "native_spacing_um": 2.4,
+  "native_z_indices": [
+    44453,
+    44454,
+    44455,
+    44456,
+    44457,
+    44458,
+    44459
+  ],
+  "count": 7,
+  "central_evaluable_z": [
+    44455,
+    44456,
+    44457
+  ],
+  "native_xy_bounds_half_open": [
+    [
+      18944,
+      15616
+    ],
+    [
+      21504,
+      16640
+    ]
+  ],
+  "trusted_crop_grid_bounds_yx": [
+    819,
+    922,
+    1049,
+    1153
+  ],
+  "trusted_crop_xyz_bounds": [
+    [
+      19167.20703125,
+      15823.431640625,
+      43383.13671875
+    ],
+    [
+      21296.16015625,
+      16447.3046875,
+      45535.91015625
+    ]
+  ],
+  "rule": "7 consecutive native slices centered at rounded median Z of sealed T10 crop; entire crop projected XY bbox plus128 native pixels, rounded outward to128. Geometry selects acquisition bounds ONLY.",
+  "xy_preprocessing": "exact4x4 mean with half-even uint8 rounding; pixel(i,j) maps native XY=(x0+4*j+1.5,y0+4*i+1.5); no Z pooling",
+  "trace_spacing_xy_um": 9.6,
+  "trace_slice_spacing_um": 2.4,
+  "labels_used": false,
+  "ct_acquisition_cap_bytes": 128000000,
+  "registration": "same scan-ID native XYZ identity; physical error not independently calibrated"
+}
