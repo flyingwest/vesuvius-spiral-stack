@@ -1,0 +1,15 @@
+{
+  "status": "BLOCKED_BEFORE_PREREGISTRATION",
+  "scientific_result": null,
+  "geometry_gate": "NOT_EVALUATED",
+  "model_loaded": false,
+  "correspondence_run": false,
+  "predecessor_files_verified": 3994,
+  "blocker": "No independent frozen control threads registered to T10 trusted surface; cannot evaluate mandatory control frame-error gate without new inputs or a scope decision.",
+  "target_scan": "54keV_7.91um_Scroll1A.zarr",
+  "control_scan": "2.4um-0.22m-78keV-volume-20260411134726.zarr",
+  "control_segment": "20231031143852",
+  "caveat": "Prior T5 report identifies target dataset as PHercParis4 / Scroll 1; different scan names do not establish different physical specimens. No registered overlap is established by available evidence.",
+  "prohibited_shortcut": "Do not extract control input threads from the trusted surface: trusted geometry is evaluation-only.",
+  "pending": "Existing independent control threads with registration, or authorization for separate bounded control-only thread reconstruction."
+}
