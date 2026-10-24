@@ -1,0 +1,74 @@
+{
+  "experiment": "P0-T13 control prerequisite bounded extension ONLY",
+  "hypothesis": "Nearby independent CT-only threads may extend trusted overlap support; the specified15-slice test cannot itself pass given sealed zero endpoints, but measures boundary continuation prospectively.",
+  "base_commit": "576b56209607260c0d4377b2ebd5e95d9a1d140c",
+  "total_native_z": [
+    44449,
+    44450,
+    44451,
+    44452,
+    44453,
+    44454,
+    44455,
+    44456,
+    44457,
+    44458,
+    44459,
+    44460,
+    44461,
+    44462,
+    44463
+  ],
+  "new_native_z": [
+    44449,
+    44450,
+    44451,
+    44452,
+    44460,
+    44461,
+    44462,
+    44463
+  ],
+  "reuse_native_z": [
+    44453,
+    44454,
+    44455,
+    44456,
+    44457,
+    44458,
+    44459
+  ],
+  "source": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/",
+  "native_xy_bounds_half_open": [
+    [
+      18944,
+      15616
+    ],
+    [
+      21504,
+      16640
+    ]
+  ],
+  "native_spacing_um": 2.4,
+  "xy_spacing_um": 9.6,
+  "xy_preprocessing": "exact4x4 mean with half-even uint8 rounding; pixel(i,j) maps native XY=(x0+4*j+1.5,y0+4*i+1.5); no Z pooling",
+  "source_worker": "scripts/p0_t13_control_reconstruct.py",
+  "worker_sha256": "5bba58e70be384ccd7d5830ae3870d57607a235a7a4df73ea8a0ab18c58c354e",
+  "frozen_method": "CT DoG(.6,2) >3, skeleton maximal chains. Ignore 4pixel crop edge. Preserve all chains; seed both orientations of8longest internally simple chains. No fixed trusted seed or surface-following target. Bounded prize-collecting beam128,depth64,outgoing12, bridge<=12px with inherited tangent/chord gates and penalty. Keep max observed arc minus penalties. Exact nonadjacent intersection guards; no output geometry corrected using evaluation.",
+  "gate": {
+    "distance_um": 19.2,
+    "minimum_qualifying_points_per_slice": 25,
+    "all5_slices_required": true,
+    "frame_projection_min_norm": 0.25,
+    "central_near_arc_span_um": 100,
+    "central_span_note": "Inherited safeguard; any25 distinct0.5px samples span at least115.2um, so redundant with count gate.",
+    "no_averaging": true
+  },
+  "window_selection": "earliest passing window; if none, maximize minimum per-slice count, then minimize total point deficit, then maximize total qualifying count, then earliest start",
+  "prospective_bound": "Sealed endpoints44453,44459 each have0 qualifying points. Each new window in44449..44463 contains one endpoint. All3old windows failed; no PASS possible without changing sealed evidence/gate.",
+  "leakage": "identical isolated Docker and Python open auditing; syscall-instrumented reverse-order replay; all new threads frozen before trusted evaluation",
+  "acquisition_cap_bytes": 128000000,
+  "prospective_promising_boundary_rule": "At least3 consecutive boundary slices each qualifying>=25 supports a separately authorized test of1-2additional slices; not automatic expansion or a prediction.",
+  "registration_uncertainty": "No independent calibration in sealed evidence; physical error unknown; numerical roundtrip not physical accuracy",
+  "stop": "No expansion beyond44449..44463; no T13 execution regardless of result"
+}

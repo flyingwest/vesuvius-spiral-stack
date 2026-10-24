@@ -1,0 +1,105 @@
+{
+  "command": [
+    "docker",
+    "create",
+    "--name",
+    "t13ext-audit-replay-44449",
+    "--user",
+    "1000:1000",
+    "--entrypoint",
+    "/strace",
+    "--network",
+    "none",
+    "--read-only",
+    "--cap-drop",
+    "ALL",
+    "--security-opt",
+    "no-new-privileges",
+    "--tmpfs",
+    "/tmp:rw,noexec,nosuid,size=128m",
+    "-e",
+    "PYTHONPATH=/packages",
+    "-e",
+    "OPENBLAS_NUM_THREADS=1",
+    "-e",
+    "OMP_NUM_THREADS=1",
+    "-e",
+    "MKL_NUM_THREADS=1",
+    "-v",
+    "/home/wpotech/deployments/vesuvius-spiral-stack/.venv/lib/python3.12/site-packages:/packages:ro",
+    "-v",
+    "/home/wpotech/deployments/vesuvius-spiral-stack/scripts/p0_t13_control_reconstruct.py:/worker.py:ro",
+    "-v",
+    "/home/wpotech/deployments/vesuvius-spiral-stack/outputs/p0_t13_control_extension/ct_only_inputs/slice_44449.npy:/input.npy:ro",
+    "-v",
+    "/home/wpotech/deployments/vesuvius-spiral-stack/outputs/p0_t13_control_extension/audit_replay:/output:rw",
+    "-v",
+    "/usr/bin/strace:/strace:ro",
+    "nvcr.io/nvidia/pytorch@sha256:3becd068f49bd2ad38f90db5f9a4803019a76933a24e63d821376c44e7a9200a",
+    "-f",
+    "-yy",
+    "-s",
+    "4096",
+    "-e",
+    "trace=%file",
+    "-o",
+    "/output/syscalls_44449.txt",
+    "python",
+    "-B",
+    "/worker.py",
+    "/input.npy",
+    "/output/slice_44449"
+  ],
+  "id": "d243b485e9f6695ab06ad353e004aa959c2f785e2a0f2a1b1e99e50608979a87",
+  "image": "sha256:0abf0782ad35f4d9ef6497c8442fd9c59a91ba64c0044a645283d95533b3887f",
+  "mounts": [
+    {
+      "Type": "bind",
+      "Source": "/home/wpotech/deployments/vesuvius-spiral-stack/.venv/lib/python3.12/site-packages",
+      "Destination": "/packages",
+      "Mode": "ro",
+      "RW": false,
+      "Propagation": "rprivate"
+    },
+    {
+      "Type": "bind",
+      "Source": "/home/wpotech/deployments/vesuvius-spiral-stack/scripts/p0_t13_control_reconstruct.py",
+      "Destination": "/worker.py",
+      "Mode": "ro",
+      "RW": false,
+      "Propagation": "rprivate"
+    },
+    {
+      "Type": "bind",
+      "Source": "/home/wpotech/deployments/vesuvius-spiral-stack/outputs/p0_t13_control_extension/ct_only_inputs/slice_44449.npy",
+      "Destination": "/input.npy",
+      "Mode": "ro",
+      "RW": false,
+      "Propagation": "rprivate"
+    },
+    {
+      "Type": "bind",
+      "Source": "/home/wpotech/deployments/vesuvius-spiral-stack/outputs/p0_t13_control_extension/audit_replay",
+      "Destination": "/output",
+      "Mode": "rw",
+      "RW": true,
+      "Propagation": "rprivate"
+    },
+    {
+      "Type": "bind",
+      "Source": "/usr/bin/strace",
+      "Destination": "/strace",
+      "Mode": "ro",
+      "RW": false,
+      "Propagation": "rprivate"
+    }
+  ],
+  "network": "none",
+  "readonly": true,
+  "cap_drop": [
+    "ALL"
+  ],
+  "security_opt": [
+    "no-new-privileges"
+  ]
+}

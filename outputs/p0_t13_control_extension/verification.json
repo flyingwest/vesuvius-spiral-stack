@@ -1,0 +1,137 @@
+{
+  "CONTROL_EXTENSION_COMPLETE": "YES",
+  "CONTROL_EXTENSION_RESULT": "FAIL",
+  "TOTAL_CONTROL_SLICES": 15,
+  "NEW_SLICES_RECONSTRUCTED": 8,
+  "BEST_5_SLICE_WINDOW": [
+    44454,
+    44458
+  ],
+  "BEST_WINDOW_COUNTS": [
+    110,
+    170,
+    115,
+    24,
+    84
+  ],
+  "TRUSTED_OVERLAP": "PARTIAL",
+  "READY_TO_RESUME_P0_T13": "NO",
+  "status": "PASS",
+  "meaning": "Reproducibility/preservation verification distinct from scientific extension result",
+  "LEAKAGE_AUDIT": "PASS",
+  "predecessor_entries_unchanged": 4413,
+  "prior_seals_verified": {
+    "outputs/p0_t1/SHA256SUMS": 76,
+    "outputs/p0_t10/SHA256SUMS": 141,
+    "outputs/p0_t11/SHA256SUMS": 499,
+    "outputs/p0_t12/SHA256SUMS": 186,
+    "outputs/p0_t13/SHA256SUMS": 4,
+    "outputs/p0_t13_control/SHA256SUMS": 410,
+    "outputs/p0_t2/SHA256SUMS": 173,
+    "outputs/p0_t3/SHA256SUMS": 66,
+    "outputs/p0_t4/SHA256SUMS": 28,
+    "outputs/p0_t5/SHA256SUMS": 1357,
+    "outputs/p0_t6/SHA256SUMS": 167,
+    "outputs/p0_t7/SHA256SUMS": 402,
+    "outputs/p0_t8/SHA256SUMS": 197,
+    "outputs/p0_t9/SHA256SUMS": 272
+  },
+  "old7_threads_and_original_control_evidence_byte_identical": true,
+  "old7_registered_arrays_exact": true,
+  "new_slice_checks": [
+    {
+      "z": 44449,
+      "replay": "EXACT_GRAPH_SEARCH_DECISIONS_ARRAYS_BOTH_REPLAYS",
+      "CT_pooling_replay": "EXACT",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      },
+      "bilinear_max_error": 2.842170943040401e-14
+    },
+    {
+      "z": 44450,
+      "replay": "EXACT_GRAPH_SEARCH_DECISIONS_ARRAYS_BOTH_REPLAYS",
+      "CT_pooling_replay": "EXACT",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      },
+      "bilinear_max_error": 2.842170943040401e-14
+    },
+    {
+      "z": 44451,
+      "replay": "EXACT_GRAPH_SEARCH_DECISIONS_ARRAYS_BOTH_REPLAYS",
+      "CT_pooling_replay": "EXACT",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      },
+      "bilinear_max_error": 2.842170943040401e-14
+    },
+    {
+      "z": 44452,
+      "replay": "EXACT_GRAPH_SEARCH_DECISIONS_ARRAYS_BOTH_REPLAYS",
+      "CT_pooling_replay": "EXACT",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      },
+      "bilinear_max_error": 2.842170943040401e-14
+    },
+    {
+      "z": 44460,
+      "replay": "EXACT_GRAPH_SEARCH_DECISIONS_ARRAYS_BOTH_REPLAYS",
+      "CT_pooling_replay": "EXACT",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      },
+      "bilinear_max_error": 2.842170943040401e-14
+    },
+    {
+      "z": 44461,
+      "replay": "EXACT_GRAPH_SEARCH_DECISIONS_ARRAYS_BOTH_REPLAYS",
+      "CT_pooling_replay": "EXACT",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      },
+      "bilinear_max_error": 2.842170943040401e-14
+    },
+    {
+      "z": 44462,
+      "replay": "EXACT_GRAPH_SEARCH_DECISIONS_ARRAYS_BOTH_REPLAYS",
+      "CT_pooling_replay": "EXACT",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      },
+      "bilinear_max_error": 2.842170943040401e-14
+    },
+    {
+      "z": 44463,
+      "replay": "EXACT_GRAPH_SEARCH_DECISIONS_ARRAYS_BOTH_REPLAYS",
+      "CT_pooling_replay": "EXACT",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      },
+      "bilinear_max_error": 2.842170943040401e-14
+    }
+  ],
+  "acquisition_ranges_verified": 320,
+  "all11windows_checked": true,
+  "gate_unchanged": true,
+  "T13_executed": false,
+  "further_expansion": false,
+  "physical_registration_error_um": null
+}

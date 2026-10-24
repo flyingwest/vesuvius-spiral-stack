@@ -1,0 +1,12 @@
+start_z,end_z,count_0,count_1,count_2,count_3,count_4,minimum_count,total_count,total_deficit,failing_slices,central_near_span_um,per_slice_count_gate,inherited_span_gate,pass
+44449,44453,35,0,0,0,0,0,35,100,4,0.0,False,False,False
+44450,44454,0,0,0,0,110,0,110,100,4,0.0,False,False,False
+44451,44455,0,0,0,110,170,0,280,75,3,0.0,False,False,False
+44452,44456,0,0,110,170,115,0,395,50,2,523.1999999999999,False,True,False
+44453,44457,0,110,170,115,24,0,419,26,2,9830.4,False,True,False
+44454,44458,110,170,115,24,84,24,503,1,1,547.1999999999999,False,True,False
+44455,44459,170,115,24,84,0,0,393,26,2,110.39999999999999,False,True,False
+44456,44460,115,24,84,0,51,0,274,26,2,422.4,False,True,False
+44457,44461,24,84,0,51,128,0,287,26,2,0.0,False,False,False
+44458,44462,84,0,51,128,186,0,449,25,1,5222.4,False,True,False
+44459,44463,0,51,128,186,0,0,365,50,2,1435.2,False,True,False

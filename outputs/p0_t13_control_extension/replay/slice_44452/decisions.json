@@ -1,0 +1,578 @@
+[
+  {
+    "to": 774,
+    "distance": 0.0,
+    "cost": 1.5466470223769364,
+    "tangent_cos": 0.8700221858486125,
+    "normal_miss": 0.0,
+    "support": 0.25675716048639546,
+    "low_confidence": false
+  },
+  {
+    "to": 1612,
+    "distance": 0.0,
+    "cost": 2.0242228266706577,
+    "tangent_cos": 0.7808688094430304,
+    "normal_miss": 0.0,
+    "support": 0.4964167979672638,
+    "low_confidence": false
+  },
+  {
+    "to": 2041,
+    "distance": 3.605551275463989,
+    "cost": 12.520798541694182,
+    "tangent_cos": 0.7399400733959437,
+    "normal_miss": 0.17149858514250882,
+    "support": 0.3706051540432826,
+    "low_confidence": false
+  },
+  {
+    "to": 2050,
+    "distance": 4.123105625617661,
+    "cost": 11.948308752588243,
+    "tangent_cos": 0.8574929257125441,
+    "normal_miss": 1.0,
+    "support": 1.0,
+    "low_confidence": false
+  },
+  {
+    "to": 2106,
+    "distance": 0.0,
+    "cost": 1.3909428270024184,
+    "tangent_cos": 0.8944271909999159,
+    "normal_miss": 0.0,
+    "support": 1.0,
+    "low_confidence": false
+  },
+  {
+    "to": 2089,
+    "distance": 2.23606797749979,
+    "cost": 17.384738685647665,
+    "tangent_cos": -0.4472135954999579,
+    "normal_miss": 2.0,
+    "support": 0.6298084741652141,
+    "low_confidence": true
+  },
+  {
+    "to": 2086,
+    "distance": 0.0,
+    "cost": 6.103331807387108,
+    "tangent_cos": -0.4472135954999579,
+    "normal_miss": 0.0,
+    "support": 1.0,
+    "low_confidence": true
+  },
+  {
+    "to": 2114,
+    "distance": 0.0,
+    "cost": 0.0,
+    "tangent_cos": 1.0000000000000002,
+    "normal_miss": 0.0,
+    "support": 1.0,
+    "low_confidence": false
+  },
+  {
+    "to": 2132,
+    "distance": 0.0,
+    "cost": 0.5921866795496413,
+    "tangent_cos": 0.9805806756909202,
+    "normal_miss": 0.0,
+    "support": 0.8106774257227016,
+    "low_confidence": false
+  },
+  {
+    "to": 2113,
+    "distance": 3.0,
+    "cost": 11.617288337779083,
+    "tangent_cos": 0.7399400733959437,
+    "normal_miss": 1.5434872662825794,
+    "support": 0.8076371145529103,
+    "low_confidence": false
+  },
+  {
+    "to": 2085,
+    "distance": 0.0,
+    "cost": 0.5921866795496413,
+    "tangent_cos": 0.9805806756909202,
+    "normal_miss": 0.0,
+    "support": 1.0,
+    "low_confidence": false
+  },
+  {
+    "to": 1917,
+    "distance": 0.0,
+    "cost": 0.0,
+    "tangent_cos": 1.0000000000000002,
+    "normal_miss": 0.0,
+    "support": 1.0,
+    "low_confidence": false
+  },
+  {
+    "to": 1831,
+    "distance": 0.0,
+    "cost": 1.2146753588552501,
+    "tangent_cos": 0.9191450300180579,
+    "normal_miss": 0.0,
+    "support": 1.0,
+    "low_confidence": false
+  },
+  {
+    "to": 1695,
+    "distance": 0.0,
+    "cost": 1.2146753588552501,
+    "tangent_cos": 0.9191450300180579,
+    "normal_miss": 0.0,
+    "support": 0.775881131365234,
+    "low_confidence": false
+  },
+  {
+    "to": 1690,
+    "distance": 0.0,
+    "cost": 3.0911304795729375,
+    "tangent_cos": 0.5144957554275265,
+    "normal_miss": 0.0,
+    "support": 1.0,
+    "low_confidence": true
+  },
+  {
+    "to": 1698,
+    "distance": 0.0,
+    "cost": 1.3909428270024184,
+    "tangent_cos": 0.8944271909999159,
+    "normal_miss": 0.0,
+    "support": 1.0,
+    "low_confidence": false
+  },
+  {
+    "to": 1747,
+    "distance": 0.0,
+    "cost": 1.9305033263798528,
+    "tangent_cos": 0.8,
+    "normal_miss": 0.0,
+    "support": 1.0,
+    "low_confidence": false
+  },
+  {
+    "to": 1744,
+    "distance": 0.0,
+    "cost": 0.0,
+    "tangent_cos": 1.0000000000000002,
+    "normal_miss": 0.0,
+    "support": 1.0,
+    "low_confidence": false
+  },
+  {
+    "to": 1585,
+    "distance": 9.219544457292887,
+    "cost": 32.63955450568662,
+    "tangent_cos": 0.9805806756909202,
+    "normal_miss": 8.040761540665546,
+    "support": 0.13797698374150472,
+    "low_confidence": true
+  },
+  {
+    "to": 1583,
+    "distance": 0.0,
+    "cost": 0.5921866795496413,
+    "tangent_cos": 0.9805806756909202,
+    "normal_miss": 0.0,
+    "support": 1.0,
+    "low_confidence": false
+  },
+  {
+    "to": 1545,
+    "distance": 0.0,
+    "cost": 5.677640643574617,
+    "tangent_cos": -0.31622776601683794,
+    "normal_miss": 0.0,
+    "support": 0.9995097210728746,
+    "low_confidence": true
+  },
+  {
+    "to": 1546,
+    "distance": 8.0,
+    "cost": 32.688731539246895,
+    "tangent_cos": 0.12403473458920847,
+    "normal_miss": 7.58946638440411,
+    "support": 0.06647075319894644,
+    "low_confidence": true
+  },
+  {
+    "to": 1498,
+    "distance": 7.0710678118654755,
+    "cost": 25.197271516901857,
+    "tangent_cos": 1.0000000000000002,
+    "normal_miss": 5.883484054145521,
+    "support": 0.37976152698196497,
+    "low_confidence": true
+  },
+  {
+    "to": 1476,
+    "distance": 9.486832980505138,
+    "cost": 28.059824958808253,
+    "tangent_cos": 0.9832820049844603,
+    "normal_miss": 4.706787243316417,
+    "support": 0.3063833944084736,
+    "low_confidence": true
+  },
+  {
+    "to": 1491,
+    "distance": 0.0,
+    "cost": 0.0,
+    "tangent_cos": 1.0,
+    "normal_miss": 0.0,
+    "support": 0.7930179195415512,
+    "low_confidence": false
+  },
+  {
+    "to": 1449,
+    "distance": 2.23606797749979,
+    "cost": 7.632718335448312,
+    "tangent_cos": 0.9805806756909202,
+    "normal_miss": 1.0,
+    "support": 0.9457018077021863,
+    "low_confidence": false
+  },
+  {
+    "to": 1450,
+    "distance": 0.0,
+    "cost": 0.5921866795496413,
+    "tangent_cos": 0.9805806756909202,
+    "normal_miss": 0.0,
+    "support": 0.9629339010808332,
+    "low_confidence": false
+  },
+  {
+    "to": 1422,
+    "distance": 5.385164807134504,
+    "cost": 14.96853017202116,
+    "tangent_cos": 1.0,
+    "normal_miss": 2.0,
+    "support": 0.6619124753486527,
+    "low_confidence": true
+  },
+  {
+    "to": 1359,
+    "distance": 0.0,
+    "cost": 0.0,
+    "tangent_cos": 1.0,
+    "normal_miss": 0.0,
+    "support": 1.0,
+    "low_confidence": false
+  },
+  {
+    "to": 1099,
+    "distance": 10.44030650891055,
+    "cost": 24.964350660743108,
+    "tangent_cos": 0.9946917938265512,
+    "normal_miss": 2.5724787771376323,
+    "support": 1.0,
+    "low_confidence": true
+  },
+  {
+    "to": 997,
+    "distance": 3.605551275463989,
+    "cost": 9.854102490621901,
+    "tangent_cos": 0.9021342216356466,
+    "normal_miss": 0.19999999999999973,
+    "support": 0.8937639025115438,
+    "low_confidence": false
+  },
+  {
+    "to": 867,
+    "distance": 0.0,
+    "cost": 6.322027276634106e-08,
+    "tangent_cos": 0.9999999999999998,
+    "normal_miss": 0.0,
+    "support": 1.0,
+    "low_confidence": false
+  },
+  {
+    "to": 837,
+    "distance": 0.0,
+    "cost": 2.1799270220451774,
+    "tangent_cos": 0.7474093186836597,
+    "normal_miss": 0.0,
+    "support": 1.0,
+    "low_confidence": false
+  },
+  {
+    "to": 677,
+    "distance": 0.0,
+    "cost": 0.9652516631899279,
+    "tangent_cos": 0.9486832980505137,
+    "normal_miss": 0.0,
+    "support": 0.9046820138814992,
+    "low_confidence": false
+  },
+  {
+    "to": 571,
+    "distance": 0.0,
+    "cost": 1.4320361471210148,
+    "tangent_cos": 0.888217643155949,
+    "normal_miss": 0.0,
+    "support": 0.9206434743276569,
+    "low_confidence": false
+  },
+  {
+    "to": 541,
+    "distance": 0.0,
+    "cost": 1.621258500811753,
+    "tangent_cos": 0.8574929257125441,
+    "normal_miss": 0.0,
+    "support": 1.0,
+    "low_confidence": false
+  },
+  {
+    "to": 542,
+    "distance": 0.0,
+    "cost": 1.3909428270024184,
+    "tangent_cos": 0.8944271909999159,
+    "normal_miss": 0.0,
+    "support": 0.8998104034267141,
+    "low_confidence": false
+  },
+  {
+    "to": 529,
+    "distance": 0.0,
+    "cost": 1.1415191313370938,
+    "tangent_cos": 0.9284766908852594,
+    "normal_miss": 0.0,
+    "support": 1.0,
+    "low_confidence": false
+  },
+  {
+    "to": 530,
+    "distance": 0.0,
+    "cost": 0.0,
+    "tangent_cos": 1.0000000000000002,
+    "normal_miss": 0.0,
+    "support": 1.0,
+    "low_confidence": false
+  },
+  {
+    "to": 546,
+    "distance": 0.0,
+    "cost": 1.7640078106427026,
+    "tangent_cos": 0.8320502943378437,
+    "normal_miss": 0.0,
+    "support": 1.0,
+    "low_confidence": false
+  },
+  {
+    "to": 588,
+    "distance": 11.045361017187261,
+    "cost": 31.45898863295993,
+    "tangent_cos": 0.9246780984747162,
+    "normal_miss": 5.269651864139677,
+    "support": 0.14068158731961916,
+    "low_confidence": true
+  },
+  {
+    "to": 435,
+    "distance": 0.0,
+    "cost": 0.7987561474527768,
+    "tangent_cos": 0.9647638212377321,
+    "normal_miss": 0.0,
+    "support": 1.0,
+    "low_confidence": false
+  },
+  {
+    "to": 436,
+    "distance": 0.0,
+    "cost": 4.569639670553739,
+    "tangent_cos": 0.04756514941544937,
+    "normal_miss": 0.0,
+    "support": 1.0,
+    "low_confidence": true
+  },
+  {
+    "to": 457,
+    "distance": 0.0,
+    "cost": 4.089900301079082,
+    "tangent_cos": 0.206010481049842,
+    "normal_miss": 0.0,
+    "support": 1.0,
+    "low_confidence": true
+  },
+  {
+    "to": 439,
+    "distance": 0.0,
+    "cost": 0.24942369566532185,
+    "tangent_cos": 0.9965457582448797,
+    "normal_miss": 0.0,
+    "support": 1.0,
+    "low_confidence": false
+  },
+  {
+    "to": 249,
+    "distance": 0.0,
+    "cost": 1.7001876525705197,
+    "tangent_cos": 0.8436614877321074,
+    "normal_miss": 0.0,
+    "support": 0.25596441318419966,
+    "low_confidence": false
+  },
+  {
+    "to": 193,
+    "distance": 0.0,
+    "cost": 1.2146753588552501,
+    "tangent_cos": 0.9191450300180579,
+    "normal_miss": 0.0,
+    "support": 1.0,
+    "low_confidence": false
+  },
+  {
+    "to": 89,
+    "distance": 0.0,
+    "cost": 1.733705810886736,
+    "tangent_cos": 0.8376105968386144,
+    "normal_miss": 0.0,
+    "support": 1.0,
+    "low_confidence": false
+  },
+  {
+    "to": 90,
+    "distance": 0.0,
+    "cost": 2.356194490192345,
+    "tangent_cos": 0.7071067811865476,
+    "normal_miss": 0.0,
+    "support": 0.3969856390714111,
+    "low_confidence": false
+  },
+  {
+    "to": 196,
+    "distance": 3.1622776601683795,
+    "cost": 8.040106543517565,
+    "tangent_cos": 0.9832820049844603,
+    "normal_miss": 0.3922322702763681,
+    "support": 0.796117566703989,
+    "low_confidence": false
+  },
+  {
+    "to": 368,
+    "distance": 1.4142135623730951,
+    "cost": 12.92522042501346,
+    "tangent_cos": 0.9191450300180579,
+    "normal_miss": 1.414213562373095,
+    "support": 0.002748677785246656,
+    "low_confidence": false
+  },
+  {
+    "to": 838,
+    "distance": 0.0,
+    "cost": 0.4797393694746576,
+    "tangent_cos": 0.9872411207126471,
+    "normal_miss": 0.0,
+    "support": 1.0,
+    "low_confidence": false
+  },
+  {
+    "to": 894,
+    "distance": 0.0,
+    "cost": 1.621258500811753,
+    "tangent_cos": 0.8574929257125441,
+    "normal_miss": 0.0,
+    "support": 1.0,
+    "low_confidence": false
+  },
+  {
+    "to": 914,
+    "distance": 0.0,
+    "cost": 1.0290718212621104,
+    "tangent_cos": 0.9417419115948374,
+    "normal_miss": 0.0,
+    "support": 1.0,
+    "low_confidence": false
+  },
+  {
+    "to": 1126,
+    "distance": 2.0,
+    "cost": 9.302158324322757,
+    "tangent_cos": 0.999512076087079,
+    "normal_miss": 1.5617376188860608,
+    "support": 1.0,
+    "low_confidence": false
+  },
+  {
+    "to": 1376,
+    "distance": 10.295630140987,
+    "cost": 23.68908392284415,
+    "tangent_cos": 0.9832820049844603,
+    "normal_miss": 1.2998673672393637,
+    "support": 0.8119831609007612,
+    "low_confidence": false
+  },
+  {
+    "to": 1426,
+    "distance": 0.0,
+    "cost": 1.3909428270024184,
+    "tangent_cos": 0.8944271909999159,
+    "normal_miss": 0.0,
+    "support": 0.9341621367187543,
+    "low_confidence": false
+  },
+  {
+    "to": 1454,
+    "distance": 0.0,
+    "cost": 0.5921866795496413,
+    "tangent_cos": 0.9805806756909202,
+    "normal_miss": 0.0,
+    "support": 0.7965355271604521,
+    "low_confidence": false
+  },
+  {
+    "to": 1488,
+    "distance": 2.0,
+    "cost": 7.746812980300503,
+    "tangent_cos": 0.9230769230769232,
+    "normal_miss": 0.3922322702763681,
+    "support": 0.3096874442373353,
+    "low_confidence": false
+  },
+  {
+    "to": 1341,
+    "distance": 0.0,
+    "cost": 1.733705810886736,
+    "tangent_cos": 0.8376105968386144,
+    "normal_miss": 0.0,
+    "support": 0.8489500447673114,
+    "low_confidence": false
+  },
+  {
+    "to": 1279,
+    "distance": 5.656854249492381,
+    "cost": 19.60784954941062,
+    "tangent_cos": 0.5144957554275265,
+    "normal_miss": 1.3719886811400706,
+    "support": 0.11486588166788662,
+    "low_confidence": true
+  },
+  {
+    "to": 1276,
+    "distance": 0.0,
+    "cost": 0.5921866795496413,
+    "tangent_cos": 0.9805806756909202,
+    "normal_miss": 0.0,
+    "support": 1.0,
+    "low_confidence": false
+  },
+  {
+    "to": 1314,
+    "distance": 0.0,
+    "cost": 0.0,
+    "tangent_cos": 1.0,
+    "normal_miss": 0.0,
+    "support": 0.4884090486268609,
+    "low_confidence": false
+  },
+  {
+    "to": 1193,
+    "distance": 0.0,
+    "cost": 2.522690005929495,
+    "tangent_cos": 0.6667948594698258,
+    "normal_miss": 0.0,
+    "support": 1.0,
+    "low_confidence": true
+  }
+]
