@@ -1,0 +1,135 @@
+{
+  "ALT_CONTROL_COMPLETE": "YES",
+  "ALT_CONTROL_RESULT": "FAIL",
+  "CONTROL_SLICE_COUNT": 7,
+  "SELECTED_REGION": [
+    [
+      17280,
+      17664
+    ],
+    [
+      19584,
+      19072
+    ]
+  ],
+  "BEST_5_SLICE_WINDOW": [
+    51449,
+    51453
+  ],
+  "BEST_WINDOW_COUNTS": [
+    0,
+    0,
+    0,
+    0,
+    133
+  ],
+  "TRUSTED_OVERLAP": "PARTIAL",
+  "READY_TO_RESUME_P0_T13": "NO",
+  "status": "PASS",
+  "meaning": "Reproducibility/preservation verification distinct from scientific extension result",
+  "LEAKAGE_AUDIT": "PASS",
+  "predecessor_entries_unchanged": 5009,
+  "prior_seals_verified": {
+    "outputs/p0_t1/SHA256SUMS": 76,
+    "outputs/p0_t10/SHA256SUMS": 141,
+    "outputs/p0_t11/SHA256SUMS": 499,
+    "outputs/p0_t12/SHA256SUMS": 186,
+    "outputs/p0_t13/SHA256SUMS": 4,
+    "outputs/p0_t13_control/SHA256SUMS": 410,
+    "outputs/p0_t13_control_extension/SHA256SUMS": 595,
+    "outputs/p0_t2/SHA256SUMS": 173,
+    "outputs/p0_t3/SHA256SUMS": 66,
+    "outputs/p0_t4/SHA256SUMS": 28,
+    "outputs/p0_t5/SHA256SUMS": 1357,
+    "outputs/p0_t6/SHA256SUMS": 167,
+    "outputs/p0_t7/SHA256SUMS": 402,
+    "outputs/p0_t8/SHA256SUMS": 197,
+    "outputs/p0_t9/SHA256SUMS": 272
+  },
+  "all_original_control_evidence_byte_identical": true,
+  "new_slice_checks": [
+    {
+      "z": 51447,
+      "replay": "EXACT_GRAPH_SEARCH_DECISIONS_ARRAYS_BOTH_REPLAYS",
+      "CT_pooling_replay": "EXACT",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      },
+      "bilinear_max_error": 2.842170943040401e-14
+    },
+    {
+      "z": 51448,
+      "replay": "EXACT_GRAPH_SEARCH_DECISIONS_ARRAYS_BOTH_REPLAYS",
+      "CT_pooling_replay": "EXACT",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      },
+      "bilinear_max_error": 2.842170943040401e-14
+    },
+    {
+      "z": 51449,
+      "replay": "EXACT_GRAPH_SEARCH_DECISIONS_ARRAYS_BOTH_REPLAYS",
+      "CT_pooling_replay": "EXACT",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      },
+      "bilinear_max_error": 2.842170943040401e-14
+    },
+    {
+      "z": 51450,
+      "replay": "EXACT_GRAPH_SEARCH_DECISIONS_ARRAYS_BOTH_REPLAYS",
+      "CT_pooling_replay": "EXACT",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      },
+      "bilinear_max_error": 0.0
+    },
+    {
+      "z": 51451,
+      "replay": "EXACT_GRAPH_SEARCH_DECISIONS_ARRAYS_BOTH_REPLAYS",
+      "CT_pooling_replay": "EXACT",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      },
+      "bilinear_max_error": 2.842170943040401e-14
+    },
+    {
+      "z": 51452,
+      "replay": "EXACT_GRAPH_SEARCH_DECISIONS_ARRAYS_BOTH_REPLAYS",
+      "CT_pooling_replay": "EXACT",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      },
+      "bilinear_max_error": 2.842170943040401e-14
+    },
+    {
+      "z": 51453,
+      "replay": "EXACT_GRAPH_SEARCH_DECISIONS_ARRAYS_BOTH_REPLAYS",
+      "CT_pooling_replay": "EXACT",
+      "topology": {
+        "proper_crossings": 0,
+        "nonadjacent_point_contacts": 0,
+        "collinear_overlaps": 0
+      },
+      "bilinear_max_error": 2.842170943040401e-14
+    }
+  ],
+  "acquisition_ranges_verified": 198,
+  "all_windows_checked": 3,
+  "gate_unchanged": true,
+  "T13_executed": false,
+  "further_expansion": false,
+  "physical_registration_error_um": null
+}

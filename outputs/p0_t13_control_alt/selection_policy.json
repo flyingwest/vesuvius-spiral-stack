@@ -1,0 +1,28 @@
+{
+  "stage": "neutral selection BEFORE reconstruction",
+  "candidate_order": "centers at (H//4,W//2), (3H//4,W//2), (H//2,W//4), (H//2,3W//4); first eligible. No selection after thread evidence.",
+  "grid_half_size_yx": [
+    51,
+    52
+  ],
+  "slice_count": 7,
+  "z_center": "rounded median native Z of candidate grid",
+  "excluded_z": "candidate7-slice range must be separated from44449..44463 by at least1024 native slices",
+  "geometry_gates": {
+    "all_grid_coordinates_positive": true,
+    "minimum_3D_edge_length_native": 0.01,
+    "maximum_3D_edge_length_native": 200,
+    "maximum_neighbor_normal_angle_deg": 45,
+    "minimum_each_section_arc_native": 500,
+    "single_connected_section": true,
+    "minimum_section_to_CT_crop_boundary_native": 64
+  },
+  "crop": "full candidate projectedXYbbox plus128native pixels, round outward128; same4x4XY pooling as frozen worker",
+  "coverage": "HEAD every native chunk touched by selected7planes; require size2097152, uncompressed128cubed; failures preserved; no intensity/label/model inspection",
+  "selection_only_geometry_access": true,
+  "thread_worker": "exact576b562 worker",
+  "gate": "each of5consecutive slices has>=25 observed points within19.2um; inherited frame-validity unchanged",
+  "maximum_regions_reconstructed": 1,
+  "registration_uncertainty": "physical error remains uncalibrated",
+  "stop": "No T13; no second reconstructed region even if FAIL"
+}

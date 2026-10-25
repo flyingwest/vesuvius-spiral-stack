@@ -1,0 +1,33 @@
+{
+  "status": "RECONSTRUCTED",
+  "path": [
+    2054,
+    1853,
+    1681,
+    935,
+    749,
+    721,
+    653,
+    577,
+    557,
+    457,
+    305,
+    277,
+    245,
+    201,
+    165,
+    77
+  ],
+  "score": 292.0073237438866,
+  "observed_length_px": 377.0487732352801,
+  "bridge_length_px": 22.452184679479615,
+  "samples": 800,
+  "observed_samples": 755,
+  "low_confidence_samples": 18,
+  "bridges": 5,
+  "final_topology": {
+    "proper": 0,
+    "contacts": 0,
+    "overlaps": 0
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "ALT_CONTROL_COMPLETE": "YES",
+  "ALT_CONTROL_RESULT": "FAIL",
+  "CONTROL_SLICE_COUNT": 7,
+  "SELECTED_REGION": [
+    [
+      17280,
+      17664
+    ],
+    [
+      19584,
+      19072
+    ]
+  ],
+  "BEST_5_SLICE_WINDOW": [
+    51449,
+    51453
+  ],
+  "BEST_WINDOW_COUNTS": [
+    0,
+    0,
+    0,
+    0,
+    133
+  ],
+  "TRUSTED_OVERLAP": "PARTIAL",
+  "READY_TO_RESUME_P0_T13": "NO",
+  "windows": [
+    {
+      "start_z": 51447,
+      "end_z": 51451,
+      "count_0": 0,
+      "count_1": 24,
+      "count_2": 0,
+      "count_3": 0,
+      "count_4": 0,
+      "minimum_count": 0,
+      "total_count": 24,
+      "total_deficit": 101,
+      "failing_slices": 5,
+      "central_near_span_um": 0.0,
+      "per_slice_count_gate": false,
+      "inherited_span_gate": false,
+      "pass": false
+    },
+    {
+      "start_z": 51448,
+      "end_z": 51452,
+      "count_0": 24,
+      "count_1": 0,
+      "count_2": 0,
+      "count_3": 0,
+      "count_4": 0,
+      "minimum_count": 0,
+      "total_count": 24,
+      "total_deficit": 101,
+      "failing_slices": 5,
+      "central_near_span_um": 0.0,
+      "per_slice_count_gate": false,
+      "inherited_span_gate": false,
+      "pass": false
+    },
+    {
+      "start_z": 51449,
+      "end_z": 51453,
+      "count_0": 0,
+      "count_1": 0,
+      "count_2": 0,
+      "count_3": 0,
+      "count_4": 133,
+      "minimum_count": 0,
+      "total_count": 133,
+      "total_deficit": 100,
+      "failing_slices": 4,
+      "central_near_span_um": 0.0,
+      "per_slice_count_gate": false,
+      "inherited_span_gate": false,
+      "pass": false
+    }
+  ],
+  "best_window": {
+    "start_z": 51449,
+    "end_z": 51453,
+    "count_0": 0,
+    "count_1": 0,
+    "count_2": 0,
+    "count_3": 0,
+    "count_4": 133,
+    "minimum_count": 0,
+    "total_count": 133,
+    "total_deficit": 100,
+    "failing_slices": 4,
+    "central_near_span_um": 0.0,
+    "per_slice_count_gate": false,
+    "inherited_span_gate": false,
+    "pass": false
+  },
+  "per_slice": [
+    {
+      "z": 51447,
+      "source": "new",
+      "observed_sample_count": 1255,
+      "qualifying_count": 0,
+      "qualifying_fraction": 0.0,
+      "distance_only_count": 0,
+      "near_arc_span_um": 0.0,
+      "observed_distance_median_um": 1193.1695002768026,
+      "qualifying_distance_median_um": null,
+      "qualifying_distance_max_um": null,
+      "coordinate_roundtrip_native_voxel": 4.547473508864641e-13
+    },
+    {
+      "z": 51448,
+      "source": "new",
+      "observed_sample_count": 2912,
+      "qualifying_count": 24,
+      "qualifying_fraction": 0.008241758241758242,
+      "distance_only_count": 24,
+      "near_arc_span_um": 134.4,
+      "observed_distance_median_um": 750.6930658630882,
+      "qualifying_distance_median_um": 12.360076315764635,
+      "qualifying_distance_max_um": 19.023129940413444,
+      "coordinate_roundtrip_native_voxel": 4.547473508864641e-13
+    },
+    {
+      "z": 51449,
+      "source": "new",
+      "observed_sample_count": 1014,
+      "qualifying_count": 0,
+      "qualifying_fraction": 0.0,
+      "distance_only_count": 0,
+      "near_arc_span_um": 0.0,
+      "observed_distance_median_um": 1190.05471299375,
+      "qualifying_distance_median_um": null,
+      "qualifying_distance_max_um": null,
+      "coordinate_roundtrip_native_voxel": 4.547473508864641e-13
+    },
+    {
+      "z": 51450,
+      "source": "new",
+      "observed_sample_count": 1777,
+      "qualifying_count": 0,
+      "qualifying_fraction": 0.0,
+      "distance_only_count": 0,
+      "near_arc_span_um": 0.0,
+      "observed_distance_median_um": 634.852700793528,
+      "qualifying_distance_median_um": null,
+      "qualifying_distance_max_um": null,
+      "coordinate_roundtrip_native_voxel": 4.547473508864641e-13
+    },
+    {
+      "z": 51451,
+      "source": "new",
+      "observed_sample_count": 769,
+      "qualifying_count": 0,
+      "qualifying_fraction": 0.0,
+      "distance_only_count": 0,
+      "near_arc_span_um": 0.0,
+      "observed_distance_median_um": 1237.835719575158,
+      "qualifying_distance_median_um": null,
+      "qualifying_distance_max_um": null,
+      "coordinate_roundtrip_native_voxel": 4.547473508864641e-13
+    },
+    {
+      "z": 51452,
+      "source": "new",
+      "observed_sample_count": 755,
+      "qualifying_count": 0,
+      "qualifying_fraction": 0.0,
+      "distance_only_count": 0,
+      "near_arc_span_um": 0.0,
+      "observed_distance_median_um": 1262.9326756058117,
+      "qualifying_distance_median_um": null,
+      "qualifying_distance_max_um": null,
+      "coordinate_roundtrip_native_voxel": 4.547473508864641e-13
+    },
+    {
+      "z": 51453,
+      "source": "new",
+      "observed_sample_count": 2116,
+      "qualifying_count": 133,
+      "qualifying_fraction": 0.06285444234404537,
+      "distance_only_count": 133,
+      "near_arc_span_um": 8563.199999999999,
+      "observed_distance_median_um": 118.21952463045467,
+      "qualifying_distance_median_um": 9.54270014316035,
+      "qualifying_distance_max_um": 18.828265539306628,
+      "coordinate_roundtrip_native_voxel": 4.547473508864641e-13
+    }
+  ],
+  "passing_windows": 0,
+  "further_extension_executed": false,
+  "T13_executed": false,
+  "distance_definition": "unchanged nearest trusted SAME-Z triangle-section point; upper bound on unrestricted3Dsurface distance",
+  "frame_eligibility": "unchanged scanZ-projection norm>=.25; observed only; no bridge samples",
+  "one_region_only": true,
+  "coordinate_roundtrip_max_native_voxel": 4.547473508864641e-13,
+  "physical_registration_error_um": null,
+  "physical_registration_uncertainty": "Uncalibrated; no independent calibration supplied in sealed source. Arithmetic residual is NOT physical accuracy.",
+  "uncertainty": {
+    "xy_pooling_cell_half_diagonal_um": 6.788225099390856,
+    "native_voxel_um": 2.4,
+    "trusted_mesh_grid_pitch_parameter_native": 20,
+    "normal_variation": "perpoint endpoint-normal variation saved; not a calibrated uncertainty bound",
+    "producer_registration_uncertainty_um": null
+  },
+  "trusted_geometry_read_after_new_threads_frozen": true
+}

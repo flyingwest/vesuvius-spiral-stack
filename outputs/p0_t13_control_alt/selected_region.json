@@ -1,0 +1,58 @@
+{
+  "source": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/",
+  "native_z_indices": [
+    51447,
+    51448,
+    51449,
+    51450,
+    51451,
+    51452,
+    51453
+  ],
+  "native_xy_bounds_half_open": [
+    [
+      17280,
+      17664
+    ],
+    [
+      19584,
+      19072
+    ]
+  ],
+  "trusted_grid_bounds_yx": [
+    376,
+    479,
+    1048,
+    1153
+  ],
+  "trusted_grid_derivative_halo_bounds_yx": [
+    375,
+    480,
+    1047,
+    1154
+  ],
+  "native_spacing_um": 2.4,
+  "xy_sampling_um": 9.6,
+  "arc_spacing_um": 4.8,
+  "coordinate_transform": "nativeXY=lowXY+4*localXY+1.5; nativeZ unchanged",
+  "selection_candidate_rank": 1,
+  "geometry_checks": {
+    "positive_coordinates": true,
+    "edge_lengths_bounded": true,
+    "normal_continuity": true,
+    "separate_from_old_range": true,
+    "all7_continuous_usable_interior_sections": true,
+    "full_CT_coverage": true
+  },
+  "selection_used_thread_overlap_labels_models": false,
+  "source_worker_sha256": "5bba58e70be384ccd7d5830ae3870d57607a235a7a4df73ea8a0ab18c58c354e",
+  "gate": {
+    "distance_um": 19.2,
+    "minimum_each_slice_count": 25,
+    "frame_projection_min_norm": 0.25
+  },
+  "window_selection": "earliest passing; otherwise largest minimum count, smallest summed deficit, greatest total, earliest start",
+  "acquisition_cap_bytes": 128000000,
+  "registration_error_um": null,
+  "maximum_reconstructed_regions": 1
+}

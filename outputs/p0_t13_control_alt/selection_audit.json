@@ -1,0 +1,4847 @@
+[
+  {
+    "grid_bounds_yx": [
+      376,
+      479,
+      1048,
+      1153
+    ],
+    "native_z": [
+      51447,
+      51448,
+      51449,
+      51450,
+      51451,
+      51452,
+      51453
+    ],
+    "native_xy_bounds_half_open": [
+      [
+        17280,
+        17664
+      ],
+      [
+        19584,
+        19072
+      ]
+    ],
+    "edge_length_minmax_native": [
+      15.912377037418295,
+      21.152257725759977
+    ],
+    "maximum_neighbor_normal_angle_deg": 18.46197758925108,
+    "sections": [
+      {
+        "z": 51447,
+        "segments": 208,
+        "single_connected_section": true,
+        "arc_native": 2043.2042502162053,
+        "crop_margin_native": 165.96645682367307
+      },
+      {
+        "z": 51448,
+        "segments": 208,
+        "single_connected_section": true,
+        "arc_native": 2043.1286683201602,
+        "crop_margin_native": 166.05911382850172
+      },
+      {
+        "z": 51449,
+        "segments": 208,
+        "single_connected_section": true,
+        "arc_native": 2043.0509602595134,
+        "crop_margin_native": 166.151770833334
+      },
+      {
+        "z": 51450,
+        "segments": 208,
+        "single_connected_section": true,
+        "arc_native": 2042.9718551380088,
+        "crop_margin_native": 166.24442783816266
+      },
+      {
+        "z": 51451,
+        "segments": 208,
+        "single_connected_section": true,
+        "arc_native": 2042.8899972296758,
+        "crop_margin_native": 166.33708484299495
+      },
+      {
+        "z": 51452,
+        "segments": 208,
+        "single_connected_section": true,
+        "arc_native": 2042.8122779581956,
+        "crop_margin_native": 166.47195665736945
+      },
+      {
+        "z": 51453,
+        "segments": 208,
+        "single_connected_section": true,
+        "arc_native": 2042.734535400771,
+        "crop_margin_native": 166.61464602906563
+      }
+    ],
+    "checks": {
+      "positive_coordinates": true,
+      "edge_lengths_bounded": true,
+      "normal_continuity": true,
+      "separate_from_old_range": true,
+      "all7_continuous_usable_interior_sections": true,
+      "full_CT_coverage": true
+    },
+    "coverage_head": [
+      {
+        "chunk_zyx": [
+          401,
+          138,
+          135
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/138/135",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "EY73magigR9zI42mEvHC7ANINOCt0S+WseXdXpJMHCQPXYIK2NOEhwjaUgv8hJzhdGXAbtAHyW8=",
+          "x-amz-request-id": "3K0XGDTDAQ2N80N1",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:11 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:50 GMT",
+          "ETag": "\"794de9861e4925e81188f65f9ad28e31\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          138,
+          136
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/138/136",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "ICeeoC6cpEM6lJDbcG8ST8/zPld6Ni8DSY9cIa17ZJ/fMMLvX8MxrcUAp6bNnjGdQE2aqbXz6JE=",
+          "x-amz-request-id": "3K0G7M1WQDAE1BAT",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:11 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:50 GMT",
+          "ETag": "\"1f05815965951454020b595e3040ada1\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          138,
+          137
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/138/137",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "ASaG1RQojHCQCuXrL1/HFjLJy7LW6rHTHXqwmYb4Dn6zk588F/clQkCAhCh7wfMxSJtaIQIJUKc=",
+          "x-amz-request-id": "3K0NX0F3DYZ7CKQY",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:11 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:50 GMT",
+          "ETag": "\"f240ee69d8ac05e8a7295cd386fb66b0\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          138,
+          138
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/138/138",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "E1OShrB6h9sjqIgX5rko2EvjkonMa43YAjQKGV3h+8/g090T2eC1cE4CxmYcBczdCsahUOY+0IM=",
+          "x-amz-request-id": "3K0MKSGH6KM55MGT",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:11 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:50 GMT",
+          "ETag": "\"a1b167a6e3b369a528bf273c1c323194\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          138,
+          139
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/138/139",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "WJsJY5fGrzbG/zdysh4TRSI3Lov2WC3lj8kx5ocfzJCOlgzbkMPbOd+SPFuDaeTYaPlT+lu8jwk=",
+          "x-amz-request-id": "3K0WHK6S09J20R66",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:11 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:50 GMT",
+          "ETag": "\"3efe2cebb4fabae3ec31261fe130827d\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          138,
+          140
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/138/140",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "IQSSpbM4C4Oi6jVfkrUoB8zPt6VYPpZ0PJhIAKMlBn5e5NdJHp7Oan0rQUb9oLEsmeINDJ7Oz9I=",
+          "x-amz-request-id": "3K0RSK2CFNPZ8H8D",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:11 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:50 GMT",
+          "ETag": "\"3929a6ebafd674ea987cfacf12db1b9f\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          138,
+          141
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/138/141",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "JfDA6ZntbvqigG5WJ7Y5m62mR9gljnXC71k1+PrPDA6vXra5qkzewr9RfRsP7TBB7mcy0Iw+ukA=",
+          "x-amz-request-id": "3K0Y08MJ6DTEM5JY",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:11 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:50 GMT",
+          "ETag": "\"4457a9cebe4b8b6d50733fafde112ac4\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          138,
+          142
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/138/142",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "gu5z+6eN9Gq654YOkuoEYTorfDyTaRSfa9YJCjNymwEDi87OICL383O9jk8xnJuS8vnuUSK+rOU=",
+          "x-amz-request-id": "3K0QN8Z8GVHZ77SP",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:11 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:50 GMT",
+          "ETag": "\"955b3ab94caa743afcfaf853fc3abb76\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          138,
+          143
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/138/143",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "Un1Y2Ga+8lEupQCVYWt+O2ztapkIICHHKnGmu1qsivvr9y3CxqVnNs4oHQFxpdHWXxwLsUzqdQdfJqhfDj3krhec5jDAPZCD",
+          "x-amz-request-id": "3K0YCCYGDKBTX0K1",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:11 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:50 GMT",
+          "ETag": "\"4c023c64edbefa022ccaf82e80a695fa\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          138,
+          144
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/138/144",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "fwT2D8W0q6/sFYyvLzXqSOpzCtFOKu2HU0Ptb87S1K5aKdHPIpLu7TVRbe7hLBNEHKYFqwInXN8=",
+          "x-amz-request-id": "3K0NT53QPTJ7C2J9",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:11 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:50 GMT",
+          "ETag": "\"402002b18f203b3197b451a42bd1f9ad\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          138,
+          145
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/138/145",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "InlZANgk7ZFpBrV3M5ZZyE1JVHgi1/9ZT2PXkoPc8YQSFXkLfa+Qe5pwCrSnTlYgwaa/RsFIfwg0nBj/CZnUJ9+XqvGD/K8o",
+          "x-amz-request-id": "3K0NCFABX4FYZAPE",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:11 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:50 GMT",
+          "ETag": "\"13adbc199eb50f1483b7282519a92b5e\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          138,
+          146
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/138/146",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "ZlKRQwr/R8z+G5C1uOnMczXBx/kBtHPpxcHYzhgoTXHSfX1Uvb/32PHGn3l5J9Ux1hPzBKweKBM=",
+          "x-amz-request-id": "3K0WYPWG6C43RNF5",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:11 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:50 GMT",
+          "ETag": "\"613025d147f678548154335f4849238d\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          138,
+          147
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/138/147",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "as5jJm/5M7i+L6fkwMhOt2x0P0VZBU9Zgl2DR+ALYC0MEldZNUigRJOMmn2/AW8ThYogfok0GVUL2XiDSMFBRR4wDZ2f+X0U",
+          "x-amz-request-id": "3K0KN3BQTDFP82Q8",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:11 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:50 GMT",
+          "ETag": "\"565014b2c693bd54c9dc38f8c787e647\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          138,
+          148
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/138/148",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "hcNgvJa+hap4qOmkCCQdL7XN6MWPSJoj26OKqsBLlnDe/P47WCtawXBZ/gyrszDQIFflX54aub4=",
+          "x-amz-request-id": "3K0QW6QR0F1B7EAX",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:11 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:50 GMT",
+          "ETag": "\"10a8a0d0e2dedacb91582ec16d2de8f3\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          138,
+          149
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/138/149",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "KaHqbYJlFQRMPp3cAktDXaZKMO1uku0qhbQOLJ43zlPL/mr91e1Mij3/gjR8Yt0GOcXu2v8M8QmghjeTEBBtoTCqJA2awqFU",
+          "x-amz-request-id": "3K0GQ2C5KTDBKMT8",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:11 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:50 GMT",
+          "ETag": "\"4fe79937c3408889b88151e50e5ff836\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          138,
+          150
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/138/150",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "TvaX0MPmApxVKnt8zk2Dfu6KuYDeeZZQbnTykkuH9vANImd7rqA7JsF2GGowews8X0aSCcrw9Kw2CvRCnQ6YGJJrBn0ZsdxC",
+          "x-amz-request-id": "3K0ZJ29RSWSDZFZT",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:11 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:50 GMT",
+          "ETag": "\"75c81ea5b4b32e0f1e46fb95c4361266\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          138,
+          151
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/138/151",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "EO2oda19i3UIp8+N8q8kT/oTAqeKEiJSdP7FTfFWviZios9I/BmJm2IMYpw6es2aULCk+EAxUhf3bSMrLkWZY/lSfZnzANNe",
+          "x-amz-request-id": "3K0JH1K56JHV4EQE",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:11 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:50 GMT",
+          "ETag": "\"618daaec7611733d18598942f9aa215b\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          138,
+          152
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/138/152",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "9W47xVbW2awuS10nPjZGcjTchGckWGUMlzvW2QWMGl68FfWiBAy0vAO1a3iDp/DpZmVYfWD1eIpDuaFBlZQuMIxOOQYDfcEp",
+          "x-amz-request-id": "3K0R3M2V7VMAE48Z",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:11 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:50 GMT",
+          "ETag": "\"988e47b9d65a62b87ace09f12fd70ede\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          139,
+          135
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/139/135",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "viFJcabzcdyHfnXfoMhnBipS8KnBibWMxqvZReX5ovLwJ/oAZLJVt2GuIcK6RsgFt+l5cqTtH8SvboJ+PpOApKiJaUyRC4h6",
+          "x-amz-request-id": "3K0QXKZ2MTPHA5WD",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:11 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"945edbf2567998a73ccdf35ad90c7877\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          139,
+          136
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/139/136",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "fEsLJjxOIbXCoPTwfU6vmjqDTTowrfaThFhgUgpWSxd5xfJWG+Fc37PFzgaoqN8W1RRBD29xVmc=",
+          "x-amz-request-id": "3K0TM0SXRSQ1664V",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:11 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"07a8a442124daf79a62dc2156cc9959c\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          139,
+          137
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/139/137",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "NfyEbijRTEzxVkjIIc9yPUXf6L1eb6qeJjOGvczRMFLbyj+Ov8XOXJBnzefGIfnYIrxQAkUI2Ws=",
+          "x-amz-request-id": "3K0VADPD4NRRHC64",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:11 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"ec184c0c5ae016c99f3b6ea814f6ae75\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          139,
+          138
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/139/138",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "pXaJh9VsAdorrwEv+5m6MBW+xfM5K4PQo69Cqur77u3tBFiwYRc4urGMpd5ZJPGvIo6iiwG0zJg=",
+          "x-amz-request-id": "3K0XBRZN906F9Q4Z",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:11 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"73251492bdbb6f0aa564e23ac6e7fb1e\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          139,
+          139
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/139/139",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "veBg6QXMGQ1SR7PgDhjS2fL06d5QQz1i5hS9q1JGgM/PNKk7eRGJiHsdsEnUg93zTG3msJrYcMa+Oh1sI2YoyAK3Txh4GXAr",
+          "x-amz-request-id": "3K0Z6QK466D2ATVZ",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:11 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"7e4b360e7d6d339fc78a46d6a5dc922a\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          139,
+          140
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/139/140",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "zkmQIvzZkyorZWm/ydOIjEhcUz7bvBxSbwDDW9H8qjvbLNc6ZO0RndQ5fUJYf+qjvg20m5X6e64dzK1vuta0xN4DyAIqXMaD",
+          "x-amz-request-id": "3K0G0DFTGWSZ85AK",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:11 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"56ce51e95df2425840d18c0613a7ecf6\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          139,
+          141
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/139/141",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "ewyNS9GOEPugeJxczQZimAUhFO2uCHE0oLej8DKyP6DNLiyBX3+my+IOpCUcCGq0hd0Qu6e4o2E=",
+          "x-amz-request-id": "3K0JC88WZ15RV9AS",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:11 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"17cb552e36c69cd08b80edc42d5066cd\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          139,
+          142
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/139/142",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "wDcl0xmnaz/AzfEaldGL5k0p55lIrs+//oDB80gV/NQTd/OweTh8LaexZvcug05CdPkRLi3xCLs=",
+          "x-amz-request-id": "3K0MYMX1KGH6AYGC",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:11 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"8c863f550bbab6feb5676c30cc92e675\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          139,
+          143
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/139/143",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "yw9h7NDpJshvChbEXm/QNxbTQ4qWS5EsXGK8BwP3BYKFS0H6eJM0f55eROTdjMZlLiFSdOT7FALVqtsjGZFt7FtT2ZDeO+Y0",
+          "x-amz-request-id": "3K0XMBTHPCGRV0R7",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:11 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"7607bd4b670e4fd5e6ff3f723d64d166\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          139,
+          144
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/139/144",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "b62M8+GGV8Hw2TjvjmSmcfW9VcU/QcaRGZJb7y/nF+SLvUeeGAZLhQoL0X777oAfV4ZAKIjaFvw=",
+          "x-amz-request-id": "QQY7H3YTC9M6PQ17",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:11 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"58c849b96b0b0a18de6dc6f5c70138c7\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          139,
+          145
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/139/145",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "SGjgSN9W/4qT3vpzDGKoftHQE1JXqPlxw3Q849omHaWVJ2/5tmKv/HdVQnDLf6sw+FTTlLrUPfyuhJc4Av/xPGEj8JENpvH4",
+          "x-amz-request-id": "3K0R16XVJMN36AEV",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:11 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"205cf94626405fb0dec5c4ad57d49e61\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          139,
+          146
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/139/146",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "DIrpTgUfMXlIP9p+lLz8h4D8kh3vu0U4Eapzvk7Fa7wkw6m8mqXY8rc13th4ixvEas8TkhDjVWsuGiZXVQmZ/NFD2rNnE3n3",
+          "x-amz-request-id": "3K0RSFXYRN6VYVKM",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:11 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"d2633844f2c587637968e90618b7469d\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          139,
+          147
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/139/147",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "HgI25e5eBFAaW0onj/dFSBajQm4GQG5iFJfIFZLsO0hJNjRDokfWPfDBnFpzNjW6xUs9EfYiHz8=",
+          "x-amz-request-id": "QQY8YTGH885K067K",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"37b40a1763f14b391051d27464939ad4\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          139,
+          148
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/139/148",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "1IdRLdvQWiPGUR+VwaU7iRhqxLN80JdV85Im/8G+UII0yGE5STxx6oj/bDGvHlp/GIBiokFWZIU=",
+          "x-amz-request-id": "QQYDG68ENMX234B6",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"204045b4d716548a1ca7d8860d0e0bba\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          139,
+          149
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/139/149",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "EZ3UNvLhoXt9BA4ysv/EcTA8kOi31iSnJfxoY5nomourVm8peLfZvn8Isy4mmWAwQTDLaRB8SzhsTzHBqVHhwe0Hmy/U/4CV",
+          "x-amz-request-id": "QQY1CFGTXRDC3H3S",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"31d5e505a1aba53c385b41c376459e65\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          139,
+          150
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/139/150",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "SiSeVWo6O/bH9gLLZ3Pro3h5liyxGR9amKLK+D1hgnNRb5mQ7hechpKE9ZC9wTmQmM1VCB2sFE0=",
+          "x-amz-request-id": "QQY352GQK4E7QS1J",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"ba0e55452bcf01728e7a1d21ac83952b\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          139,
+          151
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/139/151",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "tzvdqQvGlYBp9jOQOsFFkqRK2xxw98rANihHncuq/2IxvneONJeRUAQ0m4yTT+9NOrP06INoBQfWnUjMCbSz111uchIvHgT9",
+          "x-amz-request-id": "QQYAFERSWCZDMF4D",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"4ae31d450d6b2b5af6c31bd7a743778a\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          139,
+          152
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/139/152",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "/Q6sXoCQ1IKibGjim5r6tyK4evVFqqMlG2LsdYZ7lavMkQ0f9PpraQF6EAr5Y84X0HXDZFnT0yA=",
+          "x-amz-request-id": "QQY07K703J249YAS",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"dfb68a8f1abd752df26e2e8a3a5c9b82\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          140,
+          135
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/140/135",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "y1zsY4HSgLKjLYNPyS8c+ilXYNyp4IPFfs9zZW5msMnm41FS8+H/xvvR5PI+UqE2OzTOUcPzGxQ=",
+          "x-amz-request-id": "QQY7XDT03Q2GS0HA",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"33c4ff09a0d29296b0ef1107e3c0e8ab\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          140,
+          136
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/140/136",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "eIuwyuwZPzl3nTvfLROznCglBCamIyn5zWu9ZXyATqmmZye2SC7x6ISB7nNeph0jBYi8CupnnAZ6Iv34U0udj/iBKxiTDq1d",
+          "x-amz-request-id": "QQYF3P7G5VDG60TZ",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"8ac8bdf814c4893e95cac20b3d52359b\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          140,
+          137
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/140/137",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "J+iSzlrsQ5q+fsXmhm0CaReHgDV9rspH0QOfgLD1g73wYBzTCadPyWWcJOHM/ObiZ9f0zY3aLlY=",
+          "x-amz-request-id": "QQY45ZDNFXP8Q8VW",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"913d42af2de80a5b2d9ae7ec1c4935c4\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          140,
+          138
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/140/138",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "Gwcnd3rNHhz6PU4LHzT7gwe3vr9yr5V0QNGghjkXe41/XONhzRA717mDdcfJCwTVFCZH5KyyERk=",
+          "x-amz-request-id": "QQY0VW78EFM64CE1",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"900eda452639540477b94931b855b8be\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          140,
+          139
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/140/139",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "P+YBTZ1S1YMnDFdBaiSIyP0pcJOZ19eYzsubH2wiii8tbJ0J2mwnOAfVa9mrE+Eov7Qii48jEZY=",
+          "x-amz-request-id": "QQY0HE2WW4B5VBHM",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"bfc9fadeaf0d0662f3baf75a143ecfe1\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          140,
+          140
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/140/140",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "h8nOs2uWCKQ+MkTcZ8GPvppt6BXDMQMl+FgBjrZDPWguPPAb2T1vWdqlGW9lJplku/iTskdurZI=",
+          "x-amz-request-id": "QQY7VN60C9FGPFJX",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"7b3a857cf043bae14680b8e06c6bb8e8\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          140,
+          141
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/140/141",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "PhGL0UKqVNmAOwqLxq2DZjQBfnNHmymr+Yv6vBDjpowm8DcJR2pek3k9M6ppk4yxYtfLP/Pye1Ij0xGENaR6qcquxiDPKsio",
+          "x-amz-request-id": "QQY4WWV55V1WM13N",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"b8ffaf380d05af224641168db0be11d8\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          140,
+          142
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/140/142",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "Uiwcxa9wZaJb8PuVm1q8R8kpAQo39+JAzgiYm5Hc6HMRsS6MlwfgqPaK/NtjDxOXYL4c8QoszQ8=",
+          "x-amz-request-id": "QQYBA8A1HJCH7GZM",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"354bb1fed262fa8c3157832517ff0289\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          140,
+          143
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/140/143",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "BTjiTI7EONPzqSczO4PCkF6jskEhB6MZZVyUWu3s8kaPXCZKC7eqeoWGJUi63aOoHXQGtaNddgOvfZ3g/b+J0I6A3/bh1GJL",
+          "x-amz-request-id": "QQY2GCFAKC77FSQP",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"e9323f136f5cd10362ae3808adfd2f73\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          140,
+          144
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/140/144",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "0JyDna9Qd4u18qluaRx0vkR2l3aUGzLAZLACTwvxsU76ALT5ZtB0fQs9FM7uBvgas7MgUHPMUNuxgebu6A7Bq6lkxJgYH+O9",
+          "x-amz-request-id": "QQY3Q69GWBDPS094",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"5a2d0d5f1e57967cbcb547728978d4dc\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          140,
+          145
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/140/145",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "zjFMaY6W3HGVNPxHgXdfCfoy4tWusToyiIYbwFvFKc/ShX3hWOtETpnCNECm2JqsHg+tanVX9Mg=",
+          "x-amz-request-id": "QQY99Z13P96CT9HY",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"22d06555d67fe397131ae3dae0d9368b\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          140,
+          146
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/140/146",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "9ThTRyPrXy/+2t2DhnR+8lteCNRvbh/hd2mQHBlqnp9wAxZRxK9kFR0iSZ9po/LI5Gbzh+izAvW1PWCV7rc3PvUXhdvYxK7k",
+          "x-amz-request-id": "QQYFVVGH56BNH8F7",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"1494f84828d49fc70830ac8bfe5dd330\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          140,
+          147
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/140/147",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "+qJxF+sy5CZS+lhRSY1LxP5xMZ0ndkflOebqP9AnDVRHng3tP1bJfOkkff8L9IDwoo4Yy+A+5Hm9/woVMZ0IXXVBVoo6KnDl",
+          "x-amz-request-id": "QQY2EE4KVH38EN3H",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"572e66180848a3de44bc792b915db561\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          140,
+          148
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/140/148",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "lads8I3BKOzsaxabZV96xZeq3NRJhLi/RBGjgSP50PLryjoc66ufTNeyK29bZwAEq8KTyJ2WDrs=",
+          "x-amz-request-id": "QQY867Q11708NMQZ",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"db8e4ec708989a642fbc52a97f324fd4\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          140,
+          149
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/140/149",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "e2ESEJx7NFEol3Tv7xoFg3UMadH3Xtelmqefe75fWINmVangrMLlla7cF0QSIqe1yQu+Lheea+Y=",
+          "x-amz-request-id": "QQYFR2GEYEVBDVDQ",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"76070f28229a124f64211f2606793b91\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          140,
+          150
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/140/150",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "x8lFgL+eUrf+Wx28nZ5T9/9Nh4lnZI6Be/TWMfT7CTLcp5s3InYg2zrNe2jd5USRzU2P7vC3TQY=",
+          "x-amz-request-id": "QQY09QX7ARNE07SE",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"5baaa6e0970f7f46aa3f5148983fdbe6\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          140,
+          151
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/140/151",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "aOz8GCcgfpinKnS6HBNG9ZzTp0SGcWAvxpX+fxLdTXYXdsiQPe8z7APSD1U5MrFInFIAm67p07QxTC25jQfhTYD9/fwCAOmt",
+          "x-amz-request-id": "QQY0A5KPVPTC8C1R",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"ca432bc824ba271b5d904ca997f5cd9b\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          140,
+          152
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/140/152",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "MQJH/E3BAw7roYegGwr00VCHai5De+3pJy8FCvJ5bFvdUgRe8RnbCeArFVtlmZR3c35PYiETJUI=",
+          "x-amz-request-id": "QQY419Z39GWP963K",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:51 GMT",
+          "ETag": "\"d9213a291e32d1c521434ea49a2e6829\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          141,
+          135
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/141/135",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "ad4nKmpc2n/pxEbwK91JG+ho1G0TEUYWXIWyrymg53WYQ3JDNhHHLXSz0Sz1qn7cDXa6PUfzjGU=",
+          "x-amz-request-id": "QQY7H3HY082H3WA2",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"c4402a08b4ca774c17d8cf3bff2af710\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          141,
+          136
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/141/136",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "1OqcRbdH+mXW8Q7kmWhSxW96EIG/r48PAMl7A/twcSm7SfoqbpwwxAMStPxndSfpmLUmONbc5UaCFEnlMK4wB2mW1q3aoGRO",
+          "x-amz-request-id": "QQY5RRCDR65X3V73",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"ab988ec2502b8e6378af86ff153b7aec\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          141,
+          137
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/141/137",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "DzfRBWqFAWsPmFFDIqpd2Yyg1e8SAIiJThSvycAAIu1nZKHGagRMrzi+e9i9NbZsO+XgdXFPLTw=",
+          "x-amz-request-id": "QQY35GH2WYECDSV6",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"f5fdb2612cb846bbc39eac124e62fe11\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          141,
+          138
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/141/138",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "rfF0sFMMTI4odKwukW6Jj96glgAbaI3bH9+3A60QEW4WKOZ7n77p+Uwlx85bpWZ2GenCldM1rzPxRPyuAPidzSPdbA8ijAW7",
+          "x-amz-request-id": "QQY4QXRF8NANX5VT",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"9ae5e579ea9c50fa5de08624fea9f64c\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          141,
+          139
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/141/139",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "DmdPDBAw6PwGRgfuclcpEYSSS62hk+WahALXTkQ2aZpiwKkWbRse4o4jnT0ESHvIqudlybs5g9k=",
+          "x-amz-request-id": "QQY8J0DS24G3R6BN",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"7012449fbff0fddcbdb9f085363551bb\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          141,
+          140
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/141/140",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "5n1ZwO3UXVVFubaUg2xYNYFfDNobhxa5D++47g5DSNPTZeehFLYdcOG4qyFeG7MOOzbw+anW6KY=",
+          "x-amz-request-id": "QQY0QH613BV27PT3",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"85d5dadc1e8c1af41a1d236c390c1a92\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          141,
+          141
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/141/141",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "0K4BagyrdvCdE649tOunLDxsL0cdXulyvVeFm+zgRsH0JH5SVBO7vN39lzcjmemt43eghYMm5Mg=",
+          "x-amz-request-id": "QQY6QXQXFF8W5N26",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"0e55ba6d512bb01437a38421963bd4e3\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          141,
+          142
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/141/142",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "R+El8DB9cUo/JdvyxMAUxrfhB7tCMOVMvGKHxPkl90sR8aJNZ+ui/w5vBzeirw7FIMHSWduFY7Q=",
+          "x-amz-request-id": "QQY13GB6Y1HHKR0H",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"5338df50df804c0810456670d43e3ff8\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          141,
+          143
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/141/143",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "G0CnikEAiScHd/7XpXkSOEiiJci4RYWsc0WyZJHCaeP0nYD24y0d2/2w+1r5Yh26wxDWBZndKHkHiX4D6BQWiJdbhHSrfgj8",
+          "x-amz-request-id": "QQY8617E4R7SB25P",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"b04ccc9faa6636da67fe51dd2860361d\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          141,
+          144
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/141/144",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "57ZbltDiaF547hW9YZ3cnfQrODPBtJJxK+BVS39mAYNVY9J/nf5qxNBjVGZJlmtdRn7zrrc6oIs=",
+          "x-amz-request-id": "QQY14T90DYZ49C81",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"425dd2fe5aed69c814f0f55afba84409\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          141,
+          145
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/141/145",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "CD56xIXavwZXK0i/szfD8YG2WSX3o/buj1PGRqf0vvmJtuJ09UWr17UPx5AtN2rgxT5Pkn9wc9ab0fGVoLQZxPESARgX08Vc",
+          "x-amz-request-id": "QQY1TT62VKWKQWX0",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"2e036baf0bf18757be9faa165ceaa85c\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          141,
+          146
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/141/146",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "Q3uaQhfRBowocaJ05ViMbaXBq/8c9sfgTzhd59o1dM1F/1fUQXdcvThPYfYtpF0c0ZApZZq5vN8=",
+          "x-amz-request-id": "9J37T67F77T1KC1K",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"42b2c2118451f1afddc6ebef4d45dde6\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          141,
+          147
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/141/147",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "TzJIhZ3dZd6Hl0j8QH9VIBAzS98lBXnTumUZlfHp6mR/GicwcnHr9yDZOs1ijwi0rCA4JtJgUdGvIMSdZDyB8kgjYfr1zskn",
+          "x-amz-request-id": "QQYCR4GNND3VEJ6T",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"6e5b66510306f1759b444406e9e96f4f\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          141,
+          148
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/141/148",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "MQyxifwHY2eeBsT+O+4WNvzorujv4cbYMsBQmDDu8GYhbAZAuOOs5qcwBSEoLEDjCfh1uBaQMddiB87P2gJMiPJSrlhCXy91",
+          "x-amz-request-id": "QQY36ACQGN1GTP7G",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:12 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"5c923e165502b1010f5b77ee7ffdc779\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          141,
+          149
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/141/149",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "MATqpb6v3M6KzXpm4sYePZG4jX8YVuyYxUPwAgxge8V2bk0L/Aedng0Vf4ZJUp35rNUrxv3KShU=",
+          "x-amz-request-id": "9J36KFSWY6NV5VNC",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"204a96006ca755489300dd46ef186d9c\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          141,
+          150
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/141/150",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "9GXg8p+YeU8qBUIt6OgEtwkkf9cM2xsYPFxur8r9GoMbRfqTpLapezPGvTxkdQFcsOgsSPVRrcNEPaUPe7iTG6MBJVJn/6iQ",
+          "x-amz-request-id": "9J3EWYGN7FDPWYSX",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"5da11556e01b51f5b0e69462136e0dd5\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          141,
+          151
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/141/151",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "P57zujNk3FGecYcAkSQ5VsAyqkoE8JD3i4RrT7a/caent3JHmEzmUv6P06kW373hlx64Ewurwlc=",
+          "x-amz-request-id": "9J32PK4VKFPB1Q7M",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"104f1063a24d0a96a8692993f078a9e7\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          141,
+          152
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/141/152",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "41oknEfCekJsqnosvZdM+anZnbussIS3WTVs8A2MyaCoK7gddNTddbRBwf+Pl1ypL9egNnMGDC0=",
+          "x-amz-request-id": "9J39NRESG70S3BYF",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"57c0ab0715c4492cc0b0838cf19f2c48\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          142,
+          135
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/142/135",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "7o5V40yJ2A0g3NfjqUaNkye8Rw5t76a/j1yfisygfGN30rdh8HlfP7LK0oDKVcAX1CEFoOntXYZ7GK/KWdcjVVp3vXCuCRRj",
+          "x-amz-request-id": "9J37NTC8N7NYWNST",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"1785ded52a8a8d751e3e440cfff5a83b\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          142,
+          136
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/142/136",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "gdwi88CbyNksHO02F293ipOJ6uZ52XD6jJw+anKalYZG8Qkwp1hMoYy+Gm0Fz2KG71UM7M9hRrk=",
+          "x-amz-request-id": "9J3CA0K0FZ3MW9CJ",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"24149a40d3392643763cc0a05c32f16e\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          142,
+          137
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/142/137",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "appO3XTKjI62mZMMgTlUpw3av3Hbl5SQVtZTy3WU3tRDIefr0mUyVBG6YbuJz1zn0RETwb3odwk=",
+          "x-amz-request-id": "9J32MSP7G5ZGJQKF",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"22bb1f1c681bbeaff2d551c8ca58e98a\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          142,
+          138
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/142/138",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "L7QcZbtH+65dsRRlwYZyA8vYRMmy5XCSCc4voDqSsnxDfEcYgfSFeMviBIIHO1pgJ3nMF7gw6Qs=",
+          "x-amz-request-id": "9J38HQADH8M6VMAA",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"72d428b782a0549bee42fd1fc07b8266\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          142,
+          139
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/142/139",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "91F2cKGvZ8jZKnmeGU8lW/ymyxMSiSBGNF89FlPgVlpuGN71uz+SB1l0hnb9gUU9PAIqykzi9ZhBEldArDrs063UwP2j5R7o",
+          "x-amz-request-id": "9J333S6ANVJFR9CV",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"b7edae0dc9a967906901014338ff5a41\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          142,
+          140
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/142/140",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "tS2AluQlc8Bf/DH/Uxem9w9p/QbfsgLVoH3snD8QgdNelDQ5s469lzx/ZL9LtSDIgoSweZVkLL/zU0j9YP7HjZ3YDvNDUH44",
+          "x-amz-request-id": "9J31W1W1V3GCE4VD",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"cc53518b8c5abca30fbd61011583e886\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          142,
+          141
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/142/141",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "ZdNzoUGnUGE+8HyqcswKVSwXBy92l5YTBOp6zyRwXYNaWlYckADt51ypDbTjE8Drf6W8vMbfIFcxUaOn9xuDd2WvpmYBVmbJ",
+          "x-amz-request-id": "9J3904CX9MCJ1K6V",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"106b361360b2b2e4a48499e33fab62ad\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          142,
+          142
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/142/142",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "MfLi90S3xO0i/Qon4eRnawIalKA8HFaeonA5eqExUELF94cxunJhl/ZQ8OwZgCqzI7mwXbaBzzJ049OS+MybpQgmu7FB3/zN",
+          "x-amz-request-id": "9J36V71M67B8WSCY",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"a4c9956b7b318bf5961ab5bd64e638a9\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          142,
+          143
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/142/143",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "38Or4S9i/ld2ZavYqcQXprA8Nv3EK/WSV3gn+PfupWLfV4gNK87djd5AbGymrT5cr4ZGvk98aQxhSsDCaktelXldwjuk6Edt",
+          "x-amz-request-id": "9J33ZGWQT7FDCHYX",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"854f70347e6bd10d64933c58f1d6101b\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          142,
+          144
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/142/144",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "7eGqLuVr3f/xVYsdUSJ1Le84hwlwOmktf9UHoBhw34Jbvd9DTTQ6eVtVGspRiuzXoUE9LZMny6s=",
+          "x-amz-request-id": "9J3EWT26KM94SR20",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"d90dc5705af9004c41119df1ada38fe7\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          142,
+          145
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/142/145",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "b7PyTI6UO8zjREBpAnZ89p9GCXd9cWIgG4TPfes90vQobpGCk8Pbn0nwwhoof63+onnK+EJdcf0=",
+          "x-amz-request-id": "9J3D9BFJHMXT8GRJ",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"af6e288b2d7d30fd10a722e08239450c\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          142,
+          146
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/142/146",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "NYhwewMGOXa/d2CpkyGHv7xcXzkSP2d2LQBBzzKCnOmyczDNg/29IQX3PwGjX/vorjqN+dwI+m0=",
+          "x-amz-request-id": "9J3ESS6W8KWVQFF9",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"1c15b61a8f8ecf92b36486350c9cfecb\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          142,
+          147
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/142/147",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "YxUgFg8QllD6slpe2lGhtQj0VjXiMtb4PBRIyeg7ILff529RFjR6HIngSeFMXp64EZ6sKwey/FI3nqbmsNzd9oNqiz813PKG",
+          "x-amz-request-id": "9J3EZT5YEBE0G1KJ",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"e879a3b753396186a2004b812e668127\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          142,
+          148
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/142/148",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "xMuZ5zQIQDeZkcnqIBlrKt4fEwdcZn4n/M5sIDYyL4IJlMRT3AZ5iCmhRLcwGMGX7dWbsYIyUUE=",
+          "x-amz-request-id": "9J34VQ734YQF3D5R",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"9427455eb20e0865d6f99d550dafcdc2\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          142,
+          149
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/142/149",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "EoCC2cNoLdslJe4TSt2QD9jAfW4AsKKg9aVWC1bvhRl1CSQIt662JVGRL6kN6J/Nd9J4DcDGFwB2RnTvTdrP0t8mUTQhZNmB",
+          "x-amz-request-id": "9J367YX6GB8XF38P",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"a2e372e5e49132135d26579df2bd3a73\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          142,
+          150
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/142/150",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "yrCN6BFKwCwQL2foNTCt3delHkxRiDa1aC1cIviBEWdUu0dsdGknqwT/V3G8OzPATOB53YgJ1Vh/v/TvdUlPwrmetPtpqvFp",
+          "x-amz-request-id": "9J3DC3QVZB613TC2",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"b405b39a956e5e5b36bbfef23d887ff3\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          142,
+          151
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/142/151",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "vn1SCxSKiduJIqvNgr8HSklj9E/hKVCDSjywLP8QJH+mipmdegZkwX+3HIMpnLOsT6Sf9P7BVxQ=",
+          "x-amz-request-id": "9J30CWDJ3WR2AGZD",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"2f009ab7dad38780ab8a006d177d9a90\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          142,
+          152
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/142/152",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "Qe6dPGVQezzcBiBOxdRBe26te3e7YXaXQyQhjoRvjtAKaq2FPUgC9TJ0z51AcVN3d9KC44emxMc=",
+          "x-amz-request-id": "9J3C2KBTPQESMG99",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:52 GMT",
+          "ETag": "\"3c3aaefedbbdf89920e7ddd9e5683361\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          143,
+          135
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/143/135",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "P1oHHKQjc0qnz5Wkp5+BaD6iI6W1Hs/YXurmovJ4EaYFwrZbFPjM83hq+//0iITzX2LazR9oVQ64Ne+okfMlM9hwj3uIc3Pa",
+          "x-amz-request-id": "9J3F2DA14E6R9YFG",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"299f42ba8d9f4f178007ade6945a6e52\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          143,
+          136
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/143/136",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "hsQjUki31TduvA7vYtty7cNnVWn8pxBK4z4LTdfl32zax8mMIWN+ppsLPAuOS0dB2dsIp8icBHU=",
+          "x-amz-request-id": "9J3FMAYYK6VJ3VK7",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"862bc97a8c3a74193be552b6dcb5ac7e\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          143,
+          137
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/143/137",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "/KjbcctnbCIKtcgTA7GGqJw1+Z6JIOS9CPF0fEiJO8/3pdAQ9caGnvJEXfazChLitCb9j+25IvE=",
+          "x-amz-request-id": "9J3EEHTHPSFDTNE4",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"ceee13d7e73c792b8f35d973f09a02d5\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          143,
+          138
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/143/138",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "swZ2Xyp2TLNRyMw0E40Y+Qlaf83kZl/x/qxngG1XitvT7qdDuENAIbTvezXgc12y2I2eMOLam7Q=",
+          "x-amz-request-id": "9J32C276Q9BD11A7",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"3bad24a805e872f2fba1c6de4f11d4fc\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          143,
+          139
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/143/139",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "yLLZEuCP9DtnGLaxZLNIdmlx6myX9JBaP5FYsU1R8pKQAoyid/XQizH14siJb2bZ3Aaiym1l4FU=",
+          "x-amz-request-id": "9J3CX1T97TVQ5P0Y",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"1bdf65aa60550001b840ffb662d9fd86\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          143,
+          140
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/143/140",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "KGiOSrAPoKVWS3tw+WGdMLX7LrxKfHdTxkKPakNpjOI1TN3ooav4r2tzxC8+kiB8SJyYDJA2o8A=",
+          "x-amz-request-id": "9J33HTSRVG6Y7CGM",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"f29974348726617f3224caab893f1431\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          143,
+          141
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/143/141",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "ocgFjKXj9K4Ab73fRNlSouFDmzZpbkescG6Lx6FvP9Qy8vF2imrQHBxDditme9RLu5Ny67ibyQ8bVl1aAN2AoN8BaAV/C4zy",
+          "x-amz-request-id": "9J30KN50GWEJ4C1S",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"cd4d7d233734de05b46b49089968af72\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          143,
+          142
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/143/142",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "9zeq9gwX0lRZjZCO8l5pgloGgWSwy32ziqYphJbxyuPXUU8GqVTrmegfwg8r4zeRcrIIgbye7UQ=",
+          "x-amz-request-id": "9J35B561ZCHC9VA4",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"7880419ed3277221d21def01938172e0\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          143,
+          143
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/143/143",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "AbCMl00hIIv0cz1Ol0K0H6/Ic1D8Hfq+t78mG7saprFctCpn4kI0FZkK2efQ10Y2LUJmGFn92+8=",
+          "x-amz-request-id": "9J30YJS0PGSHY3AM",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"011fe27b295c12d27952fed6d92e5acc\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          143,
+          144
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/143/144",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "Av6Cau86pD1eRBHe4B+O/J+2d99yTkoihJqBu+aX+oPxWpRcIDPCkbOZcVl04LOEtznCM9WSqBA=",
+          "x-amz-request-id": "9J3BE5GJ05SPAMR8",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"a8071c215ff4586dc9a909a2d8fc27a7\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          143,
+          145
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/143/145",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "aFR5cyGavkhSjinOsK8g8j6H3Iwdj8ce75M1K9mHRxYsM99jCQYhm2ourT4nyf5HvdK+tTPt5VY=",
+          "x-amz-request-id": "9J39KNX98GAQTJXA",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"1c1ec81cdd998c83fd54124adee4228e\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          143,
+          146
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/143/146",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "Z2+YqOQxhs5WtjgyiW5R8trh4VxKbO+traRWQgLc8KGfbVD5vXbFjNDTeHXjsKe0YzsBecWRpUk=",
+          "x-amz-request-id": "9J36YEWZT3NJ1MQJ",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"42bb0b9b9cd8d0bce887568caa88ab27\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          143,
+          147
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/143/147",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "PE6S1rPFzuGNpzwwVqRMwjW8WhcHqdPjhq5w/UR5AagAgVY30m1uKWUnFQmiE2qYMz7U908RM/8=",
+          "x-amz-request-id": "9J33XDS1F0QGWJVH",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"e97e2c4e90c443e659b56c93e091f638\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          143,
+          148
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/143/148",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "CDA2KL5IbBtWrG6g43+Db3eSNmPziw8jRNkHpmR4cVqZW8ksVJ7LJjZ0wO9Fya4sLS3d8GMXNJI=",
+          "x-amz-request-id": "9J33SXR87VT4ZHTN",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"0db603bfe1e96b842bc644a15ce6312a\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          143,
+          149
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/143/149",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "9MbZivb0EsU7T8G1Xl6aNmBIfVGj1DSGpbJ4JzvEuG7iAAbXPoT/GVdku/hedkKFNgu0heCHDBk=",
+          "x-amz-request-id": "9J3A6KM77X52DWN7",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"7baab10da4d4daf55f5736896fe62a8e\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          143,
+          150
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/143/150",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "vTkX8/jYyB+W0O6bYxUHbyDfQCC0RUdauClkhBO9oAkj0cKKjnLLeVCibrDNz5oAMF4Uc6Pr3zgBeRDpVK7ZE2/8DUsqZlSB",
+          "x-amz-request-id": "9J37MMW4FJ68CFWY",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:13 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"41c77ae6a09a851ca775ef1a9b33287c\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          143,
+          151
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/143/151",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "17DNtVMRSltubn3C73R9Zg+8KrCN/aZrpW8a5cw2Twz6l4Lo0M/Srq4/vrb8wi+FWtibidVft6P9W2ZlJxxp+1g3oofpR0+o",
+          "x-amz-request-id": "5S0MN5FM8FQPZ5PS",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"f26bcd5dc658d68c8692f7fa1260069c\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          143,
+          152
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/143/152",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "fmZnXiu28XssxoiMu+xgXDpTHcaDwdo4kyakQmTjsoyiN3pn/KXamorTdHMwuHE+PUYmNH/upAs=",
+          "x-amz-request-id": "5S0VY158XHF43JRM",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"d969736d3ada47d2b5851ed6c0692b5c\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          144,
+          135
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/144/135",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "qdGW7+APSYBLxJxTk75k1wFUyJCQXhjfeUlmZGdB7pDSnkwCzY8+kapNirIFzYGVNxJL+fruG7eKI4YPKuprn9zYK268mOQr",
+          "x-amz-request-id": "5S0NV6V4HP6R2NVQ",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"874eac325c6f3fe03850c3b6795f3b27\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          144,
+          136
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/144/136",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "NE/LGiUt4k3AdFSKFQKJe73saiiV6ISpeWQJUY+c/P2kHVPoUHmt67hrxmSoYy9f723d08nwCh0=",
+          "x-amz-request-id": "5S0KPH10K0XB736G",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"a23f30753922f998976b92fe086caaa6\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          144,
+          137
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/144/137",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "EQ46izIHYxubipR9qdFquMFfDFiNxXJGGun6hWAPvfXdkBwgUmk3AmfhXTWpfj4XwmG28EwsZdQ=",
+          "x-amz-request-id": "5S0G6TXFXSMEG292",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"9f700fc91d5ad2b526b8794859f59da0\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          144,
+          138
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/144/138",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "/sYWIUMC9/hAgewcAksIEWoouYOyy5F4Np/Kc0NF/naeJSH8GhvH5fYPsd5ydPZCLB0ZFuvMcwM=",
+          "x-amz-request-id": "5S0Q6CTQHXHZBZB6",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"c098c5dea6c7e48a8f222d884810d7fb\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          144,
+          139
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/144/139",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "tRj1lzAxlZ+GwAbSRiltRgddh3weldhBGRt7E4yoobQ5iNeGRPjLb+mD7Mx4wVrnB4eKXEUwU4/iKMJwE+pyUMwQ2VwrUo7Z",
+          "x-amz-request-id": "5S0JY1V13FADRHDA",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"edb5b4aadfad513ce98d5a0e5ce17d0b\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          144,
+          140
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/144/140",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "23Az1QK+vNvwoliJ7yG+90cSFTkSsf+R+32tEhLJAk1HG2N51UxsYPW1cPc6UGBi7pcWaloMQl8=",
+          "x-amz-request-id": "5S0HA7SBK12S2C7S",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"4b58dcfcfb27b7bd914de2aa9d79a8a4\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          144,
+          141
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/144/141",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "SlxjsAQDQ4TrC2/yq9p3UfuTUWC+nbga5hyTu8ZbvrvWCIDkPNG+p9yNw7UcjZEHRciEe1E8NCC43cQLYvsPklPWUx3DprAD",
+          "x-amz-request-id": "5S0NVCKCRA9P8W7X",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"f25b51cb50b56af4a257f97d447aa6ea\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          144,
+          142
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/144/142",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "l9GGVipDKeFsOLQ7AnaDvwYmlzbAIAG2Ojccn72zh8Ymv6LSln5AYsy7lWe9jtfqHyL8H0/Yw9M=",
+          "x-amz-request-id": "5S0T1F9JMDWN767K",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"99ae6f0e18519d10ae68ce417443c552\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          144,
+          143
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/144/143",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "MKcm2Qho1cUECEN39T7M2m4zQzjrmIW0He+4BRwVmnl0rtnE81b7HHowfbiuff3jqxRWsNmPFmydm9h+B5RhyyN6BXJTyW+3",
+          "x-amz-request-id": "5S0ZGV5J3FDK0T64",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"936181d4cee5af622e22c29f2a78610b\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          144,
+          144
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/144/144",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "NrbmdaRBHJ4o+3VDtcSbKBpqiejBbtZgH7KNq/KNmZnoDtOiQzsUcNWx/EIstqG1da8mGcW8vqY=",
+          "x-amz-request-id": "5S0X95SMSW9V8FN0",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"8d8511d17f77bbfb562eaee759c4f2db\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          144,
+          145
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/144/145",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "oVvZsLCP1eKxIzg3SUYULj7SwVNdM3GvWDv7pQCYQ3/YTS3GXna6Xfu/wtE6YWz1iXd/NUM4S0o=",
+          "x-amz-request-id": "5S0W2DC81MM3VP73",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"1fda0b2d509ec50de7add5c5e6ee88cc\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          144,
+          146
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/144/146",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "sv3ChwE+paZ0oxvHIpX1tIP5uUOk5zUaZG3kxupBWVHnN/9Y63O2SUWXB4WhT6F8bqXxYd32sg0=",
+          "x-amz-request-id": "5S0YV6NWNMQWY0HA",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"3ad9cd78751aef2404d107409ff99c83\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          144,
+          147
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/144/147",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "jkZAVZDY70ahAJOb5GWS1RNfYf30yOMf9DfGaYaJAv8L6gnMQpxoSxvFmtcdl+9dbQgCsqyha6xiHMcrmyoFgsrZPNzpo5Dt",
+          "x-amz-request-id": "5S0K2RBQPQP7RE9B",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"e1f54d1683ac38a9a205b0939e901593\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          144,
+          148
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/144/148",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "8eM6Ou+x//OFfrV0i5iPs3P5mOS0nMIbKbJ/bpQ5RSkg8PgYphJl6OYmCwUJfHFg1f7gsFdkWcA=",
+          "x-amz-request-id": "5S0RAKCN0QJ1QDBW",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"005256fca1f51a227c4872d61541d3f3\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          144,
+          149
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/144/149",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "nWB0h+WRFlob00VvaaJAKIsw/XDsosyabeIzSz88pdVPtLt/TdT/YOV4awRSNMUSt8N4zhUDz8jKOw1xiVZc0FXhEQ9gAyoh",
+          "x-amz-request-id": "5S0RRYN35C707PR6",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"849eaef7e50cf225f60d7c0ca583237d\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          144,
+          150
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/144/150",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "cmehHPMdoWJYU7C3uhYMNPrqjSMNcU25W311LFIOEGGTs+tF1Y94/4IN59GuKw6ZY6Au4G0xL8U=",
+          "x-amz-request-id": "5S0H6121EP1DP610",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"1c980f1fc20b7c726a5146c09dcd9e51\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          144,
+          151
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/144/151",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "xSZRa8VAauu3vevQXZM8dySZP5Wfzb72VKUz6cj/+vDs6ic+sm2SKBiC6DfoiK5yemaRkFXLo8M=",
+          "x-amz-request-id": "5S0VZXMFTAJSCS4A",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"a8007253ca114e0cbb2bea2b787a969e\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          144,
+          152
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/144/152",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "0SPHv4zFBcp2APjqxacZg9zW/q2v291EdaNQ7Kzkznwm6axlT5dWJ1emEKcvwP37FPUMa2ZEOTg=",
+          "x-amz-request-id": "5S0K1GVPR46S5ENR",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:53 GMT",
+          "ETag": "\"846ffe51581be9cb56ca38f559066c64\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          145,
+          135
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/145/135",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "M0qXjG81u9GO7eH5oJFqF3GcSOcxr0Qa0ixIPm6/1uSLiT3HDnGH/1Mi0sYau5QO20etuyR7DpA=",
+          "x-amz-request-id": "5S0VHZSGM4BDEW6P",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"5e0357e1b976c6306274086767cb76b7\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          145,
+          136
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/145/136",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "gNMr/EEEbR9d7vuTr4aXBThr+lLc2Qe1ecAou7LnjYOZUtXee4PhM8/vHXlicnJ/+Lvf8T6dFOU=",
+          "x-amz-request-id": "5S0XSDJ8T9F7YBY2",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"977b7059829a9ae9ac9532dd136700d8\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          145,
+          137
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/145/137",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "dV93CRs/fQk0HEf1mOhoDPKGxit3N06g4uAO6XglmbEG2UjRz3CT06MbB366O6X53GDZvsFSRh8=",
+          "x-amz-request-id": "5S0WFAXGSE1A75GY",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"66f7dbd3e9d6c5ca64006707df12c3c2\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          145,
+          138
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/145/138",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "FqaeAkO3VpiAiqcZodIDyc3OMSXco+i2RmyOa05bLpmumsgPuiAWqWbuqJOhr8gUSd/xmfsKakCn8KmBkQIWMBdCcFKFF4qP",
+          "x-amz-request-id": "5S0GC57576EE9QF6",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"e4eaca58b011a0cd8faeb024871ff2a8\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          145,
+          139
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/145/139",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "AxdFDoIC/+5FDRQxeVEVZGqmguUcPZU8NBwgPjkBQcK0l13pOeMra+G8US7VVwX14qJEndJ9suiDgNBIt5pxIqSFeaR2P7SF",
+          "x-amz-request-id": "5S0HEM4575YK3B05",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"7a1417bb80f275adac10c0f42efdf583\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          145,
+          140
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/145/140",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "n7RYVMd02hH3iuXoSNh7xcw99KcQQYUmkhTYxcliAmnq5UgYwQnAMJFT93HQ+r1WCJ/n7VKzA9E=",
+          "x-amz-request-id": "5S0WKM66CA3XDPEE",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"90055e40ff9592fc2c3081d11a4ca431\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          145,
+          141
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/145/141",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "yM8bb1UJXoLOkvXucPdzcNx8fVyLpBobYYt9l8sCSCyvkjs1lWD8E83BKVDW46dICb6sv53zL3JPLvetdjpaIEbbkGqcZy1E",
+          "x-amz-request-id": "5S0JJD35QSHZDRD6",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"a0c86e60da44b758a3b134f4f7b1e12f\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          145,
+          142
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/145/142",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "UdGydn8vjGLzucxi39b4DutmTVthsQQyBtihW0uEC/7gadIE4iMOLX+3Zx81zSxdtbqxUNbT8Gs=",
+          "x-amz-request-id": "5S0ZEBZ970XBSJS5",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"0ad5603fc4843a4fa74e752c0e01462e\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          145,
+          143
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/145/143",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "9oxZQPMp9NlLg7GGqyH8T9DdiIBEdRDaLm/smiYhsxQKuOvRzOPEDj4CzgAuikWdra2ykNKi2to=",
+          "x-amz-request-id": "5S0Q40AJ0BNBQ11W",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"ea5c0edcb48e7ee7e0a4a7eccd2defe5\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          145,
+          144
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/145/144",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "3Y3LVIxyTwovK33hSCx+LnIQLCGlg6CmcUYbD9JUhubnXkhX4FymvDApqc++/3DP9My3KTRMc9nDm1PTL1r10CroNKIeroFI",
+          "x-amz-request-id": "5S0H86456MKRH2HV",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"22102176fcb1d2a2f241b136b8460d39\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          145,
+          145
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/145/145",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "xtq03LtZ5f3nEw1Gu5LHsdtjXRRW7yr2/BZ7GR8Na8T6cSWFrNpmvw3SaLkHz1AYpU6VBGsHtcg=",
+          "x-amz-request-id": "5S0XN86CZ38GE2JS",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"fa6c979a35307376e9735b2b51b2cf77\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          145,
+          146
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/145/146",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "XpIrVfOwIabFi5VBFK1epJIHbaGlfCQyJRJFzzBKse0uaH//3nkn1thmVN1BhpZqNLh4OSKT+IPsrmDCMdCCcXyDt1H3ld9I",
+          "x-amz-request-id": "5S0VAYDV0CRGH4QK",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"a0635da044c016466856e6756465fd65\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          145,
+          147
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/145/147",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "jY0qZNmRbeAv6WHZO2gjcXUoMNVxCR//67hzzxHaL24ZjBSYqk31s72OTV541RLHqXlBd1FaJcXTl9wJqLVjn/UINIzBzMJj",
+          "x-amz-request-id": "5S0V18767Q7KSCRB",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"12e669fecc80046d18f166e03e07ba20\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          145,
+          148
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/145/148",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "yOG14eZvCd2YQyR9SK+isnWUokE1be1HpfwiuWQi0BCSaUq8EOWdc4PiZ8ZcrkNQBUN2DndrlXSQizLK21twYoJeHPv09gwT",
+          "x-amz-request-id": "5S0PVG0ATY2PG8JE",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"08b256fe3399ded9bcfb2f92beb6820d\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          145,
+          149
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/145/149",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "19Saul36y/YRUJSOjpAcriQHivDzrN16H9t0i8O7mCOXuXcXXh0lNm9PQYhAMgF+Egb+mfvNtGLf0+gVuQzh72ntoqGxl4gU",
+          "x-amz-request-id": "5S0GCJ12WFH8M98Z",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"d310a447b3bc6fd938d024b3cef016f9\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          145,
+          150
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/145/150",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "mS/DzxRy7hrpNTJUvXW7t2RmySJ6/Nie06L1W9SX9APOhOoCwHBan29gdJfdBPHvb11WUOM2grY2N0BvO7A4ynr5PH8Drs2X",
+          "x-amz-request-id": "5S0GDV1534E52MYE",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"dc9ced9c36de0b282b29e08bcc10ccde\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          145,
+          151
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/145/151",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "AEYxoBN3wGp9R5I3XEiQEphkMF38WByd7YOgARcVy50H7Y70vY59KVvphusxrfdLklRbx/AgbHo=",
+          "x-amz-request-id": "5S0WNEVN2TFVNPJ8",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"4b035e1f5005e23d0171f5b3503ecda0\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          145,
+          152
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/145/152",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "39U1ekYwvhVm6eba5jd/4CGGex+xhqvTndLThbCVg02l9kinZ1cCMo154YzI97FcnGONeowN4ho=",
+          "x-amz-request-id": "5S0J3Y8ZBX6R3X0J",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"52623d29a2bb8889f374693230730403\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          146,
+          135
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/146/135",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "q3fE696pwAN6vR9m5YUbVxhFAfgcOamJoI4yNbtJKe3UmYXieGpdpYnRD5pPMvMJPj6Q9/d7x4c=",
+          "x-amz-request-id": "5S0V387VADEF69K9",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"70f29c5121f38d4741031ddf7865c9bb\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          146,
+          136
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/146/136",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "V/TS+tbVOsHi8Yp/6IRurI6dATAFz55gh9/9E70IIDhzsmxUyZyga5da2k6TdGEUmo3F3JzqAofSYdamwU0uelFDHPnuoBE9",
+          "x-amz-request-id": "5S0MS3KJTFM7ZXAB",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:14 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"a62fe5b93f281e001dfbf74efe21135f\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          146,
+          137
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/146/137",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "Kt3X6OMCGor3hSPyyB9YiKQehOoCyFrje1B1695sC9HHu7CdTqWKz/+OZt47d8Aqd7tqQXpUX5E=",
+          "x-amz-request-id": "NQX5NYPQBMRF04B2",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:15 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"520114dfeee0e8ca046a6ec282f8da69\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          146,
+          138
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/146/138",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "OddL8NGlzEpXy53X/2T8MDKOjB9qcHUMiklsnLwMHN3OnPGHTuKVHh6VZ/NMc3798HT0XOcmfD0=",
+          "x-amz-request-id": "NQXE6PK416PB8WJ5",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:15 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"a6ecf5ecb98c52426689959f55ffbcc0\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          146,
+          139
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/146/139",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "lEM+798Ucuuw9GX4ihAJidO+bIraQ4nMPxRTfEl7bG7iAR2N7nqstE0fSw/0nmpEIdSkVzptnA4=",
+          "x-amz-request-id": "NQXC8JSMVJXKD7V5",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:15 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"60e9ed71464d2debe93379e8d5f5b520\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          146,
+          140
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/146/140",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "wbvqZUsGjtsUL+Ef+Xc79Xat9EZMb7uPdYRFaRBIzmVsclaqqUtGCbZakQGLxVe8sriuwRn6iag=",
+          "x-amz-request-id": "NQX4NK2HM7F6J7QH",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:15 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"7f730b92efa651411965ea3f84560029\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          146,
+          141
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/146/141",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "rHJEtQOSZ/VBMLwEhrwRB+2JXC4kUjO3ndULY4Oo7Jp8vYFFoP3aJn6C/wuqyExbG0U3c7tj4cE=",
+          "x-amz-request-id": "NQX9QBZV50M5SDY1",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:15 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"a233916066f96b9f78ab2adfd8043adc\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          146,
+          142
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/146/142",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "O3De6oQd8kBP6Ls79idbBILHlBnUgOmG3iIKNMvHtxUMtlsHcbnjddkh0CbLYjBqrCuvf+4i5moTdwWZIodSL2oHXt1dJT/G",
+          "x-amz-request-id": "NQXAP6HDT9QY6TYH",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:15 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"d1f3a80a454a0692cbe7d709978e342a\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          146,
+          143
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/146/143",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "c1A+ehyLKtDfKZdA7eXSt5aTk2lacbZN86HP5JBt/Vh99BVzkB6TrOzfnqgra6j7wifjBJ/p+JY=",
+          "x-amz-request-id": "NQXFTFW91T7F2DAM",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:15 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"d85a6884cc8e4fcf2c1547391a827f81\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          146,
+          144
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/146/144",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "3dt+ZzKvG7DvG5z0rEkEughLxh2hwmMvTbjuWLh83DarwQSJ7WBGWBwTUPkDFP2A9MV8ebCUgTVpst/rEDLfS4o4TJKuC10N",
+          "x-amz-request-id": "NQXEB2W6BM7G2E69",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:15 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"fba042cc9c56e6093664c93452a7d9e0\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          146,
+          145
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/146/145",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "P0D5wjnsXpEkCgjXHshNsHoOPJXjo7KiAlPUKmt0Sl4uhwWc2lPxMSb3Z99gexXL5oDSPl18L+w=",
+          "x-amz-request-id": "NQX3211S9B4FRCFZ",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:15 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"30872cbe270d3b6cd273f7b887f3ddab\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          146,
+          146
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/146/146",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "zLq9YVAygojVRa1aonRgWOA69Rl3V06Rqd/HsU7eSqOPw1Yq2yCjbpLJECbPHY+VviBWUyZxaTE=",
+          "x-amz-request-id": "NQX4KK2VVHFRXTK6",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:15 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"9ba100b4ed715569213a11b2b2de972c\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          146,
+          147
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/146/147",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "v5Pod04OL6MnTq6PwFR4B8PU18sAspT5aaQaNRu2DOE1OEHP0GR/GzhavnOTibYmQhwREhhBAqk=",
+          "x-amz-request-id": "NQX32MVQZ2N4NV5R",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:15 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"c9a919811d89be09ebea25e95d8d8bfe\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          146,
+          148
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/146/148",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "dp/prBqeQ7BZkVzWFxNPkxShqXlyGjZSUxpgqn3CTBaxsuHRWJ36gsEj4trd0mKDC4Yco4OaXQMVP4LbW8jXTseJBeotFxci",
+          "x-amz-request-id": "NQX3DS988VAQ5Q3X",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:15 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"6c0aa50e92d573ff7d8145fb5f54042f\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          146,
+          149
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/146/149",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "fO/PHPlBzBhn7HWAOUCObLj0Uvs3LvRToVsytSCdfd29WJqw2L/vfoDUYBUeeWSU51iHjkXN0oM=",
+          "x-amz-request-id": "NQX08KS6E76T8C71",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:15 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"807e446558ebdc228d0644fa3125379b\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          146,
+          150
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/146/150",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "cmeA9+zX6ESjErP5hB4pOMYiw/9vTpj0blB/sTuv3zdy8WdxWLWC9BxpWwZUrUenFGyNBhJfSCc=",
+          "x-amz-request-id": "NQX10DDMX0QGB24N",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:15 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"d2a5bc089d236e9026b8be5aa65c245b\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          146,
+          151
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/146/151",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "tawYtZWQC3Bi6fihcAL1XLcPY0oQhwSO5FzGd+dW+vtiizzcmaMduHtC7VDbaA1QRXV+gndDTBI=",
+          "x-amz-request-id": "NQX64G0G3P4TJDX1",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:15 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"e150fa9b9890c2b198c064566d586a29\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          146,
+          152
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/146/152",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "s2C49r+OCG2Uw1ME6w15u2l94vlrIbRM4uGzUn3c5MHvsrB9Y8DHktl+DLjkikxYj/zcPl9vQh0=",
+          "x-amz-request-id": "NQXDBCB2CE1FBFTR",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:15 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:54 GMT",
+          "ETag": "\"d1d0f3c191723ee11a9ee230ad0c3ad4\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          147,
+          135
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/147/135",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "cbMmpKaa0kB43/2qHSg33y7cnJ99igrUyg1W2AeNMfrp4H8nZb7HLDYBa7DMCEZxK1AEjOn4tGo=",
+          "x-amz-request-id": "NQX8MTN2R8229AJS",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:15 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:55 GMT",
+          "ETag": "\"b986bb71af3988953c49e12998916b17\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          147,
+          136
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/147/136",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "t633qqLL4fCVmUzFF4pblODHaE+hzDiWDHFSEAgyGEWJqCXX8BvL5mfatYjrHfp41MmzH//MizU=",
+          "x-amz-request-id": "NQX6X6PQFNRGQEJ5",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:15 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:55 GMT",
+          "ETag": "\"d6c40499c085f0d94bddbf527fae6a1b\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          147,
+          137
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/147/137",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "6BxX6FY2I9bXFqC+UmdBdYwY7V5ov/MqrCsd6RV02b0lqH//cJtYFyu5+4E7X8T1Hc2OPqdZ9llFYuwvVAVlebeUULW26YPG",
+          "x-amz-request-id": "NQXBXTNC7EB9AAMR",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:15 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:55 GMT",
+          "ETag": "\"1bebe04d8813e7ad9be861eabee515d6\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          147,
+          138
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/147/138",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "HjNaq7BjDstRQNBmTzYTkIuha9eZz+C0f4dXvf4UNet4COr2GWOdM/M3wQs9Apad03EjU/XZqLU=",
+          "x-amz-request-id": "NQX10CAF7F7B377G",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:15 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:55 GMT",
+          "ETag": "\"fc4a6d3dcc900136045d6cf5d66a7ac5\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          147,
+          139
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/147/139",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "9oOcvChFDFk8sprbJOvJ/qe4rh5YItq0CyD3vkOw4YdkU8hEgpVa1DRd1VK7gEAPh3DLONA+ZX5FYHyN880hBRsQkLsqc7Xt",
+          "x-amz-request-id": "NQX3DBG9HK1H25SC",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:15 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:55 GMT",
+          "ETag": "\"13649c54a9c5d1896ace3fe12f5f8d8d\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          147,
+          140
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/147/140",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "HzVaFft4YIA6LleGFqCJLOqVxGjXhWriH5gZTx91JFXyjvfh+cMlpBpwfcGaqiSn1yW/+6kLe5E=",
+          "x-amz-request-id": "NQX2NMZ1F2XS9FE3",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:15 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:55 GMT",
+          "ETag": "\"68220dde92c8fd62bff6702bc55bced7\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          147,
+          141
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/147/141",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "1sCudAs6woBC+HVvIi6FDibjhCdUtJw1sgQwcOgPGomb1nktat/PbAFDj/taSP8D0K6DgOsmFM4=",
+          "x-amz-request-id": "NQX6PNSWDCQQZRV9",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:15 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:55 GMT",
+          "ETag": "\"c4da9aea37b1fddc1d17956741f1fc65\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          147,
+          142
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/147/142",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "ieOwxMedFGgGW6LK3XmWLR9403Y9c5BSQhdnuEHkSn2CROnnwWr3g5WXdXEPfCfF0kz1XPZactlQQ0a29seMfZjrLLfqbjCt",
+          "x-amz-request-id": "NQX8TKS2B280K96Q",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:15 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:55 GMT",
+          "ETag": "\"4403120ff006adba253d074a22b9834f\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          147,
+          143
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/147/143",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "+NEEI00cECvlIC29Urd9cKf6Nfywthk1J1xSJhNXjgUZp48JJFmZt4lEa7PdVCyTPxj8BYmQO3M=",
+          "x-amz-request-id": "NQX7JZZJDXZXES7K",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:15 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:55 GMT",
+          "ETag": "\"5debfff8aede5e596216c55baeeedbeb\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          147,
+          144
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/147/144",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "UlcmFtk+4jHYuT+u789L3ayrkKkFryvxnQvDEHakRuwYLUmfsSSgq/wkbzf0T1N3t4J/XhPyt/ZhmS2hITYpK7DmPWcOoTpn",
+          "x-amz-request-id": "NQX9N5MDGPJSB1ZC",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:15 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:55 GMT",
+          "ETag": "\"35160785f2aee49a52b0af70e49df9bb\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          147,
+          145
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/147/145",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "Eipyr5DKtJ3oujbw02INmECJLou9uSikfa/AO7UNWRgcBX+Wk4UAlERasLrAbcCh/pMbZaeMfDA=",
+          "x-amz-request-id": "NQX1B2C0Y08PNVH6",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:15 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:55 GMT",
+          "ETag": "\"0610936efdab00c9c3129ca8a3026d69\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          147,
+          146
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/147/146",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "bkp50lID92/kGV1qsMTzCPe5ijnA1xj37W5K7/v8KdYSTYW0vSl+wO0CSEXZfJ7V5VPQlLZNGUtPvMjX08a3lNbKFiMW77V/",
+          "x-amz-request-id": "NQXF9603JZ37RJRC",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:15 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:55 GMT",
+          "ETag": "\"13cf06b3c0a635bbc35014de2992e793\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          147,
+          147
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/147/147",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "QHVik4XWRiulyk/zG0JBmfA8pzK+xHGXFXL12QRZBUwcLrDcR4IkS8YomJtbXPsY53eLpZw2ODA=",
+          "x-amz-request-id": "NQX9K7BWBZZHRT3N",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:15 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:55 GMT",
+          "ETag": "\"7c7757ab271b6da949d7e5ec4aeb3327\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          147,
+          148
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/147/148",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "GJv7w/QQocVBr4+V3WliDppW3Qgu2YpMdhnLZuo7RCoE6ymBI6+cjYefuWsPjvfMl+azQCIk5b0=",
+          "x-amz-request-id": "NQX4Y332GPZS86DF",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:15 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:55 GMT",
+          "ETag": "\"0cd067e7935b6d45f2f16e17b18bea6f\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          147,
+          149
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/147/149",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "Mg30PbZG5hxBMHJfCQEserdb95OGyCpH4ouGEjGqUPSWoo6xbHd2zZ3dKl7lyojhJC6MBPqSQSQ=",
+          "x-amz-request-id": "NQX2F3CXQPWYQHPB",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:15 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:55 GMT",
+          "ETag": "\"e16aa568293f589f75feca82cf23d7ce\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          147,
+          150
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/147/150",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "FQR1zhxuvLB28kw+D8B1NGhMXWR1LHLNaVy3UkwAzC2v4j3tXuqzwf8osdlJj1xg44g65f4U2ss=",
+          "x-amz-request-id": "NQX1W71GVE7DMENY",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:15 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:55 GMT",
+          "ETag": "\"ba6f5a3f466decb5f1c6d24e2f14bb7f\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          147,
+          151
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/147/151",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "fUvwUajvZKjwmbXISyaRJm8zL37j5Xjzl/9I1DRwiMkAklYij4KxqYviablcswfXjkKF/mVMxi/Qv5rRozuHePo+xB5Jas5x",
+          "x-amz-request-id": "NQX1C2XWG1EKFZPZ",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:15 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:55 GMT",
+          "ETag": "\"0869a599d2e8fd5d25a0096ca6c82630\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          147,
+          152
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/147/152",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "6RaYiJOnnlQivHzXaKRDashWWf5e042yn/3DXXPHi3crFOaQpBOVhWbdbB6n1sRT/cIq4nXDN594rl6QIz+szuVZgkHbLKQB",
+          "x-amz-request-id": "EEN3Z0M11W73ZJ1W",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:16 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:55 GMT",
+          "ETag": "\"fa8138fa4f49275e8134cceaf2585d0a\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          148,
+          135
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/148/135",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "saAgTXDEFBdT7JuwQcudA+29Bw756Drw6CUGZ3q0u8jAj+65tyYLhVaSIAOh9nvoFbaD/nSTD3ATsaFPSdZAtQPUksBDm+Ms",
+          "x-amz-request-id": "PQJTE45AMRWBG5TK",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:17 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:56 GMT",
+          "ETag": "\"46f7e30d2c9297c05bb49560cfa2602b\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          148,
+          136
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/148/136",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "T97vCYjOhdInqS/mbgC/udOd5Gai6CQbaUoqTZr5WQu+mhYiewmcfvYmIcTpqJzSKCTT7yFedaWw6TUVXt5cm6yyNhXy62Ay",
+          "x-amz-request-id": "EEN72X3AZK7Y67Y0",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:16 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:56 GMT",
+          "ETag": "\"d7f748cf128c85b9ebc344862a306f5d\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          148,
+          137
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/148/137",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "Wt3hiKW8JG6kqKoIszE9xc1J5BbWdJXtcs6/DEnswAk4SuFw3+5gcI9739bd35ZD2ow2bL9PTvft+VWFSTh7upYrcU6/mJHB",
+          "x-amz-request-id": "EEN0RT0C5EZPYJPJ",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:16 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:56 GMT",
+          "ETag": "\"037757a7bfbcbcb9337d28550106407a\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          148,
+          138
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/148/138",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "jkZrz+lGDAfBxQej4zXLcDiCqnQASaE43e1f0tZMMBtibyzARnpcodwWV/qfxsUhwkDlNzIbtALbNX9MDSZfLISiC6FHLKhB",
+          "x-amz-request-id": "EEN15D2YGGM2ZH4Z",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:16 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:56 GMT",
+          "ETag": "\"1b5c591589a59bdc9fe6baa7c2724594\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          148,
+          139
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/148/139",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "euvArZtf2grPJ24k8W34yrhODpW3jfPdm8BqS2ZNWFLI6eyTdruaZ9Ea9R8EXOcSvq+7mYIWqDc=",
+          "x-amz-request-id": "EEN5R9Z661Z01MJH",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:16 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:56 GMT",
+          "ETag": "\"76a58674e8ba5ab89db19051384b1629\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          148,
+          140
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/148/140",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "5ztg0giA/YgR0RKipCWtg3xDs00pp3rPbrgAmisBsCQtFg207ah+WDCc6FnoF1lOeDNlcIUuaJ8=",
+          "x-amz-request-id": "EENEDJ35YQ0GQXV6",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:16 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:56 GMT",
+          "ETag": "\"0ca94ec680e2bfecbbad8c89eb3d0829\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          148,
+          141
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/148/141",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "5YXCNRy8cFaBy18UOze2WBNcvhpT0D/8pKFXNHct8X3fiZjs1CKL2aog8M12oKIdrQYrXXfhRGw=",
+          "x-amz-request-id": "EENC57SF1BD4AVD5",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:16 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:56 GMT",
+          "ETag": "\"14e8cc85d977178b602208643336522f\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          148,
+          142
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/148/142",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "Ql9RlDkOSP1jp+rtGCl/+LhdWV9eHADIpCfLSkmjvyhoV/0Xp+B1xUDmAg2ixBP8+v0NbaKjbTs=",
+          "x-amz-request-id": "EENDHNQJE1PJHB4F",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:16 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:56 GMT",
+          "ETag": "\"b12d698ea3a0fc180347bc6647d95035\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          148,
+          143
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/148/143",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "5eIaq0ZayJa2YdCMScqK5SvPfzUE7wPharGCawn+8+D3stqm9jotFH5L86aVXUQExZev22lWBzU=",
+          "x-amz-request-id": "EEN8WXCPY2ANTSG9",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:16 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:56 GMT",
+          "ETag": "\"e50d97a5278d94ca587eb28a08c865a4\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          148,
+          144
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/148/144",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "s61h7jLBwobdmXlFRriaaW5FBuRPdgr5/Fe6oQqGS0vCASwFO9OzVxSi3240yr3QodXgEJBRu17SfBnT3cot/VIxhKMCxpR2",
+          "x-amz-request-id": "PQJHD1P02FDDDWGY",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:17 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:56 GMT",
+          "ETag": "\"41704d58693851eba76c161e409ec47a\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          148,
+          145
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/148/145",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "4W8pMakEZItFynxLSGDUtJh/kxxLXjG/KndgoAwIme+bniTa7NjmRPY5sxAGfPK7FwPw8ocWQy8=",
+          "x-amz-request-id": "EENB437ZPQCEXZ45",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:16 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:56 GMT",
+          "ETag": "\"29f339f0daef8c2d66d67ea252e0592a\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          148,
+          146
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/148/146",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "FvXCjribfCqahuEBQDWNcEqNxyinndQPeDWBSGwTeMrWaQ3QA8Sc9GTjAgVIK1mrmrYRTRcbbMg=",
+          "x-amz-request-id": "EEN296A3PJ2RH0E7",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:16 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:56 GMT",
+          "ETag": "\"33ba0b6f399fb9ea19f7ee840f419e58\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          148,
+          147
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/148/147",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "uDxpzELVgSLUEFZ+TLq9lXSkETdWSdxOoNbAn8VegrzB913dmbdOcmW9VLumqNViHCc6YyAF1EY=",
+          "x-amz-request-id": "EENCSF90M16YRGZG",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:16 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:56 GMT",
+          "ETag": "\"c6edc0a50fa68f7c777e021f6ed91b95\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          148,
+          148
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/148/148",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "0pgHRG0QNDwC2DC4Jmx0hTVRHg4kvoDX+dtUPNR6H2REtmLQufF4ZVB6eCGf+Yf1lgPZgTCuIOsXQ4dJLKYBwa+ehlkunkqk",
+          "x-amz-request-id": "PQJN0NZ202AX9SMA",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:17 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:56 GMT",
+          "ETag": "\"fc1319d02a419f8d4cb74dfa80acdd8c\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          148,
+          149
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/148/149",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "YeR782++vcPAyS2CVb0o04OSxmEg+7jjZnj/cbL0mQbHyDjDB1CGyBIzVZ8QKQy0/6/NzBupG3avsK7JoZSxqy3vvZO5iOP9",
+          "x-amz-request-id": "PQJS6B1DCGAMYRXX",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:17 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:56 GMT",
+          "ETag": "\"3156f631b5a6699cf6693582f1b8d94f\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          148,
+          150
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/148/150",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "P3pyu2hjCBOamx4opDxZq0XHUuWVsgZ8DnRiXaalYMHCUA5DMU5t47vKdoxMgLJX2ebKws+ALvMrfrzVz6ueTFwUkJpFK7yB",
+          "x-amz-request-id": "PQJJX83PVA4H1YA2",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:17 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:56 GMT",
+          "ETag": "\"a8150b463350154da8ecc3bc3a30f810\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          148,
+          151
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/148/151",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "TCVWdLLvbqD2ECDd3jaG+R91vz/z+cHTjjHb6EBEBP4IVTzDEV+IemGkaCjqD805q4S08Hs6SxY=",
+          "x-amz-request-id": "PQJJQZE6QDPF3R60",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:17 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:56 GMT",
+          "ETag": "\"68133783352a2f2e035e488e98c97a1f\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      },
+      {
+        "chunk_zyx": [
+          401,
+          148,
+          152
+        ],
+        "url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHercParis4/volumes/20260411134726-2.400um-0.2m-78keV-masked.zarr/0/401/148/152",
+        "bytes": 2097152,
+        "headers": {
+          "x-amz-id-2": "jBuMH5Pg5SmDr3zOmOP6RiqZKP2XG0YsZjP86YRd4ZknQrLJQxKvHmjw0Juz65smcDaTuFBHB/w=",
+          "x-amz-request-id": "8B8F9QS1HBT6C5Y9",
+          "Server": "AmazonS3",
+          "Date": "Sun, 25 Oct 2026 16:38:18 GMT",
+          "Last-Modified": "Wed, 15 Apr 2026 09:27:56 GMT",
+          "ETag": "\"ac4e138c43e1c3849908b97815956f21\"",
+          "x-amz-storage-class": "INTELLIGENT_TIERING",
+          "x-amz-server-side-encryption": "AES256",
+          "Accept-Ranges": "bytes",
+          "Content-Length": "2097152",
+          "Content-Type": "binary/octet-stream",
+          "Connection": "close"
+        },
+        "pass": true
+      }
+    ]
+  }
+]
