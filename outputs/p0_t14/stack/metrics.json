@@ -1,0 +1,23 @@
+{
+  "evaluated_samples": 294992,
+  "ink_samples": 97769,
+  "prevalence": 0.3314293268970006,
+  "ROC_AUC": 0.9899854314995749,
+  "average_precision": 0.9819508993583193,
+  "IoU_at_05": 0.8272745513709684,
+  "Dice_at_05": 0.9054737294406913,
+  "mean_ink_probability": 0.7290170192718506,
+  "mean_nonink_probability": 0.2948082983493805,
+  "adjacent_Z_correlation": 0.9999461434547194,
+  "four_Z_9p6um_correlation": 0.9992429055416447,
+  "zero_or_nonfinite_valid_probabilities": 0,
+  "unique_rounded_label_pixels": 84448,
+  "no_independent_sample_count_claim": true,
+  "metric_gate_frozen_before_run": {
+    "AUC_ge_075": true,
+    "AP_minus_prevalence_ge_015": true,
+    "Dice_ge_05": true
+  },
+  "scope": "training-corpus oracle upper bound; no detector validation; labels and probabilities share trusted UV association; no physical registration accuracy claim",
+  "T13_executed": false
+}

@@ -1,0 +1,5 @@
+{
+  "reason": "numpy.bool_ in metric gate cannot be serialized by standard json; convert NumPy scalars using item(). No scientific calculation, threshold or geometry changed. Failed-output images/arrays retained.",
+  "new_sha256": "65433a332b2de2ec6c980b2322413b07ec20c4ddfeb93abf2af6417e0853bd98",
+  "archived_original": "outputs/p0_t14/serialization_amendment/oracle_before.py"
+}

@@ -1,0 +1,10 @@
+{
+ "hypothesis":"Trusted transverse intersections, independently arc-parameterized from one fixed geometric boundary and stacked in native Z order, retain coherent ink from a validated trusted-frame model.",
+ "source":"Sealed T10 PHercParis4-w02 / 20231031143852; same512x512 CT crop, checkpoint and preprocessing",
+ "region_selection":"Use fixed T10 interior U,V64:448. All integer native Z planes common to all U columns between its top and bottom boundaries. Geometry only; no prediction or label selection.",
+ "patch_rendering":"Reuse exact official producer-rendered curved trusted-frame CT, rerun checkpoint with T10 patch/normalization/overlap conventions. No new native CT renderer or normal sign guess. Infer in trusted UV patches then sample each new physical-s thread row via its oracle UV association; do not reuse old predictions as output.",
+ "geometry":"Bilinear trusted XYZ at level2 pooling centers using current renderer canvas convention; dense triangle-plane intersection, single component verified by strict Z(V) monotonicity. 9.6um physical arc per row,2.4um native Z. No fitted row shifts, scaling, OCR or inferred bridges. Mask padding/gaps.",
+ "decision":"A requires geometry and model replay verification, AUC>=.75, AP>=prevalence+.15, Dice>=.5, and visual coherent organization in physical-s/Z stack. B for some structure failing these combined criteria; C for absent meaningful structure despite validated inference. Invalid execution reported incomplete, not scientific C.",
+ "limits":"Oracle geometry, training corpus control, one previously validated crop. Producer historical render flags/physical registration error uncalibrated. Same UV association maps labels; high label metrics alone cannot prove transverse geometry correctness. Native Z rows oversample9.6um model output.",
+ "prohibited":"No T13, detector, control search, prior changes, OCR or model tuning. Stop after T14."
+}

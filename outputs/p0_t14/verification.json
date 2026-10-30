@@ -1,0 +1,30 @@
+{
+  "status": "PASS",
+  "predecessor_files_unchanged": 5425,
+  "prior_seals_verified": 25,
+  "geometry_and_stack_replay": "exact arrays and JSON/PNG before verification-only native overlays",
+  "model_replay": {
+    "status": "PASS",
+    "patches_replayed": 49,
+    "all_raw_patches_exact": true,
+    "official_pooling_recomputed_exact": true,
+    "maximum_probability_error": 0.0,
+    "tolerance": 0.002
+  },
+  "T10_probability_max_difference": 0.0,
+  "independent_rank_AUC": 0.9899854314995749,
+  "max_bilinear_vs_triangle_arc_position_error_um": 1.5333685495671276,
+  "XY_chord_length_um_quantiles": [
+    9.566537241978208,
+    9.599987340670602,
+    9.600000000008878
+  ],
+  "plane_error_native": 0.0,
+  "raw_png_encoding_exact": true,
+  "physical_registration_uncertainty": "UNCALIBRATED",
+  "serialization_amendment_only_verified": true,
+  "failed_attempt_arrays_and_images_unchanged": true,
+  "no_detector_or_T13_execution": true,
+  "reconstruction_code_modified": false,
+  "initial_setup_failures": "Preservation reader initially assumed repository-relative names; fixed to resolve historical seal-relative paths before successful baseline. One shell invocation used unavailable python; retried with python3. Neither touched predecessors or scientific outputs."
+}

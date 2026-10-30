@@ -1,0 +1,40 @@
+{
+  "z_range": [
+    44000,
+    44960
+  ],
+  "slices": 961,
+  "height_um": 2304.0,
+  "arc_step_um": 9.6,
+  "z_step_um": 2.4,
+  "length_um_quantiles": [
+    3701.1650756247254,
+    3785.12441627321,
+    3831.495114576333
+  ],
+  "shape": [
+    961,
+    400
+  ],
+  "valid_samples": 378131,
+  "missing_fraction": 0.016308532778355866,
+  "max_plane_error_native": 0.0,
+  "maximum_intersection_U_gap_pixels": 1.0000000005933884,
+  "components_each_row": 1,
+  "genuine_gaps": 0,
+  "padding_masked": true,
+  "producer_canvas_offset_native_uv": [
+    0.4996720254457614,
+    0.4997453391588351
+  ],
+  "grid_scale": [
+    0.05000000074505806,
+    0.05000000074505806
+  ],
+  "historical_renderer_flags_unknown": true,
+  "normal_sign": "delivered producer depth order preserved",
+  "origin": "s=0 at fixed left UV boundary U=5312; no image/label-based row alignment",
+  "interpolation": "bilinear stored trusted grid evaluated at level2 pooling centers; piecewise-linear triangle intersections; arc of resulting XYZ polyline",
+  "crop": "T10 UV level2 Y4096:4608 X5248:5760, interior64:448",
+  "physical_registration_uncertainty": "UNCALIBRATED"
+}
